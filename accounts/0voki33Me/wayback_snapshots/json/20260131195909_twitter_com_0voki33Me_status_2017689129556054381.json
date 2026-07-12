@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2017686729512390915",
+    "created_at": "2026-01-31T19:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T20:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017689129556054381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017689129556054381",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017686729512390915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好痛苦我好想死我不知道为什么我今天就是好想死啊我把我日记都撕了几页，我说不出来我不知道该怎么说好痛苦我好想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2017686729512390915",
+        "created_at": "2026-01-31T19:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017689129556054381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017689129556054381",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017686729512390915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好痛苦我好想死我不知道为什么我今天就是好想死啊我把我日记都撕了几页，我说不出来我不知道该怎么说好痛苦我好想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2017686729512390915",
+        "created_at": "2026-01-31T19:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017686729512390915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/0voki33me/status/2017251977659666521",
+              "start": 86,
+              "url": "https://t.co/6NkR0dR4rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017686729512390915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017251977659666521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个大事就是我本来今天打算去重开，我东西都收好了遗书也写好了静等死。想着最后一物给我爽到了……为什么别人dpt都是暗黑我没有心情纯爽，谢谢，谢谢，我现在暂时打算再活一阵子 https://t.co/6NkR0dR4rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 954,
+          "like_count": 4384,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2700
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005905454631882752",
+        "3_2005905448470495232"
+      ],
+      "media_source_tweet_id": [
+        "2005905460407189724",
+        "2005905460407189724"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2005951943017898295",
+    "created_at": "2025-12-30T10:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005951943017898295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1532369209614688256",
+          "start": 3,
+          "username": "shuibei94559640"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vbXjpMj9qB",
+          "end": 47,
+          "expanded_url": "https://x.com/shuibei94559640/status/2005905460407189724/photo/1",
+          "media_key": "3_2005905454631882752",
+          "start": 24,
+          "url": "https://t.co/vbXjpMj9qB"
+        },
+        {
+          "display_url": "pic.x.com/vbXjpMj9qB",
+          "end": 47,
+          "expanded_url": "https://x.com/shuibei94559640/status/2005905460407189724/photo/1",
+          "media_key": "3_2005905448470495232",
+          "start": 24,
+          "url": "https://t.co/vbXjpMj9qB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005951943017898295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005905460407189724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuibei94559640: 美妙 https://t.co/vbXjpMj9qB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005951943017898295].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005951943017898295",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005951943017898295"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005905454631882752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ZoYhxaEAA6j8f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005905448470495232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ZoYK0awAAvk3V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005905454631882752",
+            "3_2005905448470495232"
+          ]
+        },
+        "author_id": "1532369209614688256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005905460407189724",
+        "created_at": "2025-12-30T07:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005905460407189724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbXjpMj9qB",
+              "end": 26,
+              "expanded_url": "https://x.com/shuibei94559640/status/2005905460407189724/photo/1",
+              "media_key": "3_2005905454631882752",
+              "start": 3,
+              "url": "https://t.co/vbXjpMj9qB"
+            },
+            {
+              "display_url": "pic.x.com/vbXjpMj9qB",
+              "end": 26,
+              "expanded_url": "https://x.com/shuibei94559640/status/2005905460407189724/photo/1",
+              "media_key": "3_2005905448470495232",
+              "start": 3,
+              "url": "https://t.co/vbXjpMj9qB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005905460407189724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美妙 https://t.co/vbXjpMj9qB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 643,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1176
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-02T14:31:21.000Z",
+        "description": "可爱的水母，伟大的！我需要很多很多的钱",
+        "id": "1532369209614688256",
+        "location": "窗帘",
+        "name": "水母先生！",
+        "pinned_tweet_id": "1967719309473615952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976547112243609600/hfPNT0lP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 443,
+          "like_count": 8079,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 2716
+        },
+        "username": "shuibei94559640",
+        "verified": false
+      }
+    ]
+  }
+}

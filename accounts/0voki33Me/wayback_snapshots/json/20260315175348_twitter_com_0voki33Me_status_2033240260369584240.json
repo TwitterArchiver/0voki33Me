@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2033117535328162095",
+    "created_at": "2026-03-15T17:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T18:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033240260369584240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887842938673094656",
+          "start": 0,
+          "username": "Z_Marcas8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033240260369584240",
+    "in_reply_to_user_id": "1887842938673094656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033117535328162095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z_Marcas8964 如果是要换地区的话下个uu加速器搜apple store 连接，重新打开换区就有无选项了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033117521591889921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcVnS0bcAEi8cC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2033117535328162095",
+        "created_at": "2026-03-15T17:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033240260369584240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887842938673094656",
+              "start": 0,
+              "username": "Z_Marcas8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033240260369584240",
+        "in_reply_to_user_id": "1887842938673094656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033117535328162095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z_Marcas8964 如果是要换地区的话下个uu加速器搜apple store 连接，重新打开换区就有无选项了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033117521591889921"
+          ]
+        },
+        "author_id": "1887842938673094656",
+        "conversation_id": "2033117535328162095",
+        "created_at": "2026-03-15T09:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033117535328162095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hs7BZeXmJ",
+              "end": 37,
+              "expanded_url": "https://x.com/Z_Marcas8964/status/2033117535328162095/photo/1",
+              "media_key": "3_2033117521591889921",
+              "start": 14,
+              "url": "https://t.co/6hs7BZeXmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033117535328162095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 666,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助\n美区苹果商店怎么付款 https://t.co/6hs7BZeXmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1166,
+          "like_count": 5719,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 4380
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T12:37:22.000Z",
+        "description": "我不是我智力有问题也不是巻比 只有一个名字：Z Marcas /主人@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "AzumaSeren"
+              }
+            ]
+          }
+        },
+        "id": "1887842938673094656",
+        "name": "巻比",
+        "pinned_tweet_id": "2027061830531924597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032705470990004228/C7OYH_kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 275,
+          "like_count": 6601,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1396
+        },
+        "username": "Z_Marcas8964",
+        "verified": false
+      }
+    ]
+  }
+}

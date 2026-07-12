@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013986516675236118",
+    "created_at": "2026-01-21T14:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013986516675236118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Wanna Fly High》，由 国蛋 演唱，收录于《GDN Express》专辑中，《Wanna Fly High》下载，《Wanna Fly High》在线试听，更多Wanna Fly High相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/Z3ISPmh",
+          "end": 68,
+          "expanded_url": "https://163cn.tv/Z3ISPmh",
+          "images": [
+            {
+              "height": 5833,
+              "url": "https://pbs.twimg.com/news_img/2013986420936122368/apgSd9bV?format=jpg&name=orig",
+              "width": 5833
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2013986420936122368/apgSd9bV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 45,
+          "status": 200,
+          "title": "Wanna Fly High - 国蛋 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=29482480&PlayerStyles_SynchronousSharing=t3&H5_DownloadVIPGift=&fx-listentest=t3&userid=3278336140&app_version=9.4.50&dlt=0846",
+          "url": "https://t.co/TGyKesLAku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013986516675236118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在非常wanna fly high \n\n分享国蛋的单曲《Wanna Fly High》https://t.co/TGyKesLAku (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013986516675236118",
+        "created_at": "2026-01-21T14:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013986516675236118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Wanna Fly High》，由 国蛋 演唱，收录于《GDN Express》专辑中，《Wanna Fly High》下载，《Wanna Fly High》在线试听，更多Wanna Fly High相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/Z3ISPmh",
+              "end": 68,
+              "expanded_url": "https://163cn.tv/Z3ISPmh",
+              "images": [
+                {
+                  "height": 5833,
+                  "url": "https://pbs.twimg.com/news_img/2013986420936122368/apgSd9bV?format=jpg&name=orig",
+                  "width": 5833
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2013986420936122368/apgSd9bV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "Wanna Fly High - 国蛋 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=29482480&PlayerStyles_SynchronousSharing=t3&H5_DownloadVIPGift=&fx-listentest=t3&userid=3278336140&app_version=9.4.50&dlt=0846",
+              "url": "https://t.co/TGyKesLAku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013986516675236118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在非常wanna fly high \n\n分享国蛋的单曲《Wanna Fly High》https://t.co/TGyKesLAku (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 862,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005710414059909120"
+      ],
+      "media_source_tweet_id": [
+        "2005710568834097174"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2005826390709657677",
+    "created_at": "2025-12-30T02:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T03:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005826390709657677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999984571744706560",
+          "start": 3,
+          "username": "i_am_canniba1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gejbzrSRRH",
+          "end": 51,
+          "expanded_url": "https://x.com/i_am_canniba1/status/2005710568834097174/video/1",
+          "media_key": "13_2005710414059909120",
+          "start": 28,
+          "url": "https://t.co/gejbzrSRRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005826390709657677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005710568834097174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_am_canniba1: All fake https://t.co/gejbzrSRRH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005826390709657677].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005826390709657677",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005826390709657677"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38813,
+        "height": 1232,
+        "media_key": "13_2005710414059909120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005710414059909120/img/Y6O3Sv91q7AIlD6M.jpg",
+        "public_metrics": {
+          "view_count": 2963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005710414059909120/vid/avc1/320x546/EXgMHP--yS3e1OSc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005710414059909120/vid/avc1/480x820/poD-sBlshvmnMd8g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005710414059909120/vid/avc1/720x1232/oSh-2z1sW7Lxr567.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005710414059909120/pl/RRqdGRRy7Aow6AJh.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005710414059909120"
+          ]
+        },
+        "author_id": "1999984571744706560",
+        "conversation_id": "2005710568834097174",
+        "created_at": "2025-12-29T18:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005710568834097174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gejbzrSRRH",
+              "end": 32,
+              "expanded_url": "https://x.com/i_am_canniba1/status/2005710568834097174/video/1",
+              "media_key": "13_2005710414059909120",
+              "start": 9,
+              "url": "https://t.co/gejbzrSRRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005710568834097174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 2655,
+          "like_count": 444,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "All fake https://t.co/gejbzrSRRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 632,
+          "like_count": 2734,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1161
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T23:28:09.000Z",
+        "description": "",
+        "id": "1999984571744706560",
+        "name": "yo!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002383548498501633/nG9FrX2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4414,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 58
+        },
+        "username": "i_am_canniba1",
+        "verified": false
+      }
+    ]
+  }
+}

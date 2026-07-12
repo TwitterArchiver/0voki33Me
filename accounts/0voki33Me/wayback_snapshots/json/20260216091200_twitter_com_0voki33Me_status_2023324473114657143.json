@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022255001540972544"
+      ],
+      "media_source_tweet_id": [
+        "2022255010822918594"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2023324473114657143",
+    "created_at": "2026-02-16T09:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023324473114657143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989965282799226880",
+          "start": 3,
+          "username": "DQadopt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LkXlDzJiT",
+          "end": 139,
+          "expanded_url": "https://x.com/DQadopt/status/2022255010822918594/photo/1",
+          "media_key": "3_2022255001540972544",
+          "start": 116,
+          "url": "https://t.co/3LkXlDzJiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023324473114657143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022255010822918594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DQadopt: 你好，我是查拉图斯特拉\n🌈23le纯1属性固定，不约炮不聊骚\n自残/od/rc/碎碎念聚集地，喜欢西哲/电子乐/纯音乐，家有萌猫名叫大冰\n不加联系方式，女生互fo请私信，喜欢礼貌友善的人ovo，可以来聊天 https://t.co/3LkXlDzJiT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023324473114657143].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023324473114657143",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023324473114657143"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022255001540972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB-NaQbUAAHXGq.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022255001540972544"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2022255010822918594",
+        "created_at": "2026-02-13T10:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022255010822918594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LkXlDzJiT",
+              "end": 126,
+              "expanded_url": "https://x.com/DQadopt/status/2022255010822918594/photo/1",
+              "media_key": "3_2022255001540972544",
+              "start": 103,
+              "url": "https://t.co/3LkXlDzJiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022255010822918594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1583,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是查拉图斯特拉\n🌈23le纯1属性固定，不约炮不聊骚\n自残/od/rc/碎碎念聚集地，喜欢西哲/电子乐/纯音乐，家有萌猫名叫大冰\n不加联系方式，女生互fo请私信，喜欢礼貌友善的人ovo，可以来聊天 https://t.co/3LkXlDzJiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 1067,
+          "like_count": 5107,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "昨天",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 89,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

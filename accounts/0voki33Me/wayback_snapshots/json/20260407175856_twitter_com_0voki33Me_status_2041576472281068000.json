@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041360931268276224"
+      ],
+      "media_source_tweet_id": [
+        "2041360937706545387"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041576472281068000",
+    "created_at": "2026-04-07T17:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041576472281068000"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "リスカ"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "アムカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "867165571",
+          "start": 3,
+          "username": "kouu_Salty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1l3J8wA5W9",
+          "end": 49,
+          "expanded_url": "https://x.com/kouu_Salty/status/2041360937706545387/photo/1",
+          "media_key": "3_2041360931268276224",
+          "start": 26,
+          "url": "https://t.co/1l3J8wA5W9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041576472281068000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041360937706545387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kouu_Salty: #リスカ　#アムカ https://t.co/1l3J8wA5W9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2041360931268276224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRe846bMAA8aTp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041360931268276224"
+          ],
+          "media_source_tweet_id": [
+            "2041360937706545387"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041576472281068000",
+        "created_at": "2026-04-07T17:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041576472281068000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "リスカ"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "アムカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "867165571",
+              "start": 3,
+              "username": "kouu_Salty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1l3J8wA5W9",
+              "end": 49,
+              "expanded_url": "https://x.com/kouu_Salty/status/2041360937706545387/photo/1",
+              "media_key": "3_2041360931268276224",
+              "start": 26,
+              "url": "https://t.co/1l3J8wA5W9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041576472281068000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041360937706545387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kouu_Salty: #リスカ　#アムカ https://t.co/1l3J8wA5W9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041360931268276224"
+          ]
+        },
+        "author_id": "867165571",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041360937706545387",
+        "created_at": "2026-04-07T03:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041360937706545387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "リスカ"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "アムカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1l3J8wA5W9",
+              "end": 33,
+              "expanded_url": "https://x.com/kouu_Salty/status/2041360937706545387/photo/1",
+              "media_key": "3_2041360931268276224",
+              "start": 10,
+              "url": "https://t.co/1l3J8wA5W9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041360937706545387",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1114,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#リスカ　#アムカ https://t.co/1l3J8wA5W9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1141,
+          "like_count": 6139,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 5464
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-08T00:16:07.000Z",
+        "description": "=モモ｜無言フォロー⭕️｜DM⭕️｜可互fo",
+        "id": "867165571",
+        "name": "盐津桃子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031891627485310976/H2k6hNO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 61,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 53
+        },
+        "username": "kouu_Salty",
+        "verified": false
+      }
+    ]
+  }
+}

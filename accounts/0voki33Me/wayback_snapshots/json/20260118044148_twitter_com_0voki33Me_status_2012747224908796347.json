@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012747224908796347",
+    "created_at": "2026-01-18T04:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T05:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012747224908796347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/grok/status/2012693337497546884",
+          "start": 9,
+          "url": "https://t.co/CKCLgMewpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012747224908796347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012693337497546884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还是喜欢小蓝鸟 https://t.co/CKCLgMewpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2012693335991898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6F7OWX0AAnSK7.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012747224908796347",
+        "created_at": "2026-01-18T04:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012747224908796347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/grok/status/2012693337497546884",
+              "start": 9,
+              "url": "https://t.co/CKCLgMewpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012747224908796347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012693337497546884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还是喜欢小蓝鸟 https://t.co/CKCLgMewpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012693335991898112"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2012693268362891357",
+        "created_at": "2026-01-18T01:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012693337497546884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1382209054999646212",
+              "start": 0,
+              "username": "ElonMuskAOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/su5bwY0oxE",
+              "end": 36,
+              "expanded_url": "https://x.com/grok/status/2012693337497546884/photo/1",
+              "media_key": "3_2012693335991898112",
+              "start": 13,
+              "url": "https://t.co/su5bwY0oxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012693337497546884",
+        "in_reply_to_user_id": "1382209054999646212",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 754990,
+          "like_count": 15549,
+          "quote_count": 536,
+          "reply_count": 217,
+          "retweet_count": 1499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012693268362891357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonMuskAOC https://t.co/su5bwY0oxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 837,
+          "like_count": 3474,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7565130,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5828,
+          "media_count": 7790599,
+          "tweet_count": 91816074
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

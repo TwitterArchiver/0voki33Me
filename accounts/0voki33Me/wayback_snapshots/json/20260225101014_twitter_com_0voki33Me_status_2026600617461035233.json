@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2026600617461035233",
+    "created_at": "2026-02-25T10:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026600617461035233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lazydjay/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lazydjay/status/2026543035480150505",
+          "start": 9,
+          "url": "https://t.co/b5OteL9CmN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026600617461035233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026543035480150505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈以为娜艺娜 https://t.co/b5OteL9CmN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2026542891884015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-6BejW8AAdzjh.png",
+        "width": 480
+      },
+      {
+        "height": 732,
+        "media_key": "3_2026543010247278592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-6IXfXAAATXE0.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2026600617461035233",
+        "created_at": "2026-02-25T10:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026600617461035233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lazydjay/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lazydjay/status/2026543035480150505",
+              "start": 9,
+              "url": "https://t.co/b5OteL9CmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026600617461035233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026543035480150505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈以为娜艺娜 https://t.co/b5OteL9CmN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026542891884015616",
+            "3_2026543010247278592"
+          ]
+        },
+        "author_id": "4775210080",
+        "conversation_id": "2026543035480150505",
+        "created_at": "2026-02-25T06:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026543035480150505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o53b07NomO",
+              "end": 81,
+              "expanded_url": "https://x.com/lazydjay/status/2026543035480150505/photo/1",
+              "media_key": "3_2026542891884015616",
+              "start": 58,
+              "url": "https://t.co/o53b07NomO"
+            },
+            {
+              "display_url": "pic.x.com/o53b07NomO",
+              "end": 81,
+              "expanded_url": "https://x.com/lazydjay/status/2026543035480150505/photo/1",
+              "media_key": "3_2026543010247278592",
+              "start": 58,
+              "url": "https://t.co/o53b07NomO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026543035480150505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 57658,
+          "like_count": 335,
+          "quote_count": 5,
+          "reply_count": 64,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "谷爱凌刚刚结束冬奥会便马马不停蹄去了米兰时装周表演。\n\n她做哪国人拿捏的很到位，做中国人染黑发，做美国人就染金发。 https://t.co/o53b07NomO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1126,
+          "like_count": 5339,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-11T14:56:13.000Z",
+        "description": "机器猫，一位热爱自由的艺术家，有朋自远方来 聊感兴趣的话题 不亦乐乎！💕",
+        "id": "4775210080",
+        "name": "Jay Yates",
+        "pinned_tweet_id": "1468233775490478080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837239361437368320/-A8FJZAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81536,
+          "following_count": 334,
+          "like_count": 61754,
+          "listed_count": 347,
+          "media_count": 18505,
+          "tweet_count": 38323
+        },
+        "username": "lazydjay",
+        "verified": false
+      }
+    ]
+  }
+}

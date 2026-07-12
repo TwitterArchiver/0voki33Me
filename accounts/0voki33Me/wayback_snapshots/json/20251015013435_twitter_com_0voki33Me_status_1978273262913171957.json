@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1977670743480795164",
+    "created_at": "2025-10-15T01:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T02:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978273262913171957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678037476068163585",
+          "start": 0,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978273262913171957",
+    "in_reply_to_user_id": "1678037476068163585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977670743480795164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_0406_ 发墙内的傻逼死全家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1977670716075163648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IZCcJaQAA1zYa.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1977670743480795164",
+        "created_at": "2025-10-15T01:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978273262913171957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678037476068163585",
+              "start": 0,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978273262913171957",
+        "in_reply_to_user_id": "1678037476068163585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977670743480795164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_0406_ 发墙内的傻逼死全家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977670716075163648"
+          ]
+        },
+        "author_id": "1678037476068163585",
+        "conversation_id": "1977670743480795164",
+        "created_at": "2025-10-13T09:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977670743480795164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/daMW1hd147",
+              "end": 30,
+              "expanded_url": "https://x.com/tamako_0406_/status/1977670743480795164/photo/1",
+              "media_key": "3_1977670716075163648",
+              "start": 7,
+              "url": "https://t.co/daMW1hd147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977670743480795164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14125,
+          "like_count": 142,
+          "quote_count": 10,
+          "reply_count": 49,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我草你麻痹的 https://t.co/daMW1hd147"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝----------糊逼一枚妹纸可以找我互fo -------------#edtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "edtwt"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 219,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 162
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶 1314🚪我天天黏着你发消息😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "1949798986560196774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 223,
+          "like_count": 1742,
+          "listed_count": 6,
+          "media_count": 538,
+          "tweet_count": 5100
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

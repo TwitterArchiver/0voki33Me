@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023243159980109824"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2023243221829320880",
+    "created_at": "2026-02-16T03:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023243221829320880"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "好美",
+          "probability": 0.7572,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j28MRSiTVf",
+          "end": 27,
+          "expanded_url": "https://x.com/0voki33Me/status/2023243221829320880/video/1",
+          "media_key": "13_2023243159980109824",
+          "start": 4,
+          "url": "https://t.co/j28MRSiTVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023243221829320880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好美… https://t.co/j28MRSiTVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8371,
+        "height": 590,
+        "media_key": "13_2023243159980109824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023243159980109824/img/bxvPG1h-b7ohP-zw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023243159980109824/vid/avc1/584x270/uh2NLpYLw3aHbM8v.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023243159980109824/vid/avc1/780x360/z035HuDuyhWMevRX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023243159980109824/vid/avc1/1280x590/0IKVHzvs745h9ynK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023243159980109824/pl/vHAkk4ik8sDN-TN5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023243159980109824"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023243221829320880",
+        "created_at": "2026-02-16T03:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023243221829320880"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "好美",
+              "probability": 0.7572,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j28MRSiTVf",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/2023243221829320880/video/1",
+              "media_key": "13_2023243159980109824",
+              "start": 4,
+              "url": "https://t.co/j28MRSiTVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023243221829320880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好美… https://t.co/j28MRSiTVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1058,
+          "like_count": 5070,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

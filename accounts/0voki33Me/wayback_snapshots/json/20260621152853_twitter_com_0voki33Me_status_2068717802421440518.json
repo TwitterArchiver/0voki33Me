@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2068717802421440518",
+    "created_at": "2026-06-21T15:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068717802421440518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068311808285589504",
+          "start": 3,
+          "username": "eatmewhole2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068717802421440518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068508612134384023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eatmewhole2: 我是冰冰/小冰我转生了卢关帮我转转呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2068717802421440518",
+        "created_at": "2026-06-21T15:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068717802421440518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068311808285589504",
+              "start": 3,
+              "username": "eatmewhole2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068717802421440518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068508612134384023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eatmewhole2: 我是冰冰/小冰我转生了卢关帮我转转呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068311808285589504",
+        "conversation_id": "2068508612134384023",
+        "created_at": "2026-06-21T01:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068508612134384023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068508612134384023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2309,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我是冰冰/小冰我转生了卢关帮我转转呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1122,
+          "like_count": 6829,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 6944
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T12:39:01.000Z",
+        "description": "ⓘ我是冰冰我转生了｜10世代｜双相｜she/her/hers｜ #shtwt｜#odtwt｜#地雷系｜LGBTQIA+全友好♡ ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "odtwt"
+              },
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "地雷系"
+              }
+            ]
+          }
+        },
+        "id": "2068311808285589504",
+        "name": "薄氷殉情_2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068313006136832000/3SpSMtrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "eatmewhole2",
+        "verified": false
+      }
+    ]
+  }
+}

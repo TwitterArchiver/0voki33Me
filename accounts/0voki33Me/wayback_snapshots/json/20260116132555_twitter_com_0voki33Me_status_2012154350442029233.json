@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012154256233762817"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012154350442029233",
+    "created_at": "2026-01-16T13:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T14:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012154350442029233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oL6esUhUsP",
+          "end": 32,
+          "expanded_url": "https://x.com/0voki33Me/status/2012154350442029233/video/1",
+          "media_key": "13_2012154256233762817",
+          "start": 9,
+          "url": "https://t.co/oL6esUhUsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012154350442029233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萌哭了我们鸭学长 https://t.co/oL6esUhUsP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25385,
+        "height": 1090,
+        "media_key": "13_2012154256233762817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012154256233762817/img/AZp28pDgfcJJuwBj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012154256233762817/vid/avc1/320x484/GRwjtA0qdGhhNem4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012154256233762817/vid/avc1/480x726/uURSFBm4A9K7QxSH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012154256233762817/vid/avc1/720x1090/vpZne8rMns7IRU0c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012154256233762817/pl/2rVQLm5wf-w-rBKX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012154256233762817"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012154350442029233",
+        "created_at": "2026-01-16T13:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012154350442029233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oL6esUhUsP",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2012154350442029233/video/1",
+              "media_key": "13_2012154256233762817",
+              "start": 9,
+              "url": "https://t.co/oL6esUhUsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012154350442029233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌哭了我们鸭学长 https://t.co/oL6esUhUsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 818,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1678
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

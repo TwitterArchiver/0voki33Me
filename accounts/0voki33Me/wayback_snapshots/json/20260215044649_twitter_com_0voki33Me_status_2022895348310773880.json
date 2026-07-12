@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022895338445770760"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2022895348310773880",
+    "created_at": "2026-02-15T04:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022895348310773880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rpYVw4Kkuc",
+          "end": 25,
+          "expanded_url": "https://x.com/0voki33Me/status/2022895348310773880/photo/1",
+          "media_key": "3_2022895338445770760",
+          "start": 2,
+          "url": "https://t.co/rpYVw4Kkuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022895348310773880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "， https://t.co/rpYVw4Kkuc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022895338445770760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLEl7HakAgjnFj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022895338445770760"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2022895348310773880",
+        "created_at": "2026-02-15T04:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022895348310773880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpYVw4Kkuc",
+              "end": 25,
+              "expanded_url": "https://x.com/0voki33Me/status/2022895348310773880/photo/1",
+              "media_key": "3_2022895338445770760",
+              "start": 2,
+              "url": "https://t.co/rpYVw4Kkuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022895348310773880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "， https://t.co/rpYVw4Kkuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1052,
+          "like_count": 5059,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

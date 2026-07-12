@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2047692388488106480",
+    "created_at": "2026-04-24T15:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047692388488106480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881922471630450688",
+          "start": 3,
+          "username": "lvseshan643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047692388488106480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047314091400921451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lvseshan643: AI绘画并不是绘画，它只是在生成看起来像画的图片。两者在创作过程方面有很大的区别。无论AI绘画是不是艺术，AI绘画肯定都不是真正的绘画。AI是一种令我震撼的发明。。但是这个，真的不能被称作绘画。顺带一提，我感觉绘画的过程真的很有趣，你们可以体验…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2047692388488106480",
+        "created_at": "2026-04-24T15:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047692388488106480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881922471630450688",
+              "start": 3,
+              "username": "lvseshan643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047692388488106480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047314091400921451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lvseshan643: AI绘画并不是绘画，它只是在生成看起来像画的图片。两者在创作过程方面有很大的区别。无论AI绘画是不是艺术，AI绘画肯定都不是真正的绘画。AI是一种令我震撼的发明。。但是这个，真的不能被称作绘画。顺带一提，我感觉绘画的过程真的很有趣，你们可以体验…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881922471630450688",
+        "conversation_id": "2047314091400921451",
+        "created_at": "2026-04-23T13:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047314091400921451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047314091400921451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 33414,
+          "like_count": 1206,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "AI绘画并不是绘画，它只是在生成看起来像画的图片。两者在创作过程方面有很大的区别。无论AI绘画是不是艺术，AI绘画肯定都不是真正的绘画。AI是一种令我震撼的发明。。但是这个，真的不能被称作绘画。顺带一提，我感觉绘画的过程真的很有趣，你们可以体验一下。然后别的我没什么想说的了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1148,
+          "like_count": 6388,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 6097
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T04:31:08.000Z",
+        "description": "",
+        "id": "1881922471630450688",
+        "name": "绿色山2",
+        "pinned_tweet_id": "2032315727617970198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032459090992238592/CglKWg1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7481,
+          "following_count": 115,
+          "like_count": 2817,
+          "listed_count": 12,
+          "media_count": 107,
+          "tweet_count": 241
+        },
+        "username": "lvseshan643",
+        "verified": false
+      }
+    ]
+  }
+}

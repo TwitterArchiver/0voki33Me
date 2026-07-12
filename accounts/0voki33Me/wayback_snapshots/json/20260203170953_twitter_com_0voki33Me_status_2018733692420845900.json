@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2018726827934822843",
+    "created_at": "2026-02-03T17:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018733692420845900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954403111008894976",
+          "start": 0,
+          "username": "IX33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018733692420845900",
+    "in_reply_to_user_id": "1954403111008894976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018726827934822843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IX33550336 太强……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29900,
+        "height": 1030,
+        "media_key": "13_2018726765989146626",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018726765989146626/img/DTHJsLQ28OpDlR3N.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018726765989146626/vid/avc1/320x456/moD8WKKihA8U2Num.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018726765989146626/vid/avc1/480x686/jzP16JfBR-XJT1jd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018726765989146626/vid/avc1/720x1030/BoGq4PuddiNs1fWD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018726765989146626/pl/iYXhRE91UwgoXUon.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018726763380289538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAP1S63bMAIRauT.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2018726827934822843",
+        "created_at": "2026-02-03T17:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018733692420845900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954403111008894976",
+              "start": 0,
+              "username": "IX33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018733692420845900",
+        "in_reply_to_user_id": "1954403111008894976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018726827934822843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IX33550336 太强……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018726765989146626",
+            "3_2018726763380289538"
+          ]
+        },
+        "author_id": "1954403111008894976",
+        "conversation_id": "2018726827934822843",
+        "created_at": "2026-02-03T16:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018726827934822843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndKdtLci66",
+              "end": 27,
+              "expanded_url": "https://x.com/IX33550336/status/2018726827934822843/video/1",
+              "media_key": "13_2018726765989146626",
+              "start": 4,
+              "url": "https://t.co/ndKdtLci66"
+            },
+            {
+              "display_url": "pic.x.com/ndKdtLci66",
+              "end": 27,
+              "expanded_url": "https://x.com/IX33550336/status/2018726827934822843/video/1",
+              "media_key": "3_2018726763380289538",
+              "start": 4,
+              "url": "https://t.co/ndKdtLci66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018726827934822843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我畫！ https://t.co/ndKdtLci66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1011,
+          "like_count": 4604,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2891
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:43:20.000Z",
+        "description": "🎨✍️｜ed｜sh｜對外是個沒素質的精神病人但我會去誇誇所有萌萌小女孩｜男的或者怪人 滾",
+        "id": "1954403111008894976",
+        "location": "MENTAL ASYLUM",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957717662638960640/VDy1EMDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 124,
+          "like_count": 5461,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2050
+        },
+        "username": "IX33550336",
+        "verified": false
+      }
+    ]
+  }
+}

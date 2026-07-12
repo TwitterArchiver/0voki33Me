@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1999023919811146087",
+    "created_at": "2025-12-11T07:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999023919811146087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1865326658980581376",
+          "start": 3,
+          "username": "cuteinternet3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999023919811146087",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1163
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998949803435372848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuteinternet3: Good job emoticon\n\n(ദ്ദി˙ᗜ˙)　　ദ്ദി( 𓂂_𓂂)　　✧ദ്ദി(&gt;ܫ&lt;)\n\nദ്ദി^._.^)　　ദ്ദി(⩌ᴗ⩌ )　　ദ്ദി៸៸›ᴗ‹៸៸ )\n\n(ദ്ദി ᴖ⩊ᴖ )　　ദ്ദി ˉ͈̀ﻌˉ͈́ ა…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1999023919811146087",
+        "created_at": "2025-12-11T07:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999023919811146087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1865326658980581376",
+              "start": 3,
+              "username": "cuteinternet3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999023919811146087",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1163
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998949803435372848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuteinternet3: Good job emoticon\n\n(ദ്ദി˙ᗜ˙)　　ദ്ദി( 𓂂_𓂂)　　✧ദ്ദി(&gt;ܫ&lt;)\n\nദ്ദി^._.^)　　ദ്ദി(⩌ᴗ⩌ )　　ദ്ദി៸៸›ᴗ‹៸៸ )\n\n(ദ്ദി ᴖ⩊ᴖ )　　ദ്ദി ˉ͈̀ﻌˉ͈́ ა…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865326658980581376",
+        "conversation_id": "1998949803435372848",
+        "created_at": "2025-12-11T02:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998949803435372848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover trendy aesthetic emoji combos and kawaii emoticons!",
+              "display_url": "cuteinternet.com/good",
+              "end": 209,
+              "expanded_url": "https://cuteinternet.com/good",
+              "start": 186,
+              "status": 200,
+              "title": "Aesthetic Emoji Combos & Cute Symbols",
+              "unwound_url": "https://cuteinternet.com/good",
+              "url": "https://t.co/UudYl6whhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998949803435372848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6046,
+          "impression_count": 466700,
+          "like_count": 8537,
+          "quote_count": 99,
+          "reply_count": 6,
+          "retweet_count": 1163
+        },
+        "reply_settings": "everyone",
+        "text": "Good job emoticon\n\n(ദ്ദി˙ᗜ˙)　　ദ്ദി( 𓂂_𓂂)　　✧ദ്ദി(&gt;ܫ&lt;)\n\nദ്ദി^._.^)　　ദ്ദി(⩌ᴗ⩌ )　　ദ്ദി៸៸›ᴗ‹៸៸ )\n\n(ദ്ദി ᴖ⩊ᴖ )　　ദ്ദി ˉ͈̀ﻌˉ͈́ ა✧　　ദ്ദി๑&gt;؂•̀๑)\n\nꢏꢷ𛰧ꐐ̴ᴗꐐ̴𛰨　　ദ്ദി ˉ͈̀꒳ˉ͈́ )✧　ദ്ദി^ᴗ ̫ ᴗ^₎\n\nhttps://t.co/UudYl6whhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 422,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 443
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T09:25:16.000Z",
+        "description": "Make the Internet Cuter! Owner of cuteinternet , symbolcombos and Cozygamehub",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cuteinternet.com",
+                "end": 23,
+                "expanded_url": "http://www.cuteinternet.com",
+                "start": 0,
+                "url": "https://t.co/ybLbuk2Nbz"
+              }
+            ]
+          }
+        },
+        "id": "1865326658980581376",
+        "name": "cuteinternet",
+        "pinned_tweet_id": "1889190795284209889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926503903719305217/pagUaB5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57141,
+          "following_count": 18,
+          "like_count": 223,
+          "listed_count": 142,
+          "media_count": 19,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/ybLbuk2Nbz",
+        "username": "cuteinternet3",
+        "verified": false
+      }
+    ]
+  }
+}

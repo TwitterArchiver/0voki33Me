@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002053839852286448",
+    "created_at": "2025-12-19T16:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002053839852286448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagechanwww/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/kagechanwww/status/2001928170229108855",
+          "start": 18,
+          "url": "https://t.co/vRlTL54vjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002053839852286448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001928170229108855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太美……像速写排线画出来的腿，好美 https://t.co/vRlTL54vjB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001928168140345346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hHD-_akAIp43v.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002053839852286448",
+        "created_at": "2025-12-19T16:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002053839852286448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagechanwww/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kagechanwww/status/2001928170229108855",
+              "start": 18,
+              "url": "https://t.co/vRlTL54vjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002053839852286448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001928170229108855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太美……像速写排线画出来的腿，好美 https://t.co/vRlTL54vjB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001928168140345346"
+          ]
+        },
+        "author_id": "1915984523546005505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001928170229108855",
+        "created_at": "2025-12-19T08:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001928170229108855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "自残"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "リスカ"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "自伤"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "shtwt"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "자해"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNzpSLXR1g",
+              "end": 50,
+              "expanded_url": "https://x.com/kagechanwww/status/2001928170229108855/photo/1",
+              "media_key": "3_2001928168140345346",
+              "start": 27,
+              "url": "https://t.co/lNzpSLXR1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001928170229108855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死ね #自残 #リスカ #自伤 #shtwt #자해 https://t.co/lNzpSLXR1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 534,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T04:21:44.000Z",
+        "description": "BPD/BD/GAD 自残 负面情绪废话 欢迎同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.pornhub.com",
+                "end": 23,
+                "expanded_url": "https://cn.pornhub.com/",
+                "start": 0,
+                "url": "https://t.co/hKRNCoJgfL"
+              }
+            ]
+          }
+        },
+        "id": "1915984523546005505",
+        "location": "地狱",
+        "name": "孤独な夜に溺れる",
+        "pinned_tweet_id": "1998795955374796877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997731633278119936/L8j6SkX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 274,
+          "like_count": 2764,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/hKRNCoJgfL",
+        "username": "kagechanwww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002353702728827034",
+    "created_at": "2025-12-20T12:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T13:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002353702728827034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dkr_world/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/dkr_world/status/2002177360205132042",
+          "start": 3,
+          "url": "https://t.co/3ERmqEHPit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002353702728827034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002177360205132042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太帅 https://t.co/3ERmqEHPit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002177351808135168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kpsYfbMAAUYFZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002177351795576832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kpsYcbkAA8isT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002353702728827034",
+        "created_at": "2025-12-20T12:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002353702728827034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dkr_world/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/dkr_world/status/2002177360205132042",
+              "start": 3,
+              "url": "https://t.co/3ERmqEHPit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002353702728827034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002177360205132042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太帅 https://t.co/3ERmqEHPit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002177351808135168",
+            "3_2002177351795576832"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002177360205132042",
+        "created_at": "2025-12-20T00:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002177360205132042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpheB7z2Ag",
+              "end": 23,
+              "expanded_url": "https://x.com/DKR_World/status/2002177360205132042/photo/1",
+              "media_key": "3_2002177351808135168",
+              "start": 0,
+              "url": "https://t.co/lpheB7z2Ag"
+            },
+            {
+              "display_url": "pic.x.com/lpheB7z2Ag",
+              "end": 23,
+              "expanded_url": "https://x.com/DKR_World/status/2002177360205132042/photo/1",
+              "media_key": "3_2002177351795576832",
+              "start": 0,
+              "url": "https://t.co/lpheB7z2Ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002177360205132042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 436,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lpheB7z2Ag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 538,
+          "like_count": 2097,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1997270794100187354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996156993913176065/lTegZg-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 728,
+          "like_count": 39752,
+          "listed_count": 9,
+          "media_count": 459,
+          "tweet_count": 5541
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

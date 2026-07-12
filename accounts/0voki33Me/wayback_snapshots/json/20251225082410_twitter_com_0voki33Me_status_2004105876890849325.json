@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SPINNS (スピンズ)",
+          "id": "1035226248648118272",
+          "name": "SPINNS (スピンズ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SPINNS (スピンズ)",
+          "id": "1035226248648118272",
+          "name": "SPINNS (スピンズ)"
+        }
+      }
+    ],
+    "conversation_id": "2004105876890849325",
+    "created_at": "2025-12-25T08:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T09:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004105876890849325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spinns_com/sta…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/spinns_com/status/2004024313335403004",
+          "start": 32,
+          "url": "https://t.co/DwI1ZEmCFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004105876890849325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004024313335403004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好想要本子套卡套外套笔袋爱心扣牛仔帽子日本人你们好坏呀这么贵 https://t.co/DwI1ZEmCFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2004024306939084801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-5fUhaQAEnxrC.jpg",
+        "width": 1040
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2004024306943336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-5fUibIAAT6ez.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SPINNS (スピンズ)",
+              "id": "1035226248648118272",
+              "name": "SPINNS (スピンズ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SPINNS (スピンズ)",
+              "id": "1035226248648118272",
+              "name": "SPINNS (スピンズ)"
+            }
+          }
+        ],
+        "conversation_id": "2004105876890849325",
+        "created_at": "2025-12-25T08:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004105876890849325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spinns_com/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/spinns_com/status/2004024313335403004",
+              "start": 32,
+              "url": "https://t.co/DwI1ZEmCFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004105876890849325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004024313335403004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想要本子套卡套外套笔袋爱心扣牛仔帽子日本人你们好坏呀这么贵 https://t.co/DwI1ZEmCFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004024306939084801",
+            "3_2004024306943336448"
+          ]
+        },
+        "author_id": "187435121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SPINNS (スピンズ)",
+              "id": "1035226248648118272",
+              "name": "SPINNS (スピンズ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SPINNS (スピンズ)",
+              "id": "1035226248648118272",
+              "name": "SPINNS (スピンズ)"
+            }
+          }
+        ],
+        "conversation_id": "2004024313335403004",
+        "created_at": "2025-12-25T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004024313335403004"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "シュガーバニーズ",
+              "probability": 0.3157,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohc9BZwQUH",
+              "end": 166,
+              "expanded_url": "https://x.com/spinns_com/status/2004024313335403004/photo/1",
+              "media_key": "3_2004024306939084801",
+              "start": 143,
+              "url": "https://t.co/ohc9BZwQUH"
+            },
+            {
+              "display_url": "pic.x.com/ohc9BZwQUH",
+              "end": 166,
+              "expanded_url": "https://x.com/spinns_com/status/2004024313335403004/photo/1",
+              "media_key": "3_2004024306943336448",
+              "start": 143,
+              "url": "https://t.co/ohc9BZwQUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004024313335403004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 256,
+                "start": 249,
+                "tag": "SPINNS"
+              },
+              {
+                "end": 262,
+                "start": 257,
+                "tag": "スピンズ"
+              },
+              {
+                "end": 272,
+                "start": 263,
+                "tag": "シュガーバニーズ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spinns.jp/c/collabo/suga…",
+                "end": 198,
+                "expanded_url": "https://www.spinns.jp/c/collabo/sugarbunnies?officialsns",
+                "start": 175,
+                "url": "https://t.co/Kd4soTa9xx"
+              }
+            ]
+          },
+          "text": "【シュガーバニーズ】SPINNS限定＆先行販売アイテム発売決定🍓︎ꕤ︎︎꙳⟡\n\n🗓WEB予約日:12月25日(木)18時〜\n🗓店舗販売日:2026年春頃(後日公開予定)\n\nしろうさ、くろうさに加え\n\"仲間たち\"もラインナップ .ᐟ.ᐟ.ᐟ💭⸒⸒\n\nいちごモチーフやパステルカラーなどの\n甘くてガーリーな世界観のアイテムたちがたくさん登場します🍓🍓\n\nhttps://t.co/Kd4soTa9xx\n\nSPINNSが先行販売でいち早くアイテムをゲット出来ちゃう✨️\nこの機会をお見逃し無く、、、👀\n\n#SPINNS #スピンズ #シュガーバニーズ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8001,
+          "impression_count": 912567,
+          "like_count": 25885,
+          "quote_count": 2215,
+          "reply_count": 8,
+          "retweet_count": 4452
+        },
+        "reply_settings": "everyone",
+        "text": "【シュガーバニーズ】SPINNS限定＆先行販売アイテム発売決定🍓︎ꕤ︎︎꙳⟡\n\n🗓WEB予約日:12月25日(木)18時〜\n🗓店舗販売日:2026年春頃(後日公開予定)\n\nしろうさ、くろうさに加え\n\"仲間たち\"もラインナップ .ᐟ.ᐟ.ᐟ💭⸒⸒\n\nいちごモチーフやパステルカラーなどの https://t.co/ohc9BZwQUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 581,
+          "like_count": 2503,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1050
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-06T06:14:40.000Z",
+        "description": "アパレルブランドSPINNSの公式アカウント💫カルチャーやファッション、コラボの情報を随時発信いたします🌈🪄 ＃変われるってムテキ お問合せはこちらから【https://t.co/mpyfWf3y6p】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 55,
+                "tag": "変われるってムテキ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spinns.com/contact-online…",
+                "end": 100,
+                "expanded_url": "https://www.spinns.com/contact-onlinestore/",
+                "start": 77,
+                "url": "https://t.co/mpyfWf3y6p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/37fZ5EF",
+                "end": 23,
+                "expanded_url": "https://bit.ly/37fZ5EF",
+                "start": 0,
+                "url": "https://t.co/1SUyqLSdPm"
+              }
+            ]
+          }
+        },
+        "id": "187435121",
+        "location": "コンテンツ渦巻くワンダーランド",
+        "name": "SPINNS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775791552625074176/YCXUt6sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132545,
+          "following_count": 2105,
+          "like_count": 9868,
+          "listed_count": 813,
+          "media_count": 16222,
+          "tweet_count": 42532
+        },
+        "url": "https://t.co/1SUyqLSdPm",
+        "username": "spinns_com",
+        "verified": true
+      }
+    ]
+  }
+}

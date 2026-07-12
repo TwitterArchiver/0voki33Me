@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2049466657001914749",
+    "created_at": "2026-04-29T12:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049466657001914749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687876238474629120",
+          "start": 3,
+          "username": "AgNo3_xq0719"
+        },
+        {
+          "end": 34,
+          "id": "1690530117171453952",
+          "start": 22,
+          "username": "AgNo3_XQ719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049466657001914749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049377522740305940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_xq0719: 我三世了@AgNo3_XQ719 前世 求互转寻回互fo"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [AgNo3_XQ719].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "AgNo3_XQ719",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "AgNo3_XQ719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2049466657001914749",
+        "created_at": "2026-04-29T12:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049466657001914749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687876238474629120",
+              "start": 3,
+              "username": "AgNo3_xq0719"
+            },
+            {
+              "end": 34,
+              "id": "1690530117171453952",
+              "start": 22,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049466657001914749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049377522740305940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgNo3_xq0719: 我三世了@AgNo3_XQ719 前世 求互转寻回互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2049377522740305940",
+        "created_at": "2026-04-29T06:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049377522740305940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690530117171453952",
+              "start": 4,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049377522740305940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 974,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我三世了@AgNo3_XQ719 前世 求互转寻回互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2047714085161361786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1173,
+          "like_count": 6459,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 6268
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜爱人@llzvkeai @NiimiyaHoshi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "NiimiyaHoshi"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 61,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      }
+    ]
+  }
+}

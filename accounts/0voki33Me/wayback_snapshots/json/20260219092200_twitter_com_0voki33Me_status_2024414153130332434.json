@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2024402050600366451",
+    "created_at": "2026-02-19T09:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024414153130332434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684492249416323072",
+          "start": 0,
+          "username": "hongdou_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024414153130332434",
+    "in_reply_to_user_id": "1684492249416323072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024402050600366451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongdou_cici 好美味的样子😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024402037224722432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBge7VdbUAAdk8D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2024402050600366451",
+        "created_at": "2026-02-19T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024414153130332434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684492249416323072",
+              "start": 0,
+              "username": "hongdou_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024414153130332434",
+        "in_reply_to_user_id": "1684492249416323072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024402050600366451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdou_cici 好美味的样子😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024402037224722432"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024402050600366451",
+        "created_at": "2026-02-19T08:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024402050600366451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeBrbZHJNX",
+              "end": 37,
+              "expanded_url": "https://x.com/hongdou_cici/status/2024402050600366451/photo/1",
+              "media_key": "3_2024402037224722432",
+              "start": 14,
+              "url": "https://t.co/XeBrbZHJNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024402050600366451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个红豆糕真的很喜欢吃甜品 https://t.co/XeBrbZHJNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1087,
+          "like_count": 5163,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3607
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "去死 || 我是红豆糕 || feel free to block me if my pics sacared u❌不喜欢我请自避雷❕|| 备用机@hongdougao_hong || 我宝💗@Unrestrained000||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1991789253169451496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989655780656607232/LRVKVUOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 207,
+          "like_count": 5765,
+          "listed_count": 8,
+          "media_count": 401,
+          "tweet_count": 3127
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

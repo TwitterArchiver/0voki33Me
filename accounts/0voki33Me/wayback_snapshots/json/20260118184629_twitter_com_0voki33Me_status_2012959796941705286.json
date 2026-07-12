@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012959733708357632"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012959796941705286",
+    "created_at": "2026-01-18T18:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012959796941705286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2kAmmhAD6",
+          "end": 25,
+          "expanded_url": "https://x.com/0voki33Me/status/2012959796941705286/video/1",
+          "media_key": "13_2012959733708357632",
+          "start": 2,
+          "url": "https://t.co/c2kAmmhAD6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012959796941705286",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🪼 https://t.co/c2kAmmhAD6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4105,
+        "height": 720,
+        "media_key": "13_2012959733708357632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012959733708357632/img/viVfriSsl1bhI7XH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012959733708357632/vid/avc1/320x320/T4JhUniozSOOLTcF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012959733708357632/vid/avc1/540x540/MDzHpWXczyV1uHIy.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012959733708357632/vid/avc1/720x720/eS86c_XgYXce0Ids.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012959733708357632/pl/hJMwvdw0HIS1Esne.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012959733708357632"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012959796941705286",
+        "created_at": "2026-01-18T18:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012959796941705286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2kAmmhAD6",
+              "end": 25,
+              "expanded_url": "https://x.com/0voki33Me/status/2012959796941705286/video/1",
+              "media_key": "13_2012959733708357632",
+              "start": 2,
+              "url": "https://t.co/c2kAmmhAD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012959796941705286",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🪼 https://t.co/c2kAmmhAD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 847,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

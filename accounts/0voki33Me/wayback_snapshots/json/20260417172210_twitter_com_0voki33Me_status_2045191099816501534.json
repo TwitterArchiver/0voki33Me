@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2045191099816501534",
+    "created_at": "2026-04-17T17:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045191099816501534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1357176687318888448",
+          "start": 3,
+          "username": "FuckChina8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045191099816501534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044900138779365717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FuckChina8964_: 我好希望自己就是个傻逼，不懂穿搭，没有审美，当个快乐小狗小蝴蝶，不知道小粉红是什么意思，国庆节会朋友圈转发阅兵仪式，对未来有希望，家庭氛围好，能当健全逼现充每天只用无脑幸福，就算和小姐妹玩点抖烂梗拍点抖舞又咋了，我宁愿被叫纯欲女大也不愿意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2045191099816501534",
+        "created_at": "2026-04-17T17:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045191099816501534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1357176687318888448",
+              "start": 3,
+              "username": "FuckChina8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045191099816501534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044900138779365717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FuckChina8964_: 我好希望自己就是个傻逼，不懂穿搭，没有审美，当个快乐小狗小蝴蝶，不知道小粉红是什么意思，国庆节会朋友圈转发阅兵仪式，对未来有希望，家庭氛围好，能当健全逼现充每天只用无脑幸福，就算和小姐妹玩点抖烂梗拍点抖舞又咋了，我宁愿被叫纯欲女大也不愿意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357176687318888448",
+        "conversation_id": "2044900138779365717",
+        "created_at": "2026-04-16T22:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044900138779365717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044900138779365717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3715,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我好希望自己就是个傻逼，不懂穿搭，没有审美，当个快乐小狗小蝴蝶，不知道小粉红是什么意思，国庆节会朋友圈转发阅兵仪式，对未来有希望，家庭氛围好，能当健全逼现充每天只用无脑幸福，就算和小姐妹玩点抖烂梗拍点抖舞又咋了，我宁愿被叫纯欲女大也不愿意当个抑郁症阴暗逼。好想活成自己骂的一切人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1141,
+          "like_count": 6211,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 5734
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T03:58:47.000Z",
+        "description": "/顺直/土逼/精分/残疾",
+        "id": "1357176687318888448",
+        "location": "骂我的下辈子还是中国人",
+        "name": "集美猪蹄改花刀十三刀没出血",
+        "pinned_tweet_id": "2044412599518019682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796513060435496961/0u01y7cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 400,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 789
+        },
+        "username": "FuckChina8964_",
+        "verified": false
+      }
+    ]
+  }
+}

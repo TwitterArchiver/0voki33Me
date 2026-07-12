@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013982685832622412",
+    "created_at": "2026-01-21T14:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013984930603168195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786808816832589825",
+          "start": 0,
+          "username": "ZuJian40966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013984930603168195",
+    "in_reply_to_user_id": "1786808816832589825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013982685832622412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZuJian40966 带我一个✊✊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013982685832622412",
+        "created_at": "2026-01-21T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013984930603168195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786808816832589825",
+              "start": 0,
+              "username": "ZuJian40966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013984930603168195",
+        "in_reply_to_user_id": "1786808816832589825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013982685832622412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZuJian40966 带我一个✊✊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786808816832589825",
+        "conversation_id": "2013982685832622412",
+        "created_at": "2026-01-21T14:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013982685832622412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013982685832622412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要统治世界有人同意吗！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 862,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:23:25.000Z",
+        "description": "あなたの夢をみるの。",
+        "id": "1786808816832589825",
+        "location": "长沙",
+        "name": "もや",
+        "pinned_tweet_id": "2007420749783675284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005745497886404608/OC7SmHyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 87,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 117
+        },
+        "username": "ZuJian40966",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2022737104254701593",
+    "created_at": "2026-02-15T02:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022853974072930745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009015557677568003",
+          "start": 0,
+          "username": "ZOMBIEAOAOAAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022853974072930745",
+    "in_reply_to_user_id": "2009015557677568003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022772848885141550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEAOAOAAO 么么哒😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2022737104254701593",
+        "created_at": "2026-02-15T02:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022853974072930745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009015557677568003",
+              "start": 0,
+              "username": "ZOMBIEAOAOAAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022853974072930745",
+        "in_reply_to_user_id": "2009015557677568003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022772848885141550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEAOAOAAO 么么哒😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009015557677568003",
+        "conversation_id": "2022737104254701593",
+        "created_at": "2026-02-14T20:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022772848885141550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022772848885141550",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022737104254701593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 好漂漂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1051,
+          "like_count": 5057,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T21:33:46.000Z",
+        "description": "𝕬𝖛𝖊 𝕯𝖔𝖒𝖎𝖓𝖚𝖘 𝕹𝖔𝖝 Sh/odtwt he/him dont follow me",
+        "id": "2009015557677568003",
+        "name": "triceratops电波皇",
+        "pinned_tweet_id": "2009182313880719373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009015850247102464/x1NO32Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 111,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1127
+        },
+        "username": "ZOMBIEAOAOAAO",
+        "verified": false
+      }
+    ]
+  }
+}

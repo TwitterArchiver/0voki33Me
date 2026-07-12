@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2001274474562511083",
+    "created_at": "2025-12-17T16:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001336119292760148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001336119292760148",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001274474562511083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 太权威……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2001274466358460417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8X0hiFbAAEc3tF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2001274466392018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8X0hiNbEAAqhMC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001274474562511083",
+        "created_at": "2025-12-17T16:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001336119292760148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001336119292760148",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001274474562511083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 太权威……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001274466358460417",
+            "3_2001274466392018944"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "2001274474562511083",
+        "created_at": "2025-12-17T12:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001274474562511083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38Ny7q0drt",
+              "end": 37,
+              "expanded_url": "https://x.com/YUSU_01/status/2001274474562511083/photo/1",
+              "media_key": "3_2001274466358460417",
+              "start": 14,
+              "url": "https://t.co/38Ny7q0drt"
+            },
+            {
+              "display_url": "pic.x.com/38Ny7q0drt",
+              "end": 37,
+              "expanded_url": "https://x.com/YUSU_01/status/2001274474562511083/photo/1",
+              "media_key": "3_2001274466392018944",
+              "start": 14,
+              "url": "https://t.co/38Ny7q0drt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001274474562511083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和99就是双胞胎！！！！ https://t.co/38Ny7q0drt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 512,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1936082618610860113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960722604660285444/Z7DIEJWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7111,
+          "following_count": 37,
+          "like_count": 10494,
+          "listed_count": 3,
+          "media_count": 1296,
+          "tweet_count": 15480
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

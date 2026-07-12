@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002375856623079424"
+      ],
+      "media_source_tweet_id": [
+        "2002376105701896419"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2003047624698712273",
+    "created_at": "2025-12-22T10:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003047624698712273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1381228014361534466",
+          "start": 3,
+          "username": "sergiart5_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4w6ZOctpm",
+          "end": 75,
+          "expanded_url": "https://x.com/sergiart5_/status/2002376105701896419/photo/1",
+          "media_key": "3_2002375856623079424",
+          "start": 52,
+          "url": "https://t.co/n4w6ZOctpm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003047624698712273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1305
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002376105701896419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sergiart5_: cat on blue\noil on paper, available https://t.co/n4w6ZOctpm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3147,
+        "media_key": "3_2002375856623079424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8neO4jWUAAn1Un.jpg",
+        "width": 2305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002375856623079424"
+          ],
+          "media_source_tweet_id": [
+            "2002376105701896419"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2003047624698712273",
+        "created_at": "2025-12-22T10:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003047624698712273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1381228014361534466",
+              "start": 3,
+              "username": "sergiart5_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4w6ZOctpm",
+              "end": 75,
+              "expanded_url": "https://x.com/sergiart5_/status/2002376105701896419/photo/1",
+              "media_key": "3_2002375856623079424",
+              "start": 52,
+              "url": "https://t.co/n4w6ZOctpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003047624698712273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1305
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002376105701896419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sergiart5_: cat on blue\noil on paper, available https://t.co/n4w6ZOctpm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002375856623079424"
+          ]
+        },
+        "author_id": "1381228014361534466",
+        "conversation_id": "2002376105701896419",
+        "created_at": "2025-12-20T13:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002376105701896419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4w6ZOctpm",
+              "end": 59,
+              "expanded_url": "https://x.com/sergiart5_/status/2002376105701896419/photo/1",
+              "media_key": "3_2002375856623079424",
+              "start": 36,
+              "url": "https://t.co/n4w6ZOctpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002376105701896419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 974,
+          "impression_count": 183949,
+          "like_count": 29837,
+          "quote_count": 8,
+          "reply_count": 14,
+          "retweet_count": 1305
+        },
+        "reply_settings": "everyone",
+        "text": "cat on blue\noil on paper, available https://t.co/n4w6ZOctpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 544,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T12:52:06.000Z",
+        "description": "I like drawing and painting | Commissions are open| Prints available in link below | DM for originals",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/sergia…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/gallery/sergiarts/",
+                "start": 0,
+                "url": "https://t.co/6tZj2Tf3bg"
+              }
+            ]
+          }
+        },
+        "id": "1381228014361534466",
+        "location": "spain",
+        "name": "sergi",
+        "pinned_tweet_id": "1849138343302299897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449767267013693445/FVoMSR6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20522,
+          "following_count": 813,
+          "like_count": 92491,
+          "listed_count": 123,
+          "media_count": 3535,
+          "tweet_count": 27410
+        },
+        "url": "https://t.co/6tZj2Tf3bg",
+        "username": "sergiart5_",
+        "verified": false
+      }
+    ]
+  }
+}

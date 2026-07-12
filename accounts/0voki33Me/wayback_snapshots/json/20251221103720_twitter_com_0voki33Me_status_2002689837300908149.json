@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002689837300908149",
+    "created_at": "2025-12-21T10:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002689837300908149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayawo11_/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ayawo11_/status/2002239558214468037",
+          "start": 2,
+          "url": "https://t.co/YmgYBKS4qK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002689837300908149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002239558214468037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/YmgYBKS4qK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002689837300908149",
+        "created_at": "2025-12-21T10:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002689837300908149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayawo11_/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ayawo11_/status/2002239558214468037",
+              "start": 2,
+              "url": "https://t.co/YmgYBKS4qK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002689837300908149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002239558214468037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/YmgYBKS4qK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "conversation_id": "2002239558214468037",
+        "created_at": "2025-12-20T04:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002239558214468037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002239558214468037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 80395,
+          "like_count": 1108,
+          "quote_count": 23,
+          "reply_count": 99,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "我说话喜欢莫名其妙的加个感叹号！很像凶狠的弱智！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 539,
+          "like_count": 2123,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "2002269526017102062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 133,
+          "like_count": 4117,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

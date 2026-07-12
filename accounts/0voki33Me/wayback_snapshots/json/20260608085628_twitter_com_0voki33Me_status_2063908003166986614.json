@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2063871577591275690",
+    "created_at": "2026-06-08T08:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063908003166986614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1558757725797986305",
+          "start": 0,
+          "username": "Hemlock_113"
+        },
+        {
+          "end": 29,
+          "id": "2013875219392585728",
+          "start": 13,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063908003166986614",
+    "in_reply_to_user_id": "1558757725797986305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063871577591275690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_113 @e57jcetmSs91516 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2063871577591275690",
+        "created_at": "2026-06-08T08:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063908003166986614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558757725797986305",
+              "start": 0,
+              "username": "Hemlock_113"
+            },
+            {
+              "end": 29,
+              "id": "2013875219392585728",
+              "start": 13,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063908003166986614",
+        "in_reply_to_user_id": "1558757725797986305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871577591275690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_113 @e57jcetmSs91516 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558757725797986305",
+        "conversation_id": "2063871577591275690",
+        "created_at": "2026-06-08T06:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063871577591275690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063871577591275690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞快200fo了 我也搞个抽奖好了\n想跟多点宝宝互fo( *｀ω´)\n\n一等：盐野义一盒\n二等：橙普一盒\n三等：52的红包\n\n6.16开\n点赞关注转发评论参与\n会查成分 不od的只能折现52的红包了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 1164,
+          "like_count": 6675,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 6711
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "HK 10 单机小透明\nod｜自伤｜碎碎念｜小作文\n社恐 低情商 查成分互fo",
+        "id": "1558757725797986305",
+        "location": "🚪52/88/188/520",
+        "name": "凝檬_☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 60,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 621
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "只接纯绿",
+        "id": "2013875219392585728",
+        "location": "🚪52/88/288/520上不封顶（过门不退",
+        "name": "。",
+        "pinned_tweet_id": "2062406304904384718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050134925723291649/NDTEb7gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 359,
+          "like_count": 12492,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 6579
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

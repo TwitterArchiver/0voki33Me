@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "username": "@0voki33Me",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "x.com/ng_j1194008?s=…",
+        "end": 130,
+        "expanded_url": "https://x.com/ng_j1194008?s=21",
+        "start": 107,
+        "url": "https://t.co/QOnzLa3SXn"
+      }
+    ]
+  }
+}

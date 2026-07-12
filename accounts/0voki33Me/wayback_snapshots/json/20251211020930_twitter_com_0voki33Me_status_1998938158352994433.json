@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998819061145427968"
+      ],
+      "media_source_tweet_id": [
+        "1998819066807779560"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1998938158352994433",
+    "created_at": "2025-12-11T02:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T03:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998938158352994433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898694053627334656",
+          "start": 3,
+          "username": "lz3jrk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XzgiVLx1B",
+          "end": 40,
+          "expanded_url": "https://x.com/lz3jrk/status/1998819066807779560/photo/1",
+          "media_key": "3_1998819061145427968",
+          "start": 17,
+          "url": "https://t.co/5XzgiVLx1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998938158352994433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 232
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998819066807779560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lz3jrk: 見てる。 https://t.co/5XzgiVLx1B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998819061145427968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G707WI3aYAA8dfh.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998819061145427968"
+          ],
+          "media_source_tweet_id": [
+            "1998819066807779560"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1998938158352994433",
+        "created_at": "2025-12-11T02:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998938158352994433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898694053627334656",
+              "start": 3,
+              "username": "lz3jrk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XzgiVLx1B",
+              "end": 40,
+              "expanded_url": "https://x.com/lz3jrk/status/1998819066807779560/photo/1",
+              "media_key": "3_1998819061145427968",
+              "start": 17,
+              "url": "https://t.co/5XzgiVLx1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998938158352994433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998819066807779560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lz3jrk: 見てる。 https://t.co/5XzgiVLx1B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998819061145427968"
+          ]
+        },
+        "author_id": "1898694053627334656",
+        "conversation_id": "1998819066807779560",
+        "created_at": "2025-12-10T18:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998819066807779560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XzgiVLx1B",
+              "end": 28,
+              "expanded_url": "https://x.com/lz3jrk/status/1998819066807779560/photo/1",
+              "media_key": "3_1998819061145427968",
+              "start": 5,
+              "url": "https://t.co/5XzgiVLx1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998819066807779560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 7533,
+          "like_count": 1832,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "見てる。 https://t.co/5XzgiVLx1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------查成分回fo -------------------------------顺女 什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 408,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 425
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T11:15:24.000Z",
+        "description": "このあか使えなくなったらこっちにいます@_zypu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 19,
+                "username": "_zypu"
+              }
+            ]
+          }
+        },
+        "id": "1898694053627334656",
+        "name": "だるい",
+        "pinned_tweet_id": "1983010312048783865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914574385798897667/Aggg2c1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 42,
+          "like_count": 493,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 221
+        },
+        "username": "lz3jrk",
+        "verified": false
+      }
+    ]
+  }
+}

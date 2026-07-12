@@ -1,0 +1,785 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001696114773303296",
+        "3_2001696114769117184",
+        "3_2001696114769014785",
+        "3_2001696114773200896"
+      ],
+      "media_source_tweet_id": [
+        "2001696119248818506",
+        "2001696119248818506",
+        "2001696119248818506",
+        "2001696119248818506"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+          "id": "1585792216395436032",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      }
+    ],
+    "conversation_id": "2001860870872404247",
+    "created_at": "2025-12-19T03:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T04:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001860870872404247"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "NewJeans",
+          "probability": 0.5073,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532511002675249158",
+          "start": 3,
+          "username": "kismetfiless"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PoqUXLZFBz",
+          "end": 65,
+          "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+          "media_key": "3_2001696114773303296",
+          "start": 42,
+          "url": "https://t.co/PoqUXLZFBz"
+        },
+        {
+          "display_url": "pic.x.com/PoqUXLZFBz",
+          "end": 65,
+          "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+          "media_key": "3_2001696114769117184",
+          "start": 42,
+          "url": "https://t.co/PoqUXLZFBz"
+        },
+        {
+          "display_url": "pic.x.com/PoqUXLZFBz",
+          "end": 65,
+          "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+          "media_key": "3_2001696114769014785",
+          "start": 42,
+          "url": "https://t.co/PoqUXLZFBz"
+        },
+        {
+          "display_url": "pic.x.com/PoqUXLZFBz",
+          "end": 65,
+          "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+          "media_key": "3_2001696114773200896",
+          "start": 42,
+          "url": "https://t.co/PoqUXLZFBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001860870872404247",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001696119248818506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kismetfiless: ‘Ditto’ NewJeans (2022) https://t.co/PoqUXLZFBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2001696114773303296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8d0As1XoAAIScU.jpg",
+        "width": 1060
+      },
+      {
+        "height": 900,
+        "media_key": "3_2001696114769117184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8d0As0XwAApLCG.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2001696114769014785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8d0As0WMAEWtdT.jpg",
+        "width": 1200
+      },
+      {
+        "height": 674,
+        "media_key": "3_2001696114773200896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8d0As1WEAAElQI.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001696114773303296",
+            "3_2001696114769117184",
+            "3_2001696114769014785",
+            "3_2001696114773200896"
+          ],
+          "media_source_tweet_id": [
+            "2001696119248818506",
+            "2001696119248818506",
+            "2001696119248818506",
+            "2001696119248818506"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2001860870872404247",
+        "created_at": "2025-12-19T03:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T04:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001860870872404247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "NewJeans",
+              "probability": 0.5073,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532511002675249158",
+              "start": 3,
+              "username": "kismetfiless"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 65,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114773303296",
+              "start": 42,
+              "url": "https://t.co/PoqUXLZFBz"
+            },
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 65,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114769117184",
+              "start": 42,
+              "url": "https://t.co/PoqUXLZFBz"
+            },
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 65,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114769014785",
+              "start": 42,
+              "url": "https://t.co/PoqUXLZFBz"
+            },
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 65,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114773200896",
+              "start": 42,
+              "url": "https://t.co/PoqUXLZFBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001860870872404247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001696119248818506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kismetfiless: ‘Ditto’ NewJeans (2022) https://t.co/PoqUXLZFBz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001696114773303296",
+            "3_2001696114769117184",
+            "3_2001696114769014785",
+            "3_2001696114773200896"
+          ]
+        },
+        "author_id": "1532511002675249158",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2001696119248818506",
+        "created_at": "2025-12-18T16:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001696119248818506"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "NewJeans",
+              "probability": 0.4121,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 47,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114773303296",
+              "start": 24,
+              "url": "https://t.co/PoqUXLZFBz"
+            },
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 47,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114769117184",
+              "start": 24,
+              "url": "https://t.co/PoqUXLZFBz"
+            },
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 47,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114769014785",
+              "start": 24,
+              "url": "https://t.co/PoqUXLZFBz"
+            },
+            {
+              "display_url": "pic.x.com/PoqUXLZFBz",
+              "end": 47,
+              "expanded_url": "https://x.com/kismetfiless/status/2001696119248818506/photo/1",
+              "media_key": "3_2001696114773200896",
+              "start": 24,
+              "url": "https://t.co/PoqUXLZFBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001696119248818506",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 36211,
+          "like_count": 4533,
+          "quote_count": 23,
+          "reply_count": 2,
+          "retweet_count": 1117
+        },
+        "reply_settings": "everyone",
+        "text": "‘Ditto’ NewJeans (2022) https://t.co/PoqUXLZFBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 533,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-02T23:54:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kismetweb.straw.page",
+                "end": 23,
+                "expanded_url": "http://kismetweb.straw.page",
+                "start": 0,
+                "url": "https://t.co/q1kltcgKa0"
+              }
+            ]
+          }
+        },
+        "id": "1532511002675249158",
+        "location": " 21",
+        "name": "❦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998902637396099072/uSaVCLTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 551,
+          "like_count": 48797,
+          "listed_count": 10,
+          "media_count": 3410,
+          "tweet_count": 30341
+        },
+        "url": "https://t.co/q1kltcgKa0",
+        "username": "kismetfiless",
+        "verified": false
+      }
+    ]
+  }
+}

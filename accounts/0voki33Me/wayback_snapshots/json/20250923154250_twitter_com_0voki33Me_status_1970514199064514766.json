@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1970514199064514766",
+    "created_at": "2025-09-23T15:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T16:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970514199064514766"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970514199064514766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果心选哥也喜欢我就好了…😭他以前还会给我唱情歌，一到周末就找我聊天，有一次我心情不好和他聊天中途我去洗澡了他以为我要自杀层层联系直接打电话给我妈找我……你们知道我有多心动不…可是我比较怂不敢主动找他，每次都是他主动找我导致现在他都不找我聊天了好后悔😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1970514199064514766",
+        "created_at": "2025-09-23T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970514199064514766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970514199064514766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果心选哥也喜欢我就好了…😭他以前还会给我唱情歌，一到周末就找我聊天，有一次我心情不好和他聊天中途我去洗澡了他以为我要自杀层层联系直接打电话给我妈找我……你们知道我有多心动不…可是我比较怂不敢主动找他，每次都是他主动找我导致现在他都不找我聊天了好后悔😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 186,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

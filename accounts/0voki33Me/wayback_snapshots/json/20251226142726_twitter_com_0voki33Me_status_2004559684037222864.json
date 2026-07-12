@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2004559684037222864",
+    "created_at": "2025-12-26T14:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004559684037222864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612404935374835712",
+          "start": 3,
+          "username": "Thea_1342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004559684037222864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004094503985324429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thea_1342: 我也很想做愛啊\n但想想懷孕、性病、偷拍外流\n都不需要提條件是否匹配的問題\n隨便三個理由都讓人望之卻步\n更不用說我根本不想只是約砲\n當風險大於收穫時 怎麼想都不會去做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2004559684037222864",
+        "created_at": "2025-12-26T14:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004559684037222864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612404935374835712",
+              "start": 3,
+              "username": "Thea_1342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004559684037222864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004094503985324429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thea_1342: 我也很想做愛啊\n但想想懷孕、性病、偷拍外流\n都不需要提條件是否匹配的問題\n隨便三個理由都讓人望之卻步\n更不用說我根本不想只是約砲\n當風險大於收穫時 怎麼想都不會去做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612404935374835712",
+        "conversation_id": "2004094503985324429",
+        "created_at": "2025-12-25T07:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004094503985324429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004094503985324429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 65948,
+          "like_count": 856,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我也很想做愛啊\n但想想懷孕、性病、偷拍外流\n都不需要提條件是否匹配的問題\n隨便三個理由都讓人望之卻步\n更不用說我根本不想只是約砲\n當風險大於收穫時 怎麼想都不會去做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 606,
+          "like_count": 2618,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1090
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T11:04:46.000Z",
+        "description": "食記：@jwo1723 不搞抽象了，每個人都覺得是真的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "jwo1723"
+              }
+            ]
+          }
+        },
+        "id": "1612404935374835712",
+        "location": "0.1 km",
+        "name": "覓清",
+        "pinned_tweet_id": "2004178539479028131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936698806105669632/3MNDN35k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28948,
+          "following_count": 417,
+          "like_count": 53186,
+          "listed_count": 13,
+          "media_count": 85,
+          "tweet_count": 7900
+        },
+        "username": "Thea_1342",
+        "verified": false
+      }
+    ]
+  }
+}

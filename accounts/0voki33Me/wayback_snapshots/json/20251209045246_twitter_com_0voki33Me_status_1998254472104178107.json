@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997844034216239104",
+        "3_1997844034216161280"
+      ],
+      "media_source_tweet_id": [
+        "1997844037366415692",
+        "1997844037366415692"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1998254472104178107",
+    "created_at": "2025-12-09T04:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998254472104178107"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "shibuya gals",
+          "probability": 0.5312,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 49,
+          "normalized_text": "delyle",
+          "probability": 0.6481,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1405622961613246464",
+          "start": 3,
+          "username": "thepinkernet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPzkhN8iY1",
+          "end": 84,
+          "expanded_url": "https://x.com/thepinkernet/status/1997844037366415692/photo/1",
+          "media_key": "3_1997844034216239104",
+          "start": 61,
+          "url": "https://t.co/kPzkhN8iY1"
+        },
+        {
+          "display_url": "pic.x.com/kPzkhN8iY1",
+          "end": 84,
+          "expanded_url": "https://x.com/thepinkernet/status/1997844037366415692/photo/1",
+          "media_key": "3_1997844034216161280",
+          "start": 61,
+          "url": "https://t.co/kPzkhN8iY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998254472104178107",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 721
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997844037366415692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thepinkernet: shibuya gals collection : delyle (2009) ౨ৎ https://t.co/kPzkhN8iY1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 543,
+        "media_key": "3_1997844034216239104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nEkGgXoAAhrf9.jpg",
+        "width": 370
+      },
+      {
+        "height": 543,
+        "media_key": "3_1997844034216161280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nEkGgWcAAaegR.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997844034216239104",
+            "3_1997844034216161280"
+          ],
+          "media_source_tweet_id": [
+            "1997844037366415692",
+            "1997844037366415692"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1998254472104178107",
+        "created_at": "2025-12-09T04:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998254472104178107"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "shibuya gals",
+              "probability": 0.5312,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "delyle",
+              "probability": 0.6481,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1405622961613246464",
+              "start": 3,
+              "username": "thepinkernet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPzkhN8iY1",
+              "end": 84,
+              "expanded_url": "https://x.com/thepinkernet/status/1997844037366415692/photo/1",
+              "media_key": "3_1997844034216239104",
+              "start": 61,
+              "url": "https://t.co/kPzkhN8iY1"
+            },
+            {
+              "display_url": "pic.x.com/kPzkhN8iY1",
+              "end": 84,
+              "expanded_url": "https://x.com/thepinkernet/status/1997844037366415692/photo/1",
+              "media_key": "3_1997844034216161280",
+              "start": 61,
+              "url": "https://t.co/kPzkhN8iY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998254472104178107",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 721
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997844037366415692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thepinkernet: shibuya gals collection : delyle (2009) ౨ৎ https://t.co/kPzkhN8iY1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997844034216239104",
+            "3_1997844034216161280"
+          ]
+        },
+        "author_id": "1405622961613246464",
+        "conversation_id": "1997844037366415692",
+        "created_at": "2025-12-08T01:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T02:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997844037366415692"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "shibuya",
+              "probability": 0.5902,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "delyle",
+              "probability": 0.6483,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPzkhN8iY1",
+              "end": 66,
+              "expanded_url": "https://x.com/thepinkernet/status/1997844037366415692/photo/1",
+              "media_key": "3_1997844034216239104",
+              "start": 43,
+              "url": "https://t.co/kPzkhN8iY1"
+            },
+            {
+              "display_url": "pic.x.com/kPzkhN8iY1",
+              "end": 66,
+              "expanded_url": "https://x.com/thepinkernet/status/1997844037366415692/photo/1",
+              "media_key": "3_1997844034216161280",
+              "start": 43,
+              "url": "https://t.co/kPzkhN8iY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997844037366415692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 39998,
+          "like_count": 5375,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 721
+        },
+        "reply_settings": "everyone",
+        "text": "shibuya gals collection : delyle (2009) ౨ৎ https://t.co/kPzkhN8iY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------查成分回fo -------------------------------顺女 什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 356,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 346
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T20:26:53.000Z",
+        "description": "꒰ ⑅ kiki ⑅꒱ she|her the pinkest internet archive ❀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/thepinkernet",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/thepinkernet",
+                "start": 0,
+                "url": "https://t.co/PQ6Rd22Z0w"
+              }
+            ]
+          }
+        },
+        "id": "1405622961613246464",
+        "location": "❀ ⠀ my ⠀ pinkest ⠀fantasy⠀  ❀",
+        "name": "⋆｡˚𝓚₊˚⊹𝜗❀𝜚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969197674369847296/KdUSq_Ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12740,
+          "following_count": 1033,
+          "like_count": 117933,
+          "listed_count": 73,
+          "media_count": 5977,
+          "tweet_count": 39354
+        },
+        "url": "https://t.co/PQ6Rd22Z0w",
+        "username": "thepinkernet",
+        "verified": false
+      }
+    ]
+  }
+}

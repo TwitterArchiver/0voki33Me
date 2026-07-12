@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012446072405098703",
+    "created_at": "2026-01-17T17:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T18:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012574657141248414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1969343564695158786",
+          "start": 0,
+          "username": "lennon_joh14132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012574657141248414",
+    "in_reply_to_user_id": "1969343564695158786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012446072405098703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lennon_joh14132 阴险狡诈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012446059482824705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2lB1kbwAEhmga.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012446072405098703",
+        "created_at": "2026-01-17T17:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012574657141248414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1969343564695158786",
+              "start": 0,
+              "username": "lennon_joh14132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012574657141248414",
+        "in_reply_to_user_id": "1969343564695158786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012446072405098703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lennon_joh14132 阴险狡诈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012446059482824705"
+          ]
+        },
+        "author_id": "1969343564695158786",
+        "conversation_id": "2012446072405098703",
+        "created_at": "2026-01-17T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012446072405098703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Uuf5JAVGc",
+              "end": 27,
+              "expanded_url": "https://x.com/lennon_joh14132/status/2012446072405098703/photo/1",
+              "media_key": "3_2012446059482824705",
+              "start": 4,
+              "url": "https://t.co/4Uuf5JAVGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012446072405098703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫哥哥 https://t.co/4Uuf5JAVGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 836,
+          "like_count": 3464,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T10:11:15.000Z",
+        "description": "我是无敌流浪汉｜见证大欢迎｜男｜杀人如麻的恶鬼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lennon_joh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lennon_joh",
+                "start": 0,
+                "url": "https://t.co/MCmCF3HWFE"
+              }
+            ]
+          }
+        },
+        "id": "1969343564695158786",
+        "name": "江列侬",
+        "pinned_tweet_id": "1975922301947535862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969343592629223425/b1SugD5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 354,
+          "like_count": 3853,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/MCmCF3HWFE",
+        "username": "lennon_joh14132",
+        "verified": false
+      }
+    ]
+  }
+}

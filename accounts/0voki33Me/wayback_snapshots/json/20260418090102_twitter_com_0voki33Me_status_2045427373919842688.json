@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2045427373919842688",
+    "created_at": "2026-04-18T09:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045427373919842688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622587760514158593",
+          "start": 3,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045427373919842688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045334190452089159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForlikOOO: 我一直不太理解，有些人为什么会因为家庭条件好就产生优越感。毕竟这并不是靠自己获得的成就，本质上只是运气更好而已。相比之下，我反而更看重一个人在成长过程中有没有得到良好的陪伴和价值观引导。物质条件当然重要，但人格和认知才决定一个人真正的层次。单纯建立…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2045427373919842688",
+        "created_at": "2026-04-18T09:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045427373919842688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622587760514158593",
+              "start": 3,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045427373919842688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045334190452089159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForlikOOO: 我一直不太理解，有些人为什么会因为家庭条件好就产生优越感。毕竟这并不是靠自己获得的成就，本质上只是运气更好而已。相比之下，我反而更看重一个人在成长过程中有没有得到良好的陪伴和价值观引导。物质条件当然重要，但人格和认知才决定一个人真正的层次。单纯建立…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622587760514158593",
+        "conversation_id": "2045334190452089159",
+        "created_at": "2026-04-18T02:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045334190452089159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045334190452089159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6266,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我一直不太理解，有些人为什么会因为家庭条件好就产生优越感。毕竟这并不是靠自己获得的成就，本质上只是运气更好而已。相比之下，我反而更看重一个人在成长过程中有没有得到良好的陪伴和价值观引导。物质条件当然重要，但人格和认知才决定一个人真正的层次。单纯建立在家境上的优越感看着很脆弱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 1147,
+          "like_count": 6251,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 5877
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "中文/English/Deutsch，she/her。有对象感情非常好。随缘看私信，发弔拉黑，搞暧昧约炮恋爱尬聊的不回复。没有门槛，不喜欢建立在利益关系上的社交，不熟也别来找我要联系方式。incel/terf/pinky/反lfbtq都滚。",
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "Cyclo",
+        "pinned_tweet_id": "2039331394636374473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997310784519409664/YzWyhr7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 150,
+          "like_count": 40593,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 6144
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

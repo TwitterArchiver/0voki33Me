@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1971072825462227213",
+    "created_at": "2025-09-25T14:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T15:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971217715399729510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766791677598216192",
+          "start": 0,
+          "username": "OBibabupaop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971217715399729510",
+    "in_reply_to_user_id": "1766791677598216192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971072825462227213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OBibabupaop 卧槽啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1971072825462227213",
+        "created_at": "2025-09-25T14:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971217715399729510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766791677598216192",
+              "start": 0,
+              "username": "OBibabupaop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971217715399729510",
+        "in_reply_to_user_id": "1766791677598216192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971072825462227213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OBibabupaop 卧槽啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766791677598216192",
+        "conversation_id": "1971072825462227213",
+        "created_at": "2025-09-25T04:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971072825462227213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971072825462227213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 66124,
+          "like_count": 1131,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "好想写那种你自己自慰了很久都高潮不了又委屈又精虫上脑半夜哭着推开哥的房门直接湿漉漉扑到他床上挤进他怀里把他吵醒命令他帮帮你……\n嗯就是这样不管什么是委屈都得让哥哥来帮忙捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 191,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 88
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T11:43:02.000Z",
+        "description": "随机生成一点乙女向R18虚构短篇，本质自娱自乐，仅供18岁以上成年人基于幻想自愿阅读。 ⚠️内容纯属虚构，不鼓励任何现实行为，请勿代入现实。 严禁截图、搬运、存档、AI训练使用。 本人仅此一号，其他平台无任何账号。 进入即视为已成年并接受全部阅读风险。",
+        "id": "1766791677598216192",
+        "name": "@77（🚫搬运）",
+        "pinned_tweet_id": "1918640323049206266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926323453130420224/i6cwWU3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76358,
+          "following_count": 368,
+          "like_count": 262,
+          "listed_count": 52,
+          "media_count": 43,
+          "tweet_count": 1779
+        },
+        "username": "OBibabupaop",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1999464023973331183",
+    "created_at": "2025-12-12T13:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T14:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999464768869138630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999464768869138630",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999464572923859125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎那个学姐真的好美我想去要联系方式🫦🫦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1999464023973331183",
+        "created_at": "2025-12-12T13:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999464768869138630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999464768869138630",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999464572923859125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎那个学姐真的好美我想去要联系方式🫦🫦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1999464023973331183",
+        "created_at": "2025-12-12T13:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999464572923859125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999464572923859125",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999464023973331183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想谈黑人女朋友😱我有个黑色皮肤的学姐成人礼那天穿了一件丝绸礼服好美好美完全茉莉公主…看的我春心荡漾……🫦🫦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出我现生了请不要告诉我也不要告诉任何人关于这个账号中我做的事情..这是我的第二人格谢谢，感恩///善良人格https://t.co/UyqSd6tfMx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 130,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 107,
+                "url": "https://t.co/UyqSd6tfMx"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 454,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 502
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

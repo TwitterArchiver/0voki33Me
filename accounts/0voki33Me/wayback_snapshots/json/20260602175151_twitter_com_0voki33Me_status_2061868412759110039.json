@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2061842622449320305",
+    "created_at": "2026-06-02T17:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061868412759110039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793367747556102144",
+          "start": 0,
+          "username": "Tough_Mead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061868412759110039",
+    "in_reply_to_user_id": "793367747556102144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061866991498260675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tough_Mead 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2061842622449320305",
+        "created_at": "2026-06-02T17:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061868412759110039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793367747556102144",
+              "start": 0,
+              "username": "Tough_Mead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061868412759110039",
+        "in_reply_to_user_id": "793367747556102144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061866991498260675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tough_Mead 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793367747556102144",
+        "conversation_id": "2061842622449320305",
+        "created_at": "2026-06-02T17:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061866991498260675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061866991498260675",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061842622449320305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 那他妈叫想要被爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1161,
+          "like_count": 6635,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 6621
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-01T08:23:06.000Z",
+        "description": "⊂情随霏霁 缘生雾起⊃\n我想看你痛苦，我想看你幸福，我想看你升入天堂，想看你落入地狱，想看你的灵魂一半飞升一半堕落，人性犹如錦帛般在其中被扭曲撕扯。\n我爱你。不，我不爱你，我爱的是破碎的你\n我不爱你。不，我爱你。我爱的是完整的你",
+        "id": "793367747556102144",
+        "location": "Shandong",
+        "name": "个先生",
+        "pinned_tweet_id": "1832328453204668742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1306450607314591744/v_bj-wjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 295,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 292
+        },
+        "username": "Tough_Mead",
+        "verified": false
+      }
+    ]
+  }
+}

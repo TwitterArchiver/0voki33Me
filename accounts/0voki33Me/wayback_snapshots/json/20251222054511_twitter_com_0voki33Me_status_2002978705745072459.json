@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002762091938390017"
+      ],
+      "media_source_tweet_id": [
+        "2002762101237162330"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002978705745072459",
+    "created_at": "2025-12-22T05:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T06:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002978705745072459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390870974921203714",
+          "start": 3,
+          "username": "TAMABI_MANGA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v1iWLmWPZl",
+          "end": 41,
+          "expanded_url": "https://x.com/TAMABI_MANGA/status/2002762101237162330/photo/1",
+          "media_key": "3_2002762091938390017",
+          "start": 18,
+          "url": "https://t.co/v1iWLmWPZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002978705745072459",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002762101237162330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TAMABI_MANGA: https://t.co/v1iWLmWPZl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2002762091938390017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8s9gvObIAE7NO7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002762091938390017"
+          ],
+          "media_source_tweet_id": [
+            "2002762101237162330"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002978705745072459",
+        "created_at": "2025-12-22T05:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002978705745072459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390870974921203714",
+              "start": 3,
+              "username": "TAMABI_MANGA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1iWLmWPZl",
+              "end": 41,
+              "expanded_url": "https://x.com/TAMABI_MANGA/status/2002762101237162330/photo/1",
+              "media_key": "3_2002762091938390017",
+              "start": 18,
+              "url": "https://t.co/v1iWLmWPZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002978705745072459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002762101237162330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TAMABI_MANGA: https://t.co/v1iWLmWPZl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002762091938390017"
+          ]
+        },
+        "author_id": "1390870974921203714",
+        "conversation_id": "2002762101237162330",
+        "created_at": "2025-12-21T15:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002762101237162330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1iWLmWPZl",
+              "end": 23,
+              "expanded_url": "https://x.com/TAMABI_MANGA/status/2002762101237162330/photo/1",
+              "media_key": "3_2002762091938390017",
+              "start": 0,
+              "url": "https://t.co/v1iWLmWPZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002762101237162330",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 7436,
+          "like_count": 538,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v1iWLmWPZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 544,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-08T03:27:46.000Z",
+        "description": "多摩美術大学漫画部公式アカウントです。質問等はDMにて。 2025冬部誌「ケンカ」製作中！ https://t.co/DmGwp0qKgA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tamanga.booth.pm",
+                "end": 69,
+                "expanded_url": "https://tamanga.booth.pm/",
+                "start": 46,
+                "url": "https://t.co/DmGwp0qKgA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tanmachang.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://tanmachang.jimdofree.com/",
+                "start": 0,
+                "url": "https://t.co/HPRbWoNMOe"
+              }
+            ]
+          }
+        },
+        "id": "1390870974921203714",
+        "location": "八王子キャンパス　サークル棟112号室",
+        "name": "多摩美術大学漫画部",
+        "pinned_tweet_id": "1993500049595310591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390872668501544965/eE6tRua9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 156,
+          "like_count": 241,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/HPRbWoNMOe",
+        "username": "TAMABI_MANGA",
+        "verified": false
+      }
+    ]
+  }
+}

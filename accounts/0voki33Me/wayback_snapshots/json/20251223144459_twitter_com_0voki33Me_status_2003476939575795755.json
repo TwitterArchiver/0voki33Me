@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2003469541976998132",
+    "created_at": "2025-12-23T14:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T15:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003476939575795755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003476939575795755",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003469541976998132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 亚文化美少女来了⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2003469481516081152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83A4OwaIAAIZ66.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2003469481482551301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83A4OoagAUJxue.jpg",
+        "width": 900
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003469481511878657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83A4OvaAAEg0EZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003469481482551299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83A4OoagAM-ZWA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2003469541976998132",
+        "created_at": "2025-12-23T14:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003476939575795755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003476939575795755",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003469541976998132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 亚文化美少女来了⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003469481516081152",
+            "3_2003469481482551301",
+            "3_2003469481511878657",
+            "3_2003469481482551299"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003469541976998132",
+        "created_at": "2025-12-23T14:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003469541976998132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qK6CpVmZqA",
+              "end": 39,
+              "expanded_url": "https://x.com/AMadelaina/status/2003469541976998132/photo/1",
+              "media_key": "3_2003469481516081152",
+              "start": 16,
+              "url": "https://t.co/qK6CpVmZqA"
+            },
+            {
+              "display_url": "pic.x.com/qK6CpVmZqA",
+              "end": 39,
+              "expanded_url": "https://x.com/AMadelaina/status/2003469541976998132/photo/1",
+              "media_key": "3_2003469481482551301",
+              "start": 16,
+              "url": "https://t.co/qK6CpVmZqA"
+            },
+            {
+              "display_url": "pic.x.com/qK6CpVmZqA",
+              "end": 39,
+              "expanded_url": "https://x.com/AMadelaina/status/2003469541976998132/photo/1",
+              "media_key": "3_2003469481511878657",
+              "start": 16,
+              "url": "https://t.co/qK6CpVmZqA"
+            },
+            {
+              "display_url": "pic.x.com/qK6CpVmZqA",
+              "end": 39,
+              "expanded_url": "https://x.com/AMadelaina/status/2003469541976998132/photo/1",
+              "media_key": "3_2003469481482551299",
+              "start": 16,
+              "url": "https://t.co/qK6CpVmZqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003469541976998132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新买的裙子们啊～快夸主播的衣品 https://t.co/qK6CpVmZqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 551,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2001675365220258045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001801988561080321/KVTm5ajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 132,
+          "like_count": 151,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

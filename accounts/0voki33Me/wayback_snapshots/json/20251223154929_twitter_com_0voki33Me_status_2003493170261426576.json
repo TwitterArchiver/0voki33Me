@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2003485307354906911",
+    "created_at": "2025-12-23T15:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T16:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003493170261426576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003493170261426576",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003485307354906911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 好亚好美omg，审美积极中……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12166,
+        "height": 1280,
+        "media_key": "13_2003485238299926529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003485238299926529/img/rp6BMuALEWEIffyM.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003485238299926529/vid/avc1/320x568/IqIQUXRfswcrwjbP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003485238299926529/vid/avc1/480x852/uGdZ8olYBDJ2At5m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003485238299926529/vid/avc1/720x1280/xSmOD2rh8-ApHKh_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003485238299926529/pl/dm4z1sTo_PCRQNVq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2003485307354906911",
+        "created_at": "2025-12-23T15:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003493170261426576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003493170261426576",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003485307354906911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 好亚好美omg，审美积极中……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003485238299926529"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2003485307354906911",
+        "created_at": "2025-12-23T15:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003485307354906911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdRGKy0g8W",
+              "end": 30,
+              "expanded_url": "https://x.com/AMadelaina/status/2003485307354906911/video/1",
+              "media_key": "13_2003485238299926529",
+              "start": 7,
+              "url": "https://t.co/VdRGKy0g8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003485307354906911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "青色的苹果～ https://t.co/VdRGKy0g8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 554,
+          "like_count": 2399,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2001675365220258045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001801988561080321/KVTm5ajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 132,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 64
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1968683615375495489",
+    "created_at": "2025-09-18T23:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T00:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968826859014991933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827665846128484352",
+          "start": 0,
+          "username": "Angerika_Von"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968826859014991933",
+    "in_reply_to_user_id": "1827665846128484352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968753786903482790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angerika_Von 蟹蟹宝宝…🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1968683615375495489",
+        "created_at": "2025-09-18T23:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968826859014991933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827665846128484352",
+              "start": 0,
+              "username": "Angerika_Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968826859014991933",
+        "in_reply_to_user_id": "1827665846128484352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968753786903482790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angerika_Von 蟹蟹宝宝…🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827665846128484352",
+        "conversation_id": "1968683615375495489",
+        "created_at": "2025-09-18T19:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T20:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968753786903482790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968753786903482790",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968683615375495489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 擦擦血 辛苦啦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "d1E;3",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 164,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T11:14:38.000Z",
+        "description": "嗯...单纯为了顺从自己的内心\n为了，涩涩与和平...\n极度无趣的夸夸人\n应该算得上是死宅了",
+        "id": "1827665846128484352",
+        "location": "wuhan",
+        "name": "缘落秋枫",
+        "pinned_tweet_id": "1827925500137804284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831570241576693760/OM8AG6T9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 92,
+          "like_count": 2820,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1551
+        },
+        "username": "Angerika_Von",
+        "verified": false
+      }
+    ]
+  }
+}

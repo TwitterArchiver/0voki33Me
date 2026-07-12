@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2009571457219830178",
+    "created_at": "2026-01-09T16:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009665923125596368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722890300757291008",
+          "start": 0,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009665923125596368",
+    "in_reply_to_user_id": "1722890300757291008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009571457219830178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baisechenyi 对！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009571437888389121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Nuk1obwAEpXDw.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2009571457219830178",
+        "created_at": "2026-01-09T16:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009665923125596368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722890300757291008",
+              "start": 0,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009665923125596368",
+        "in_reply_to_user_id": "1722890300757291008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009571457219830178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baisechenyi 对！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009571437888389121"
+          ]
+        },
+        "author_id": "1722890300757291008",
+        "conversation_id": "2009571457219830178",
+        "created_at": "2026-01-09T10:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009571457219830178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKJnv4e9RG",
+              "end": 60,
+              "expanded_url": "https://x.com/baisechenyi/status/2009571457219830178/photo/1",
+              "media_key": "3_2009571437888389121",
+              "start": 37,
+              "url": "https://t.co/dKJnv4e9RG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009571457219830178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10078,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对每次出去玩穿完束腰脱下来就会欣赏自己的腰 好喜欢穿束腰啊 紧紧的好爽 https://t.co/dKJnv4e9RG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 773,
+          "like_count": 3121,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1465
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水清水清水 | 06 | 177 | esfp | 喜欢发碎碎念和自拍照| 私信只回礼貌的还有大奶照和口令👅",
+        "id": "1722890300757291008",
+        "location": "不闲聊 不是4i/s",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000813771892379648/kqakEFAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10955,
+          "following_count": 451,
+          "like_count": 20814,
+          "listed_count": 15,
+          "media_count": 116,
+          "tweet_count": 6172
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

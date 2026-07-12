@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2074895604778664370",
+    "created_at": "2026-07-10T10:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075524515233513663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055010868174143488",
+          "start": 0,
+          "username": "Tiegang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075524515233513663",
+    "in_reply_to_user_id": "2055010868174143488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075431583994302720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiegang114514 碘伏真神了吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075431583994302720].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075431583994302720",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075431583994302720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2074895604778664370",
+        "created_at": "2026-07-10T10:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075524515233513663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055010868174143488",
+              "start": 0,
+              "username": "Tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075524515233513663",
+        "in_reply_to_user_id": "2055010868174143488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075431583994302720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiegang114514 碘伏真神了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1135,
+          "like_count": 6969,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 7147
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T19:43:08.000Z",
+        "description": "永锁号，就这么样吧\n大号@NMD_China喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "NMD_China"
+              }
+            ]
+          }
+        },
+        "id": "2055010868174143488",
+        "location": "小樽",
+        "name": "社恐的鱼睡大觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058375320877559808/nFWGLM_N_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 93,
+          "like_count": 3402,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "Tiegang114514",
+        "verified": false
+      }
+    ]
+  }
+}

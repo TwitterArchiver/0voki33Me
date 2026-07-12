@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2010295788661100791",
+    "created_at": "2026-01-11T13:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010338911999193397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010338911999193397",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010295788661100791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 加油🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2010295788661100791",
+        "created_at": "2026-01-11T13:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010338911999193397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968225364163141632",
+              "start": 0,
+              "username": "Deborah90330371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010338911999193397",
+        "in_reply_to_user_id": "1968225364163141632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010295788661100791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deborah90330371 加油🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968225364163141632",
+        "conversation_id": "2010295788661100791",
+        "created_at": "2026-01-11T10:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010295788661100791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010295788661100791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天考试记得带学生证或者身份证。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 779,
+          "like_count": 3168,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1509
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。有问题发小号@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "dai7831"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A528546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A528546",
+                "start": 0,
+                "url": "https://t.co/RuKjS3c4S8"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "location": "无🚪的意思是 想认识我门都没有。只和喜欢的人玩",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2006253707105828937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 108,
+          "like_count": 2199,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/RuKjS3c4S8",
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

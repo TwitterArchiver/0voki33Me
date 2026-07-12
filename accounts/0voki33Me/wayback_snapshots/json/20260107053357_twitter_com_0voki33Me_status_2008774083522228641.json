@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2008774083522228641",
+    "created_at": "2026-01-07T05:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008774083522228641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/choiisanf/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/choiisanf/status/2008419950550282324",
+          "start": 5,
+          "url": "https://t.co/C44ORZYXRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008774083522228641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008419950550282324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱， https://t.co/C44ORZYXRE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64966,
+        "height": 1024,
+        "media_key": "13_2008419871869333506",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008419871869333506/img/bJbrntTMRYZhmlAJ.jpg",
+        "public_metrics": {
+          "view_count": 1204649
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008419871869333506/vid/avc1/320x568/oUGqW2mGa7AnuCsm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008419871869333506/vid/avc1/480x852/zAMktnFimK2GYUkK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008419871869333506/vid/avc1/576x1024/H4D2xvZ31_Qmwi2U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008419871869333506/pl/S0I5izSauctRvR3u.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2008774083522228641",
+        "created_at": "2026-01-07T05:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008774083522228641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/choiisanf/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/choiisanf/status/2008419950550282324",
+              "start": 5,
+              "url": "https://t.co/C44ORZYXRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008774083522228641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008419950550282324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱， https://t.co/C44ORZYXRE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008419871869333506"
+          ]
+        },
+        "author_id": "1725420710368260097",
+        "conversation_id": "2008419950550282324",
+        "created_at": "2026-01-06T06:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T07:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008419950550282324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZ7vArCc1T",
+              "end": 27,
+              "expanded_url": "https://x.com/choiisanf/status/2008419950550282324/video/1",
+              "media_key": "13_2008419871869333506",
+              "start": 4,
+              "url": "https://t.co/hZ7vArCc1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008419950550282324",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1617,
+          "impression_count": 2655767,
+          "like_count": 19030,
+          "quote_count": 202,
+          "reply_count": 243,
+          "retweet_count": 1155
+        },
+        "reply_settings": "everyone",
+        "text": "🤤🤤🤤 https://t.co/hZ7vArCc1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///🚪52过了什么福利也没有只能看到我更多无聊的日常///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 748,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1355
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T07:48:58.000Z",
+        "description": "need money",
+        "id": "1725420710368260097",
+        "name": "ayang 💫",
+        "pinned_tweet_id": "1982269807631409164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944550590761111553/A3GwD2qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7310,
+          "following_count": 3901,
+          "like_count": 51978,
+          "listed_count": 15,
+          "media_count": 1020,
+          "tweet_count": 61546
+        },
+        "username": "choiisanf",
+        "verified": true
+      }
+    ]
+  }
+}

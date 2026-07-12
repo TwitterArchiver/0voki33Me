@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013614486499008627",
+    "created_at": "2026-01-20T16:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013648821142589491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1162919446488342528",
+          "start": 0,
+          "username": "PPPygmalion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013648821142589491",
+    "in_reply_to_user_id": "1162919446488342528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013614486499008627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PPPygmalion 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013614420367228928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HLpZCXwAA5JFj.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013614420337836033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HLpY7XQAEoZU4.jpg",
+        "width": 543
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013614420379713536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HLpZFWQAA_MKo.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013614486499008627",
+        "created_at": "2026-01-20T16:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013648821142589491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1162919446488342528",
+              "start": 0,
+              "username": "PPPygmalion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013648821142589491",
+        "in_reply_to_user_id": "1162919446488342528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013614486499008627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PPPygmalion 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013614420367228928",
+            "3_2013614420337836033",
+            "3_2013614420379713536"
+          ]
+        },
+        "author_id": "1162919446488342528",
+        "conversation_id": "2013614486499008627",
+        "created_at": "2026-01-20T14:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013614486499008627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIcsV8uIOf",
+              "end": 170,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013614486499008627/photo/1",
+              "media_key": "3_2013614420367228928",
+              "start": 147,
+              "url": "https://t.co/eIcsV8uIOf"
+            },
+            {
+              "display_url": "pic.x.com/eIcsV8uIOf",
+              "end": 170,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013614486499008627/photo/1",
+              "media_key": "3_2013614420337836033",
+              "start": 147,
+              "url": "https://t.co/eIcsV8uIOf"
+            },
+            {
+              "display_url": "pic.x.com/eIcsV8uIOf",
+              "end": 170,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013614486499008627/photo/1",
+              "media_key": "3_2013614420379713536",
+              "start": 147,
+              "url": "https://t.co/eIcsV8uIOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013614486499008627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "转发并评论这条抽：1314r✖️1、520r✖️2、52r✖️20。挂久一点十天后开奖。\n不用关注，因为我不靠这个起号。\n\n前期提要见主页前几条推文。\nP1是1314r的🚪哥，被端盘子月赚3000的讨口子🚪姐骂没情商。\n评论区是520r的🚪哥，被该🚪姐临时加价讨要不成恼羞成怒，进行疯狂辱骂。\n我原本以为上次52r✖️10就是最后抽奖了。但今天两位入过同一个🚪姐的哥们找到我，提供了被欺骗辱骂的聊天记录。三人协商集资组织这次抽奖。既然入🚪没有反馈，不如将🚪费回馈大家。\nP23是该🚪姐各个社交账号，举报截图可提高获奖概率。\n如果有新的🚪哥提供被欺骗辱骂的聊天记录，有后续抽奖的可能性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2098,
+          "like_count": 25,
+          "quote_count": 5,
+          "reply_count": 54,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "转发并评论这条抽：1314r✖️1、520r✖️2、52r✖️20。挂久一点十天后开奖。\n不用关注，因为我不靠这个起号。\n\n前期提要见主页前几条推文。\nP1是1314r的🚪哥，被端盘子月赚3000的讨口子🚪姐骂没情商。\n评论区是520r的🚪哥，被该🚪姐临时加价讨要不成恼羞成怒，进行疯狂辱骂。 https://t.co/eIcsV8uIOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 853,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T02:49:48.000Z",
+        "description": "最想要的死法是戴耳机听歌时手机塞进嘴巴里突发爆炸",
+        "id": "1162919446488342528",
+        "name": "皮格马利翁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472955501373980672/t18sP6xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1438,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 21
+        },
+        "username": "PPPygmalion",
+        "verified": false
+      }
+    ]
+  }
+}

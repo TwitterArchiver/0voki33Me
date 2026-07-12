@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2031990158846042223",
+    "created_at": "2026-03-12T09:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032027761523769704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2019355322541043720",
+          "start": 0,
+          "username": "zznaah"
+        },
+        {
+          "end": 23,
+          "id": "1243590342911410176",
+          "start": 8,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032027761523769704",
+    "in_reply_to_user_id": "2019355322541043720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031990158846042223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zznaah @bing2000100830 蹲蹲🥺🤲🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2031990158846042223",
+        "created_at": "2026-03-12T09:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032027761523769704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2019355322541043720",
+              "start": 0,
+              "username": "zznaah"
+            },
+            {
+              "end": 23,
+              "id": "1243590342911410176",
+              "start": 8,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032027761523769704",
+        "in_reply_to_user_id": "2019355322541043720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031990158846042223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zznaah @bing2000100830 蹲蹲🥺🤲🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019355322541043720",
+        "conversation_id": "2031990158846042223",
+        "created_at": "2026-03-12T07:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031990158846042223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031990158846042223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "互fo转帖抽奖∽\n一等奖：52r✖️1\n二等奖：愈美片✖️2（可折现\n三等奖：5.2r✖️5\n参与奖：1.88r✖️20\n3.18开奖，直接关注就好了我会回关哦∽❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 1146,
+          "like_count": 5618,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T10:21:23.000Z",
+        "description": "互fo直接关注就好，我会回关的\n当朋友圈发",
+        "id": "2019355322541043720",
+        "location": "上海",
+        "name": "全网最懵逼账号。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031787398733115393/cZGMh5vV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 59,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "zznaah",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "在月球",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "pinned_tweet_id": "2027024274922541325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 598,
+          "like_count": 15946,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 952
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

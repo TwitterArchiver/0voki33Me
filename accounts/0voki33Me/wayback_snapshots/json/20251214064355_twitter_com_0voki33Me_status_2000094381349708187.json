@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1941328511769182209"
+      ],
+      "media_source_tweet_id": [
+        "1941328554463199643"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2000094381349708187",
+    "created_at": "2025-12-14T06:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000094381349708187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1738347949111885824",
+          "start": 3,
+          "username": "CigarretesASBra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hvi5Iew9bK",
+          "end": 44,
+          "expanded_url": "https://x.com/CigarretesASBra/status/1941328554463199643/video/1",
+          "media_key": "7_1941328511769182209",
+          "start": 21,
+          "url": "https://t.co/hvi5Iew9bK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000094381349708187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1084
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999472020749451413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CigarretesASBra: https://t.co/hvi5Iew9bK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31161,
+        "height": 720,
+        "media_key": "7_1941328511769182209",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941328511769182209/pu/img/bA0R8uOUNZubcHAP.jpg",
+        "public_metrics": {
+          "view_count": 36329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941328511769182209/pu/vid/avc1/360x270/hKPK6F680WAFAMlg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941328511769182209/pu/vid/avc1/480x360/_i48kYmIOsHR8HUk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941328511769182209/pu/vid/avc1/960x720/fQtKqC6dnoxBWVin.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941328511769182209/pu/pl/7kfxO3i8GFxmmWdl.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941328511769182209"
+          ],
+          "media_source_tweet_id": [
+            "1941328554463199643"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2000094381349708187",
+        "created_at": "2025-12-14T06:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000094381349708187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1738347949111885824",
+              "start": 3,
+              "username": "CigarretesASBra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvi5Iew9bK",
+              "end": 44,
+              "expanded_url": "https://x.com/CigarretesASBra/status/1941328554463199643/video/1",
+              "media_key": "7_1941328511769182209",
+              "start": 21,
+              "url": "https://t.co/hvi5Iew9bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000094381349708187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1084
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999472020749451413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CigarretesASBra: https://t.co/hvi5Iew9bK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941328511769182209"
+          ],
+          "media_source_tweet_id": [
+            "1941328554463199643"
+          ]
+        },
+        "author_id": "1738347949111885824",
+        "conversation_id": "1999472020749451413",
+        "created_at": "2025-12-12T13:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999472020749451413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvi5Iew9bK",
+              "end": 23,
+              "expanded_url": "https://x.com/CigarretesASBra/status/1941328554463199643/video/1",
+              "media_key": "7_1941328511769182209",
+              "start": 0,
+              "url": "https://t.co/hvi5Iew9bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999472020749451413",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 46203,
+          "like_count": 4843,
+          "quote_count": 18,
+          "reply_count": 3,
+          "retweet_count": 1084
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hvi5Iew9bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出现生了请不要告诉我及任何人关于这个账号中我做的事情..这是我的第二人格，感恩///善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 480,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T23:58:26.000Z",
+        "description": "uma conta BR criada e gerenciada por fãs da banda Cigarettes After Sex. Aqui você terá informações, trechos de músicas e curiosidades sobre!",
+        "id": "1738347949111885824",
+        "name": "Central Cigarettes After Sex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738348303769587712/wrolnv2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6895,
+          "following_count": 134,
+          "like_count": 5360,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 1264
+        },
+        "username": "CigarretesASBra",
+        "verified": false
+      }
+    ]
+  }
+}

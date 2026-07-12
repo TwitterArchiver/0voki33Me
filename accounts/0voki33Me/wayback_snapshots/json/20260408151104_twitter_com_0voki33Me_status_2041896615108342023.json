@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2041893059257151530",
+    "created_at": "2026-04-08T15:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041896615108342023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1901190687284178944",
+          "start": 0,
+          "username": "DLJDZXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041896615108342023",
+    "in_reply_to_user_id": "1901190687284178944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041893059257151530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DLJDZXZ 这期神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1739,
+        "media_key": "3_2041893054169411588",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZC6hMa8AQ7jC7.jpg",
+        "width": 949
+      },
+      {
+        "height": 727,
+        "media_key": "3_2041893052701433856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZC6bubYAAnfSm.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2041893059257151530",
+        "created_at": "2026-04-08T15:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041896615108342023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1901190687284178944",
+              "start": 0,
+              "username": "DLJDZXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041896615108342023",
+        "in_reply_to_user_id": "1901190687284178944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041893059257151530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DLJDZXZ 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041893054169411588",
+            "3_2041893052701433856"
+          ]
+        },
+        "author_id": "1901190687284178944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041893059257151530",
+        "created_at": "2026-04-08T14:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041893059257151530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7AhMEZ6gq",
+              "end": 57,
+              "expanded_url": "https://x.com/DLJDZXZ/status/2041893059257151530/photo/1",
+              "media_key": "3_2041893054169411588",
+              "start": 34,
+              "url": "https://t.co/L7AhMEZ6gq"
+            },
+            {
+              "display_url": "pic.x.com/L7AhMEZ6gq",
+              "end": 57,
+              "expanded_url": "https://x.com/DLJDZXZ/status/2041893059257151530/photo/1",
+              "media_key": "3_2041893052701433856",
+              "start": 34,
+              "url": "https://t.co/L7AhMEZ6gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041893059257151530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙏广州禁毒我做错了什么😭我这篇帖子甚至都没有提到od，我是好孩子。 https://t.co/L7AhMEZ6gq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1142,
+          "like_count": 6149,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 5535
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T08:36:02.000Z",
+        "description": "当记录了...shtwt❗想交友想有一搭没一搭的聊天。一个自我认知极度不稳的傻逼BPD，无法理解自己。毫无文化无法正常生活边缘至极，单机。渴望社交但社交无能💬zzZ",
+        "id": "1901190687284178944",
+        "name": "p6e❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032224862874533888/iVt2frYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 220,
+          "like_count": 2533,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 472
+        },
+        "username": "DLJDZXZ",
+        "verified": false
+      }
+    ]
+  }
+}

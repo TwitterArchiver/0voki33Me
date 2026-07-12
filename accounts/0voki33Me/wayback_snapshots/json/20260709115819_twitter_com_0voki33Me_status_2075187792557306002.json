@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2075176399372210462",
+    "created_at": "2026-07-09T11:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075187792557306002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040300783678410752",
+          "start": 0,
+          "username": "TheFirstKidz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075187792557306002",
+    "in_reply_to_user_id": "2040300783678410752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075176399372210462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheFirstKidz 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075176371769483264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyB6lWaoAAmFts.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075176389314269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyB7mta0AAsRNt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2075176399372210462",
+        "created_at": "2026-07-09T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075187792557306002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040300783678410752",
+              "start": 0,
+              "username": "TheFirstKidz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187792557306002",
+        "in_reply_to_user_id": "2040300783678410752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075176399372210462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheFirstKidz 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075176371769483264",
+            "3_2075176389314269184"
+          ]
+        },
+        "author_id": "2040300783678410752",
+        "conversation_id": "2075176399372210462",
+        "created_at": "2026-07-09T11:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075176399372210462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yybR3B7W6",
+              "end": 39,
+              "expanded_url": "https://x.com/TheFirstKidz/status/2075176399372210462/photo/1",
+              "media_key": "3_2075176371769483264",
+              "start": 16,
+              "url": "https://t.co/7yybR3B7W6"
+            },
+            {
+              "display_url": "pic.x.com/7yybR3B7W6",
+              "end": 39,
+              "expanded_url": "https://x.com/TheFirstKidz/status/2075176399372210462/photo/1",
+              "media_key": "3_2075176389314269184",
+              "start": 16,
+              "url": "https://t.co/7yybR3B7W6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075176399372210462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我穿得有点对味，但是这么穿好热 https://t.co/7yybR3B7W6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1135,
+          "like_count": 6960,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 7122
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T05:30:49.000Z",
+        "description": "前世@keaiiea\n🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "2040300783678410752",
+        "location": "千葉 浦安市",
+        "name": "Jonas三世",
+        "pinned_tweet_id": "2074128196937863225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116186527404032/KdlCGOlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 231,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "TheFirstKidz",
+        "verified": false
+      }
+    ]
+  }
+}

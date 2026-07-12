@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2008221739860586526",
+    "created_at": "2026-01-05T16:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T17:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008221739860586526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007391294503694338",
+          "start": 3,
+          "username": "bbokiediary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008221739860586526",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 732
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007727971415757188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbokiediary_: im bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2008221739860586526",
+        "created_at": "2026-01-05T16:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008221739860586526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007391294503694338",
+              "start": 3,
+              "username": "bbokiediary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008221739860586526",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 732
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007727971415757188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbokiediary_: im bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007391294503694338",
+        "conversation_id": "2007727971415757188",
+        "created_at": "2026-01-04T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007727971415757188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007727971415757188",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 11099,
+          "like_count": 2189,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 732
+        },
+        "reply_settings": "everyone",
+        "text": "im bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh\nim sad = sh \nim bored = sh\nim happy = sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///🚪52过了什么福利也没有只能看到我更多无聊的日常///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 725,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1321
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T10:00:43.000Z",
+        "description": "shtwt, cigarrotwt, edtwt, bdsmtwt, kpoptwt. ♡⁠(⁠˃͈⁠ ⁠દ⁠ ⁠˂͈⁠ ⁠༶⁠ ⁠)                                                                    \nbusco mutis !! :3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bbokiwfefi?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bbokiwfefi?igsh=Z2swdzRqYTRvZWpm",
+                "start": 0,
+                "url": "https://t.co/on9zQftqHi"
+              }
+            ]
+          }
+        },
+        "id": "2007391294503694338",
+        "name": "˙ . ꒷ 𝓬𝓸𝓷𝓮𝓳𝓲𝓽𝓸 𝓹𝓸𝓶𝓹𝓸𝓼𝓸. 𖦹˙—",
+        "pinned_tweet_id": "2008070716248444935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007602474308263936/Ij7bhaz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/on9zQftqHi",
+        "username": "bbokiediary_",
+        "verified": false
+      }
+    ]
+  }
+}

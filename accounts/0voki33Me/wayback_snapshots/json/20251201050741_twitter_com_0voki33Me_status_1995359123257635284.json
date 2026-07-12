@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1995144894881603631",
+    "created_at": "2025-12-01T05:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995359123257635284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916755437535604736",
+          "start": 0,
+          "username": "dongbeibisima89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995359123257635284",
+    "in_reply_to_user_id": "1916755437535604736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995144894881603631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongbeibisima89 🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1995144894881603631",
+        "created_at": "2025-12-01T05:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995359123257635284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916755437535604736",
+              "start": 0,
+              "username": "dongbeibisima89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995359123257635284",
+        "in_reply_to_user_id": "1916755437535604736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995144894881603631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongbeibisima89 🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916755437535604736",
+        "conversation_id": "1995144894881603631",
+        "created_at": "2025-11-30T14:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995144894881603631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samuelliu54454…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/samuelliu544544/status/1991864395560034773",
+              "start": 51,
+              "url": "https://t.co/JBHCEIRDjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995144894881603631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 31837,
+          "like_count": 503,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991864395560034773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "织女比你们支楠有逼数多了，至少知道发照片要发漂亮饭，吃猪食还好意思到处说，难怪彩礼要收你们三十八万八 https://t.co/JBHCEIRDjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 248,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 203
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T07:24:50.000Z",
+        "description": "管东百逼叫满洲人等于祝福它们死🐴",
+        "id": "1916755437535604736",
+        "location": "哈尔滨，中华人民共和国",
+        "name": "曲婉婷",
+        "pinned_tweet_id": "1940215539986768053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983106609485393920/VFM474AJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 45,
+          "like_count": 250,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 911
+        },
+        "username": "dongbeibisima89",
+        "verified": false
+      }
+    ]
+  }
+}

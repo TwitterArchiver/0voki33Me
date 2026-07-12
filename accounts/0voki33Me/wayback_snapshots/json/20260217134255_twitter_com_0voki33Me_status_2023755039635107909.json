@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2023753711714275785",
+    "created_at": "2026-02-17T13:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023755039635107909"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023755039635107909",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023753711714275785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道了，是为了政治正确对吧🙄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2023753696270839808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXRQ7MbcAADq5T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023753711714275785",
+        "created_at": "2026-02-17T13:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023755039635107909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023755039635107909",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023753711714275785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道了，是为了政治正确对吧🙄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023753696270839808"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023753711714275785",
+        "created_at": "2026-02-17T13:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023753711714275785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVwBs5W17C",
+              "end": 130,
+              "expanded_url": "https://x.com/0voki33Me/status/2023753711714275785/photo/1",
+              "media_key": "3_2023753696270839808",
+              "start": 107,
+              "url": "https://t.co/iVwBs5W17C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023753711714275785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我他妈不理解呀，为啥上一秒说不会放弃消灭他们下一秒俩人搞在一起了呀，哎呀我操，你还知道她是在用这种方式消除在你心里两种人的隔阂吗我操呀，我操呀，我不行了呀，我求你了呀，前女友才死多久呀，我求你了呀，哎呀我操呀 https://t.co/iVwBs5W17C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 1078,
+          "like_count": 5142,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3581
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

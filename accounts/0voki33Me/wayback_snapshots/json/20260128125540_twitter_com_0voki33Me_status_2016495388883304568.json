@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2016495388883304568",
+    "created_at": "2026-01-28T12:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T13:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016495388883304568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/k1rak1ra818/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/k1rak1ra818/status/2016113417472335975",
+          "start": 4,
+          "url": "https://t.co/3zgHZW65QU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016495388883304568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016113417472335975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我同意 https://t.co/3zgHZW65QU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2016495388883304568",
+        "created_at": "2026-01-28T12:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016495388883304568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k1rak1ra818/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/k1rak1ra818/status/2016113417472335975",
+              "start": 4,
+              "url": "https://t.co/3zgHZW65QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016495388883304568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016113417472335975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我同意 https://t.co/3zgHZW65QU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "2016113417472335975",
+        "created_at": "2026-01-27T11:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016113417472335975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WinbornN94577/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/WinbornN94577/status/2016082855982727633",
+              "start": 96,
+              "url": "https://t.co/3lapkgGHPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016113417472335975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8818,
+          "like_count": 151,
+          "quote_count": 10,
+          "reply_count": 12,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016082855982727633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的社会观点有多“进步”\n🟥支持同性婚姻\n🟥毒品除罪化\n🟥堕胎合法化\n🟥承认跨性别\n🟥同意第三种性别的存在\n🟥废除死刑\n🟥世俗主义\n🟥女性主义\n🟥反对体罚小孩\n🟥️允许多边恋\n🟩️所有人死光 https://t.co/3lapkgGHPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 930,
+          "like_count": 4248,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "病み垢。同類會回fo。來自火星。 無條件嘴臭。寵物：@anacciluno_ch  信徒：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "anacciluno_ch"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/K1raK1ra818",
+                "end": 23,
+                "expanded_url": "https://t.me/K1raK1ra818",
+                "start": 0,
+                "url": "https://t.co/dMCtcSHchg"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "2016113417472335975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000211132230127616/XRMLJy6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 590,
+          "like_count": 9205,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/dMCtcSHchg",
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

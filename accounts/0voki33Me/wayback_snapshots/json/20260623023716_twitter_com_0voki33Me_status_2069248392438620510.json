@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2068543565668798688",
+    "created_at": "2026-06-23T02:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069248392438620510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713390803438170112",
+          "start": 0,
+          "username": "0711C1mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069248392438620510",
+    "in_reply_to_user_id": "1713390803438170112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069245347206205915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0711C1mo 啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2068543565668798688",
+        "created_at": "2026-06-23T02:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069248392438620510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713390803438170112",
+              "start": 0,
+              "username": "0711C1mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069248392438620510",
+        "in_reply_to_user_id": "1713390803438170112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069245347206205915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0711C1mo 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713390803438170112",
+        "conversation_id": "2068543565668798688",
+        "created_at": "2026-06-23T02:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069245347206205915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069245347206205915",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068543565668798688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 我不行了 我上次和我朋友出去 红灯 我朋友：走你手上那条斑马线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1129,
+          "like_count": 6874,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 6990
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T03:06:27.000Z",
+        "description": "自伤 sub/m  我们痛过，我们活过",
+        "id": "1713390803438170112",
+        "location": "⚰️",
+        "name": "今",
+        "pinned_tweet_id": "2069244437512012107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025230355943309313/5ZEuJa5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 146,
+          "like_count": 2603,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "0711C1mo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014764724769202483",
+    "created_at": "2026-01-23T18:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T19:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014764724769202483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1720665183188922368",
+          "start": 29,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/loong001116/st…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/loong001116/status/2014683750056263927",
+          "start": 35,
+          "url": "https://t.co/XAs7V9vlGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014764724769202483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014683750056263927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请根据我发过的所有推文和互动推测我的mbti最有可能是什么@grok https://t.co/XAs7V9vlGA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014764724769202483",
+        "created_at": "2026-01-23T18:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014764724769202483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/loong001116/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/loong001116/status/2014683750056263927",
+              "start": 35,
+              "url": "https://t.co/XAs7V9vlGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014764724769202483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014683750056263927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请根据我发过的所有推文和互动推测我的mbti最有可能是什么@grok https://t.co/XAs7V9vlGA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2014683750056263927",
+        "created_at": "2026-01-23T12:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014683750056263927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/mukdengise/status/2014665117817057689",
+              "start": 35,
+              "url": "https://t.co/p9VbQQeCR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014683750056263927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014665117817057689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请根据我发过的所有推文和互动推测我的mbti最有可能是什么@grok https://t.co/p9VbQQeCR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 890,
+          "like_count": 3846,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7635568,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5872,
+          "media_count": 7873296,
+          "tweet_count": 94254689
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "仅仅只是激进酷儿主义，亲酷儿的女权和男权我都会关注，介意可block",
+        "id": "1662723831533027329",
+        "location": "Mars",
+        "name": "8骟顺✂️9图直🔪6劳荣枝4(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2011815268020830292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008924596767260672/WIx1CBN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1163,
+          "like_count": 3993,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2946
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

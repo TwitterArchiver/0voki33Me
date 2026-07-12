@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2003475951494267056",
+    "created_at": "2025-12-23T14:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T15:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003475951494267056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bian_fu61115/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/bian_fu61115/status/2003440212861682128",
+          "start": 10,
+          "url": "https://t.co/gdrc5A5pEr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003475951494267056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003440212861682128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操呀……萌成啥了 https://t.co/gdrc5A5pEr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7600,
+        "height": 720,
+        "media_key": "7_2003440181387636736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003440181387636736/pu/img/DmOe5oEm3LZxWN8C.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003440181387636736/pu/vid/avc1/480x270/eJWk-xNpVub0MVD3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003440181387636736/pu/vid/avc1/640x360/hP4IMQ8ATMLXMTV6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003440181387636736/pu/vid/avc1/1280x720/lsEWsqQ_buYW2Np9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2003440181387636736/pu/pl/POtEojpBwGtL9pYm.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2003475951494267056",
+        "created_at": "2025-12-23T14:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003475951494267056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bian_fu61115/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/bian_fu61115/status/2003440212861682128",
+              "start": 10,
+              "url": "https://t.co/gdrc5A5pEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003475951494267056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003440212861682128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操呀……萌成啥了 https://t.co/gdrc5A5pEr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003440181387636736"
+          ]
+        },
+        "author_id": "1738580629019901952",
+        "conversation_id": "2003440212861682128",
+        "created_at": "2025-12-23T12:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003440212861682128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwupVvj4hp",
+              "end": 27,
+              "expanded_url": "https://x.com/bian_fu61115/status/2003440212861682128/video/1",
+              "media_key": "7_2003440181387636736",
+              "start": 4,
+              "url": "https://t.co/bwupVvj4hp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003440212861682128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹头 https://t.co/bwupVvj4hp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 551,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T15:21:46.000Z",
+        "description": "等等",
+        "id": "1738580629019901952",
+        "location": "🚪188",
+        "name": "qf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807409751355244544/ffAqU2tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 132,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 625
+        },
+        "username": "bian_fu61115",
+        "verified": false
+      }
+    ]
+  }
+}

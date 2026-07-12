@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2069044154676732120",
+    "created_at": "2026-06-22T13:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069044154676732120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fleshuater/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/fleshuater/status/2068696178422685819",
+          "start": 6,
+          "url": "https://t.co/CCnY4VoODr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069044154676732120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068696178422685819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "我想要拥抱 https://t.co/CCnY4VoODr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26633,
+        "height": 576,
+        "media_key": "7_2068696146092994560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068696146092994560/pu/img/eV-vvbyvCyfockjR.jpg",
+        "public_metrics": {
+          "view_count": 36036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068696146092994560/pu/vid/avc1/300x270/x0c6CT7GtfEh4lPj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068696146092994560/pu/vid/avc1/402x360/bl1B31NRfyaG2WmG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068696146092994560/pu/vid/avc1/644x576/ZlyveWnvHzDN_Nfe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068696146092994560/pu/pl/YmHsXFx8k5DwUct2.m3u8?tag=12"
+          }
+        ],
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2069044154676732120",
+        "created_at": "2026-06-22T13:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069044154676732120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fleshuater/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/fleshuater/status/2068696178422685819",
+              "start": 6,
+              "url": "https://t.co/CCnY4VoODr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069044154676732120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068696178422685819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我想要拥抱 https://t.co/CCnY4VoODr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068696146092994560"
+          ]
+        },
+        "author_id": "1588945373938188288",
+        "conversation_id": "2068696178422685819",
+        "created_at": "2026-06-21T14:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068696178422685819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kABlLDDNeR",
+              "end": 27,
+              "expanded_url": "https://x.com/fleshuater/status/2068696178422685819/video/1",
+              "media_key": "7_2068696146092994560",
+              "start": 4,
+              "url": "https://t.co/kABlLDDNeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068696178422685819",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 82543,
+          "like_count": 3991,
+          "quote_count": 54,
+          "reply_count": 9,
+          "retweet_count": 822
+        },
+        "reply_settings": "everyone",
+        "text": "us? https://t.co/kABlLDDNeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1131,
+          "like_count": 6853,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 6969
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T17:24:49.000Z",
+        "description": "com deus depois eu me resolvo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gabiecidio",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gabiecidio",
+                "start": 0,
+                "url": "https://t.co/Qbs6sK9X0C"
+              }
+            ]
+          }
+        },
+        "id": "1588945373938188288",
+        "location": "nb",
+        "name": "gabriela DIABO",
+        "pinned_tweet_id": "2042331415920902299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041368058195771393/kNMIIUNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 201,
+          "like_count": 16057,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 5439
+        },
+        "url": "https://t.co/Qbs6sK9X0C",
+        "username": "fleshuater",
+        "verified": false
+      }
+    ]
+  }
+}

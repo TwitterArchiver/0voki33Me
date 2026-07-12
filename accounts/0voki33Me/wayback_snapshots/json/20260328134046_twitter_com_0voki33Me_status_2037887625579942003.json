@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2037871078236909738",
+    "created_at": "2026-03-28T13:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037887625579942003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757010844578430976",
+          "start": 0,
+          "username": "lvseshiti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037887625579942003",
+    "in_reply_to_user_id": "1757010844578430976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037871078236909738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvseshiti 爹 我来孝你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2037871078236909738",
+        "created_at": "2026-03-28T13:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037887625579942003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757010844578430976",
+              "start": 0,
+              "username": "lvseshiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037887625579942003",
+        "in_reply_to_user_id": "1757010844578430976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037871078236909738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvseshiti 爹 我来孝你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757010844578430976",
+        "conversation_id": "2037871078236909738",
+        "created_at": "2026-03-28T12:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037871078236909738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanyewest/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kanyewest/status/2037843934228123851",
+              "start": 8,
+              "url": "https://t.co/y6HtKLPtoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037871078236909738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037843934228123851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爹 我来孝你了 https://t.co/y6HtKLPtoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1192,
+          "like_count": 6000,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 4837
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T11:56:51.000Z",
+        "description": "大家好这里是绿绿 07 infp  /四爱/穿孔🪡/人体改造🛠/自伤🩸/od💊/摇滚/金属/酒蒙子/香水控/Gothic",
+        "id": "1757010844578430976",
+        "name": "綠绿綠",
+        "pinned_tweet_id": "2032554804241903874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016284462196183040/_NFR6Rph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 648,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 371
+        },
+        "username": "lvseshiti",
+        "verified": false
+      }
+    ]
+  }
+}

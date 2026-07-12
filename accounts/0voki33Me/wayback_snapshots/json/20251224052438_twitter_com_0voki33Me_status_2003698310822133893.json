@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2003698310822133893",
+    "created_at": "2025-12-24T05:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003698310822133893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003698310822133893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003546293768241241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 如果你在美国见到我 我会说hi，如果你在欧洲见到我 我可能是个健谈的家伙，我从来没去过法国所以应该会挺不错的\n但我在中国，我只能看着我一地鸡毛的生活发呆，叹气再叹气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2003698310822133893",
+        "created_at": "2025-12-24T05:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003698310822133893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003698310822133893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003546293768241241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 如果你在美国见到我 我会说hi，如果你在欧洲见到我 我可能是个健谈的家伙，我从来没去过法国所以应该会挺不错的\n但我在中国，我只能看着我一地鸡毛的生活发呆，叹气再叹气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2003546293768241241",
+        "created_at": "2025-12-23T19:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003546293768241241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003546293768241241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在美国见到我 我会说hi，如果你在欧洲见到我 我可能是个健谈的家伙，我从来没去过法国所以应该会挺不错的\n但我在中国，我只能看着我一地鸡毛的生活发呆，叹气再叹气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 569,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.7 (o^^o) ♡｜more moots!｜烟酒割药 四毒俱全｜无政府个人主义🏴｜非二元性别｜朋克摇滚 哲学 小说爱好者｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997881852657549312/35b--OQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 182,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1006
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2068948086781890653",
+    "created_at": "2026-06-22T10:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069003314562531450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069003314562531450",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068948086781890653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 好消肿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068947892870791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZhJZVbQAAqCIG.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 19006,
+        "height": 1280,
+        "media_key": "7_2068947901460705280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068947901460705280/pu/img/JPFrQCUlUWmT6xcw.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068947901460705280/pu/vid/avc1/320x568/7Efr5gXpMGB05e9B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068947901460705280/pu/vid/avc1/480x852/LEVP-C0ov0d_h92u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068947901460705280/pu/vid/avc1/720x1280/r5lbQpp7beatc0CF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068947901460705280/pu/pl/wh_XCy6VVFGtrNk5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2068948086781890653",
+        "created_at": "2026-06-22T10:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069003314562531450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069003314562531450",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068948086781890653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 好消肿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068947892870791168",
+            "7_2068947901460705280"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2068948086781890653",
+        "created_at": "2026-06-22T06:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068948086781890653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzKB5a7Cbh",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2068948086781890653/video/1",
+              "media_key": "3_2068947892870791168",
+              "start": 13,
+              "url": "https://t.co/MzKB5a7Cbh"
+            },
+            {
+              "display_url": "pic.x.com/MzKB5a7Cbh",
+              "end": 36,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2068948086781890653/video/1",
+              "media_key": "7_2068947901460705280",
+              "start": 13,
+              "url": "https://t.co/MzKB5a7Cbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068948086781890653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人开始今天的抽烟任务 https://t.co/MzKB5a7Cbh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1130,
+          "like_count": 6849,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 6971
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 941,
+          "like_count": 17182,
+          "listed_count": 1,
+          "media_count": 935,
+          "tweet_count": 10166
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

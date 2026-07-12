@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2034273725114433710",
+    "created_at": "2026-03-18T15:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T16:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034293158331478285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766084836572172288",
+          "start": 0,
+          "username": "Smertkakput12"
+        },
+        {
+          "end": 29,
+          "id": "1714008587012612097",
+          "start": 15,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034293158331478285",
+    "in_reply_to_user_id": "1766084836572172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034273725114433710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smertkakput12 @angelkawaii2P 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2034273725114433710",
+        "created_at": "2026-03-18T15:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034293158331478285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766084836572172288",
+              "start": 0,
+              "username": "Smertkakput12"
+            },
+            {
+              "end": 29,
+              "id": "1714008587012612097",
+              "start": 15,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034293158331478285",
+        "in_reply_to_user_id": "1766084836572172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034273725114433710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smertkakput12 @angelkawaii2P 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766084836572172288",
+        "conversation_id": "2034273725114433710",
+        "created_at": "2026-03-18T14:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034273725114433710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034273725114433710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 931,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "700fo了！还是想开一个粉福，抽一人2盒pr没有处方我可以帮你买，折现40🥺\n转评赞关抽！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1175,
+          "like_count": 5798,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 4540
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "林鴿｜mha gbc oc｜18歲休學中…在更新負能血圖貓狗和女友姐日常、想互fo我就會直接關注🥺不关男的建政，直fo查成分回",
+        "id": "1766084836572172288",
+        "name": "活到冇瘾TTttt（互fo版",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 605,
+          "like_count": 1130,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 890
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "20↑｜病み垢 置頂必読｜重加工 線下查無此人｜不登校餐券od妹｜🚪座標問題10r一個｜其餘置頂不看拉黑",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "ナミダ#土衛拾叁",
+        "pinned_tweet_id": "1971676121508024661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033791612153958400/sYWO705T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 219,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1538
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2042631695845953814",
+    "created_at": "2026-04-10T15:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042631695845953814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/natsuki_2911/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/natsuki_2911/status/2042482454242738413",
+          "start": 10,
+          "url": "https://t.co/apnjCQC6FK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042631695845953814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042482454242738413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也太舒服了这个看着 https://t.co/apnjCQC6FK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042482448173580288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFha9w9bQAAuRMX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042482448177774593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFha9w-bQAEmimr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2042631695845953814",
+        "created_at": "2026-04-10T15:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042631695845953814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natsuki_2911/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/natsuki_2911/status/2042482454242738413",
+              "start": 10,
+              "url": "https://t.co/apnjCQC6FK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042631695845953814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042482454242738413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也太舒服了这个看着 https://t.co/apnjCQC6FK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042482448173580288",
+            "3_2042482448177774593"
+          ]
+        },
+        "author_id": "1685577326959239168",
+        "conversation_id": "2042482454242738413",
+        "created_at": "2026-04-10T05:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042482454242738413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9MprnIQva",
+              "end": 39,
+              "expanded_url": "https://x.com/natsuki_2911/status/2042482454242738413/photo/1",
+              "media_key": "3_2042482448173580288",
+              "start": 16,
+              "url": "https://t.co/Q9MprnIQva"
+            },
+            {
+              "display_url": "pic.x.com/Q9MprnIQva",
+              "end": 39,
+              "expanded_url": "https://x.com/natsuki_2911/status/2042482454242738413/photo/1",
+              "media_key": "3_2042482448177774593",
+              "start": 16,
+              "url": "https://t.co/Q9MprnIQva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042482454242738413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 249,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "スペ開きながらリスカしてました https://t.co/Q9MprnIQva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1137,
+          "like_count": 6153,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 5604
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T09:06:40.000Z",
+        "description": "ljk 08┋場面緘黙/不安障害/適応障害/パニ障/聴覚過敏┋ 手帳持ち┋ HSP気質┋精神科通院中┋自傷/OD┋お別れはB解┋サブ：@na2ki_2911",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "na2ki_2911"
+              }
+            ]
+          }
+        },
+        "id": "1685577326959239168",
+        "location": "ここまで生きてきたのちょーえらくない？",
+        "name": "✧⁎₊夏姫₊⁎✧",
+        "pinned_tweet_id": "1914292925057695951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968187385688231938/kjJrIhhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 101,
+          "like_count": 1321,
+          "listed_count": 6,
+          "media_count": 200,
+          "tweet_count": 1999
+        },
+        "username": "natsuki_2911",
+        "verified": false
+      }
+    ]
+  }
+}

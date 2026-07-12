@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2040126573588910375",
+    "created_at": "2026-04-03T17:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040126573588910375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pleasehelp070/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/pleasehelp070/status/2039977180554473835",
+          "start": 8,
+          "url": "https://t.co/qnWCNqdAVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040126573588910375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039977180554473835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要，鸭梨，我 https://t.co/qnWCNqdAVY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2040126573588910375",
+        "created_at": "2026-04-03T17:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040126573588910375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pleasehelp070/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/pleasehelp070/status/2039977180554473835",
+              "start": 8,
+              "url": "https://t.co/qnWCNqdAVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040126573588910375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039977180554473835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要，鸭梨，我 https://t.co/qnWCNqdAVY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039977180554473835",
+        "created_at": "2026-04-03T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039977180554473835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039977180554473835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 782,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "有南方朋友最近一直在犯蠢的不要压力他们了好吗？梅雨季来了我们脑子已经开始泡发了，你如果压力我们，我们的前额叶就会像紫菜蛋花汤一样淡淡地碎开，变成鼻涕流出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1144,
+          "like_count": 6089,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 5194
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/焦虑/交流障碍 メンヘラ/查成分回fo/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2040120380342649313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 211,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 296
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

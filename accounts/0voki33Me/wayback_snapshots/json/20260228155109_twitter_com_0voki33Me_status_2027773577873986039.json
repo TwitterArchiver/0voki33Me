@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027773546295136264"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2027773577873986039",
+    "created_at": "2026-02-28T15:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027773577873986039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z6RtVq5s4Q",
+          "end": 29,
+          "expanded_url": "https://x.com/0voki33Me/status/2027773577873986039/photo/1",
+          "media_key": "3_2027773546295136264",
+          "start": 6,
+          "url": "https://t.co/Z6RtVq5s4Q"
+        },
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/0voki33me/status/2027772165626683640",
+          "start": 30,
+          "url": "https://t.co/dINsTCyH0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027773577873986039",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027772165626683640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "撒床上了， https://t.co/Z6RtVq5s4Q https://t.co/dINsTCyH0H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027773546295136264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQZS_fbEAgqg6y.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027772141958275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQYBP7bIAAxdp8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027773546295136264"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2027773577873986039",
+        "created_at": "2026-02-28T15:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027773577873986039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6RtVq5s4Q",
+              "end": 29,
+              "expanded_url": "https://x.com/0voki33Me/status/2027773577873986039/photo/1",
+              "media_key": "3_2027773546295136264",
+              "start": 6,
+              "url": "https://t.co/Z6RtVq5s4Q"
+            },
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/0voki33me/status/2027772165626683640",
+              "start": 30,
+              "url": "https://t.co/dINsTCyH0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027773577873986039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027772165626683640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撒床上了， https://t.co/Z6RtVq5s4Q https://t.co/dINsTCyH0H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027772141958275072"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2027772165626683640",
+        "created_at": "2026-02-28T15:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027772165626683640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMX9co8zVf",
+              "end": 38,
+              "expanded_url": "https://x.com/0voki33Me/status/2027772165626683640/photo/1",
+              "media_key": "3_2027772141958275072",
+              "start": 15,
+              "url": "https://t.co/qMX9co8zVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027772165626683640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牙好痛牙好痛牙好痛吸点dpt https://t.co/qMX9co8zVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 1129,
+          "like_count": 5410,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 3864
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

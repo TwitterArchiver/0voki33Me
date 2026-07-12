@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014917954673234311",
+    "created_at": "2026-01-24T04:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T05:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014917954673234311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loco_alt/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/loco_alt/status/2014568995840786830",
+          "start": 26,
+          "url": "https://t.co/Zm5UUI6YEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014917954673234311",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014568995840786830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Mama I m chasin a ghost,🎵 https://t.co/Zm5UUI6YEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2014568990342000640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Uv0rTaMAAy4uQ.jpg",
+        "width": 731
+      },
+      {
+        "height": 1487,
+        "media_key": "3_2014568990274904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Uv0rDaYAAi5VV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014917954673234311",
+        "created_at": "2026-01-24T04:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014917954673234311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loco_alt/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/loco_alt/status/2014568995840786830",
+              "start": 26,
+              "url": "https://t.co/Zm5UUI6YEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014917954673234311",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014568995840786830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mama I m chasin a ghost,🎵 https://t.co/Zm5UUI6YEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014568990342000640",
+            "3_2014568990274904064"
+          ]
+        },
+        "author_id": "1433281201565945861",
+        "conversation_id": "2014549685759770696",
+        "created_at": "2026-01-23T05:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014568995840786830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1432196878620315649",
+              "start": 0,
+              "username": "brndxix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sex5f3prbJ",
+              "end": 53,
+              "expanded_url": "https://x.com/loco_alt/status/2014568995840786830/photo/1",
+              "media_key": "3_2014568990342000640",
+              "start": 30,
+              "url": "https://t.co/sex5f3prbJ"
+            },
+            {
+              "display_url": "pic.x.com/sex5f3prbJ",
+              "end": 53,
+              "expanded_url": "https://x.com/loco_alt/status/2014568995840786830/photo/1",
+              "media_key": "3_2014568990274904064",
+              "start": 30,
+              "url": "https://t.co/sex5f3prbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014568995840786830",
+        "in_reply_to_user_id": "1432196878620315649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 19279,
+          "like_count": 1328,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014549685759770696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brndxix Do I look… like him… https://t.co/sex5f3prbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 900,
+          "like_count": 3904,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-02T04:10:57.000Z",
+        "description": "If you already follow my main, you don’t need to follow this acc | Main: @PlayzLocomotive",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "PlayzLocomotive"
+              }
+            ]
+          }
+        },
+        "id": "1433281201565945861",
+        "location": "Prbly in my room",
+        "name": "Loco is mad",
+        "pinned_tweet_id": "1831511587938824552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561453682545152000/GEa0eyRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1355,
+          "like_count": 6607,
+          "listed_count": 1,
+          "media_count": 844,
+          "tweet_count": 5368
+        },
+        "username": "loco_alt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2075188423267438635",
+    "created_at": "2026-07-09T12:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075188423267438635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/0voki33me",
+          "end": 87,
+          "expanded_url": "https://ngl.link/0voki33me",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2075188337716166656/B1-miyCD?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075188337716166656/B1-miyCD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 64,
+          "status": 200,
+          "title": "@0voki33me: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/0voki33me",
+          "url": "https://t.co/cHdcY0vVks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075188423267438635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个月前到现在有人给我ngl发过提问吗？我这一直有小红点但是没有提问，是bug吗🥲\n有人愿意给我发一条提问吗我看看收不收的到\n\nhttps://t.co/cHdcY0vVks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2075188423267438635",
+        "created_at": "2026-07-09T12:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075188423267438635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/0voki33me",
+              "end": 87,
+              "expanded_url": "https://ngl.link/0voki33me",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2075188337716166656/B1-miyCD?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075188337716166656/B1-miyCD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "@0voki33me: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/0voki33me",
+              "url": "https://t.co/cHdcY0vVks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188423267438635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个月前到现在有人给我ngl发过提问吗？我这一直有小红点但是没有提问，是bug吗🥲\n有人愿意给我发一条提问吗我看看收不收的到\n\nhttps://t.co/cHdcY0vVks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1135,
+          "like_count": 6960,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 7123
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

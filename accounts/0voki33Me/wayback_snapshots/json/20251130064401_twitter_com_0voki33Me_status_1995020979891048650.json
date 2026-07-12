@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1993361574447530086",
+    "created_at": "2025-11-30T06:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995020979891048650"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995020979891048650",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993361574447530086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在才发现这个发过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993361559117340672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nXxtgboAA0fLZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993361559100571648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nXxtcbwAAX27v.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993361559100538880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nXxtcbQAANWzv.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1993361574447530086",
+        "created_at": "2025-11-30T06:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995020979891048650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995020979891048650",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993361574447530086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在才发现这个发过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993361559117340672",
+            "3_1993361559100571648",
+            "3_1993361559100538880"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993361574447530086",
+        "created_at": "2025-11-25T16:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993361574447530086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0U9c0KyZBT",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/1993361574447530086/photo/1",
+              "media_key": "3_1993361559117340672",
+              "start": 4,
+              "url": "https://t.co/0U9c0KyZBT"
+            },
+            {
+              "display_url": "pic.x.com/0U9c0KyZBT",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/1993361574447530086/photo/1",
+              "media_key": "3_1993361559100571648",
+              "start": 4,
+              "url": "https://t.co/0U9c0KyZBT"
+            },
+            {
+              "display_url": "pic.x.com/0U9c0KyZBT",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/1993361574447530086/photo/1",
+              "media_key": "3_1993361559100538880",
+              "start": 4,
+              "url": "https://t.co/0U9c0KyZBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993361574447530086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天的 https://t.co/0U9c0KyZBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 248,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 192
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

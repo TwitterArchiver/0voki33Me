@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995133741044219904"
+      ],
+      "media_source_tweet_id": [
+        "1996504753485025735"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1996933575472795941",
+    "created_at": "2025-12-05T13:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996933575472795941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1605230972588462081",
+          "start": 3,
+          "username": "shitpost_2077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CReTyE71Fo",
+          "end": 42,
+          "expanded_url": "https://x.com/shitpost_2077/status/1996504753485025735/photo/1",
+          "media_key": "3_1995133741044219904",
+          "start": 19,
+          "url": "https://t.co/CReTyE71Fo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996933575472795941",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1986
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996504753485025735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitpost_2077: https://t.co/CReTyE71Fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_1995133741044219904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AjkRpWQAAjJrs.png",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995133741044219904"
+          ],
+          "media_source_tweet_id": [
+            "1996504753485025735"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1996933575472795941",
+        "created_at": "2025-12-05T13:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996933575472795941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1605230972588462081",
+              "start": 3,
+              "username": "shitpost_2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CReTyE71Fo",
+              "end": 42,
+              "expanded_url": "https://x.com/shitpost_2077/status/1996504753485025735/photo/1",
+              "media_key": "3_1995133741044219904",
+              "start": 19,
+              "url": "https://t.co/CReTyE71Fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996933575472795941",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1986
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996504753485025735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitpost_2077: https://t.co/CReTyE71Fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995133741044219904"
+          ]
+        },
+        "author_id": "1605230972588462081",
+        "conversation_id": "1996504753485025735",
+        "created_at": "2025-12-04T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996504753485025735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CReTyE71Fo",
+              "end": 23,
+              "expanded_url": "https://x.com/shitpost_2077/status/1996504753485025735/photo/1",
+              "media_key": "3_1995133741044219904",
+              "start": 0,
+              "url": "https://t.co/CReTyE71Fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996504753485025735",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 760,
+          "impression_count": 156319,
+          "like_count": 20564,
+          "quote_count": 24,
+          "reply_count": 17,
+          "retweet_count": 1986
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CReTyE71Fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 260,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 229
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:57:54.000Z",
+        "description": "shitpost post until 2077 | owner @Necati_coskun_ \n| Dm for credit and removals | NO PROMOS/ADS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Necati_coskun_"
+              }
+            ]
+          }
+        },
+        "id": "1605230972588462081",
+        "name": "Shitpost 2077",
+        "pinned_tweet_id": "1941082055787380813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953150348660477952/YWRfUlGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908283,
+          "following_count": 136,
+          "like_count": 10185,
+          "listed_count": 1243,
+          "media_count": 7435,
+          "tweet_count": 7575
+        },
+        "username": "shitpost_2077",
+        "verified": true
+      }
+    ]
+  }
+}

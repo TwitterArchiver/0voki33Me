@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002970479540486144",
+        "3_2002970479557316608",
+        "3_2002970479582445568"
+      ],
+      "media_source_tweet_id": [
+        "2002970485924262331",
+        "2002970485924262331",
+        "2002970485924262331"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003328293643419666",
+    "created_at": "2025-12-23T04:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003328293643419666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444954536636923911",
+          "start": 3,
+          "username": "PrettyVacantJap"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/onMGII6OMr",
+          "end": 44,
+          "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+          "media_key": "3_2002970479540486144",
+          "start": 21,
+          "url": "https://t.co/onMGII6OMr"
+        },
+        {
+          "display_url": "pic.x.com/onMGII6OMr",
+          "end": 44,
+          "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+          "media_key": "3_2002970479557316608",
+          "start": 21,
+          "url": "https://t.co/onMGII6OMr"
+        },
+        {
+          "display_url": "pic.x.com/onMGII6OMr",
+          "end": 44,
+          "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+          "media_key": "3_2002970479582445568",
+          "start": 21,
+          "url": "https://t.co/onMGII6OMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003328293643419666",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002970485924262331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PrettyVacantJap: https://t.co/onMGII6OMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_2002970479540486144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8v7CfiawAAvXU-.jpg",
+        "width": 640
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2002970479557316608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8v7CfmbkAAE5CG.jpg",
+        "width": 735
+      },
+      {
+        "height": 1050,
+        "media_key": "3_2002970479582445568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8v7CfsbAAAb_9Y.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002970479540486144",
+            "3_2002970479557316608",
+            "3_2002970479582445568"
+          ],
+          "media_source_tweet_id": [
+            "2002970485924262331",
+            "2002970485924262331",
+            "2002970485924262331"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003328293643419666",
+        "created_at": "2025-12-23T04:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003328293643419666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444954536636923911",
+              "start": 3,
+              "username": "PrettyVacantJap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/onMGII6OMr",
+              "end": 44,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+              "media_key": "3_2002970479540486144",
+              "start": 21,
+              "url": "https://t.co/onMGII6OMr"
+            },
+            {
+              "display_url": "pic.x.com/onMGII6OMr",
+              "end": 44,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+              "media_key": "3_2002970479557316608",
+              "start": 21,
+              "url": "https://t.co/onMGII6OMr"
+            },
+            {
+              "display_url": "pic.x.com/onMGII6OMr",
+              "end": 44,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+              "media_key": "3_2002970479582445568",
+              "start": 21,
+              "url": "https://t.co/onMGII6OMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003328293643419666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002970485924262331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PrettyVacantJap: https://t.co/onMGII6OMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002970479540486144",
+            "3_2002970479557316608",
+            "3_2002970479582445568"
+          ]
+        },
+        "author_id": "1444954536636923911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002970485924262331",
+        "created_at": "2025-12-22T05:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002970485924262331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onMGII6OMr",
+              "end": 23,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+              "media_key": "3_2002970479540486144",
+              "start": 0,
+              "url": "https://t.co/onMGII6OMr"
+            },
+            {
+              "display_url": "pic.x.com/onMGII6OMr",
+              "end": 23,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+              "media_key": "3_2002970479557316608",
+              "start": 0,
+              "url": "https://t.co/onMGII6OMr"
+            },
+            {
+              "display_url": "pic.x.com/onMGII6OMr",
+              "end": 23,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2002970485924262331/photo/1",
+              "media_key": "3_2002970479582445568",
+              "start": 0,
+              "url": "https://t.co/onMGII6OMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002970485924262331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 62940,
+          "like_count": 3038,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/onMGII6OMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 547,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T09:16:43.000Z",
+        "description": "words are not necessary. As you feel. That is the truth.",
+        "id": "1444954536636923911",
+        "name": "Pretty Vacant Jap",
+        "pinned_tweet_id": "1550248101801504768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542703428635267072/61qsDePt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63748,
+          "following_count": 2,
+          "like_count": 11691,
+          "listed_count": 271,
+          "media_count": 12644,
+          "tweet_count": 46483
+        },
+        "username": "PrettyVacantJap",
+        "verified": false
+      }
+    ]
+  }
+}

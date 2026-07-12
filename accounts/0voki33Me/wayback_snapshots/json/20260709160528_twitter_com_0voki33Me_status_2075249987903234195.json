@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2075249987903234195",
+    "created_at": "2026-07-09T16:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075249987903234195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《When The Music Stops》，由 顾忠山、赵可 演唱，收录于《When The Music Stops》专辑中，《When The Music Stops》下载，《When The Music Stops》在线试听，更多When The Music Stops相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/baHcuAE2",
+          "end": 33,
+          "expanded_url": "https://163cn.tv/baHcuAE2",
+          "start": 10,
+          "status": 200,
+          "title": "When The Music Stops - 顾忠山/赵可 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=1430560457&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.40&dlt=0846",
+          "url": "https://t.co/BNyWaBALoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075249987903234195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一百万次分享这首歌https://t.co/BNyWaBALoM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2075249987903234195",
+        "created_at": "2026-07-09T16:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075249987903234195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《When The Music Stops》，由 顾忠山、赵可 演唱，收录于《When The Music Stops》专辑中，《When The Music Stops》下载，《When The Music Stops》在线试听，更多When The Music Stops相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/baHcuAE2",
+              "end": 33,
+              "expanded_url": "https://163cn.tv/baHcuAE2",
+              "start": 10,
+              "status": 200,
+              "title": "When The Music Stops - 顾忠山/赵可 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=1430560457&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.40&dlt=0846",
+              "url": "https://t.co/BNyWaBALoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075249987903234195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一百万次分享这首歌https://t.co/BNyWaBALoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 1135,
+          "like_count": 6962,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 7137
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2006681873817477588",
+    "created_at": "2026-01-01T15:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T16:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006748876733374914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006748876733374914",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006681873817477588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 好可爱呀🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9466,
+        "height": 1920,
+        "media_key": "13_2006681097531502592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006681097531502592/img/5t6dQgxOHNt3FL_M.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006681097531502592/vid/avc1/320x568/wx3mgiKf4mQlRJn6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006681097531502592/vid/avc1/480x852/KVw9y1AR0n4l5dyL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006681097531502592/vid/avc1/720x1280/214LUTZBKGhUMRZB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006681097531502592/pl/oLGLTZErJba6fZY5.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2006681873817477588",
+        "created_at": "2026-01-01T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006748876733374914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006748876733374914",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006681873817477588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 好可爱呀🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006681097531502592"
+          ]
+        },
+        "author_id": "1965531250447568896",
+        "conversation_id": "2006681873817477588",
+        "created_at": "2026-01-01T11:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006681873817477588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQpyuR8Zah",
+              "end": 72,
+              "expanded_url": "https://x.com/jingyin_8964/status/2006681873817477588/video/1",
+              "media_key": "13_2006681097531502592",
+              "start": 49,
+              "url": "https://t.co/aQpyuR8Zah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006681873817477588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜送我的兔子 超级萌 身上的裙子也是闺蜜买的 好幸福 能有一个爱好相同的地雷女闺蜜🥹闺蜜一辈子 https://t.co/aQpyuR8Zah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 666,
+          "like_count": 2837,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1228
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/freeodwiki参与者\n/独家阿片类策划药“湮灭”食品级pea及更多RC有售\n/姐姐❣️：@shuijiaozzz233\n/老公❤️：@Edward_8964\n/随意提问：https://t.co/Ko843XKMQP\n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "shuijiaozzz233"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 137,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 114,
+                "url": "https://t.co/Ko843XKMQP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/p3AyZyGkrj"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪52/88/288/520/1314",
+        "name": "和泉镜音能成为真正的RC之神吗",
+        "pinned_tweet_id": "2005224156351311887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 176,
+          "like_count": 2754,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/p3AyZyGkrj",
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

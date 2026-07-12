@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2019691339122978948",
+    "created_at": "2026-02-06T08:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019691339122978948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ll52ya/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ll52ya/status/2019680144001233121",
+          "start": 6,
+          "url": "https://t.co/wzd5Xwjwfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019691339122978948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019680144001233121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像玫瑰花 https://t.co/wzd5Xwjwfm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2019680138942885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdYYrmaMAA_KlW.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2019691339122978948",
+        "created_at": "2026-02-06T08:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019691339122978948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ll52ya/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ll52ya/status/2019680144001233121",
+              "start": 6,
+              "url": "https://t.co/wzd5Xwjwfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019691339122978948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019680144001233121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像玫瑰花 https://t.co/wzd5Xwjwfm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019680138942885888"
+          ]
+        },
+        "author_id": "1890763322481577984",
+        "conversation_id": "2019680144001233121",
+        "created_at": "2026-02-06T07:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019680144001233121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uchzfnEAeI",
+              "end": 23,
+              "expanded_url": "https://x.com/ll52ya/status/2019680144001233121/photo/1",
+              "media_key": "3_2019680138942885888",
+              "start": 0,
+              "url": "https://t.co/uchzfnEAeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019680144001233121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uchzfnEAeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1027,
+          "like_count": 4852,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T14:01:30.000Z",
+        "description": "自傷 １6さい",
+        "id": "1890763322481577984",
+        "location": "躁鬱･ボーダー",
+        "name": "115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968923192896143361/Nn17lgNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 157,
+          "like_count": 4463,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 165
+        },
+        "username": "ll52ya",
+        "verified": false
+      }
+    ]
+  }
+}

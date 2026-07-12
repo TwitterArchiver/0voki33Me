@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017940606119546880"
+      ],
+      "media_source_tweet_id": [
+        "2017940637115433079"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018317956506386929",
+    "created_at": "2026-02-02T13:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T14:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018317956506386929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1503603323831820288",
+          "start": 3,
+          "username": "De4dGrrrl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhJewVZNtj",
+          "end": 54,
+          "expanded_url": "https://x.com/De4dGrrrl/status/2017940637115433079/photo/1",
+          "media_key": "3_2017940606119546880",
+          "start": 31,
+          "url": "https://t.co/NhJewVZNtj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018317956506386929",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017940637115433079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @De4dGrrrl: Im in shanghai! https://t.co/NhJewVZNtj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017940606119546880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEqSi2XkAA9L7V.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017940606119546880"
+          ],
+          "media_source_tweet_id": [
+            "2017940637115433079"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018317956506386929",
+        "created_at": "2026-02-02T13:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018317956506386929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1503603323831820288",
+              "start": 3,
+              "username": "De4dGrrrl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhJewVZNtj",
+              "end": 54,
+              "expanded_url": "https://x.com/De4dGrrrl/status/2017940637115433079/photo/1",
+              "media_key": "3_2017940606119546880",
+              "start": 31,
+              "url": "https://t.co/NhJewVZNtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018317956506386929",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017940637115433079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @De4dGrrrl: Im in shanghai! https://t.co/NhJewVZNtj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017940606119546880"
+          ]
+        },
+        "author_id": "1503603323831820288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017940637115433079",
+        "created_at": "2026-02-01T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017940637115433079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhJewVZNtj",
+              "end": 39,
+              "expanded_url": "https://x.com/De4dGrrrl/status/2017940637115433079/photo/1",
+              "media_key": "3_2017940606119546880",
+              "start": 16,
+              "url": "https://t.co/NhJewVZNtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017940637115433079",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 92934,
+          "like_count": 12949,
+          "quote_count": 49,
+          "reply_count": 32,
+          "retweet_count": 2504
+        },
+        "reply_settings": "everyone",
+        "text": "Im in shanghai! https://t.co/NhJewVZNtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 977,
+          "like_count": 4474,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2768
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T05:25:51.000Z",
+        "description": "22♡ jiraitwt♡ tw ed♡-16dnf \nuse my code DE4DGRRRL for 5% off in honey wardrobe\nhttps://t.co/jOzebPVUrE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "de4dgrrrl.straw.page",
+                "end": 102,
+                "expanded_url": "https://de4dgrrrl.straw.page",
+                "start": 79,
+                "url": "https://t.co/jOzebPVUrE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/deadgrrrl",
+                "end": 23,
+                "expanded_url": "https://throne.com/deadgrrrl",
+                "start": 0,
+                "url": "https://t.co/cs3OZGU7EB"
+              }
+            ]
+          }
+        },
+        "id": "1503603323831820288",
+        "name": "envy!",
+        "pinned_tweet_id": "1790719785442979963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893189913635438592/1sTUMr0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24819,
+          "following_count": 4177,
+          "like_count": 81571,
+          "listed_count": 56,
+          "media_count": 5889,
+          "tweet_count": 42070
+        },
+        "url": "https://t.co/cs3OZGU7EB",
+        "username": "De4dGrrrl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1994007120283685039",
+    "created_at": "2025-11-27T14:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994056421831262355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589874350919864321",
+          "start": 0,
+          "username": "Happinessa_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994056421831262355",
+    "in_reply_to_user_id": "1589874350919864321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994007120283685039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Happinessa_X 和玩快手不给撞网名的傻子是一批人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1559,
+        "media_key": "3_1994007111450419200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wi5zWa4AAcNK1.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1994007120283685039",
+        "created_at": "2025-11-27T14:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994056421831262355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589874350919864321",
+              "start": 0,
+              "username": "Happinessa_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994056421831262355",
+        "in_reply_to_user_id": "1589874350919864321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994007120283685039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Happinessa_X 和玩快手不给撞网名的傻子是一批人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994007111450419200"
+          ]
+        },
+        "author_id": "1589874350919864321",
+        "conversation_id": "1994007120283685039",
+        "created_at": "2025-11-27T11:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994007120283685039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JQ9WwulCC",
+              "end": 35,
+              "expanded_url": "https://x.com/Happinessa_X/status/1994007120283685039/photo/1",
+              "media_key": "3_1994007111450419200",
+              "start": 12,
+              "url": "https://t.co/5JQ9WwulCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994007120283685039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4199,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已失去自由选择头像权🤡 https://t.co/5JQ9WwulCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝---------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 238,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 183
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T06:56:36.000Z",
+        "description": "什么假家真家，你认错人了｜有偿转推",
+        "id": "1589874350919864321",
+        "name": "炸鱼片片拌饭",
+        "pinned_tweet_id": "1992196124506222663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839348706266820608/8zNFoI1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34492,
+          "following_count": 508,
+          "like_count": 21015,
+          "listed_count": 93,
+          "media_count": 628,
+          "tweet_count": 9916
+        },
+        "username": "Happinessa_X",
+        "verified": false
+      }
+    ]
+  }
+}

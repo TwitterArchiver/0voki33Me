@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2022595279296647254",
+    "created_at": "2026-02-14T08:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022595279296647254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1968205301410304002",
+          "start": 3,
+          "username": "lingyang01444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022595279296647254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022131022218002574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingyang01444: 你好医生，我的心一直在跳，可以给我开点愈美片右美沙芬普瑞巴林美金刚烷胺感康苯海索加巴喷丁阿普唑仑曲马多卡马西平思诺思吗啡奥施康定芬太尼维科丁海洛因pcp可卡因甲基苯丙胺lsd美沙酮，哎反正能爽的都给我来一遍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2022595279296647254",
+        "created_at": "2026-02-14T08:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022595279296647254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1968205301410304002",
+              "start": 3,
+              "username": "lingyang01444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022595279296647254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022131022218002574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingyang01444: 你好医生，我的心一直在跳，可以给我开点愈美片右美沙芬普瑞巴林美金刚烷胺感康苯海索加巴喷丁阿普唑仑曲马多卡马西平思诺思吗啡奥施康定芬太尼维科丁海洛因pcp可卡因甲基苯丙胺lsd美沙酮，哎反正能爽的都给我来一遍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968205301410304002",
+        "conversation_id": "2022131022218002574",
+        "created_at": "2026-02-13T02:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022131022218002574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022131022218002574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 300,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你好医生，我的心一直在跳，可以给我开点愈美片右美沙芬普瑞巴林美金刚烷胺感康苯海索加巴喷丁阿普唑仑曲马多卡马西平思诺思吗啡奥施康定芬太尼维科丁海洛因pcp可卡因甲基苯丙胺lsd美沙酮，哎反正能爽的都给我来一遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 1037,
+          "like_count": 5024,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3338
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T06:48:20.000Z",
+        "description": "BlackSheep-血羊 以身入局药物实验",
+        "id": "1968205301410304002",
+        "location": "Tokyo-to, Japan",
+        "name": "羚羊antelope",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018828350983471105/UrDpAgAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 749,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "username": "lingyang01444",
+        "verified": false
+      }
+    ]
+  }
+}

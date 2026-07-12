@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2063521902770143512",
+    "created_at": "2026-06-07T09:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063550052396847528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733217384050384896",
+          "start": 0,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063550052396847528",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063521902770143512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_Paqu 小盐🫂要好好消毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20005,
+        "height": 1280,
+        "media_key": "13_2063521818368212992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063521818368212992/img/5ykyklYQb5bqeSs8.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521818368212992/vid/avc1/320x694/osVXuNs2TDp1X_N5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521818368212992/vid/avc1/480x1040/Bwdo4udRxqVsySlf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521818368212992/vid/avc1/590x1280/v0QQ539dc24nhN6q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063521818368212992/pl/ZY_882932xZcft_o.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 29690,
+        "height": 720,
+        "media_key": "13_2063521818380734464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063521818380734464/img/YerffWZZBrdPVru0.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521818380734464/vid/avc1/480x270/PIViBcKZLKiPf_sW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521818380734464/vid/avc1/640x360/rLBLC-Glc6LTdKl_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521818380734464/vid/avc1/1280x720/xiqiCafMc02aG1YX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063521818380734464/pl/5FkExhsYT15E36dx.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2063521902770143512",
+        "created_at": "2026-06-07T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063550052396847528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063550052396847528",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063521902770143512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu 小盐🫂要好好消毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063521818368212992",
+            "13_2063521818380734464"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2063521902770143512",
+        "created_at": "2026-06-07T07:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063521902770143512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkrN9dvFc7",
+              "end": 26,
+              "expanded_url": "https://x.com/KK_Paqu/status/2063521902770143512/video/1",
+              "media_key": "13_2063521818368212992",
+              "start": 3,
+              "url": "https://t.co/ZkrN9dvFc7"
+            },
+            {
+              "display_url": "pic.x.com/ZkrN9dvFc7",
+              "end": 26,
+              "expanded_url": "https://x.com/KK_Paqu/status/2063521902770143512/video/1",
+              "media_key": "13_2063521818380734464",
+              "start": 3,
+              "url": "https://t.co/ZkrN9dvFc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063521902770143512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化妆 https://t.co/ZkrN9dvFc7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 1164,
+          "like_count": 6669,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 6695
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 152,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 283
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

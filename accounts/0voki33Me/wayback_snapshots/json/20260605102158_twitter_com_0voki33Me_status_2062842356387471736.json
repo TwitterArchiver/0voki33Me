@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2062839936076968377",
+    "created_at": "2026-06-05T10:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062842356387471736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062842356387471736",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062839936076968377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为收到过很多的关心所以，我想说我没有针对任何人只是有感而发。我知道大多数人是好心，可是这样的好心对我没有任何用，给我的建议更是。。没用，用冰水红颜料皮筋啥啥老生常谈的。反而会让我为难，可能我比较内向吧，有时候我不太能接下这份善意，这就是我发泄贴不开评论的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2062839936076968377",
+        "created_at": "2026-06-05T10:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062842356387471736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062842356387471736",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062839936076968377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为收到过很多的关心所以，我想说我没有针对任何人只是有感而发。我知道大多数人是好心，可是这样的好心对我没有任何用，给我的建议更是。。没用，用冰水红颜料皮筋啥啥老生常谈的。反而会让我为难，可能我比较内向吧，有时候我不太能接下这份善意，这就是我发泄贴不开评论的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2062839936076968377",
+        "created_at": "2026-06-05T10:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062839936076968377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062839936076968377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得有些劝别人从良不要磕药自残的人很伪善，尤其是在我身边所谓想让我好起来的人。抛下一句轻飘飘的话就走，我又不是ai听到什么就会跟着做，有时候这些我也控制不好呀。明明什么实际的也没做，最后还要站在道德制高点审判我，认为我辜负了你那虚伪的关心。说白了，真戒掉了又能怎样，我的痛苦都还在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1163,
+          "like_count": 6662,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 6676
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

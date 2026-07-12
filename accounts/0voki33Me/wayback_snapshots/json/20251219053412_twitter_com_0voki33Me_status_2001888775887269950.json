@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2001888775887269950",
+    "created_at": "2025-12-19T05:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T06:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001888775887269950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minjibase/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/minjibase/status/2001590096500228139",
+          "start": 6,
+          "url": "https://t.co/E9vJHCpeqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001888775887269950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001590096500228139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女孩们…… https://t.co/E9vJHCpeqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24766,
+        "height": 718,
+        "media_key": "13_1990994758274039811",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990994758274039811/img/owqW-FrM1feSMf4N.jpg",
+        "public_metrics": {
+          "view_count": 75073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990994758274039811/vid/avc1/364x270/HULTAnvpT0aEOsT9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990994758274039811/vid/avc1/484x360/2nRG_jKBJZRuQxxf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990994758274039811/vid/avc1/968x718/A3uAfYlBPN-nk5DW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990994758274039811/pl/mE-53PWP0nG1L4Oq.m3u8?v=cfc"
+          }
+        ],
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001888775887269950",
+        "created_at": "2025-12-19T05:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001888775887269950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minjibase/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/minjibase/status/2001590096500228139",
+              "start": 6,
+              "url": "https://t.co/E9vJHCpeqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001888775887269950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001590096500228139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩们…… https://t.co/E9vJHCpeqY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990994758274039811"
+          ],
+          "media_source_tweet_id": [
+            "1990994946040467709"
+          ]
+        },
+        "author_id": "1726781650590191616",
+        "conversation_id": "2001590096500228139",
+        "created_at": "2025-12-18T09:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001590096500228139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ditto",
+              "probability": 0.4581,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVlmGTCg28",
+              "end": 54,
+              "expanded_url": "https://x.com/picsnewjeans/status/1990994946040467709/video/1",
+              "media_key": "13_1990994758274039811",
+              "start": 31,
+              "url": "https://t.co/eVlmGTCg28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001590096500228139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 124340,
+          "like_count": 15322,
+          "quote_count": 253,
+          "reply_count": 21,
+          "retweet_count": 5094
+        },
+        "reply_settings": "everyone",
+        "text": "happy 3 years with ditto &lt;3\nhttps://t.co/eVlmGTCg28"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 533,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T01:56:51.000Z",
+        "description": "minjibase is ready for christmas",
+        "id": "1726781650590191616",
+        "location": "18 she/her",
+        "name": "a ⋆⟡❅",
+        "pinned_tweet_id": "2000801446246441106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000800339604242433/gu3tVv-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 570,
+          "like_count": 8187,
+          "listed_count": 3,
+          "media_count": 1231,
+          "tweet_count": 4448
+        },
+        "username": "minjibase",
+        "verified": false
+      }
+    ]
+  }
+}

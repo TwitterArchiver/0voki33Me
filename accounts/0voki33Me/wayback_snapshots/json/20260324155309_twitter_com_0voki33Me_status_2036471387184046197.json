@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2036471387184046197",
+    "created_at": "2026-03-24T15:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036471387184046197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Apple》，由 TOWA TEI 演唱，收录于《94-14》专辑中，《Apple》下载，《Apple》在线试听，更多Apple相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/3Pe7GFx",
+          "end": 32,
+          "expanded_url": "https://163cn.tv/3Pe7GFx",
+          "images": [
+            {
+              "height": 500,
+              "url": "https://pbs.twimg.com/news_img/2036471406238769153/yHPVOs4W?format=jpg&name=orig",
+              "width": 500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2036471406238769153/yHPVOs4W?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 9,
+          "status": 200,
+          "title": "Apple - TOWA TEI - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=29450266&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=3278336140&playerUIModeId=76001&app_version=9.4.80&dlt=0846",
+          "url": "https://t.co/qKiKxzgoMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036471387184046197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽我要飞起来了\nhttps://t.co/qKiKxzgoMa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2036471387184046197",
+        "created_at": "2026-03-24T15:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036471387184046197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Apple》，由 TOWA TEI 演唱，收录于《94-14》专辑中，《Apple》下载，《Apple》在线试听，更多Apple相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/3Pe7GFx",
+              "end": 32,
+              "expanded_url": "https://163cn.tv/3Pe7GFx",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2036471406238769153/yHPVOs4W?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2036471406238769153/yHPVOs4W?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "Apple - TOWA TEI - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=29450266&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=3278336140&playerUIModeId=76001&app_version=9.4.80&dlt=0846",
+              "url": "https://t.co/qKiKxzgoMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036471387184046197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我要飞起来了\nhttps://t.co/qKiKxzgoMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1183,
+          "like_count": 5904,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 4744
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

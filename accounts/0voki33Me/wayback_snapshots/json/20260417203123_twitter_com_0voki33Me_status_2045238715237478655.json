@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2045238715237478655",
+    "created_at": "2026-04-17T20:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045238715237478655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhu0588/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/zhu0588/status/2044886663944687876",
+          "start": 21,
+          "url": "https://t.co/bFieWrj4ui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045238715237478655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044886663944687876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉啥时候闹钟美育能搞起来这个也太美了吧， https://t.co/bFieWrj4ui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2044886655765741568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDllELagAAFxUs.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2044886655786774528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDllEQbcAARSp1.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2045238715237478655",
+        "created_at": "2026-04-17T20:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045238715237478655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhu0588/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/zhu0588/status/2044886663944687876",
+              "start": 21,
+              "url": "https://t.co/bFieWrj4ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045238715237478655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044886663944687876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉啥时候闹钟美育能搞起来这个也太美了吧， https://t.co/bFieWrj4ui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044886655765741568",
+            "3_2044886655786774528"
+          ]
+        },
+        "author_id": "2853407766",
+        "conversation_id": "2044886663944687876",
+        "created_at": "2026-04-16T21:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T22:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044886663944687876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bV8jVvERTi",
+              "end": 57,
+              "expanded_url": "https://x.com/zhu0588/status/2044886663944687876/photo/1",
+              "media_key": "3_2044886655765741568",
+              "start": 34,
+              "url": "https://t.co/bV8jVvERTi"
+            },
+            {
+              "display_url": "pic.x.com/bV8jVvERTi",
+              "end": 57,
+              "expanded_url": "https://x.com/zhu0588/status/2044886663944687876/photo/1",
+              "media_key": "3_2044886655786774528",
+              "start": 34,
+              "url": "https://t.co/bV8jVvERTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044886663944687876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 28927,
+          "like_count": 405,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "日本摄影师Ryoji Akiyama镜头下1980年代的中国孩子。 https://t.co/bV8jVvERTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1146,
+          "like_count": 6226,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 5791
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-12T18:27:07.000Z",
+        "description": "中国未来大趋势：经济危机--社会动荡--专制垮台",
+        "id": "2853407766",
+        "name": "朱韵和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/633313799383060480/3SqyD6-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510464,
+          "following_count": 336,
+          "like_count": 905,
+          "listed_count": 1470,
+          "media_count": 62287,
+          "tweet_count": 85829
+        },
+        "username": "zhu0588",
+        "verified": true
+      }
+    ]
+  }
+}

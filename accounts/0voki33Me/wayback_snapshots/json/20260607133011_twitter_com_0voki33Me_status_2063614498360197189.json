@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2063563996352155849",
+    "created_at": "2026-06-07T13:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063614498360197189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492729295445237765",
+          "start": 0,
+          "username": "qiandaojiang201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063614498360197189",
+    "in_reply_to_user_id": "1492729295445237765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063568486807339212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiandaojiang201 我和父母说过太多次了。。。某次我直接在他们面前又和他们聊着聊着太过激不小心爆发了我爸没鸟我，我妈一直叹气摇头，我真的要窒息。。现在还是我很轻松的情况下，八月我就要集训升高三压力变大了我都不知道怎么活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2063563996352155849",
+        "created_at": "2026-06-07T13:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063614498360197189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492729295445237765",
+              "start": 0,
+              "username": "qiandaojiang201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063614498360197189",
+        "in_reply_to_user_id": "1492729295445237765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063568486807339212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiandaojiang201 我和父母说过太多次了。。。某次我直接在他们面前又和他们聊着聊着太过激不小心爆发了我爸没鸟我，我妈一直叹气摇头，我真的要窒息。。现在还是我很轻松的情况下，八月我就要集训升高三压力变大了我都不知道怎么活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492729295445237765",
+        "conversation_id": "2063563996352155849",
+        "created_at": "2026-06-07T10:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063568486807339212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568486807339212",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063565889220522496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 遇到这种情况就要第一时间远离痛苦源啊。。否则会跟我一样到这种地步。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1164,
+          "like_count": 6669,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 6701
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T05:16:28.000Z",
+        "description": "啊呜",
+        "id": "1492729295445237765",
+        "name": "逃离互联网深水区中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009237530089017344/eiqsMS3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 128,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2562
+        },
+        "username": "qiandaojiang201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2008944638997270675",
+    "created_at": "2026-01-07T17:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T18:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008948562156298346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008948562156298346",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008944638997270675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 完全cult片女主角🥹好美腻😣😣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2008944627257409536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-E0fqEbgAAOFDj.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2008944638997270675",
+        "created_at": "2026-01-07T17:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008948562156298346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008948562156298346",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008944638997270675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 完全cult片女主角🥹好美腻😣😣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008944627257409536"
+          ]
+        },
+        "author_id": "1963870046708772864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008944638997270675",
+        "created_at": "2026-01-07T16:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008944638997270675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANbH9HgqzN",
+              "end": 23,
+              "expanded_url": "https://x.com/Yuriovo_qaq/status/2008944638997270675/photo/1",
+              "media_key": "3_2008944627257409536",
+              "start": 0,
+              "url": "https://t.co/ANbH9HgqzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008944638997270675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ANbH9HgqzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2008941267884101763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 753,
+          "like_count": 3036,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1392
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "我仍然在无人问津的阴雨霉湿之地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjwwFG"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "name": "玉米大帝",
+        "pinned_tweet_id": "2002365009121140792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005481499601088512/D9Vqkhmp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 129,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/2tAedjwwFG",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

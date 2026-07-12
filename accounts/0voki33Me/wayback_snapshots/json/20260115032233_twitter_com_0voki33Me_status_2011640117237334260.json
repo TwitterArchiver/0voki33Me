@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2011640117237334260",
+    "created_at": "2026-01-15T03:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T04:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011640117237334260"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "门槛"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953765612834238466",
+          "start": 3,
+          "username": "NEVERTwT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011640117237334260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009245313383776487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEVERTwT3: 小伤伤重生转世！(´｡-ω(-ω-｡`)\n坐标广州｜08｜在校高中生\n接线下努力赚钱中 不接非绿不要骚扰我\n门槛详细看p2 入门支持口令/奖赏码\n私信不过门不回复 验证/问题一个10r\n寻找前世互关前世门槛哥 关注转发这条抽52＊2 #门槛 #纯绿…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011640117237334260].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011640117237334260",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011640117237334260"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009245279845781507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JF78PWkAMV73F.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2009245279829073920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JF78LXoAAAzYN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009245279845781507",
+            "3_2009245279829073920"
+          ]
+        },
+        "author_id": "1953765612834238466",
+        "conversation_id": "2009245313383776487",
+        "created_at": "2026-01-08T12:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009245313383776487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "门槛"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "纯绿"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qh5sRav0ns",
+              "end": 152,
+              "expanded_url": "https://x.com/NEVERTwT3/status/2009245313383776487/photo/1",
+              "media_key": "3_2009245279845781507",
+              "start": 129,
+              "url": "https://t.co/qh5sRav0ns"
+            },
+            {
+              "display_url": "pic.x.com/qh5sRav0ns",
+              "end": 152,
+              "expanded_url": "https://x.com/NEVERTwT3/status/2009245313383776487/photo/1",
+              "media_key": "3_2009245279829073920",
+              "start": 129,
+              "url": "https://t.co/qh5sRav0ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009245313383776487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5089,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "小伤伤重生转世！(´｡-ω(-ω-｡`)\n坐标广州｜08｜在校高中生\n接线下努力赚钱中 不接非绿不要骚扰我\n门槛详细看p2 入门支持口令/奖赏码\n私信不过门不回复 验证/问题一个10r\n寻找前世互关前世门槛哥 关注转发这条抽52＊2 #门槛 #纯绿 #线下 https://t.co/qh5sRav0ns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 806,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1637
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T10:30:07.000Z",
+        "description": "我受不了委屈 所以我的脾气一直都很坏",
+        "id": "1953765612834238466",
+        "location": "🚪128/288",
+        "name": "只想宅在家",
+        "pinned_tweet_id": "2009245313383776487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005081057503088640/Ev1prezN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 35,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 167
+        },
+        "username": "NEVERTwT3",
+        "verified": false
+      }
+    ]
+  }
+}

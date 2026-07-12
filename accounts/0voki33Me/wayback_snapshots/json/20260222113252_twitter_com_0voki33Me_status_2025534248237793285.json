@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2025534248237793285",
+    "created_at": "2026-02-22T11:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025534248237793285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025534248237793285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025240358507217191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: 快百fo了发个转抽吧，赞加转发加粉参加\n画均是我有档期的时候给你画，奶茶别太贵我很穷\n一等奖：一张半身/两杯奶茶（折现30r）\n二等奖：一张q版/一杯奶茶（折现15r）\n三等奖：10r\n另外百fo的时候会抄id！抄id不抄看黄男和三无空主页小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2025534248237793285",
+        "created_at": "2026-02-22T11:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025534248237793285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025534248237793285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025240358507217191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: 快百fo了发个转抽吧，赞加转发加粉参加\n画均是我有档期的时候给你画，奶茶别太贵我很穷\n一等奖：一张半身/两杯奶茶（折现30r）\n二等奖：一张q版/一杯奶茶（折现15r）\n三等奖：10r\n另外百fo的时候会抄id！抄id不抄看黄男和三无空主页小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2025240358507217191",
+        "created_at": "2026-02-21T16:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025240358507217191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025240358507217191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 996,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "快百fo了发个转抽吧，赞加转发加粉参加\n画均是我有档期的时候给你画，奶茶别太贵我很穷\n一等奖：一张半身/两杯奶茶（折现30r）\n二等奖：一张q版/一杯奶茶（折现15r）\n三等奖：10r\n另外百fo的时候会抄id！抄id不抄看黄男和三无空主页小号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1118,
+          "like_count": 5257,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3693
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希 精神状态和性别是蔚蓝色 梦想是当摇滚明星 | 06| 双相 焦虑 | 惨圈女戒割中 | 💊🎸🎨 | 酷儿全友好 提问箱https://t.co/1wmN2eVRYQ | 看黄男别来骚扰，反跨激女来我主页先死个妈哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 89,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 66,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "Tonight I'm a rock'n'roll star",
+        "name": "郁希",
+        "pinned_tweet_id": "2023320340466905458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013241006649479169/wv7Yutei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 78,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 997
+        },
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

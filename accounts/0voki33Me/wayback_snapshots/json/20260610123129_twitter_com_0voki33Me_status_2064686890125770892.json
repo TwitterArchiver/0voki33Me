@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064402314463768576"
+      ],
+      "media_source_tweet_id": [
+        "2064402316393075113"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2064686890125770892",
+    "created_at": "2026-06-10T12:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686890125770892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1639352455841341449",
+          "start": 3,
+          "username": "playboicurrryy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xdx3VLLTOd",
+          "end": 96,
+          "expanded_url": "https://x.com/playboicurrryy/status/2064402316393075113/photo/1",
+          "media_key": "3_2064402314463768576",
+          "start": 73,
+          "url": "https://t.co/Xdx3VLLTOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686890125770892",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064402316393075113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @playboicurrryy: how it feels getting caught working out in your room https://t.co/Xdx3VLLTOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 251,
+        "media_key": "3_2064402314463768576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY696MbcAA9Rc7.jpg",
+        "width": 201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064402314463768576"
+          ],
+          "media_source_tweet_id": [
+            "2064402316393075113"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2064686890125770892",
+        "created_at": "2026-06-10T12:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686890125770892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1639352455841341449",
+              "start": 3,
+              "username": "playboicurrryy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xdx3VLLTOd",
+              "end": 96,
+              "expanded_url": "https://x.com/playboicurrryy/status/2064402316393075113/photo/1",
+              "media_key": "3_2064402314463768576",
+              "start": 73,
+              "url": "https://t.co/Xdx3VLLTOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686890125770892",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064402316393075113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @playboicurrryy: how it feels getting caught working out in your room https://t.co/Xdx3VLLTOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064402314463768576"
+          ]
+        },
+        "author_id": "1639352455841341449",
+        "conversation_id": "2064402316393075113",
+        "created_at": "2026-06-09T17:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064402316393075113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xdx3VLLTOd",
+              "end": 76,
+              "expanded_url": "https://x.com/playboicurrryy/status/2064402316393075113/photo/1",
+              "media_key": "3_2064402314463768576",
+              "start": 53,
+              "url": "https://t.co/Xdx3VLLTOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064402316393075113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11299,
+          "impression_count": 1917033,
+          "like_count": 275894,
+          "quote_count": 433,
+          "reply_count": 290,
+          "retweet_count": 21558
+        },
+        "reply_settings": "everyone",
+        "text": "how it feels getting caught working out in your room https://t.co/Xdx3VLLTOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1161,
+          "like_count": 6723,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 6786
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T19:44:23.000Z",
+        "description": "😂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gimmicks",
+                "end": 23,
+                "expanded_url": "http://discord.gg/gimmicks",
+                "start": 0,
+                "url": "https://t.co/chUr82w2Nr"
+              }
+            ]
+          }
+        },
+        "id": "1639352455841341449",
+        "name": ".",
+        "pinned_tweet_id": "2064537005640577254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057790452629504/SMfflHN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126595,
+          "following_count": 192,
+          "like_count": 86537,
+          "listed_count": 139,
+          "media_count": 6016,
+          "tweet_count": 22890
+        },
+        "url": "https://t.co/chUr82w2Nr",
+        "username": "playboicurrryy",
+        "verified": false
+      }
+    ]
+  }
+}

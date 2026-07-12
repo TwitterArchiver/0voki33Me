@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Vancouver",
+          "id": "861946485511823361",
+          "name": "Vancouver"
+        }
+      }
+    ],
+    "conversation_id": "2045248165960642608",
+    "created_at": "2026-04-17T21:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T22:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045248165960642608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pantheressluv/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/pantheressluv/status/2045002952029479260",
+          "start": 10,
+          "url": "https://t.co/WtbqhV73Gn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045248165960642608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045002952029479260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这裙子太美了吧我操 https://t.co/WtbqhV73Gn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23778,
+        "height": 1280,
+        "media_key": "13_2044997926880268288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044997926880268288/img/pGo7ZXICzMwzXs15.jpg",
+        "public_metrics": {
+          "view_count": 4942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044997926880268288/vid/avc1/320x568/D4mHAYEKe2OxXP_d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044997926880268288/vid/avc1/480x852/BpmShtaWkcLWzgLK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044997926880268288/vid/avc1/720x1280/lLVQ-e2iCnKBnWOr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044997926880268288/pl/teSnvUiI0VOFoH0H.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          }
+        ],
+        "conversation_id": "2045248165960642608",
+        "created_at": "2026-04-17T21:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T22:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045248165960642608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pantheressluv/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/pantheressluv/status/2045002952029479260",
+              "start": 10,
+              "url": "https://t.co/WtbqhV73Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045248165960642608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045002952029479260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这裙子太美了吧我操 https://t.co/WtbqhV73Gn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044997926880268288"
+          ],
+          "media_source_tweet_id": [
+            "2044998022363586891"
+          ]
+        },
+        "author_id": "1649139575325880336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          }
+        ],
+        "conversation_id": "2045002952029479260",
+        "created_at": "2026-04-17T04:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045002952029479260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5i0xLwDxD",
+              "end": 77,
+              "expanded_url": "https://x.com/hard2imagines/status/2044998022363586891/video/1",
+              "media_key": "13_2044997926880268288",
+              "start": 54,
+              "url": "https://t.co/k5i0xLwDxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045002952029479260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 28468,
+          "like_count": 2882,
+          "quote_count": 23,
+          "reply_count": 1,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "pinkpantheress performing ‘mosquito’ in vancouver 😭🤍  https://t.co/k5i0xLwDxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1147,
+          "like_count": 6232,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 5801
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T19:54:56.000Z",
+        "description": "for pinkpantheress🫀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pantheresslv",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pantheresslv",
+                "start": 0,
+                "url": "https://t.co/1ElrLBEzZF"
+              }
+            ]
+          }
+        },
+        "id": "1649139575325880336",
+        "name": "pinkpantheress source",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921702738347352065/ubZj--QQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57495,
+          "following_count": 210,
+          "like_count": 37928,
+          "listed_count": 34,
+          "media_count": 2994,
+          "tweet_count": 4937
+        },
+        "url": "https://t.co/1ElrLBEzZF",
+        "username": "pantheressluv",
+        "verified": true
+      }
+    ]
+  }
+}

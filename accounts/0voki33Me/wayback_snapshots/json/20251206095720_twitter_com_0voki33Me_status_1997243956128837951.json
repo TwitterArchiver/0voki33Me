@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997213324912873473"
+      ],
+      "media_source_tweet_id": [
+        "1997213386342588916"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997243956128837951",
+    "created_at": "2025-12-06T09:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997243956128837951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821431905071570944",
+          "start": 3,
+          "username": "tuitenvwang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/46vx1nOcQh",
+          "end": 44,
+          "expanded_url": "https://x.com/tuitenvwang/status/1997213386342588916/video/1",
+          "media_key": "13_1997213324912873473",
+          "start": 21,
+          "url": "https://t.co/46vx1nOcQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997243956128837951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997213386342588916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitenvwang: 本宝宝 https://t.co/46vx1nOcQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 768,
+        "media_key": "13_1997213324912873473",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997213324912873473/img/ALATkOq5SqEJi1kE.jpg",
+        "public_metrics": {
+          "view_count": 102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997213324912873473/vid/avc1/320x426/k4N6O9b-bHT7wJUe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997213324912873473/vid/avc1/480x640/95v7-lGtrGbkwpKB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997213324912873473/vid/avc1/576x768/l-rtuikTkss5K_Qe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997213324912873473/pl/3YwSav0OGa1rykoI.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997213324912873473"
+          ],
+          "media_source_tweet_id": [
+            "1997213386342588916"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997243956128837951",
+        "created_at": "2025-12-06T09:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997243956128837951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821431905071570944",
+              "start": 3,
+              "username": "tuitenvwang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46vx1nOcQh",
+              "end": 44,
+              "expanded_url": "https://x.com/tuitenvwang/status/1997213386342588916/video/1",
+              "media_key": "13_1997213324912873473",
+              "start": 21,
+              "url": "https://t.co/46vx1nOcQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997243956128837951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997213386342588916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitenvwang: 本宝宝 https://t.co/46vx1nOcQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997213324912873473"
+          ]
+        },
+        "author_id": "1821431905071570944",
+        "conversation_id": "1997213386342588916",
+        "created_at": "2025-12-06T07:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997213386342588916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46vx1nOcQh",
+              "end": 27,
+              "expanded_url": "https://x.com/tuitenvwang/status/1997213386342588916/video/1",
+              "media_key": "13_1997213324912873473",
+              "start": 4,
+              "url": "https://t.co/46vx1nOcQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997213386342588916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 285,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本宝宝 https://t.co/46vx1nOcQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 272,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 252
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我 ｜｜｜段子自取👉🏻 @Dicksuck2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Dicksuck2778"
+              }
+            ]
+          }
+        },
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1918958966819704880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993248925596499977/alcjNiyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13078,
+          "following_count": 305,
+          "like_count": 4404,
+          "listed_count": 11,
+          "media_count": 355,
+          "tweet_count": 2269
+        },
+        "username": "tuitenvwang",
+        "verified": true
+      }
+    ]
+  }
+}

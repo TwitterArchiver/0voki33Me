@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014582189003055104"
+      ],
+      "media_source_tweet_id": [
+        "2014582194862489789"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014668235183161665",
+    "created_at": "2026-01-23T11:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T12:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014668235183161665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1792059831123079168",
+          "start": 3,
+          "username": "PatriciaMi83967"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fqiupROCJ0",
+          "end": 68,
+          "expanded_url": "https://x.com/PatriciaMi83967/status/2014582194862489789/photo/1",
+          "media_key": "3_2014582189003055104",
+          "start": 45,
+          "url": "https://t.co/fqiupROCJ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014668235183161665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014582194862489789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PatriciaMi83967: 私の元彼は62歳でしたｗｗ\n年の差41歳！！！ https://t.co/fqiupROCJ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2014582189003055104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_U708JbIAAkz45.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014582189003055104"
+          ],
+          "media_source_tweet_id": [
+            "2014582194862489789"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014668235183161665",
+        "created_at": "2026-01-23T11:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014668235183161665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1792059831123079168",
+              "start": 3,
+              "username": "PatriciaMi83967"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqiupROCJ0",
+              "end": 68,
+              "expanded_url": "https://x.com/PatriciaMi83967/status/2014582194862489789/photo/1",
+              "media_key": "3_2014582189003055104",
+              "start": 45,
+              "url": "https://t.co/fqiupROCJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014668235183161665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014582194862489789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PatriciaMi83967: 私の元彼は62歳でしたｗｗ\n年の差41歳！！！ https://t.co/fqiupROCJ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014582189003055104"
+          ]
+        },
+        "author_id": "1792059831123079168",
+        "conversation_id": "2014582194862489789",
+        "created_at": "2026-01-23T06:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014582194862489789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqiupROCJ0",
+              "end": 47,
+              "expanded_url": "https://x.com/PatriciaMi83967/status/2014582194862489789/photo/1",
+              "media_key": "3_2014582189003055104",
+              "start": 24,
+              "url": "https://t.co/fqiupROCJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014582194862489789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 1383105,
+          "like_count": 537,
+          "quote_count": 88,
+          "reply_count": 76,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "私の元彼は62歳でしたｗｗ\n年の差41歳！！！ https://t.co/fqiupROCJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 881,
+          "like_count": 3805,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T05:08:54.000Z",
+        "description": "地雷好き♡生涯酒飲み♡男依存症♡\n絡み用@qphbu23376128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "qphbu23376128"
+              }
+            ]
+          }
+        },
+        "id": "1792059831123079168",
+        "name": "ののべび ୨୧♡",
+        "pinned_tweet_id": "2010879439367033099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981592914112233472/leVoRvJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6194,
+          "following_count": 373,
+          "like_count": 23,
+          "listed_count": 12,
+          "media_count": 19,
+          "tweet_count": 273
+        },
+        "username": "PatriciaMi83967",
+        "verified": false
+      }
+    ]
+  }
+}

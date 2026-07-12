@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036637839090446336",
+        "3_2036637839107166208"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2036637847449702437",
+    "created_at": "2026-03-25T02:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T03:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036637847449702437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTAgGNlYz5",
+          "end": 48,
+          "expanded_url": "https://x.com/0voki33Me/status/2036637847449702437/photo/1",
+          "media_key": "3_2036637839090446336",
+          "start": 25,
+          "url": "https://t.co/lTAgGNlYz5"
+        },
+        {
+          "display_url": "pic.x.com/lTAgGNlYz5",
+          "end": 48,
+          "expanded_url": "https://x.com/0voki33Me/status/2036637847449702437/photo/1",
+          "media_key": "3_2036637839107166208",
+          "start": 25,
+          "url": "https://t.co/lTAgGNlYz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036637847449702437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷偷和朋友跑来吃馄炖，老师就这样隔着马路盯着我们 https://t.co/lTAgGNlYz5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036637847449702437].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036637847449702437",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036637847449702437"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036637839090446336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOXUvca8AAo51C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036637839107166208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOXUvgaEAAxG1f.jpg",
+        "width": 734
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1184,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 4749
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

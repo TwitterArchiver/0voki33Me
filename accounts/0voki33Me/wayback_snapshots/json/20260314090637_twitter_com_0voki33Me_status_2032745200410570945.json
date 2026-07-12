@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2032484721155059712"
+      ],
+      "media_source_tweet_id": [
+        "2032484968673230886"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032745200410570945",
+    "created_at": "2026-03-14T09:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032745200410570945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1747789622740942848",
+          "start": 3,
+          "username": "psychofuturist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Dd1z3GjaS",
+          "end": 83,
+          "expanded_url": "https://x.com/psychofuturist/status/2032484968673230886/photo/1",
+          "media_key": "16_2032484721155059712",
+          "start": 60,
+          "url": "https://t.co/3Dd1z3GjaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032745200410570945",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 666
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032484968673230886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psychofuturist: there is no chance of not being eternal https://t.co/3Dd1z3GjaS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "16_2032484721155059712",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDTWFdfbMAA4aQ4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDTWFdfbMAA4aQ4.mp4"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2032484721155059712"
+          ],
+          "media_source_tweet_id": [
+            "2032484968673230886"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032745200410570945",
+        "created_at": "2026-03-14T09:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032745200410570945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1747789622740942848",
+              "start": 3,
+              "username": "psychofuturist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Dd1z3GjaS",
+              "end": 83,
+              "expanded_url": "https://x.com/psychofuturist/status/2032484968673230886/photo/1",
+              "media_key": "16_2032484721155059712",
+              "start": 60,
+              "url": "https://t.co/3Dd1z3GjaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032745200410570945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 666
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032484968673230886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psychofuturist: there is no chance of not being eternal https://t.co/3Dd1z3GjaS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2032484721155059712"
+          ]
+        },
+        "author_id": "1747789622740942848",
+        "conversation_id": "2032484968673230886",
+        "created_at": "2026-03-13T15:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032484968673230886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Dd1z3GjaS",
+              "end": 63,
+              "expanded_url": "https://x.com/psychofuturist/status/2032484968673230886/photo/1",
+              "media_key": "16_2032484721155059712",
+              "start": 40,
+              "url": "https://t.co/3Dd1z3GjaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032484968673230886",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 642,
+          "impression_count": 59568,
+          "like_count": 4167,
+          "quote_count": 29,
+          "reply_count": 26,
+          "retweet_count": 666
+        },
+        "reply_settings": "everyone",
+        "text": "there is no chance of not being eternal https://t.co/3Dd1z3GjaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1156,
+          "like_count": 5655,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T01:15:00.000Z",
+        "description": "the future of human emotions",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/psychofuturist",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/psychofuturist",
+                "start": 0,
+                "url": "https://t.co/dxckAm8Nl0"
+              }
+            ]
+          }
+        },
+        "id": "1747789622740942848",
+        "location": "MX",
+        "name": "Psychofuturist 👁️",
+        "pinned_tweet_id": "2030329119079100483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747789976736014336/PT-W6-yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13443,
+          "following_count": 0,
+          "like_count": 7741,
+          "listed_count": 140,
+          "media_count": 617,
+          "tweet_count": 4642
+        },
+        "url": "https://t.co/dxckAm8Nl0",
+        "username": "psychofuturist",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019651828049403904"
+      ],
+      "media_source_tweet_id": [
+        "2019651832570896656"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2019726014361031022",
+    "created_at": "2026-02-06T10:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019726014361031022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653278595719081986",
+          "start": 3,
+          "username": "QuanLujun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/owfl0oAFCf",
+          "end": 55,
+          "expanded_url": "https://x.com/QuanLujun/status/2019651832570896656/photo/1",
+          "media_key": "3_2019651828049403904",
+          "start": 32,
+          "url": "https://t.co/owfl0oAFCf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019726014361031022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019651832570896656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QuanLujun: 国内的APP为什么看上去这么吵！ https://t.co/owfl0oAFCf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2019651828049403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAc-oxTaYAAmOVH.jpg",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019651828049403904"
+          ],
+          "media_source_tweet_id": [
+            "2019651832570896656"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2019726014361031022",
+        "created_at": "2026-02-06T10:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019726014361031022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653278595719081986",
+              "start": 3,
+              "username": "QuanLujun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/owfl0oAFCf",
+              "end": 55,
+              "expanded_url": "https://x.com/QuanLujun/status/2019651832570896656/photo/1",
+              "media_key": "3_2019651828049403904",
+              "start": 32,
+              "url": "https://t.co/owfl0oAFCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019726014361031022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019651832570896656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QuanLujun: 国内的APP为什么看上去这么吵！ https://t.co/owfl0oAFCf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019651828049403904"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "conversation_id": "2019651832570896656",
+        "created_at": "2026-02-06T05:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019651832570896656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owfl0oAFCf",
+              "end": 40,
+              "expanded_url": "https://x.com/QuanLujun/status/2019651832570896656/photo/1",
+              "media_key": "3_2019651828049403904",
+              "start": 17,
+              "url": "https://t.co/owfl0oAFCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019651832570896656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 129698,
+          "like_count": 825,
+          "quote_count": 8,
+          "reply_count": 107,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "国内的APP为什么看上去这么吵！ https://t.co/owfl0oAFCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1027,
+          "like_count": 4853,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾，台湾独立；守护台湾就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共恐怖主义独裁纳粹暴政祸害世界；「世界需要真实的声音」基督✝️文明世界必将战胜邪恶撒旦；台独顽固分子/荣耀基督联盟 Luke-权录军/【欢迎加入反共电报群https://t.co/xxJHoK35Yl】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 147,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 124,
+                "url": "https://t.co/xxJHoK35Yl"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "location": "California, USA",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2014187821582700962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13797,
+          "following_count": 5077,
+          "like_count": 31797,
+          "listed_count": 94,
+          "media_count": 1540,
+          "tweet_count": 16210
+        },
+        "username": "QuanLujun",
+        "verified": true
+      }
+    ]
+  }
+}

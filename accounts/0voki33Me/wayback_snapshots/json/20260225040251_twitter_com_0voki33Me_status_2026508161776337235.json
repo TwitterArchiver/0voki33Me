@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2026488668450693532",
+    "created_at": "2026-02-25T04:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026508161776337235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903126320697184257",
+          "start": 0,
+          "username": "cyberpsychosisR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026508161776337235",
+    "in_reply_to_user_id": "1903126320697184257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026488668450693532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberpsychosisR 有我有我😸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2026488664247906304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-ItA3aMAAMKvJ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2026488668450693532",
+        "created_at": "2026-02-25T04:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026508161776337235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903126320697184257",
+              "start": 0,
+              "username": "cyberpsychosisR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026508161776337235",
+        "in_reply_to_user_id": "1903126320697184257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026488668450693532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberpsychosisR 有我有我😸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026488664247906304"
+          ]
+        },
+        "author_id": "1903126320697184257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2026488668450693532",
+        "created_at": "2026-02-25T02:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026488668450693532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/LFEtelgHqe"
+            },
+            {
+              "display_url": "pic.x.com/KCxkIDEFyf",
+              "end": 64,
+              "expanded_url": "https://x.com/cyberpsychosisR/status/2026488668450693532/photo/1",
+              "media_key": "3_2026488664247906304",
+              "start": 41,
+              "url": "https://t.co/KCxkIDEFyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026488668450693532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/LFEtelgHqe https://t.co/KCxkIDEFyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 1126,
+          "like_count": 5334,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:47:36.000Z",
+        "description": "我觉得我已经没有精神方面的问题了，我们还能重新在一起吗？",
+        "id": "1903126320697184257",
+        "name": "Outside me, inside me",
+        "pinned_tweet_id": "2022350519948529841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026238657645162496/YS5RkD28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 134,
+          "like_count": 6530,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 4001
+        },
+        "username": "cyberpsychosisR",
+        "verified": false
+      }
+    ]
+  }
+}

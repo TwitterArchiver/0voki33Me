@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2019415436736229670",
+    "created_at": "2026-02-05T15:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019439866195636431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        },
+        {
+          "end": 23,
+          "id": "2697899238",
+          "start": 14,
+          "username": "jiecaoji"
+        },
+        {
+          "end": 32,
+          "id": "1988242011003228160",
+          "start": 24,
+          "username": "louooo3"
+        },
+        {
+          "end": 42,
+          "id": "1812304729432838144",
+          "start": 33,
+          "username": "huimu420"
+        },
+        {
+          "end": 54,
+          "id": "1956544219751063552",
+          "start": 43,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019439866195636431",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019415436736229670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang @jiecaoji @louooo3 @huimu420 @wu_si42846 阿巴阿巴麻麻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2019415428217597954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZnofTacAIIZB4.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2019415436736229670",
+        "created_at": "2026-02-05T15:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019439866195636431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            },
+            {
+              "end": 23,
+              "id": "2697899238",
+              "start": 14,
+              "username": "jiecaoji"
+            },
+            {
+              "end": 32,
+              "id": "1988242011003228160",
+              "start": 24,
+              "username": "louooo3"
+            },
+            {
+              "end": 42,
+              "id": "1812304729432838144",
+              "start": 33,
+              "username": "huimu420"
+            },
+            {
+              "end": 54,
+              "id": "1956544219751063552",
+              "start": 43,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019439866195636431",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019415436736229670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang @jiecaoji @louooo3 @huimu420 @wu_si42846 阿巴阿巴麻麻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019415428217597954"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2019415436736229670",
+        "created_at": "2026-02-05T14:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T15:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019415436736229670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "2697899238",
+              "start": 22,
+              "username": "jiecaoji"
+            },
+            {
+              "end": 40,
+              "id": "1988242011003228160",
+              "start": 32,
+              "username": "louooo3"
+            },
+            {
+              "end": 56,
+              "id": "1812304729432838144",
+              "start": 47,
+              "username": "huimu420"
+            },
+            {
+              "end": 73,
+              "id": "1641968587102621696",
+              "start": 63,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 85,
+              "id": "1956544219751063552",
+              "start": 74,
+              "username": "wu_si42846"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 113,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/1NuagVaKTk"
+            },
+            {
+              "display_url": "pic.x.com/qpVd3HanwI",
+              "end": 137,
+              "expanded_url": "https://x.com/jianggejiang/status/2019415436736229670/photo/1",
+              "media_key": "3_2019415428217597954",
+              "start": 114,
+              "url": "https://t.co/qpVd3HanwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019415436736229670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @jiecaoji @louooo3\n👰 配偶: @huimu420\n👶 孩子: @0voki33Me @wu_si42846\n\n➡️ https://t.co/1NuagVaKTk https://t.co/qpVd3HanwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 1026,
+          "like_count": 4831,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "烟代找我 外烟电子烟💚\n-叫我姜鴿江/阿团/Juno/J \nCN/ENG🤏\n从你妈逼良\n英文号:@jiangziqiqqq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang35…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang35588",
+                "start": 0,
+                "url": "https://t.co/N7YdqNMa1I"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江",
+        "pinned_tweet_id": "2006394995960578049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 737,
+          "like_count": 1975,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/N7YdqNMa1I",
+        "username": "jianggejiang",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-01T10:20:31.000Z",
+        "description": "ed进食障碍（假的）/性别（假的）/成分非常杂（假的）/\n\n有点地雷（假）/后现代行者（假的）/\n\nhttps://t.co/5E1IIxJPSK\n\n头像和背景是 @sebonelong 的角色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "sebonelong"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dna76588",
+                "end": 73,
+                "expanded_url": "https://ngl.link/dna76588",
+                "start": 50,
+                "url": "https://t.co/5E1IIxJPSK"
+              }
+            ]
+          }
+        },
+        "id": "2697899238",
+        "location": "火星",
+        "name": "朊鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983933801622319104/PWxf2Sx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 243,
+          "like_count": 4569,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 539
+        },
+        "username": "jiecaoji",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T13:47:50.000Z",
+        "description": "",
+        "id": "1988242011003228160",
+        "name": "louooo",
+        "pinned_tweet_id": "2017153005934776653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989008670831833089/7LSjSNx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 71,
+          "like_count": 1746,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 312
+        },
+        "username": "louooo3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "谢谢你的拉黑 惨逼一个 骂我死妈 被b自己找原因 \nfo你是暗恋你\n唯一的恋人是酷拉皮卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNm1eQ"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱→",
+        "name": "回木",
+        "pinned_tweet_id": "2016510432039571539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 678,
+          "like_count": 22275,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 5365
+        },
+        "url": "https://t.co/o2XkPNm1eQ",
+        "username": "huimu420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "SRS，HRT：娘胎里/我就是那位看着你的佛🔪/ ✰*🎀 ੈ✩🐰✰*💗 ੈ✩/高度活跃互联网！想交朋友！互fo捏/（我是低齡憂鬱糖人大傻福，實在抱歉！）/（如果看到我连续发了很多条帖子请立马叫我去学习！）/很多不良嗜好 -12现役初中生/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "雌二醇星球",
+        "name": "宇宙级病娇霖酱喵🏳️‍⚧️🍥☆（cosplay）",
+        "pinned_tweet_id": "2019010889152954602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019005486964805632/n3Fj0pKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 213,
+          "like_count": 6866,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

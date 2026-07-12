@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013611995832918134",
+    "created_at": "2026-01-20T13:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T14:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013611995832918134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579876369974050817",
+          "start": 3,
+          "username": "dinziyng8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013611995832918134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013340321590190420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dinziyng8: 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013611995832918134",
+        "created_at": "2026-01-20T13:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013611995832918134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579876369974050817",
+              "start": 3,
+              "username": "dinziyng8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013611995832918134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013340321590190420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dinziyng8: 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579876369974050817",
+        "conversation_id": "2013340321590190420",
+        "created_at": "2026-01-19T19:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T20:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013340321590190420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/michelle338353…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/michelle3383532/status/2012539400245117170",
+              "start": 5,
+              "url": "https://t.co/i0aijWPrfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013340321590190420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012539400245117170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/i0aijWPrfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 853,
+          "like_count": 3651,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T16:47:40.000Z",
+        "description": "06🚪58/88r 当朋友圈发 匿提https://t.co/EASMUWBDFn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9B%BB%E5%A…",
+                "end": 41,
+                "expanded_url": "https://ngl.link/%E9%9B%BB%E5%AD%90%E7%BE%8A",
+                "start": 18,
+                "url": "https://t.co/EASMUWBDFn"
+              }
+            ]
+          }
+        },
+        "id": "1579876369974050817",
+        "location": "开放朋友圈有福利打游戏陪聊",
+        "name": "電子羊",
+        "pinned_tweet_id": "1881393236503400748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005017383409487873/0BJW_hyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4908,
+          "following_count": 2926,
+          "like_count": 43158,
+          "listed_count": 21,
+          "media_count": 240,
+          "tweet_count": 3448
+        },
+        "username": "dinziyng8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018939519584669696"
+      ],
+      "media_source_tweet_id": [
+        "2018939540359069949"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019130620702806105",
+    "created_at": "2026-02-04T19:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T20:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019130620702806105"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 45,
+          "tag": "Helldivers2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1636421516064612352",
+          "start": 3,
+          "username": "Helldivers2HQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y23phJAM6i",
+          "end": 81,
+          "expanded_url": "https://x.com/Helldivers2HQ/status/2018939540359069949/photo/1",
+          "media_key": "3_2018939519584669696",
+          "start": 58,
+          "url": "https://t.co/y23phJAM6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019130620702806105",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018939540359069949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Helldivers2HQ: Liberty Square Massacre | #Helldivers2 https://t.co/y23phJAM6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2018939519584669696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAS2y9fXkAAL-Mt.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018939519584669696"
+          ],
+          "media_source_tweet_id": [
+            "2018939540359069949"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019130620702806105",
+        "created_at": "2026-02-04T19:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T20:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019130620702806105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 45,
+              "tag": "Helldivers2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1636421516064612352",
+              "start": 3,
+              "username": "Helldivers2HQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y23phJAM6i",
+              "end": 81,
+              "expanded_url": "https://x.com/Helldivers2HQ/status/2018939540359069949/photo/1",
+              "media_key": "3_2018939519584669696",
+              "start": 58,
+              "url": "https://t.co/y23phJAM6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019130620702806105",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018939540359069949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Helldivers2HQ: Liberty Square Massacre | #Helldivers2 https://t.co/y23phJAM6i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018939519584669696"
+          ]
+        },
+        "author_id": "1636421516064612352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018939540359069949",
+        "created_at": "2026-02-04T06:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018939540359069949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "Helldivers2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y23phJAM6i",
+              "end": 62,
+              "expanded_url": "https://x.com/Helldivers2HQ/status/2018939540359069949/photo/1",
+              "media_key": "3_2018939519584669696",
+              "start": 39,
+              "url": "https://t.co/y23phJAM6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018939540359069949",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 272211,
+          "like_count": 5813,
+          "quote_count": 47,
+          "reply_count": 115,
+          "retweet_count": 449
+        },
+        "reply_settings": "everyone",
+        "text": "Liberty Square Massacre | #Helldivers2 https://t.co/y23phJAM6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1020,
+          "like_count": 4733,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T17:37:56.000Z",
+        "description": "News, Leaks and Updates for #HELLDIVERS2 | Not affiliated with @ArrowHeadGS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 28,
+                "tag": "HELLDIVERS2"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ArrowHeadGS"
+              }
+            ]
+          }
+        },
+        "id": "1636421516064612352",
+        "name": "HELLDIVERS 2 Updates",
+        "pinned_tweet_id": "1999123734553321863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755558161212219393/dwXhz23E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95820,
+          "following_count": 2,
+          "like_count": 576,
+          "listed_count": 108,
+          "media_count": 2029,
+          "tweet_count": 3758
+        },
+        "username": "Helldivers2HQ",
+        "verified": false
+      }
+    ]
+  }
+}

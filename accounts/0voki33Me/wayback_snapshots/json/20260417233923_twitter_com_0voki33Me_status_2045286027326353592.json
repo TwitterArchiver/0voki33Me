@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045286018262392832",
+        "3_2045286018262437888"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2045286027326353592",
+    "created_at": "2026-04-17T23:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045286027326353592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pgraw2UoAd",
+          "end": 79,
+          "expanded_url": "https://x.com/0voki33Me/status/2045286027326353592/photo/1",
+          "media_key": "3_2045286018262392832",
+          "start": 56,
+          "url": "https://t.co/Pgraw2UoAd"
+        },
+        {
+          "display_url": "pic.x.com/Pgraw2UoAd",
+          "end": 79,
+          "expanded_url": "https://x.com/0voki33Me/status/2045286027326353592/photo/1",
+          "media_key": "3_2045286018262437888",
+          "start": 56,
+          "url": "https://t.co/Pgraw2UoAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045286027326353592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧远古流纸巾包扎，p2是凡士林的贴的，我另外扎了绷带，\n哎我的手臂好丑啊，不管是在哪家，什么时候都好丑，我烦 https://t.co/Pgraw2UoAd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045286027326353592].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045286027326353592",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045286027326353592"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045286018262392832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJQzBaaYAAmOEv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045286018262437888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJQzBabEAA-E3j.jpg",
+        "width": 1516
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1148,
+          "like_count": 6241,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 5836
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2015138538925482112",
+    "created_at": "2026-01-24T19:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015139363211092357"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015139363211092357",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015138538925482112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单删她还要给他转5块钱，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015138538925482112",
+        "created_at": "2026-01-24T19:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015139363211092357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015139363211092357",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015138538925482112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单删她还要给他转5块钱，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015138538925482112",
+        "created_at": "2026-01-24T19:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015138538925482112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/0voki33me/status/2014700883469336866",
+              "start": 110,
+              "url": "https://t.co/TYf6Cwj7e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015138538925482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014700883469336866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "……但是其实这个女生我确实对她印象不好，和她的身材没有任何关系\n因为她之前加了我说要扩列，我说“不扩列”，就这三个字她应激了开始骂我，虽然没骂几句我就不想理她直接把她删了\n我还有她微信是因为后面她找我买东西加回来了\n唉 https://t.co/TYf6Cwj7e3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 907,
+          "like_count": 3944,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013091485676110065",
+    "created_at": "2026-01-19T04:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013111038770897094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013111038770897094",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013091485676110065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 为啥你分享出来网易云音乐是这样🥲我是你那个文案加专辑图片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013091485676110065",
+        "created_at": "2026-01-19T04:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013111038770897094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968225364163141632",
+              "start": 0,
+              "username": "Deborah90330371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013111038770897094",
+        "in_reply_to_user_id": "1968225364163141632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013091485676110065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deborah90330371 为啥你分享出来网易云音乐是这样🥲我是你那个文案加专辑图片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968225364163141632",
+        "conversation_id": "2013091485676110065",
+        "created_at": "2026-01-19T03:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013091485676110065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《数钱的女孩》，由 连麻Swimming、JinJiBeWater_隼 演唱，收录于《真假美猴王》专辑中，《数钱的女孩》下载，《数钱的女孩》在线试听，更多数钱的女孩相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ZUb3Jgo",
+              "end": 60,
+              "expanded_url": "https://163cn.tv/ZUb3Jgo",
+              "images": [
+                {
+                  "height": 1440,
+                  "url": "https://pbs.twimg.com/news_img/2013091548934672384/SEx40UlD?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2013091548934672384/SEx40UlD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "数钱的女孩 - 连麻Swimming/JinJiBeWater_隼 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=2006229677&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=8360197274&playerUIModeId=76001&app_version=9.4.50&dlt=0846",
+              "url": "https://t.co/F67rr95X0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013091485676110065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享连麻Swimming/JinJiBeWater_隼的单曲《数钱的女孩》https://t.co/F67rr95X0t (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 844,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。有问题发小号@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "dai7831"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A528546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A528546",
+                "start": 0,
+                "url": "https://t.co/RuKjS3c4S8"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "location": "无🚪的意思是 想认识我门都没有。只和喜欢的人玩",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2006253707105828937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 149,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/RuKjS3c4S8",
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

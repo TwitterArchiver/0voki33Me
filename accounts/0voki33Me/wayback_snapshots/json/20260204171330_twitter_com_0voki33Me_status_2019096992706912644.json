@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2019029567714017281",
+    "created_at": "2026-02-04T17:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019096992706912644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865530573105876992",
+          "start": 0,
+          "username": "SpiderOOOOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019096992706912644",
+    "in_reply_to_user_id": "1865530573105876992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019096006118297908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpiderOOOOOO 我看着感觉会，但是其实我自己试了一次根本没办法呼出那股堵在胸口的气，不过我没过肺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2019029567714017281",
+        "created_at": "2026-02-04T17:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019096992706912644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865530573105876992",
+              "start": 0,
+              "username": "SpiderOOOOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019096992706912644",
+        "in_reply_to_user_id": "1865530573105876992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019096006118297908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpiderOOOOOO 我看着感觉会，但是其实我自己试了一次根本没办法呼出那股堵在胸口的气，不过我没过肺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865530573105876992",
+        "conversation_id": "2019029567714017281",
+        "created_at": "2026-02-04T17:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019096006118297908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019096006118297908",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019029567714017281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 其实我觉得抽烟不会让我的情绪变好一点，但是就是上瘾了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1020,
+          "like_count": 4724,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3014
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T22:55:35.000Z",
+        "description": "07 七年双相情感障碍 不聊扫不下海 我是对象奴 经常发一些梦话 喜欢有礼貌的人 可以多夸夸我 找我聊天🥰我很温良",
+        "id": "1865530573105876992",
+        "name": "锁",
+        "pinned_tweet_id": "2018413526537167115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865530734578188288/OG-Zr4-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 12,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 130
+        },
+        "username": "SpiderOOOOOO",
+        "verified": false
+      }
+    ]
+  }
+}

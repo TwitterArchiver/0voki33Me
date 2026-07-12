@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2019074148132098402",
+    "created_at": "2026-02-05T05:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T06:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019286940395401576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019286940395401576",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019074148132098402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 太阔耐了吧，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16966,
+        "height": 1280,
+        "media_key": "13_2019073496643665920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019073496643665920/img/kaFEijJ15M8MbS0a.jpg",
+        "public_metrics": {
+          "view_count": 545
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019073496643665920/vid/avc1/320x568/fmPggTPmgZtG-j4G.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019073496643665920/vid/avc1/480x852/xb1-FCn0YMhb4GKo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019073496643665920/vid/avc1/720x1280/qeKqaYpD0R_z7--t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019073496643665920/pl/6GCtB38fj8NINn8Z.m3u8?v=1bd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2019074148132098402",
+        "created_at": "2026-02-05T05:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019286940395401576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019286940395401576",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019074148132098402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 太阔耐了吧，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019073496643665920"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "2019074148132098402",
+        "created_at": "2026-02-04T15:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019074148132098402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9he0jRjtrZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Dumpling666666/status/2019074148132098402/video/1",
+              "media_key": "13_2019073496643665920",
+              "start": 6,
+              "url": "https://t.co/9he0jRjtrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019074148132098402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1537,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复健的时候 https://t.co/9he0jRjtrZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1024,
+          "like_count": 4767,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 3081
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "2011424955637043279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332819744530432/rDIIZXv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 134,
+          "like_count": 1813,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 698
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

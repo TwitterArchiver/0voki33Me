@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010288076829130752",
+        "3_2010288076485275648",
+        "3_2010288076481060865"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010288084718657577",
+    "created_at": "2026-01-11T09:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T10:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010288084718657577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBbrxb9sKn",
+          "end": 28,
+          "expanded_url": "https://x.com/0voki33Me/status/2010288084718657577/photo/1",
+          "media_key": "3_2010288076829130752",
+          "start": 5,
+          "url": "https://t.co/QBbrxb9sKn"
+        },
+        {
+          "display_url": "pic.x.com/QBbrxb9sKn",
+          "end": 28,
+          "expanded_url": "https://x.com/0voki33Me/status/2010288084718657577/photo/1",
+          "media_key": "3_2010288076485275648",
+          "start": 5,
+          "url": "https://t.co/QBbrxb9sKn"
+        },
+        {
+          "display_url": "pic.x.com/QBbrxb9sKn",
+          "end": 28,
+          "expanded_url": "https://x.com/0voki33Me/status/2010288084718657577/photo/1",
+          "media_key": "3_2010288076481060865",
+          "start": 5,
+          "url": "https://t.co/QBbrxb9sKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010288084718657577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "B友崛起 https://t.co/QBbrxb9sKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010288076829130752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X6WtuagAAExQU.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010288076485275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X6WscbsAAakkT.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010288076481060865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X6WsbbYAEHKo3.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010288076829130752",
+            "3_2010288076485275648",
+            "3_2010288076481060865"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010288084718657577",
+        "created_at": "2026-01-11T09:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010288084718657577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBbrxb9sKn",
+              "end": 28,
+              "expanded_url": "https://x.com/0voki33Me/status/2010288084718657577/photo/1",
+              "media_key": "3_2010288076829130752",
+              "start": 5,
+              "url": "https://t.co/QBbrxb9sKn"
+            },
+            {
+              "display_url": "pic.x.com/QBbrxb9sKn",
+              "end": 28,
+              "expanded_url": "https://x.com/0voki33Me/status/2010288084718657577/photo/1",
+              "media_key": "3_2010288076485275648",
+              "start": 5,
+              "url": "https://t.co/QBbrxb9sKn"
+            },
+            {
+              "display_url": "pic.x.com/QBbrxb9sKn",
+              "end": 28,
+              "expanded_url": "https://x.com/0voki33Me/status/2010288084718657577/photo/1",
+              "media_key": "3_2010288076481060865",
+              "start": 5,
+              "url": "https://t.co/QBbrxb9sKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010288084718657577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "B友崛起 https://t.co/QBbrxb9sKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 779,
+          "like_count": 3161,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1504
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

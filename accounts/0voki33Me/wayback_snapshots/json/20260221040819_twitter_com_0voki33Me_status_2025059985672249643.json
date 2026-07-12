@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2025059985672249643",
+    "created_at": "2026-02-21T04:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025059985672249643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikuo_sound/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kikuo_sound/status/2024822041220935861",
+          "start": 6,
+          "url": "https://t.co/w0qyo1zhhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025059985672249643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024822041220935861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭惹呜呜 https://t.co/w0qyo1zhhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3307,
+        "media_key": "3_2024821955787124736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmc10AacAAbOtK.jpg",
+        "width": 3307
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2024821974317580288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmc25CawAA2gvB.jpg",
+        "width": 2898
+      },
+      {
+        "height": 3508,
+        "media_key": "3_2024821989484187649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmc3xia0AEzCEB.png",
+        "width": 2481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2025059985672249643",
+        "created_at": "2026-02-21T04:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025059985672249643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikuo_sound/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kikuo_sound/status/2024822041220935861",
+              "start": 6,
+              "url": "https://t.co/w0qyo1zhhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025059985672249643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024822041220935861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭惹呜呜 https://t.co/w0qyo1zhhn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024821955787124736",
+            "3_2024821974317580288",
+            "3_2024821989484187649"
+          ]
+        },
+        "author_id": "181634017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024822041220935861",
+        "created_at": "2026-02-20T12:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024822041220935861"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 113,
+              "normalized_text": "Kikuoland Above All Bounds World Tour",
+              "probability": 0.6888,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 147,
+              "normalized_text": "kikuo_info",
+              "probability": 0.6251,
+              "start": 138,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZQtSV5DZQ",
+              "end": 297,
+              "expanded_url": "https://x.com/kikuo_sound/status/2024822041220935861/photo/1",
+              "media_key": "3_2024821955787124736",
+              "start": 274,
+              "url": "https://t.co/iZQtSV5DZQ"
+            },
+            {
+              "display_url": "pic.x.com/iZQtSV5DZQ",
+              "end": 297,
+              "expanded_url": "https://x.com/kikuo_sound/status/2024822041220935861/photo/1",
+              "media_key": "3_2024821974317580288",
+              "start": 274,
+              "url": "https://t.co/iZQtSV5DZQ"
+            },
+            {
+              "display_url": "pic.x.com/iZQtSV5DZQ",
+              "end": 297,
+              "expanded_url": "https://x.com/kikuo_sound/status/2024822041220935861/photo/1",
+              "media_key": "3_2024821989484187649",
+              "start": 274,
+              "url": "https://t.co/iZQtSV5DZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024822041220935861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Thank you for your patience! Here is the official merchandise lineup for the Kikuoland Above All Bounds World Tour venue sales.\n\nContact: kikuo_info@sonymusic.co.jp\n\n▼ Purchase Limits\nPer person: up to 2 items each for hoodies, tote bags, and penlights.\nAll other items are limited to up to 5 units per item type.\n\n▼ Online Sales Start Date for CD Reissues\nMonday, April 6, 2026 — from 18:00 (JST)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 22571,
+          "like_count": 649,
+          "quote_count": 47,
+          "reply_count": 12,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you for your patience! Here is the official merchandise lineup for the Kikuoland Above All Bounds World Tour venue sales.\n\nContact: kikuo_info@sonymusic.co.jp\n\n▼ Purchase Limits\nPer person: up to 2 items each for hoodies, tote bags, and penlights.\nAll other items are https://t.co/iZQtSV5DZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 1094,
+          "like_count": 5186,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-22T17:59:59.000Z",
+        "description": "ボカロPです。Spotifyボカロ曲再生数世界一達成、ボカロP史上初のワールドツアー19ヶ国53箇所完遂、高校音楽の教科書掲載、NHKプロフェッショナル仕事の流儀・NHKスペシャル密着取材、プロセカ「愛して愛して愛して」、教則動画、漫画、小説等。きくお曲が好きな人に向けて活動情報を書きます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/kikuo_sound",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/kikuo_sound",
+                "start": 0,
+                "url": "https://t.co/yyNwDwSppE"
+              }
+            ]
+          }
+        },
+        "id": "181634017",
+        "location": "神奈川県",
+        "name": "きくお 2/21Zepp新宿ワンマン",
+        "pinned_tweet_id": "1965676061620142490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007189072276852736/dfiLCzvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172640,
+          "following_count": 19,
+          "like_count": 4785,
+          "listed_count": 1061,
+          "media_count": 872,
+          "tweet_count": 12543
+        },
+        "url": "https://t.co/yyNwDwSppE",
+        "username": "kikuo_sound",
+        "verified": true
+      }
+    ]
+  }
+}

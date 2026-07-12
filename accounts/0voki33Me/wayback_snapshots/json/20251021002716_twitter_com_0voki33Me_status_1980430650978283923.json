@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1979811382850891887",
+    "created_at": "2025-10-21T00:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T01:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980430650978283923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980430650978283923",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979811382850891887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 上层人的门槛这么低吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_1979811288873123841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mz4LOXQAEkyH_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1979811382850891887",
+        "created_at": "2025-10-21T00:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T01:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980430650978283923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980430650978283923",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979811382850891887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 上层人的门槛这么低吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979811288873123841"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1979811382850891887",
+        "created_at": "2025-10-19T07:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979811382850891887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FD4icUmwTV",
+              "end": 41,
+              "expanded_url": "https://x.com/igeekbb/status/1979811382850891887/photo/1",
+              "media_key": "3_1979811288873123841",
+              "start": 18,
+              "url": "https://t.co/FD4icUmwTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979811382850891887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 1192850,
+          "like_count": 2224,
+          "quote_count": 15,
+          "reply_count": 289,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "很多底层人活得不如上层人的猫猫狗狗 https://t.co/FD4icUmwTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝----------糊逼一枚妹纸可以找我互fo -------------#edtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "edtwt"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 220,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 160
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56012,
+          "following_count": 1,
+          "like_count": 7336,
+          "listed_count": 223,
+          "media_count": 5487,
+          "tweet_count": 8300
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

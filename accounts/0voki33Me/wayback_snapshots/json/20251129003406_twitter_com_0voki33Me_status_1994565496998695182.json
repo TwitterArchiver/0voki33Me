@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994565480045305856"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1994565496998695182",
+    "created_at": "2025-11-29T00:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T01:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994565496998695182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dzNtQqbkMf",
+          "end": 28,
+          "expanded_url": "https://x.com/0voki33Me/status/1994565496998695182/photo/1",
+          "media_key": "3_1994565480045305856",
+          "start": 5,
+          "url": "https://t.co/dzNtQqbkMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994565496998695182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/dzNtQqbkMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994565480045305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64evIdbYAAn4rz.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994565480045305856"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1994565496998695182",
+        "created_at": "2025-11-29T00:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T01:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994565496998695182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzNtQqbkMf",
+              "end": 28,
+              "expanded_url": "https://x.com/0voki33Me/status/1994565496998695182/photo/1",
+              "media_key": "3_1994565480045305856",
+              "start": 5,
+              "url": "https://t.co/dzNtQqbkMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994565496998695182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/dzNtQqbkMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝---------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 240,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 189
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

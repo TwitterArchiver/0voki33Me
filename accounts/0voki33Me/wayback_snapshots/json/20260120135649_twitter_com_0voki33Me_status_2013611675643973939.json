@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013611675643973939",
+    "created_at": "2026-01-20T13:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T14:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013611675643973939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/disire_time/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/disire_time/status/2013278366766448774",
+          "start": 4,
+          "url": "https://t.co/KoR1lwsZ9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013611675643973939",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013278366766448774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "666 https://t.co/KoR1lwsZ9w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013611675643973939",
+        "created_at": "2026-01-20T13:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013611675643973939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/disire_time/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/disire_time/status/2013278366766448774",
+              "start": 4,
+              "url": "https://t.co/KoR1lwsZ9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013611675643973939",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013278366766448774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "666 https://t.co/KoR1lwsZ9w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634186793548677120",
+        "conversation_id": "2013132424222580877",
+        "created_at": "2026-01-19T15:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013278366766448774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "269116603",
+              "start": 0,
+              "username": "china_shw"
+            },
+            {
+              "end": 22,
+              "id": "384850586",
+              "start": 11,
+              "username": "ssslumdunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013278366766448774",
+        "in_reply_to_user_id": "269116603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26878,
+          "like_count": 28,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013211264919671098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_shw @ssslumdunk 孩子，卖淫女在卖的过程中都能报警告强奸，就跟踏马毒贩在贩毒的过程中报警告对面黑吃黑一样，中国不愧是个母狗大国，中国不愧是男性地位最低的国家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 853,
+          "like_count": 3650,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T13:38:00.000Z",
+        "description": "随便玩玩",
+        "id": "1634186793548677120",
+        "name": "李泰麽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928421606600196108/KGtwl8F-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 49,
+          "like_count": 11503,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 323
+        },
+        "username": "disire_time",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049474303482118146"
+      ],
+      "media_source_tweet_id": [
+        "2049474309484097598"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049709041837019414",
+    "created_at": "2026-04-30T04:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049709041837019414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823478251614035971",
+          "start": 3,
+          "username": "Inf1nityRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRf7MBCkNf",
+          "end": 119,
+          "expanded_url": "https://x.com/Inf1nityRC/status/2049474309484097598/photo/1",
+          "media_key": "3_2049474303482118146",
+          "start": 96,
+          "url": "https://t.co/MRf7MBCkNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049709041837019414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049474309484097598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inf1nityRC: 新店开业抽奖活动详情请看图\n以及开业大酬宾\n主打产品5.4前\n50%OFF！买三送一\n更多有趣的物质\n欢迎到我们主页的TG频道挑选\n种类齐全，满足你的一切需要 https://t.co/MRf7MBCkNf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049474303482118146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEyBTtXwAIUn7B.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049474303482118146"
+          ],
+          "media_source_tweet_id": [
+            "2049474309484097598"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049709041837019414",
+        "created_at": "2026-04-30T04:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049709041837019414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823478251614035971",
+              "start": 3,
+              "username": "Inf1nityRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRf7MBCkNf",
+              "end": 119,
+              "expanded_url": "https://x.com/Inf1nityRC/status/2049474309484097598/photo/1",
+              "media_key": "3_2049474303482118146",
+              "start": 96,
+              "url": "https://t.co/MRf7MBCkNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049709041837019414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049474309484097598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inf1nityRC: 新店开业抽奖活动详情请看图\n以及开业大酬宾\n主打产品5.4前\n50%OFF！买三送一\n更多有趣的物质\n欢迎到我们主页的TG频道挑选\n种类齐全，满足你的一切需要 https://t.co/MRf7MBCkNf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049474303482118146"
+          ]
+        },
+        "author_id": "1823478251614035971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049474309484097598",
+        "created_at": "2026-04-29T13:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049474309484097598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRf7MBCkNf",
+              "end": 103,
+              "expanded_url": "https://x.com/Inf1nityRC/status/2049474309484097598/photo/1",
+              "media_key": "3_2049474303482118146",
+              "start": 80,
+              "url": "https://t.co/MRf7MBCkNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049474309484097598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2034,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "新店开业抽奖活动详情请看图\n以及开业大酬宾\n主打产品5.4前\n50%OFF！买三送一\n更多有趣的物质\n欢迎到我们主页的TG频道挑选\n种类齐全，满足你的一切需要 https://t.co/MRf7MBCkNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2047714085161361786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 1178,
+          "like_count": 6462,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 6274
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T21:54:41.000Z",
+        "description": "主要营业-解离剂/兴奋剂/致幻剂 需要的可以联系 支持大宗批发/原料购买/量大优惠 /招代理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/kxTQRa7abd"
+              }
+            ]
+          }
+        },
+        "id": "1823478251614035971",
+        "location": "购买联系➡️",
+        "name": "INFINITY-RC",
+        "pinned_tweet_id": "2049521551024758856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049204620376068096/tVEM0Yya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 54,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/kxTQRa7abd",
+        "username": "Inf1nityRC",
+        "verified": false
+      }
+    ]
+  }
+}

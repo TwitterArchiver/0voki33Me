@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2017939173693591776",
+    "created_at": "2026-02-01T13:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017946240722592120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813133690672934914",
+          "start": 0,
+          "username": "sjmmm____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017946240722592120",
+    "in_reply_to_user_id": "1813133690672934914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017939173693591776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjmmm____ 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017939026502967297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEo2mUbYAEPUou.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017939026922405888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEo2n4bgAAOJE1.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 32866,
+        "height": 1280,
+        "media_key": "7_2017939119398334464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017939119398334464/pu/img/OlYVGUrO4ec9Eudz.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017939119398334464/pu/vid/avc1/320x746/uhgsFTqFocBA05Om.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017939119398334464/pu/vid/avc1/480x1120/lL7-CqZLgwmvCsrc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017939119398334464/pu/vid/avc1/548x1280/ycAqAPi7gZ_MGqLm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017939119398334464/pu/pl/coDlGcBY1LKEs4XI.m3u8?tag=12"
+          }
+        ],
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2017939173693591776",
+        "created_at": "2026-02-01T13:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017946240722592120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813133690672934914",
+              "start": 0,
+              "username": "sjmmm____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017946240722592120",
+        "in_reply_to_user_id": "1813133690672934914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017939173693591776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjmmm____ 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017939026502967297",
+            "3_2017939026922405888",
+            "7_2017939119398334464"
+          ]
+        },
+        "author_id": "1813133690672934914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017939173693591776",
+        "created_at": "2026-02-01T12:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017939173693591776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwGaHyIs6Z",
+              "end": 30,
+              "expanded_url": "https://x.com/sjmmm____/status/2017939173693591776/video/1",
+              "media_key": "3_2017939026502967297",
+              "start": 7,
+              "url": "https://t.co/nwGaHyIs6Z"
+            },
+            {
+              "display_url": "pic.x.com/nwGaHyIs6Z",
+              "end": 30,
+              "expanded_url": "https://x.com/sjmmm____/status/2017939173693591776/video/1",
+              "media_key": "3_2017939026922405888",
+              "start": 7,
+              "url": "https://t.co/nwGaHyIs6Z"
+            },
+            {
+              "display_url": "pic.x.com/nwGaHyIs6Z",
+              "end": 30,
+              "expanded_url": "https://x.com/sjmmm____/status/2017939173693591776/video/1",
+              "media_key": "7_2017939119398334464",
+              "start": 7,
+              "url": "https://t.co/nwGaHyIs6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017939173693591776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "馬斯克求放過 https://t.co/nwGaHyIs6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 975,
+          "like_count": 4451,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2736
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T08:49:00.000Z",
+        "description": "傻逼家里蹲，梦想吃爹妈保险活到死\n🚪100\n长期接线下和包养，禁sm，毒龙，走后门",
+        "id": "1813133690672934914",
+        "name": "头晕目眩",
+        "pinned_tweet_id": "1988671148738113742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822374459963277312/6k8fiILn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 146,
+          "like_count": 3430,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 586
+        },
+        "username": "sjmmm____",
+        "verified": false
+      }
+    ]
+  }
+}

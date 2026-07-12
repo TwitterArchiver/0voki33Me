@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006184509532991488",
+        "3_2006184519238574084"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006184538205216797",
+    "created_at": "2025-12-31T02:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T03:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006184538205216797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOciFn1Zcf",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2006184538205216797/photo/1",
+          "media_key": "3_2006184509532991488",
+          "start": 12,
+          "url": "https://t.co/dOciFn1Zcf"
+        },
+        {
+          "display_url": "pic.x.com/dOciFn1Zcf",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2006184538205216797/photo/1",
+          "media_key": "3_2006184519238574084",
+          "start": 12,
+          "url": "https://t.co/dOciFn1Zcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006184538205216797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎，我好喜欢我的新壁纸 https://t.co/dOciFn1Zcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006184509532991488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9dmLqSa8AA0vHm.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006184519238574084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9dmMOcaYAQREpj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006184509532991488",
+            "3_2006184519238574084"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006184538205216797",
+        "created_at": "2025-12-31T02:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006184538205216797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOciFn1Zcf",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2006184538205216797/photo/1",
+              "media_key": "3_2006184509532991488",
+              "start": 12,
+              "url": "https://t.co/dOciFn1Zcf"
+            },
+            {
+              "display_url": "pic.x.com/dOciFn1Zcf",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2006184538205216797/photo/1",
+              "media_key": "3_2006184519238574084",
+              "start": 12,
+              "url": "https://t.co/dOciFn1Zcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006184538205216797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，我好喜欢我的新壁纸 https://t.co/dOciFn1Zcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 645,
+          "like_count": 2766,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1184
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

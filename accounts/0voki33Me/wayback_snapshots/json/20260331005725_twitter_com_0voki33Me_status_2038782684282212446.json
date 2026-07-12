@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2038676124297986369",
+    "created_at": "2026-03-31T00:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T01:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038782684282212446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038782684282212446",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038676124297986369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 我用多拉贡最新的处方秒开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2038676124297986369",
+        "created_at": "2026-03-31T00:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038782684282212446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038782684282212446",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038676124297986369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 我用多拉贡最新的处方秒开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2038676124297986369",
+        "created_at": "2026-03-30T17:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038676124297986369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038676124297986369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 买不到普瑞了 谁来救救我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1209,
+          "like_count": 6028,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/我是高p/推广自辨/不要忘记我/vpn：https://t.co/VUGgYPMbud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.dongtutu.com/#/register?cod",
+                "end": 49,
+                "expanded_url": "http://wwwwwl.dongtutu.com/#/register?cod",
+                "start": 26,
+                "url": "https://t.co/VUGgYPMbud"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999300458825809923/WgRgyNCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12177,
+          "following_count": 261,
+          "like_count": 3200,
+          "listed_count": 25,
+          "media_count": 523,
+          "tweet_count": 2075
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

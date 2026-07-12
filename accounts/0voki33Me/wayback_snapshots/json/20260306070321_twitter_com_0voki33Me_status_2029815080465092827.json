@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029042811442741251"
+      ],
+      "media_source_tweet_id": [
+        "2029587749569802703"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029815080465092827",
+    "created_at": "2026-03-06T07:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029815080465092827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "303939260",
+          "start": 3,
+          "username": "GiFShitpost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i11WfyZkkb",
+          "end": 40,
+          "expanded_url": "https://x.com/GiFShitpost/status/2029587749569802703/video/1",
+          "media_key": "13_2029042811442741251",
+          "start": 17,
+          "url": "https://t.co/i11WfyZkkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029815080465092827",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029587749569802703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GiFShitpost: https://t.co/i11WfyZkkb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9007,
+        "height": 1024,
+        "media_key": "13_2029042811442741251",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029042811442741251/img/7rNF7q9T08658l3Q.jpg",
+        "public_metrics": {
+          "view_count": 39425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029042811442741251/vid/avc1/320x568/WA7uH7gwwuWz4MaM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029042811442741251/vid/avc1/480x852/5mBdorepqkTXXHtC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029042811442741251/vid/avc1/576x1024/jPrr8Qax4_PbgiBe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029042811442741251/pl/NMueT0epZggKKjv4.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029042811442741251"
+          ],
+          "media_source_tweet_id": [
+            "2029587749569802703"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029815080465092827",
+        "created_at": "2026-03-06T07:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029815080465092827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "303939260",
+              "start": 3,
+              "username": "GiFShitpost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i11WfyZkkb",
+              "end": 40,
+              "expanded_url": "https://x.com/GiFShitpost/status/2029587749569802703/video/1",
+              "media_key": "13_2029042811442741251",
+              "start": 17,
+              "url": "https://t.co/i11WfyZkkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029815080465092827",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029587749569802703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GiFShitpost: https://t.co/i11WfyZkkb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029042811442741251"
+          ]
+        },
+        "author_id": "303939260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029587749569802703",
+        "created_at": "2026-03-05T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029587749569802703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i11WfyZkkb",
+              "end": 23,
+              "expanded_url": "https://x.com/GiFShitpost/status/2029587749569802703/video/1",
+              "media_key": "13_2029042811442741251",
+              "start": 0,
+              "url": "https://t.co/i11WfyZkkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029587749569802703",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 922,
+          "impression_count": 123704,
+          "like_count": 8525,
+          "quote_count": 38,
+          "reply_count": 11,
+          "retweet_count": 1217
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i11WfyZkkb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 1133,
+          "like_count": 5514,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 4029
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "GIFs history, meme culture, and everything cursed in between. Sometimes I post videos. || Runs by @7490",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 98,
+                "username": "7490"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/gifshitposter",
+                "end": 23,
+                "expanded_url": "https://www.twitter.com/gifshitposter",
+                "start": 0,
+                "url": "https://t.co/Q7f8iy1Kzj"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "location": "150K?",
+        "name": "GIFs Shitpost ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123564,
+          "following_count": 971,
+          "like_count": 14029,
+          "listed_count": 124,
+          "media_count": 7451,
+          "tweet_count": 9565
+        },
+        "url": "https://t.co/Q7f8iy1Kzj",
+        "username": "GiFShitpost",
+        "verified": true
+      }
+    ]
+  }
+}

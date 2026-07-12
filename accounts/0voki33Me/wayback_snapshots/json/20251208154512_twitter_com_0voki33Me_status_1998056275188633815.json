@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1988750805844046290",
+    "created_at": "2025-12-08T15:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998056275188633815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948026100363517952",
+          "start": 0,
+          "username": "kk4073966031057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998056275188633815",
+    "in_reply_to_user_id": "1948026100363517952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988750805844046290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk4073966031057 求闪莓购买渠道😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1988750805844046290",
+        "created_at": "2025-12-08T15:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998056275188633815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948026100363517952",
+              "start": 0,
+              "username": "kk4073966031057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998056275188633815",
+        "in_reply_to_user_id": "1948026100363517952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988750805844046290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk4073966031057 求闪莓购买渠道😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948026100363517952",
+        "conversation_id": "1988750805844046290",
+        "created_at": "2025-11-12T23:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T00:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988750805844046290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988750805844046290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚吃了两个掉渣饼 想吃闪莓 会影响药效吗 多久起效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 335,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 324
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T14:24:08.000Z",
+        "description": "",
+        "id": "1948026100363517952",
+        "name": "kkkkk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988750319371907072/K-HL5xlw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "kk4073966031057",
+        "verified": false
+      }
+    ]
+  }
+}

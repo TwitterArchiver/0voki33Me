@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2015788273940238543",
+    "created_at": "2026-01-26T14:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015788273940238543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "488823839",
+          "start": 3,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015788273940238543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015752504911474862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile000: 大吗？效果好吗？成瘾吗？违法吗？别人会不会注意到？能吃几次？我拆开一半还有效果吗？催情吗？过检吗？有幻吗？会吐吗？我吃完能睡觉吗？空腹吃吗？能跟别的一起吃吗？我吃完能吃饭吗？我吃完能出去玩吗？持续时间长吗？有副作用吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015788273940238543",
+        "created_at": "2026-01-26T14:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015788273940238543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "488823839",
+              "start": 3,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015788273940238543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015752504911474862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile000: 大吗？效果好吗？成瘾吗？违法吗？别人会不会注意到？能吃几次？我拆开一半还有效果吗？催情吗？过检吗？有幻吗？会吐吗？我吃完能睡觉吗？空腹吃吗？能跟别的一起吃吗？我吃完能吃饭吗？我吃完能出去玩吗？持续时间长吗？有副作用吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2015752504911474862",
+        "created_at": "2026-01-26T11:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015752504911474862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015752504911474862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1123,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大吗？效果好吗？成瘾吗？违法吗？别人会不会注意到？能吃几次？我拆开一半还有效果吗？催情吗？过检吗？有幻吗？会吐吗？我吃完能睡觉吗？空腹吃吗？能跟别的一起吃吗？我吃完能吃饭吗？我吃完能出去玩吗？持续时间长吗？有副作用吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 922,
+          "like_count": 4111,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/G0KfQSHAWC\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 49,
+                "expanded_url": "https://overdose.day/",
+                "start": 26,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 82,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

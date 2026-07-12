@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073454941814030336"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2073454678529233200",
+    "created_at": "2026-07-04T17:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073454958666744162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8KGoVDgzzf",
+          "end": 36,
+          "expanded_url": "https://x.com/0voki33Me/status/2073454958666744162/photo/1",
+          "media_key": "3_2073454941814030336",
+          "start": 13,
+          "url": "https://t.co/8KGoVDgzzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073454958666744162",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073454678529233200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经过激烈竞争我打算买这个 https://t.co/8KGoVDgzzf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073454941814030336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZkSLCagAAozpl.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073454664633479168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZkCCda8AAMxWK.jpg",
+        "width": 882
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073454664646098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZkCCgbgAAVbP3.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073454664658665472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZkCCjbQAARmpE.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073454941814030336"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2073454678529233200",
+        "created_at": "2026-07-04T17:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073454958666744162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KGoVDgzzf",
+              "end": 36,
+              "expanded_url": "https://x.com/0voki33Me/status/2073454958666744162/photo/1",
+              "media_key": "3_2073454941814030336",
+              "start": 13,
+              "url": "https://t.co/8KGoVDgzzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073454958666744162",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454678529233200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过激烈竞争我打算买这个 https://t.co/8KGoVDgzzf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073454664633479168",
+            "3_2073454664646098944",
+            "3_2073454664658665472"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2073454678529233200",
+        "created_at": "2026-07-04T17:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073454678529233200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn61q6P6vy",
+              "end": 44,
+              "expanded_url": "https://x.com/0voki33Me/status/2073454678529233200/photo/1",
+              "media_key": "3_2073454664633479168",
+              "start": 21,
+              "url": "https://t.co/tn61q6P6vy"
+            },
+            {
+              "display_url": "pic.x.com/tn61q6P6vy",
+              "end": 44,
+              "expanded_url": "https://x.com/0voki33Me/status/2073454678529233200/photo/1",
+              "media_key": "3_2073454664646098944",
+              "start": 21,
+              "url": "https://t.co/tn61q6P6vy"
+            },
+            {
+              "display_url": "pic.x.com/tn61q6P6vy",
+              "end": 44,
+              "expanded_url": "https://x.com/0voki33Me/status/2073454678529233200/photo/1",
+              "media_key": "3_2073454664658665472",
+              "start": 21,
+              "url": "https://t.co/tn61q6P6vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073454678529233200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另个朋友也说这个我买了被我爸妈砍死呃呃呃 https://t.co/tn61q6P6vy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1123,
+          "like_count": 6883,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 7028
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

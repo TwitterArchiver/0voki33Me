@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043634901900267520",
+        "3_2043634901879308288",
+        "3_2043634901879312385"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2043634919881179346",
+    "created_at": "2026-04-13T10:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043634919881179346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMhypw50Mw",
+          "end": 51,
+          "expanded_url": "https://x.com/0voki33Me/status/2043634919881179346/photo/1",
+          "media_key": "3_2043634901900267520",
+          "start": 28,
+          "url": "https://t.co/RMhypw50Mw"
+        },
+        {
+          "display_url": "pic.x.com/RMhypw50Mw",
+          "end": 51,
+          "expanded_url": "https://x.com/0voki33Me/status/2043634919881179346/photo/1",
+          "media_key": "3_2043634901879308288",
+          "start": 28,
+          "url": "https://t.co/RMhypw50Mw"
+        },
+        {
+          "display_url": "pic.x.com/RMhypw50Mw",
+          "end": 51,
+          "expanded_url": "https://x.com/0voki33Me/status/2043634919881179346/photo/1",
+          "media_key": "3_2043634901879312385",
+          "start": 28,
+          "url": "https://t.co/RMhypw50Mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043634919881179346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在聊，🤓🤓🤓，好想充会员🤓🤓🤓，啊啊嗯嗯好羞耻呀 https://t.co/RMhypw50Mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043634901900267520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxzHZpbEAA5Rn6.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043634901879308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxzHZkbQAAIWKg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043634901879312385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxzHZkbUAE2Ke7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043634901900267520",
+            "3_2043634901879308288",
+            "3_2043634901879312385"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2043634919881179346",
+        "created_at": "2026-04-13T10:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043634919881179346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMhypw50Mw",
+              "end": 51,
+              "expanded_url": "https://x.com/0voki33Me/status/2043634919881179346/photo/1",
+              "media_key": "3_2043634901900267520",
+              "start": 28,
+              "url": "https://t.co/RMhypw50Mw"
+            },
+            {
+              "display_url": "pic.x.com/RMhypw50Mw",
+              "end": 51,
+              "expanded_url": "https://x.com/0voki33Me/status/2043634919881179346/photo/1",
+              "media_key": "3_2043634901879308288",
+              "start": 28,
+              "url": "https://t.co/RMhypw50Mw"
+            },
+            {
+              "display_url": "pic.x.com/RMhypw50Mw",
+              "end": 51,
+              "expanded_url": "https://x.com/0voki33Me/status/2043634919881179346/photo/1",
+              "media_key": "3_2043634901879312385",
+              "start": 28,
+              "url": "https://t.co/RMhypw50Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043634919881179346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在聊，🤓🤓🤓，好想充会员🤓🤓🤓，啊啊嗯嗯好羞耻呀 https://t.co/RMhypw50Mw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1137,
+          "like_count": 6175,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 5659
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

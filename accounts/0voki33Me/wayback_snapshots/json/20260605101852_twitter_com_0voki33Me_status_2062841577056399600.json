@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2062840618565632234",
+    "created_at": "2026-06-05T10:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062841577056399600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "foreverabbit77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062841577056399600",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062840618565632234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverabbit77 开次开次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062840610529447936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCumxrbkAAy4p3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2062840618565632234",
+        "created_at": "2026-06-05T10:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062841577056399600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "foreverabbit77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062841577056399600",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062840618565632234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverabbit77 开次开次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062840610529447936"
+          ]
+        },
+        "author_id": "1979251596501618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062840618565632234",
+        "created_at": "2026-06-05T10:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062840618565632234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0NVysBn81",
+              "end": 35,
+              "expanded_url": "https://x.com/foreverabbit77/status/2062840618565632234/photo/1",
+              "media_key": "3_2062840610529447936",
+              "start": 12,
+              "url": "https://t.co/t0NVysBn81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062840618565632234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想一天三顿都吃冰西瓜 https://t.co/t0NVysBn81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1163,
+          "like_count": 6662,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 6675
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "彼此是无法分离的缘分",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子",
+        "pinned_tweet_id": "2059281369860293004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058591706225037312/m1gd3ID2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 137,
+          "like_count": 31615,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 10906
+        },
+        "username": "foreverabbit77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968665583060131840"
+      ],
+      "media_source_tweet_id": [
+        "1968665591738138999"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1968988414117613642",
+    "created_at": "2025-09-19T10:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968988414117613642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1943024037179068419",
+          "start": 3,
+          "username": "nino4edtwtt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwBU6Fr1Cq",
+          "end": 40,
+          "expanded_url": "https://x.com/nino4edtwtt/status/1968665591738138999/photo/1",
+          "media_key": "3_1968665583060131840",
+          "start": 17,
+          "url": "https://t.co/gwBU6Fr1Cq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968988414117613642",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968665591738138999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nino4edtwtt: https://t.co/gwBU6Fr1Cq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_1968665583060131840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Ia6tfWIAAw4k5.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968665583060131840"
+          ],
+          "media_source_tweet_id": [
+            "1968665591738138999"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1968988414117613642",
+        "created_at": "2025-09-19T10:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968988414117613642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1943024037179068419",
+              "start": 3,
+              "username": "nino4edtwtt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwBU6Fr1Cq",
+              "end": 40,
+              "expanded_url": "https://x.com/nino4edtwtt/status/1968665591738138999/photo/1",
+              "media_key": "3_1968665583060131840",
+              "start": 17,
+              "url": "https://t.co/gwBU6Fr1Cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968988414117613642",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968665591738138999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nino4edtwtt: https://t.co/gwBU6Fr1Cq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968665583060131840"
+          ]
+        },
+        "author_id": "1943024037179068419",
+        "conversation_id": "1968665591738138999",
+        "created_at": "2025-09-18T13:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968665591738138999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwBU6Fr1Cq",
+              "end": 23,
+              "expanded_url": "https://x.com/nino4edtwtt/status/1968665591738138999/photo/1",
+              "media_key": "3_1968665583060131840",
+              "start": 0,
+              "url": "https://t.co/gwBU6Fr1Cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968665591738138999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 125246,
+          "like_count": 17406,
+          "quote_count": 64,
+          "reply_count": 14,
+          "retweet_count": 4118
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gwBU6Fr1Cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "d1E;3",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 169,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T19:07:12.000Z",
+        "description": "don’t go there cause you’ll never return. ◡̈",
+        "id": "1943024037179068419",
+        "location": "20yo , bmı 15s♡",
+        "name": "ּ ֶָ֢.nino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963889420547039232/29-53_50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11052,
+          "following_count": 2284,
+          "like_count": 12879,
+          "listed_count": 9,
+          "media_count": 967,
+          "tweet_count": 1986
+        },
+        "username": "nino4edtwtt",
+        "verified": false
+      }
+    ]
+  }
+}

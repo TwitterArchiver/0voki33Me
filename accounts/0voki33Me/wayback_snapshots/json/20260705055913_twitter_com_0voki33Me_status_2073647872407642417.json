@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073647798285914112"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2073647872407642417",
+    "created_at": "2026-07-05T05:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073647872407642417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y3xjl3EPfq",
+          "end": 47,
+          "expanded_url": "https://x.com/0voki33Me/status/2073647872407642417/video/1",
+          "media_key": "13_2073647798285914112",
+          "start": 24,
+          "url": "https://t.co/Y3xjl3EPfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073647872407642417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大哥啊，你语音输入一大堆，你想要我怎么回你，， https://t.co/Y3xjl3EPfq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6433,
+        "height": 1280,
+        "media_key": "13_2073647798285914112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073647798285914112/img/560VogwevKHgMmZP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073647798285914112/vid/avc1/320x694/pHywlO6obU4cFvXT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073647798285914112/vid/avc1/480x1040/-_S430rqqVWLMLY3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073647798285914112/vid/avc1/590x1280/z0BxIgAbDaV4XVWo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073647798285914112/pl/Hl1Q3xWLp_pxgeVq.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073647798285914112"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2073647872407642417",
+        "created_at": "2026-07-05T05:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073647872407642417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3xjl3EPfq",
+              "end": 47,
+              "expanded_url": "https://x.com/0voki33Me/status/2073647872407642417/video/1",
+              "media_key": "13_2073647798285914112",
+              "start": 24,
+              "url": "https://t.co/Y3xjl3EPfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073647872407642417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥啊，你语音输入一大堆，你想要我怎么回你，， https://t.co/Y3xjl3EPfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1124,
+          "like_count": 6885,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 7034
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2018968347627704417",
+    "created_at": "2026-02-04T16:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019088387924447536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645154173707755520",
+          "start": 0,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019088387924447536",
+    "in_reply_to_user_id": "1645154173707755520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018968347627704417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx101067 我擦太牛掰了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2018968347627704417",
+        "created_at": "2026-02-04T16:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019088387924447536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645154173707755520",
+              "start": 0,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019088387924447536",
+        "in_reply_to_user_id": "1645154173707755520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018968347627704417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx101067 我擦太牛掰了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645154173707755520",
+        "conversation_id": "2018968347627704417",
+        "created_at": "2026-02-04T08:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T09:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018968347627704417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018968347627704417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 931,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "校考过了六个学校  我感觉好懵逼  没有特别开心反而多了更多焦虑  文化咋办  复试咋办  卧槽我好懵逼啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1020,
+          "like_count": 4718,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "此地只是本人的阅读即焚垃圾桶谢谢你的路过/提问箱https://t.co/9FGZvvZfVg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/night74980",
+                "end": 47,
+                "expanded_url": "https://ngl.link/night74980",
+                "start": 24,
+                "url": "https://t.co/9FGZvvZfVg"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "我的坟墓在此地",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015686881741291520/AbBxgcMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 657,
+          "like_count": 12650,
+          "listed_count": 4,
+          "media_count": 1294,
+          "tweet_count": 10414
+        },
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

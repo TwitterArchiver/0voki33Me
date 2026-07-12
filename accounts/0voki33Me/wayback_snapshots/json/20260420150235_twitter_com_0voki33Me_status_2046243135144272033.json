@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2046240879967699170",
+    "created_at": "2026-04-20T15:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046243135144272033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046243135144272033",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046242242969686207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu 哦也是哦，其实我现在瘾也不大，我想搜罗搜罗清仓的便宜货，就不特地囤了吧，戒掉也是好事🤓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046242242969686207].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046242242969686207",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046242242969686207"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2046240879967699170",
+        "created_at": "2026-04-20T15:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046243135144272033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046243135144272033",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046242242969686207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu 哦也是哦，其实我现在瘾也不大，我想搜罗搜罗清仓的便宜货，就不特地囤了吧，戒掉也是好事🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1147,
+          "like_count": 6298,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 5956
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "01年/双性恋/贫乳/brat/有主不约",
+        "id": "1125325219671842817",
+        "location": "广东",
+        "name": "鱼是不能喝中药的",
+        "pinned_tweet_id": "1875114905713746177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1258,
+          "like_count": 9155,
+          "listed_count": 3,
+          "media_count": 1429,
+          "tweet_count": 9563
+        },
+        "username": "Beagleear_slapu",
+        "verified": false
+      }
+    ]
+  }
+}

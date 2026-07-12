@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1970890061312053248"
+      ],
+      "media_source_tweet_id": [
+        "1970890087111197009"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1971153968744235513",
+    "created_at": "2025-09-25T10:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971153968744235513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1247123754158702593",
+          "start": 3,
+          "username": "Rokumi_desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PVf9LKPmJc",
+          "end": 55,
+          "expanded_url": "https://x.com/Rokumi_desu/status/1970890087111197009/video/1",
+          "media_key": "7_1970890061312053248",
+          "start": 32,
+          "url": "https://t.co/PVf9LKPmJc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971153968744235513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970890087111197009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rokumi_desu: 经典回顾之老北京人嗦弄这一块 https://t.co/PVf9LKPmJc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22400,
+        "height": 1280,
+        "media_key": "7_1970890061312053248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1970890061312053248/pu/img/wpNek2fuNm7XLN-E.jpg",
+        "public_metrics": {
+          "view_count": 88591
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970890061312053248/pu/vid/avc1/320x568/3-trR9TJAHarvF9v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970890061312053248/pu/vid/avc1/480x852/XQ0_u8ife5ozZJ1S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970890061312053248/pu/vid/avc1/720x1280/X51OpT_RRNoadZBZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1970890061312053248/pu/pl/XBB7WQ83xGZYnWeT.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970890061312053248"
+          ],
+          "media_source_tweet_id": [
+            "1970890087111197009"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1971153968744235513",
+        "created_at": "2025-09-25T10:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971153968744235513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1247123754158702593",
+              "start": 3,
+              "username": "Rokumi_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVf9LKPmJc",
+              "end": 55,
+              "expanded_url": "https://x.com/Rokumi_desu/status/1970890087111197009/video/1",
+              "media_key": "7_1970890061312053248",
+              "start": 32,
+              "url": "https://t.co/PVf9LKPmJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971153968744235513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970890087111197009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rokumi_desu: 经典回顾之老北京人嗦弄这一块 https://t.co/PVf9LKPmJc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970890061312053248"
+          ]
+        },
+        "author_id": "1247123754158702593",
+        "conversation_id": "1970890087111197009",
+        "created_at": "2025-09-24T16:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970890087111197009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVf9LKPmJc",
+              "end": 38,
+              "expanded_url": "https://x.com/Rokumi_desu/status/1970890087111197009/video/1",
+              "media_key": "7_1970890061312053248",
+              "start": 15,
+              "url": "https://t.co/PVf9LKPmJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970890087111197009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 138004,
+          "like_count": 1110,
+          "quote_count": 23,
+          "reply_count": 51,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之老北京人嗦弄这一块 https://t.co/PVf9LKPmJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 189,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 85
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "头在鞋上几千次，鞋在头上第一次。我是毛主义者，但是不接待腊肉崇拜者，你被b了说明你的弱智发言被我发现了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rokuuuunanami",
+                "end": 23,
+                "expanded_url": "https://t.me/rokuuuunanami",
+                "start": 0,
+                "url": "https://t.co/KvIHmQr4jg"
+              }
+            ]
+          }
+        },
+        "id": "1247123754158702593",
+        "name": "海うみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963335765573902336/bn-zMV-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 699,
+          "like_count": 90653,
+          "listed_count": 10,
+          "media_count": 469,
+          "tweet_count": 8815
+        },
+        "url": "https://t.co/KvIHmQr4jg",
+        "username": "Rokumi_desu",
+        "verified": false
+      }
+    ]
+  }
+}

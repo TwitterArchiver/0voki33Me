@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970192677594406912"
+      ],
+      "media_source_tweet_id": [
+        "1970192684053844217"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1970424311279427725",
+    "created_at": "2025-09-23T09:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970424311279427725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690684006226956288",
+          "start": 3,
+          "username": "itsaninha__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DputFHDBk7",
+          "end": 40,
+          "expanded_url": "https://x.com/itsaninha__/status/1970192684053844217/photo/1",
+          "media_key": "3_1970192677594406912",
+          "start": 17,
+          "url": "https://t.co/DputFHDBk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970424311279427725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970192684053844217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsaninha__: https://t.co/DputFHDBk7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_1970192677594406912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1eHzT8XIAAA7S6.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970192677594406912"
+          ],
+          "media_source_tweet_id": [
+            "1970192684053844217"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1970424311279427725",
+        "created_at": "2025-09-23T09:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970424311279427725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690684006226956288",
+              "start": 3,
+              "username": "itsaninha__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DputFHDBk7",
+              "end": 40,
+              "expanded_url": "https://x.com/itsaninha__/status/1970192684053844217/photo/1",
+              "media_key": "3_1970192677594406912",
+              "start": 17,
+              "url": "https://t.co/DputFHDBk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970424311279427725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970192684053844217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsaninha__: https://t.co/DputFHDBk7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970192677594406912"
+          ]
+        },
+        "author_id": "1690684006226956288",
+        "conversation_id": "1970192684053844217",
+        "created_at": "2025-09-22T18:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T19:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970192684053844217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DputFHDBk7",
+              "end": 23,
+              "expanded_url": "https://x.com/itsaninha__/status/1970192684053844217/photo/1",
+              "media_key": "3_1970192677594406912",
+              "start": 0,
+              "url": "https://t.co/DputFHDBk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970192684053844217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 41182,
+          "like_count": 5499,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 1177
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DputFHDBk7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 183,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T11:18:07.000Z",
+        "description": "não vai ser eu que vai sair machucada caralho 🇧🇷",
+        "id": "1690684006226956288",
+        "location": "#NJZ",
+        "name": "Aninha",
+        "pinned_tweet_id": "1944525410110157127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907159812091092992/Ruk0H9WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 1979,
+          "like_count": 24495,
+          "listed_count": 4,
+          "media_count": 9606,
+          "tweet_count": 22025
+        },
+        "username": "itsaninha__",
+        "verified": false
+      }
+    ]
+  }
+}

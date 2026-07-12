@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2060248333361524940",
+    "created_at": "2026-05-29T06:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060248333361524940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010680735972368385",
+          "start": 3,
+          "username": "hwrtyed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060248333361524940",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13575
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059893493649006658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hwrtyed: i highly support abortion and matter of fact i wish i was aborted"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2060248333361524940",
+        "created_at": "2026-05-29T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060248333361524940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010680735972368385",
+              "start": 3,
+              "username": "hwrtyed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060248333361524940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13575
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059893493649006658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hwrtyed: i highly support abortion and matter of fact i wish i was aborted"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010680735972368385",
+        "conversation_id": "2059893493649006658",
+        "created_at": "2026-05-28T07:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893493649006658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059893493649006658",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1021,
+          "impression_count": 525110,
+          "like_count": 64653,
+          "quote_count": 142,
+          "reply_count": 91,
+          "retweet_count": 13575
+        },
+        "reply_settings": "everyone",
+        "text": "i highly support abortion and matter of fact i wish i was aborted"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 1151,
+          "like_count": 6593,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 6547
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T11:50:25.000Z",
+        "description": "DUMB DUMB DUMB DUMB DUMB \nSHEDTWT NSFW DO NOT INTERACT",
+        "id": "2010680735972368385",
+        "location": "#ilmbf 💕",
+        "name": "fluttershy",
+        "pinned_tweet_id": "2019810990330966048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010707238516641792/YEXCuVFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9637,
+          "following_count": 205,
+          "like_count": 997,
+          "listed_count": 8,
+          "media_count": 145,
+          "tweet_count": 2391
+        },
+        "username": "hwrtyed",
+        "verified": false
+      }
+    ]
+  }
+}

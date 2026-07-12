@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2068226355972722721",
+    "created_at": "2026-06-20T06:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068226355972722721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thecinesthetic…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/thecinesthetic/status/2067948222044336396",
+          "start": 9,
+          "url": "https://t.co/HmLtQdTlJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068226355972722721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067948222044336396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这条太色情了，， https://t.co/HmLtQdTlJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39517,
+        "height": 464,
+        "media_key": "7_1351115956060377090",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1351115956060377090/pu/img/xsqbC5017hr1Mol_.jpg",
+        "public_metrics": {
+          "view_count": 8647843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1351115956060377090/pu/vid/500x270/PRXb447q4Rhoo4nK.mp4?tag=10"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1351115956060377090/pu/vid/862x464/PjnFRfwkvt8V4Tti.mp4?tag=10"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1351115956060377090/pu/pl/bSAUV6i0s4f2hKSb.m3u8?tag=10&v=346"
+          }
+        ],
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2068226355972722721",
+        "created_at": "2026-06-20T06:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068226355972722721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thecinesthetic…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/thecinesthetic/status/2067948222044336396",
+              "start": 9,
+              "url": "https://t.co/HmLtQdTlJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226355972722721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067948222044336396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条太色情了，， https://t.co/HmLtQdTlJe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1351115956060377090"
+          ],
+          "media_source_tweet_id": [
+            "1351116058082553856"
+          ]
+        },
+        "author_id": "907173236097646592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mads Mikkelsen",
+              "id": "1068582496361541637",
+              "name": "Mads Mikkelsen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Mads Mikkelsen",
+              "id": "1068582496361541637",
+              "name": "Mads Mikkelsen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mads Mikkelsen",
+              "id": "1068582496361541637",
+              "name": "Mads Mikkelsen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "2067948222044336396",
+        "created_at": "2026-06-19T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067948222044336396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPZQi7nK0U",
+              "end": 162,
+              "expanded_url": "https://x.com/Luna___TH/status/1351116058082553856/video/1",
+              "media_key": "7_1351115956060377090",
+              "start": 139,
+              "url": "https://t.co/aPZQi7nK0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067948222044336396",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4132,
+          "impression_count": 3459280,
+          "like_count": 20308,
+          "quote_count": 258,
+          "reply_count": 212,
+          "retweet_count": 1402
+        },
+        "reply_settings": "everyone",
+        "text": "Mads Mikkelsen casually smoking a cigarette, sipping wine, then lighting another cigarette. A moment that had everyone losing their minds. https://t.co/aPZQi7nK0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1170,
+          "like_count": 6802,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 6915
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-11T09:25:28.000Z",
+        "description": "🎥 Film & TV News\n🍿 Daily Watchlist Recommendations\n📍 Helping you find what to watch next \nFor Promotion/Partnership- DM or mail: thecinesthetic@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/thecinesthetics",
+                "end": 23,
+                "expanded_url": "https://instagram.com/thecinesthetics",
+                "start": 0,
+                "url": "https://t.co/agQeEcmh88"
+              }
+            ]
+          }
+        },
+        "id": "907173236097646592",
+        "location": "Cinéma du Panthéon",
+        "name": "cinesthetic.",
+        "pinned_tweet_id": "2067407696895074361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385452682517745667/mfcIUnoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644081,
+          "following_count": 226,
+          "like_count": 43258,
+          "listed_count": 4276,
+          "media_count": 107506,
+          "tweet_count": 171636
+        },
+        "url": "https://t.co/agQeEcmh88",
+        "username": "TheCinesthetic",
+        "verified": true
+      }
+    ]
+  }
+}

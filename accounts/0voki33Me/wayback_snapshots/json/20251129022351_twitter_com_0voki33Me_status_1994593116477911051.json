@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1994298408618873204",
+    "created_at": "2025-11-29T02:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994593116477911051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525487854763364354",
+          "start": 0,
+          "username": "xinzhongdeaishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994593116477911051",
+    "in_reply_to_user_id": "1525487854763364354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994298408618873204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzhongdeaishi 吗的好搞笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994298399747919874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60r1A0a0AIbgjC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1994298408618873204",
+        "created_at": "2025-11-29T02:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994593116477911051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525487854763364354",
+              "start": 0,
+              "username": "xinzhongdeaishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994593116477911051",
+        "in_reply_to_user_id": "1525487854763364354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994298408618873204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzhongdeaishi 吗的好搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994298399747919874"
+          ]
+        },
+        "author_id": "1525487854763364354",
+        "conversation_id": "1994298408618873204",
+        "created_at": "2025-11-28T06:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994298408618873204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOVSKvUKAB",
+              "end": 72,
+              "expanded_url": "https://x.com/xinzhongdeaishi/status/1994298408618873204/photo/1",
+              "media_key": "3_1994298399747919874",
+              "start": 49,
+              "url": "https://t.co/rOVSKvUKAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994298408618873204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 41647,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你全家死了知道吗气的我手一直在抖你特么凭什么点评我家狗你祖宗十八代都死绝了你后继无人了知道吗贱种 https://t.co/rOVSKvUKAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝---------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 240,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 191
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "德语区留子 | 只发碎碎念和照片 | 可以叫我小希",
+        "id": "1525487854763364354",
+        "location": "🚪188纯绿",
+        "name": "sisi77_",
+        "pinned_tweet_id": "1986811703636742277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502927822172160/96CNH58c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 93,
+          "like_count": 3373,
+          "listed_count": 7,
+          "media_count": 136,
+          "tweet_count": 2462
+        },
+        "username": "xinzhongdeaishi",
+        "verified": false
+      }
+    ]
+  }
+}

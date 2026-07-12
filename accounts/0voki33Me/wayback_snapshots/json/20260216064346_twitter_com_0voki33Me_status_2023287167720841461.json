@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022932791076491267"
+      ],
+      "media_source_tweet_id": [
+        "2022932796692635806"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2023287167720841461",
+    "created_at": "2026-02-16T06:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023287167720841461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1710719861402525696",
+          "start": 3,
+          "username": "akechisu2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQy0EXVgc1",
+          "end": 38,
+          "expanded_url": "https://x.com/akechisu2/status/2022932796692635806/photo/1",
+          "media_key": "3_2022932791076491267",
+          "start": 15,
+          "url": "https://t.co/LQy0EXVgc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023287167720841461",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2089
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022932796692635806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akechisu2: https://t.co/LQy0EXVgc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1806,
+        "media_key": "3_2022932791076491267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLmp9CakAM_kj1.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022932791076491267"
+          ],
+          "media_source_tweet_id": [
+            "2022932796692635806"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023287167720841461",
+        "created_at": "2026-02-16T06:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023287167720841461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1710719861402525696",
+              "start": 3,
+              "username": "akechisu2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQy0EXVgc1",
+              "end": 38,
+              "expanded_url": "https://x.com/akechisu2/status/2022932796692635806/photo/1",
+              "media_key": "3_2022932791076491267",
+              "start": 15,
+              "url": "https://t.co/LQy0EXVgc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023287167720841461",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2089
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022932796692635806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akechisu2: https://t.co/LQy0EXVgc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022932791076491267"
+          ]
+        },
+        "author_id": "1710719861402525696",
+        "conversation_id": "2022932796692635806",
+        "created_at": "2026-02-15T07:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022932796692635806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQy0EXVgc1",
+              "end": 23,
+              "expanded_url": "https://x.com/akechisu2/status/2022932796692635806/photo/1",
+              "media_key": "3_2022932791076491267",
+              "start": 0,
+              "url": "https://t.co/LQy0EXVgc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022932796692635806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2299,
+          "impression_count": 136685,
+          "like_count": 19996,
+          "quote_count": 55,
+          "reply_count": 32,
+          "retweet_count": 2089
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LQy0EXVgc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1064,
+          "like_count": 5092,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T18:13:04.000Z",
+        "description": "|⚠️ I draw gore| @akechisu1 | NO REPOSTS| PFP: chocorocotan 🫶|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "akechisu1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akechisu.straw.page",
+                "end": 23,
+                "expanded_url": "https://akechisu.straw.page/",
+                "start": 0,
+                "url": "https://t.co/rlF4oM2EOf"
+              }
+            ]
+          }
+        },
+        "id": "1710719861402525696",
+        "location": "They/him",
+        "name": "c♡mms closed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883007085715337216/GPpGzaJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19866,
+          "following_count": 139,
+          "like_count": 22264,
+          "listed_count": 42,
+          "media_count": 859,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/rlF4oM2EOf",
+        "username": "akechisu2",
+        "verified": false
+      }
+    ]
+  }
+}

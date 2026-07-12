@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013584226046668891",
+    "created_at": "2026-01-20T12:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013584226046668891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/ZZn6a7v",
+          "end": 27,
+          "expanded_url": "https://163cn.tv/ZZn6a7v",
+          "start": 4,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/album?app_version=9.4.40&id=65802&userid=3278336140&dlt=0846",
+          "url": "https://t.co/qXadGAkse3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013584226046668891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是神\nhttps://t.co/qXadGAkse3 (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013584226046668891",
+        "created_at": "2026-01-20T12:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013584226046668891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/ZZn6a7v",
+              "end": 27,
+              "expanded_url": "https://163cn.tv/ZZn6a7v",
+              "start": 4,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/album?app_version=9.4.40&id=65802&userid=3278336140&dlt=0846",
+              "url": "https://t.co/qXadGAkse3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013584226046668891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是神\nhttps://t.co/qXadGAkse3 (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 852,
+          "like_count": 3644,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1845
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

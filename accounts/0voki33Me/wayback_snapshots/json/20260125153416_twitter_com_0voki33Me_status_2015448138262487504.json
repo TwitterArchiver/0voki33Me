@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2015434745564561896",
+    "created_at": "2026-01-25T15:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015448138262487504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903126320697184257",
+          "start": 0,
+          "username": "cyberpsychosisR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015448138262487504",
+    "in_reply_to_user_id": "1903126320697184257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015434745564561896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberpsychosisR 好可怕救命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015434745564561896",
+        "created_at": "2026-01-25T15:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015448138262487504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903126320697184257",
+              "start": 0,
+              "username": "cyberpsychosisR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015448138262487504",
+        "in_reply_to_user_id": "1903126320697184257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015434745564561896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberpsychosisR 好可怕救命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903126320697184257",
+        "conversation_id": "2015434745564561896",
+        "created_at": "2026-01-25T14:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015434745564561896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dungduy27311/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dungduy27311/status/2015277971364294757",
+              "start": 11,
+              "url": "https://t.co/8xsZz5Pmsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015434745564561896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015277971364294757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发错地方了不好意思 https://t.co/8xsZz5Pmsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 909,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:47:36.000Z",
+        "description": "我觉得我已经没有精神方面的问题了，我们还能重新在一起吗？",
+        "id": "1903126320697184257",
+        "name": "Outside me, inside me",
+        "pinned_tweet_id": "2015290172657848358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013526193199276033/f_f6Um6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 96,
+          "like_count": 4330,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 2735
+        },
+        "username": "cyberpsychosisR",
+        "verified": false
+      }
+    ]
+  }
+}

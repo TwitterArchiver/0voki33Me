@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2041736282699919754",
+    "created_at": "2026-04-08T10:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041819043708244097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795435473537478656",
+          "start": 0,
+          "username": "k2993998281667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041819043708244097",
+    "in_reply_to_user_id": "1795435473537478656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041793538619543966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k2993998281667 我不会的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2041736282699919754",
+        "created_at": "2026-04-08T10:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041819043708244097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795435473537478656",
+              "start": 0,
+              "username": "k2993998281667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041819043708244097",
+        "in_reply_to_user_id": "1795435473537478656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041793538619543966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k2993998281667 我不会的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795435473537478656",
+        "conversation_id": "2041736282699919754",
+        "created_at": "2026-04-08T08:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041793538619543966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041793538619543966",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041736282699919754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 别死 欧内该"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1142,
+          "like_count": 6146,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 5521
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T12:42:38.000Z",
+        "description": "把推当日记发\n喜欢格斗游戏和ow",
+        "id": "1795435473537478656",
+        "name": "Testament Love❤️",
+        "pinned_tweet_id": "2012350220097798581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991747316735488000/l9lvbbEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 108,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 858
+        },
+        "username": "k2993998281667",
+        "verified": false
+      }
+    ]
+  }
+}

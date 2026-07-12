@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014700883469336866",
+    "created_at": "2026-01-24T18:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T19:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015135284158189614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003010814698205184",
+          "start": 0,
+          "username": "ShuBing16121816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015135284158189614",
+    "in_reply_to_user_id": "2003010814698205184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015134363000905839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuBing16121816 我的恨是对我自己说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014700883469336866",
+        "created_at": "2026-01-24T18:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015135284158189614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003010814698205184",
+              "start": 0,
+              "username": "ShuBing16121816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015135284158189614",
+        "in_reply_to_user_id": "2003010814698205184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015134363000905839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuBing16121816 我的恨是对我自己说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003010814698205184",
+        "conversation_id": "2014700883469336866",
+        "created_at": "2026-01-24T18:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015134363000905839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015134363000905839",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014700883469336866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 看了你之前的推文，看出来了你的自卑，你的原生家庭也不好，抱抱你，你可以说羡慕，人也会有嫉妒，但你说 “好恨老是视奸她凭什么” 这几个字眼明显就是带着对她的恨意发出来的，每个人都有属于自己的幸福，她把这些发在朋友圈也是她的自由，你也可以很幸福，还有就是别自残了对自己好点儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 907,
+          "like_count": 3943,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T07:53:02.000Z",
+        "description": "03｜172｜白羊｜废话｜美食｜爱看剧｜发吊阳痿｜都是我@cuishu77006 @sunbaiwan888｜置顶推广自辨❗️❗️❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "cuishu77006"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "sunbaiwan888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 0,
+                "url": "https://t.co/U0OVO9u5Gm"
+              }
+            ]
+          }
+        },
+        "id": "2003010814698205184",
+        "location": "🚪88/188/520/1314",
+        "name": "脆薯饼",
+        "pinned_tweet_id": "2006997448682795027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003011553923375104/hjfbqP4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 82,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/U0OVO9u5Gm",
+        "username": "ShuBing16121816",
+        "verified": false
+      }
+    ]
+  }
+}

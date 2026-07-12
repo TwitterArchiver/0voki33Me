@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2034573455849558078",
+    "created_at": "2026-03-19T11:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034598576891002978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903126320697184257",
+          "start": 0,
+          "username": "cyberpsychosisR"
+        },
+        {
+          "end": 31,
+          "id": "1967311438365761536",
+          "start": 17,
+          "username": "Bellahopewell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034598576891002978",
+    "in_reply_to_user_id": "1903126320697184257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034573455849558078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberpsychosisR @Bellahopewell 你好，黑幕，再见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034573442423607296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxBxCkaUAA2yzv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034573442398519296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxBxCebgAA1NbH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2034573455849558078",
+        "created_at": "2026-03-19T11:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034598576891002978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903126320697184257",
+              "start": 0,
+              "username": "cyberpsychosisR"
+            },
+            {
+              "end": 31,
+              "id": "1967311438365761536",
+              "start": 17,
+              "username": "Bellahopewell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034598576891002978",
+        "in_reply_to_user_id": "1903126320697184257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034573455849558078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberpsychosisR @Bellahopewell 你好，黑幕，再见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034573442423607296",
+            "3_2034573442398519296"
+          ]
+        },
+        "author_id": "1903126320697184257",
+        "conversation_id": "2034573455849558078",
+        "created_at": "2026-03-19T10:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034573455849558078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APDQWzDVtj",
+              "end": 215,
+              "expanded_url": "https://x.com/cyberpsychosisR/status/2034573455849558078/photo/1",
+              "media_key": "3_2034573442423607296",
+              "start": 192,
+              "url": "https://t.co/APDQWzDVtj"
+            },
+            {
+              "display_url": "pic.x.com/APDQWzDVtj",
+              "end": 215,
+              "expanded_url": "https://x.com/cyberpsychosisR/status/2034573455849558078/photo/1",
+              "media_key": "3_2034573442398519296",
+              "start": 192,
+              "url": "https://t.co/APDQWzDVtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034573455849558078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽大家我是马锐 马上100fo了搞个抽奖 转发且follow我才能参与哦\n想fo点同类 p1是我自设 p2是我\n直接关注我就好我会回关的！\nFirst Price : 12板喜思平150普瑞巴林*1\nSecond Price : 6板喜思平150普瑞巴林*1\nThird Price : 3板喜思平150普瑞巴林*1\n安慰奖：0.52元*10\n3月25号开奖！另外pr有售欢迎咨询 https://t.co/APDQWzDVtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1176,
+          "like_count": 5812,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 4562
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:47:36.000Z",
+        "description": "I'm sure we're taller in another dimension",
+        "id": "1903126320697184257",
+        "name": "Outside me, inside me",
+        "pinned_tweet_id": "2034573455849558078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231795026411520/tVbMIxj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 150,
+          "like_count": 7516,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 4491
+        },
+        "username": "cyberpsychosisR",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T19:36:23.000Z",
+        "description": "我死给你看",
+        "id": "1967311438365761536",
+        "location": "白门精神卫生康复钓鱼中心",
+        "name": "XOmycyberlove",
+        "pinned_tweet_id": "2031648838461608236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029529527630872576/ReOHszCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 32,
+          "like_count": 6125,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1043
+        },
+        "username": "Bellahopewell",
+        "verified": false
+      }
+    ]
+  }
+}

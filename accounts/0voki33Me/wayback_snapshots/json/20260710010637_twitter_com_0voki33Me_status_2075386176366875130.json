@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2075386176366875130",
+    "created_at": "2026-07-10T01:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075386176366875130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drewvento/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/drewvento/status/2075180039914606664",
+          "start": 4,
+          "url": "https://t.co/BWch9qAQpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075386176366875130",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075180039914606664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。 https://t.co/BWch9qAQpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2075180030318030850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyFPigXMAIdLpY.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2075386176366875130",
+        "created_at": "2026-07-10T01:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075386176366875130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drewvento/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/drewvento/status/2075180039914606664",
+              "start": 4,
+              "url": "https://t.co/BWch9qAQpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075386176366875130",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075180039914606664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。 https://t.co/BWch9qAQpu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075180030318030850"
+          ]
+        },
+        "author_id": "1683462828374761474",
+        "conversation_id": "2075180039914606664",
+        "created_at": "2026-07-09T11:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075180039914606664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKYBAiuFwy",
+              "end": 115,
+              "expanded_url": "https://x.com/DrewVento/status/2075180039914606664/photo/1",
+              "media_key": "3_2075180030318030850",
+              "start": 92,
+              "url": "https://t.co/VKYBAiuFwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075180039914606664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1175,
+          "impression_count": 1154882,
+          "like_count": 19662,
+          "quote_count": 307,
+          "reply_count": 711,
+          "retweet_count": 765
+        },
+        "reply_settings": "everyone",
+        "text": "Life would be so much different if we grew one big finger nail on our head rather than hair https://t.co/VKYBAiuFwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1135,
+          "like_count": 6969,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 7146
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T13:03:15.000Z",
+        "description": "Frm Sr Mgr - FDD | Current Shit Poster  \nDM for Business",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/drewvento",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/drewvento",
+                "start": 0,
+                "url": "https://t.co/EW85ORv8EV"
+              }
+            ]
+          }
+        },
+        "id": "1683462828374761474",
+        "name": "Degen CPA",
+        "pinned_tweet_id": "2049422245739520029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005136478951657472/DFpCrSHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36038,
+          "following_count": 2254,
+          "like_count": 214118,
+          "listed_count": 174,
+          "media_count": 2468,
+          "tweet_count": 36458
+        },
+        "url": "https://t.co/EW85ORv8EV",
+        "username": "DrewVento",
+        "verified": true
+      }
+    ]
+  }
+}

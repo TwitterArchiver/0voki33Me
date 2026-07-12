@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012345574176260096"
+      ],
+      "media_source_tweet_id": [
+        "2012345579708489875"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012569801021911522",
+    "created_at": "2026-01-17T16:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012569801021911522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804511552277819392",
+          "start": 3,
+          "username": "Oinandaomae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dalWpS2gHM",
+          "end": 40,
+          "expanded_url": "https://x.com/Oinandaomae/status/2012345579708489875/photo/1",
+          "media_key": "3_2012345574176260096",
+          "start": 17,
+          "url": "https://t.co/dalWpS2gHM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012569801021911522",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012345579708489875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oinandaomae: https://t.co/dalWpS2gHM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1979,
+        "media_key": "3_2012345574176260096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1Jo0obAAAH3M5.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012345574176260096"
+          ],
+          "media_source_tweet_id": [
+            "2012345579708489875"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012569801021911522",
+        "created_at": "2026-01-17T16:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012569801021911522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804511552277819392",
+              "start": 3,
+              "username": "Oinandaomae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dalWpS2gHM",
+              "end": 40,
+              "expanded_url": "https://x.com/Oinandaomae/status/2012345579708489875/photo/1",
+              "media_key": "3_2012345574176260096",
+              "start": 17,
+              "url": "https://t.co/dalWpS2gHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012569801021911522",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012345579708489875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oinandaomae: https://t.co/dalWpS2gHM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012345574176260096"
+          ]
+        },
+        "author_id": "1804511552277819392",
+        "conversation_id": "2012345579708489875",
+        "created_at": "2026-01-17T02:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012345579708489875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dalWpS2gHM",
+              "end": 23,
+              "expanded_url": "https://x.com/Oinandaomae/status/2012345579708489875/photo/1",
+              "media_key": "3_2012345574176260096",
+              "start": 0,
+              "url": "https://t.co/dalWpS2gHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012345579708489875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 655390,
+          "like_count": 6217,
+          "quote_count": 1683,
+          "reply_count": 36,
+          "retweet_count": 4221
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dalWpS2gHM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 834,
+          "like_count": 3452,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T13:47:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/oinandaomae",
+                "end": 23,
+                "expanded_url": "https://asked.kr/oinandaomae",
+                "start": 0,
+                "url": "https://t.co/OxFgicjK4N"
+              }
+            ]
+          }
+        },
+        "id": "1804511552277819392",
+        "name": "긴",
+        "pinned_tweet_id": "1947159896518181107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009996630028959744/j1uR3cbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 49,
+          "like_count": 1769,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 4084
+        },
+        "url": "https://t.co/OxFgicjK4N",
+        "username": "Oinandaomae",
+        "verified": false
+      }
+    ]
+  }
+}

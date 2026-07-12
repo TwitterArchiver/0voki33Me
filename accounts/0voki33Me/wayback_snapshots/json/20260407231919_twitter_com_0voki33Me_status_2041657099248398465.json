@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2041657099248398465",
+    "created_at": "2026-04-07T23:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T00:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041657099248398465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/0voki33me/status/2041590694540931400",
+          "start": 13,
+          "url": "https://t.co/uIglJJUhkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041657099248398465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041590694540931400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "我起床了，还在流血，神了 https://t.co/uIglJJUhkg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2041657099248398465",
+        "created_at": "2026-04-07T23:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041657099248398465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/0voki33me/status/2041590694540931400",
+              "start": 13,
+              "url": "https://t.co/uIglJJUhkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041657099248398465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041590694540931400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我起床了，还在流血，神了 https://t.co/uIglJJUhkg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2041590694540931400",
+        "created_at": "2026-04-07T18:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041590694540931400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041590694540931400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我的脂肪层伤口一直在流血，压了5分钟还他妈流，偶尔还喷点搞脏床，我服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1142,
+          "like_count": 6147,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 5481
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

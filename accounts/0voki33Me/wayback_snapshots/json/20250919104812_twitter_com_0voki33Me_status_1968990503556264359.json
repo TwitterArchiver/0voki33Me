@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1968492187974258968",
+    "created_at": "2025-09-19T10:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968990503556264359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937782214743457794",
+          "start": 0,
+          "username": "qiyu01668"
+        },
+        {
+          "end": 23,
+          "id": "1874895356452130816",
+          "start": 11,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968990503556264359",
+    "in_reply_to_user_id": "1937782214743457794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968950513560371615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiyu01668 @newkitty412 ：希望我的唧唧快点长出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1968492187974258968",
+        "created_at": "2025-09-19T10:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968990503556264359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937782214743457794",
+              "start": 0,
+              "username": "qiyu01668"
+            },
+            {
+              "end": 23,
+              "id": "1874895356452130816",
+              "start": 11,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968990503556264359",
+        "in_reply_to_user_id": "1937782214743457794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968950513560371615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiyu01668 @newkitty412 ：希望我的唧唧快点长出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937782214743457794",
+        "conversation_id": "1968492187974258968",
+        "created_at": "2025-09-19T08:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968950513560371615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968950513560371615",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968492187974258968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 希望我的唧唧快点长出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "d1E;3",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 169,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T07:57:51.000Z",
+        "description": "我想睡觉 好想睡觉",
+        "id": "1937782214743457794",
+        "name": "姒姒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957012504149905408/MzaUcYyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 55,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "qiyu01668",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "那些打不死我的一直在打我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1968227499294568467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960930661063372800/NYlRp0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 124,
+          "like_count": 4312,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

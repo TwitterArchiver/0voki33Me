@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001257512306368513"
+      ],
+      "media_source_tweet_id": [
+        "2001257521189937384"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2001679120934277417",
+    "created_at": "2025-12-18T15:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T16:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001679120934277417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161313874944987137",
+          "start": 3,
+          "username": "KUMANERU_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpHYDTByHT",
+          "end": 45,
+          "expanded_url": "https://x.com/KUMANERU_/status/2001257521189937384/photo/1",
+          "media_key": "3_2001257512306368513",
+          "start": 22,
+          "url": "https://t.co/ZpHYDTByHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001679120934277417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001257521189937384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KUMANERU_: 永遠を誓って https://t.co/ZpHYDTByHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001257512306368513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XlGrUaYAEh7PE.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001257512306368513"
+          ],
+          "media_source_tweet_id": [
+            "2001257521189937384"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001679120934277417",
+        "created_at": "2025-12-18T15:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001679120934277417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161313874944987137",
+              "start": 3,
+              "username": "KUMANERU_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpHYDTByHT",
+              "end": 45,
+              "expanded_url": "https://x.com/KUMANERU_/status/2001257521189937384/photo/1",
+              "media_key": "3_2001257512306368513",
+              "start": 22,
+              "url": "https://t.co/ZpHYDTByHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001679120934277417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001257521189937384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KUMANERU_: 永遠を誓って https://t.co/ZpHYDTByHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001257512306368513"
+          ]
+        },
+        "author_id": "1161313874944987137",
+        "conversation_id": "2001257521189937384",
+        "created_at": "2025-12-17T11:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001257521189937384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpHYDTByHT",
+              "end": 30,
+              "expanded_url": "https://x.com/KUMANERU_/status/2001257521189937384/photo/1",
+              "media_key": "3_2001257512306368513",
+              "start": 7,
+              "url": "https://t.co/ZpHYDTByHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001257521189937384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 25861,
+          "like_count": 2483,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "永遠を誓って https://t.co/ZpHYDTByHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 519,
+          "like_count": 1934,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T16:29:38.000Z",
+        "description": "お問い合わせ✉https://t.co/oy7UEckMOa│sᴋᴇʙ https://t.co/bH8QT5oXcr │ YouTube https://t.co/MUtREUwniq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/kumaneru6",
+                "end": 30,
+                "expanded_url": "http://lit.link/kumaneru6",
+                "start": 7,
+                "url": "https://t.co/oy7UEckMOa"
+              },
+              {
+                "display_url": "skeb.jp/@KUMANERU_",
+                "end": 59,
+                "expanded_url": "https://skeb.jp/@KUMANERU_",
+                "start": 36,
+                "url": "https://t.co/bH8QT5oXcr"
+              },
+              {
+                "display_url": "youtube.com/@kumaneru6?si=…",
+                "end": 93,
+                "expanded_url": "https://youtube.com/@kumaneru6?si=TZqT4RkLixfdPmGn",
+                "start": 70,
+                "url": "https://t.co/MUtREUwniq"
+              }
+            ]
+          }
+        },
+        "id": "1161313874944987137",
+        "location": "枯れない少女たちの永遠",
+        "name": "𝙆𝙐𝙈𝘼𝙉𝙀𝙍𝙐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647218689538945026/wzzQpR01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4219,
+          "following_count": 31,
+          "like_count": 3846,
+          "listed_count": 47,
+          "media_count": 260,
+          "tweet_count": 1772
+        },
+        "username": "KUMANERU_",
+        "verified": false
+      }
+    ]
+  }
+}

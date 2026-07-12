@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2068401024927400178",
+    "created_at": "2026-06-20T18:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068401024927400178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rxdruglab/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/rxdruglab/status/2068285889185521723",
+          "start": 7,
+          "url": "https://t.co/WN0ZL4ZftH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068401024927400178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068285889185521723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样好恐怖， https://t.co/WN0ZL4ZftH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2068401024927400178",
+        "created_at": "2026-06-20T18:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068401024927400178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rxdruglab/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rxdruglab/status/2068285889185521723",
+              "start": 7,
+              "url": "https://t.co/WN0ZL4ZftH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068401024927400178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068285889185521723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样好恐怖， https://t.co/WN0ZL4ZftH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2068285889185521723",
+        "created_at": "2026-06-20T10:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068285889185521723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068285889185521723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5721,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "旧帖新发\n不建议摄入非法物质的人线下交友。设想，如果你已因吃白兔和右美沙芬被处理过两次，这次尿检后警察说你吗啡，右美沙芬和冰毒阳性，按照内部规定，多种多次，认定为成瘾严重，要送到戒毒所两年强戒，现在给你个机会，供五个吸毒的人，拘留就行，你招不招？如果你不招，你的那些朋友招不招？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 1119,
+          "like_count": 6802,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 6919
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19505,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1775
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

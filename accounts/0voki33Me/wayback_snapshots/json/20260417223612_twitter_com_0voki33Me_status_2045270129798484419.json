@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045270121422393344"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045267937095975270",
+    "created_at": "2026-04-17T22:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045270129798484419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Hldrnw3H7",
+          "end": 23,
+          "expanded_url": "https://x.com/0voki33Me/status/2045270129798484419/photo/1",
+          "media_key": "3_2045270121422393344",
+          "start": 0,
+          "url": "https://t.co/2Hldrnw3H7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045270129798484419",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045267937095975270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2Hldrnw3H7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045270129798484419].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045270129798484419",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045270129798484419"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045270121422393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJCVtEaEAA7yX4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045267926727667712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJAV9MaMAA19oc.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045267926723555328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJAV9LbcAAYmt3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045267926723563520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJAV9LbkAAbCI2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045267926727667712",
+            "3_2045267926723555328",
+            "3_2045267926723563520"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045267937095975270",
+        "created_at": "2026-04-17T22:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045267937095975270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C79Pxb6TF9",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2045267937095975270/photo/1",
+              "media_key": "3_2045267926727667712",
+              "start": 9,
+              "url": "https://t.co/C79Pxb6TF9"
+            },
+            {
+              "display_url": "pic.x.com/C79Pxb6TF9",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2045267937095975270/photo/1",
+              "media_key": "3_2045267926723555328",
+              "start": 9,
+              "url": "https://t.co/C79Pxb6TF9"
+            },
+            {
+              "display_url": "pic.x.com/C79Pxb6TF9",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2045267937095975270/photo/1",
+              "media_key": "3_2045267926723563520",
+              "start": 9,
+              "url": "https://t.co/C79Pxb6TF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045267937095975270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "snakes ？ https://t.co/C79Pxb6TF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1148,
+          "like_count": 6239,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 5823
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

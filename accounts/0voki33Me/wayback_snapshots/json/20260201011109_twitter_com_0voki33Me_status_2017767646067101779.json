@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017553465715920896"
+      ],
+      "media_source_tweet_id": [
+        "2017553555524395433"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2017767646067101779",
+    "created_at": "2026-02-01T01:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017767646067101779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2008185503020138496",
+          "start": 3,
+          "username": "jinkoutengoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSFrx4Ho2F",
+          "end": 47,
+          "expanded_url": "https://x.com/jinkoutengoku/status/2017553555524395433/video/1",
+          "media_key": "13_2017553465715920896",
+          "start": 24,
+          "url": "https://t.co/sSFrx4Ho2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017767646067101779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017553555524395433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinkoutengoku: 『子宮』 https://t.co/sSFrx4Ho2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15300,
+        "height": 720,
+        "media_key": "13_2017553465715920896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017553465715920896/img/OGh_pXBXTqyS-WQa.jpg",
+        "public_metrics": {
+          "view_count": 4738
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017553465715920896/vid/avc1/404x270/n3L51epCI-gnFDP7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017553465715920896/vid/avc1/538x360/NTgbyEqgZxs4agTs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017553465715920896/vid/avc1/1078x720/2xZoP2ZWg58uTjGI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017553465715920896/pl/b42xIneahopL9BMD.m3u8?v=79c"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017553465715920896"
+          ],
+          "media_source_tweet_id": [
+            "2017553555524395433"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2017767646067101779",
+        "created_at": "2026-02-01T01:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017767646067101779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2008185503020138496",
+              "start": 3,
+              "username": "jinkoutengoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSFrx4Ho2F",
+              "end": 47,
+              "expanded_url": "https://x.com/jinkoutengoku/status/2017553555524395433/video/1",
+              "media_key": "13_2017553465715920896",
+              "start": 24,
+              "url": "https://t.co/sSFrx4Ho2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017767646067101779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017553555524395433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinkoutengoku: 『子宮』 https://t.co/sSFrx4Ho2F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017553465715920896"
+          ]
+        },
+        "author_id": "2008185503020138496",
+        "conversation_id": "2017553555524395433",
+        "created_at": "2026-01-31T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017553555524395433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSFrx4Ho2F",
+              "end": 28,
+              "expanded_url": "https://x.com/jinkoutengoku/status/2017553555524395433/video/1",
+              "media_key": "13_2017553465715920896",
+              "start": 5,
+              "url": "https://t.co/sSFrx4Ho2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017553555524395433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 11586,
+          "like_count": 570,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "『子宮』 https://t.co/sSFrx4Ho2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 961,
+          "like_count": 4417,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:35:36.000Z",
+        "description": "2026.01.30 EP 「子宮」 Release.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Jinkoutengoku",
+                "end": 23,
+                "expanded_url": "https://lit.link/Jinkoutengoku",
+                "start": 0,
+                "url": "https://t.co/bSwv421Rcq"
+              }
+            ]
+          }
+        },
+        "id": "2008185503020138496",
+        "location": "Tokyo",
+        "name": "人工天国",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008185687582134272/mwL1hjFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/bSwv421Rcq",
+        "username": "jinkoutengoku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001348925266026497"
+      ],
+      "media_source_tweet_id": [
+        "2001348927333818642"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2001701170986037489",
+    "created_at": "2025-12-18T17:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001701170986037489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973407524498903042",
+          "start": 3,
+          "username": "memetexts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTB62hBSeF",
+          "end": 38,
+          "expanded_url": "https://x.com/memetexts/status/2001348927333818642/photo/1",
+          "media_key": "3_2001348925266026497",
+          "start": 15,
+          "url": "https://t.co/DTB62hBSeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001701170986037489",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6018
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001348927333818642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memetexts: https://t.co/DTB62hBSeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2001348925266026497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Y4PnIXYAE1ZZJ.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001348925266026497"
+          ],
+          "media_source_tweet_id": [
+            "2001348927333818642"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001701170986037489",
+        "created_at": "2025-12-18T17:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001701170986037489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973407524498903042",
+              "start": 3,
+              "username": "memetexts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTB62hBSeF",
+              "end": 38,
+              "expanded_url": "https://x.com/memetexts/status/2001348927333818642/photo/1",
+              "media_key": "3_2001348925266026497",
+              "start": 15,
+              "url": "https://t.co/DTB62hBSeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001701170986037489",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6018
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001348927333818642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memetexts: https://t.co/DTB62hBSeF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001348925266026497"
+          ]
+        },
+        "author_id": "1973407524498903042",
+        "conversation_id": "2001348927333818642",
+        "created_at": "2025-12-17T17:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T18:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001348927333818642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTB62hBSeF",
+              "end": 23,
+              "expanded_url": "https://x.com/memetexts/status/2001348927333818642/photo/1",
+              "media_key": "3_2001348925266026497",
+              "start": 0,
+              "url": "https://t.co/DTB62hBSeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001348927333818642",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1319,
+          "impression_count": 628284,
+          "like_count": 61732,
+          "quote_count": 131,
+          "reply_count": 86,
+          "retweet_count": 6018
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DTB62hBSeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 529,
+          "like_count": 1982,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T15:20:06.000Z",
+        "description": "weird text messages | powered by @memelordtech | get memes sent to you daily 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/texts",
+                "end": 23,
+                "expanded_url": "http://signup.memelord.com/texts",
+                "start": 0,
+                "url": "https://t.co/54uq1OnQS2"
+              }
+            ]
+          }
+        },
+        "id": "1973407524498903042",
+        "name": "weird text messages",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973407838895497216/n6RFrhFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17007,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 9,
+          "media_count": 583,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/54uq1OnQS2",
+        "username": "memetexts",
+        "verified": true
+      }
+    ]
+  }
+}

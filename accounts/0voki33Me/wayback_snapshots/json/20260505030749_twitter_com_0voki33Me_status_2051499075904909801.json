@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2051499075904909801",
+    "created_at": "2026-05-05T03:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051499075904909801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovotvto3o7777u…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ovotvto3o7777u/status/2051246689458311536",
+          "start": 13,
+          "url": "https://t.co/8gqjqUub9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051499075904909801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051246689458311536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "柜柜和品品其实是双向奔赴 https://t.co/8gqjqUub9K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2051499075904909801",
+        "created_at": "2026-05-05T03:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051499075904909801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovotvto3o7777u…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ovotvto3o7777u/status/2051246689458311536",
+              "start": 13,
+              "url": "https://t.co/8gqjqUub9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051499075904909801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051246689458311536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "柜柜和品品其实是双向奔赴 https://t.co/8gqjqUub9K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2051246689458311536",
+        "created_at": "2026-05-04T10:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051246689458311536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051246689458311536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6143,
+          "like_count": 217,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "品客拽假发其实根本就不是真正的爱国 他们只是知道有一个可以出名 发泄 可以随意霸凌别人的机会了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1179,
+          "like_count": 6543,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 6408
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 66,
+          "like_count": 3124,
+          "listed_count": 4,
+          "media_count": 420,
+          "tweet_count": 5641
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "ovoTvTo3o7777u",
+        "verified": false
+      }
+    ]
+  }
+}

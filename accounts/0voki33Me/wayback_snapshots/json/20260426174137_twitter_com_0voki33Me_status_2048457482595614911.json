@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2048457482595614911",
+    "created_at": "2026-04-26T17:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048457482595614911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2048071109048754587",
+          "start": 62,
+          "url": "https://t.co/xatf9ugZdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048457482595614911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048071109048754587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的觉得这种敏感数字是绝对不能出现在银幕上的，甚至是央视。和24 67 78 69 13之类的完全不是一个性质好吗。。。 https://t.co/xatf9ugZdb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2048070841892810752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGw1lF3bMAAMtwP.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2048457482595614911",
+        "created_at": "2026-04-26T17:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048457482595614911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2048071109048754587",
+              "start": 62,
+              "url": "https://t.co/xatf9ugZdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048457482595614911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048071109048754587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的觉得这种敏感数字是绝对不能出现在银幕上的，甚至是央视。和24 67 78 69 13之类的完全不是一个性质好吗。。。 https://t.co/xatf9ugZdb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048070841892810752"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048071109048754587",
+        "created_at": "2026-04-25T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048071109048754587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7E9ihYxnm",
+              "end": 51,
+              "expanded_url": "https://x.com/satireorcry1/status/2048071109048754587/photo/1",
+              "media_key": "3_2048070841892810752",
+              "start": 28,
+              "url": "https://t.co/i7E9ihYxnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048071109048754587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 473,
+          "impression_count": 565599,
+          "like_count": 3036,
+          "quote_count": 15,
+          "reply_count": 618,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "央视今晚出大事了！\n居然出现这么敏感的数字！真是巧合！ https://t.co/i7E9ihYxnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2047714085161361786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 1162,
+          "like_count": 6428,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 6197
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23023,
+          "following_count": 1543,
+          "like_count": 13671,
+          "listed_count": 51,
+          "media_count": 2723,
+          "tweet_count": 4102
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

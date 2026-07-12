@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2029775071502578025",
+    "created_at": "2026-03-06T04:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T05:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029775071502578025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/randomitskis/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/randomitskis/status/2029613914267464121",
+          "start": 5,
+          "url": "https://t.co/4IuFC7620e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029775071502578025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029613914267464121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "极限挑战 https://t.co/4IuFC7620e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18188,
+        "height": 720,
+        "media_key": "13_2022311126512631808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022311126512631808/img/UVUiwHlpLnQ_83fY.jpg",
+        "public_metrics": {
+          "view_count": 4633666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022311126512631808/vid/avc1/480x270/NzRTocSrb1SzN6kk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022311126512631808/vid/avc1/640x360/Visj_7odaHvP_0cH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022311126512631808/vid/avc1/1280x720/Y1m_t1P3lrXqscNh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022311126512631808/pl/wUYR42xkXnGyLf9W.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2029775071502578025",
+        "created_at": "2026-03-06T04:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029775071502578025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/randomitskis/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/randomitskis/status/2029613914267464121",
+              "start": 5,
+              "url": "https://t.co/4IuFC7620e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029775071502578025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029613914267464121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极限挑战 https://t.co/4IuFC7620e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022311126512631808"
+          ],
+          "media_source_tweet_id": [
+            "2022311200118161691"
+          ]
+        },
+        "author_id": "1512664747073753088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029613914267464121",
+        "created_at": "2026-03-05T17:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029613914267464121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LjITS2lgp2",
+              "end": 73,
+              "expanded_url": "https://x.com/TheDazeel/status/2022311200118161691/video/1",
+              "media_key": "13_2022311126512631808",
+              "start": 50,
+              "url": "https://t.co/LjITS2lgp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029613914267464121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 967,
+          "impression_count": 302830,
+          "like_count": 17284,
+          "quote_count": 134,
+          "reply_count": 30,
+          "retweet_count": 2917
+        },
+        "reply_settings": "everyone",
+        "text": "\"I don't smoke, except for when I'm missing you.\" https://t.co/LjITS2lgp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 1132,
+          "like_count": 5507,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T05:32:43.000Z",
+        "description": "“Nothing's About to Happen to Me” out now.  ⋆✴︎˚｡⋆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mitski.com",
+                "end": 23,
+                "expanded_url": "http://mitski.com",
+                "start": 0,
+                "url": "https://t.co/MPO3zIG9s1"
+              }
+            ]
+          }
+        },
+        "id": "1512664747073753088",
+        "location": "🇦🇷 • male",
+        "name": "random mitski's.",
+        "pinned_tweet_id": "2018767504609591445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982992084656136192/spUJuJyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27245,
+          "following_count": 173,
+          "like_count": 79256,
+          "listed_count": 13,
+          "media_count": 5255,
+          "tweet_count": 12293
+        },
+        "url": "https://t.co/MPO3zIG9s1",
+        "username": "randomitskis",
+        "verified": false
+      }
+    ]
+  }
+}

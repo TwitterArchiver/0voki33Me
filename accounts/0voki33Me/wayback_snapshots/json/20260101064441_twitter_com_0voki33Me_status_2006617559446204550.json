@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597176467456",
+          "name": "Sports/Outdoor - Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202044",
+          "name": "Lululemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597176467456",
+          "name": "Sports/Outdoor - Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202044",
+          "name": "Lululemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202044",
+          "name": "Lululemon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248316002317643776",
+          "name": "Athletic apparel"
+        }
+      }
+    ],
+    "conversation_id": "2006617559446204550",
+    "created_at": "2026-01-01T06:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006617559446204550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971898933418070016",
+          "start": 3,
+          "username": "404fyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006617559446204550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006342605974438175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404fyp: 今天跨年先把工作量少的5个名额抽了，100杯喜茶明天再搞。\n\n富士 instax mini12 拍立得樱花粉 x 1（按国内某平台价格600r）\n富士 instax mini12 拍立得粉蓝色 x 1 （按国内某平台价格600r）\nlululemon s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2006342593479925760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9f19W4bYAAKnWk.jpg",
+        "width": 947
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2006342593467371520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9f19W1b0AA33xE.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1418,
+        "media_key": "3_2006342593479921664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9f19W4bUAANpCS.jpg",
+        "width": 1066
+      },
+      {
+        "height": 793,
+        "media_key": "3_2006342593479872512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9f19W4akAA4Poe.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248316002317643776",
+              "name": "Athletic apparel"
+            }
+          }
+        ],
+        "conversation_id": "2006617559446204550",
+        "created_at": "2026-01-01T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006617559446204550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971898933418070016",
+              "start": 3,
+              "username": "404fyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006617559446204550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006342605974438175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404fyp: 今天跨年先把工作量少的5个名额抽了，100杯喜茶明天再搞。\n\n富士 instax mini12 拍立得樱花粉 x 1（按国内某平台价格600r）\n富士 instax mini12 拍立得粉蓝色 x 1 （按国内某平台价格600r）\nlululemon s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006342593479925760",
+            "3_2006342593467371520",
+            "3_2006342593479921664",
+            "3_2006342593479872512"
+          ]
+        },
+        "author_id": "1971898933418070016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202044",
+              "name": "Lululemon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248316002317643776",
+              "name": "Athletic apparel"
+            }
+          }
+        ],
+        "conversation_id": "2006342605974438175",
+        "created_at": "2025-12-31T12:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006342605974438175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoTVYm5fZV",
+              "end": 196,
+              "expanded_url": "https://x.com/404fyp/status/2006342605974438175/photo/1",
+              "media_key": "3_2006342593479925760",
+              "start": 173,
+              "url": "https://t.co/PoTVYm5fZV"
+            },
+            {
+              "display_url": "pic.x.com/PoTVYm5fZV",
+              "end": 196,
+              "expanded_url": "https://x.com/404fyp/status/2006342605974438175/photo/1",
+              "media_key": "3_2006342593467371520",
+              "start": 173,
+              "url": "https://t.co/PoTVYm5fZV"
+            },
+            {
+              "display_url": "pic.x.com/PoTVYm5fZV",
+              "end": 196,
+              "expanded_url": "https://x.com/404fyp/status/2006342605974438175/photo/1",
+              "media_key": "3_2006342593479921664",
+              "start": 173,
+              "url": "https://t.co/PoTVYm5fZV"
+            },
+            {
+              "display_url": "pic.x.com/PoTVYm5fZV",
+              "end": 196,
+              "expanded_url": "https://x.com/404fyp/status/2006342605974438175/photo/1",
+              "media_key": "3_2006342593479872512",
+              "start": 173,
+              "url": "https://t.co/PoTVYm5fZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006342605974438175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天跨年先把工作量少的5个名额抽了，100杯喜茶明天再搞。\n\n富士 instax mini12 拍立得樱花粉 x 1（按国内某平台价格600r）\n富士 instax mini12 拍立得粉蓝色 x 1 （按国内某平台价格600r）\nlululemon scuba x 1（取600r）\n米其林 x 1 （600r）\n黑珍珠 x 1 （600r）\n\n用工具开，绝对公平公正，我会设置条件如是否三连是否fo了然后交给机器随机选择开，然后会过滤机器人所以机器人别来浪费时间。让我们一起迎接2026年的到来，新的一年继续保持正能量积极乐观，可以说说你对2026年的展望👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 72413,
+          "like_count": 837,
+          "quote_count": 27,
+          "reply_count": 898,
+          "retweet_count": 629
+        },
+        "reply_settings": "everyone",
+        "text": "今天跨年先把工作量少的5个名额抽了，100杯喜茶明天再搞。\n\n富士 instax mini12 拍立得樱花粉 x 1（按国内某平台价格600r）\n富士 instax mini12 拍立得粉蓝色 x 1 （按国内某平台价格600r）\nlululemon scuba x 1（取600r）\n米其林 x 1 （600r）\n黑珍珠 x 1 （600r） https://t.co/PoTVYm5fZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 663,
+          "like_count": 2832,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1219
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T11:26:19.000Z",
+        "description": "00后富一代，从事Web3行业至今已有5年目前处于半退休状态。个人单币A8成就已解锁，向着新目标再出发。情绪极其稳定，保持正能量，善语结善缘。跨圈交友，拓展新视野。不定期举办各类活动，只玩真实，随意验证。特此强调：支持言论自由，但不会回复任何没教养恶意抬杠爱乱喷的私信和评论，只会拉黑。",
+        "id": "1971898933418070016",
+        "name": "404豆豆豆豆",
+        "pinned_tweet_id": "2001966008249303216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992296846996176898/dwfRFmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 60,
+          "like_count": 168,
+          "listed_count": 6,
+          "media_count": 53,
+          "tweet_count": 270
+        },
+        "username": "404fyp",
+        "verified": true
+      }
+    ]
+  }
+}

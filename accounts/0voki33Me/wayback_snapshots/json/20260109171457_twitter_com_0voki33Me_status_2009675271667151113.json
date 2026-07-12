@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2009675271667151113",
+    "created_at": "2026-01-09T17:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T18:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009675271667151113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009675271667151113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有病吧我所有痛苦的记忆都浮上来了我一直在哭，（虽然但是终于有自己的空间哭一会儿了）哭的我呼吸过度哭的我肺疼我是不是买到假药了欣快感在哪啊我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2009675271667151113",
+        "created_at": "2026-01-09T17:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009675271667151113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009675271667151113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有病吧我所有痛苦的记忆都浮上来了我一直在哭，（虽然但是终于有自己的空间哭一会儿了）哭的我呼吸过度哭的我肺疼我是不是买到假药了欣快感在哪啊我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 775,
+          "like_count": 3125,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1472
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

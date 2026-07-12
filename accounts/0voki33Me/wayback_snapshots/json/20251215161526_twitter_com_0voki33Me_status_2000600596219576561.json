@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2000600596219576561",
+    "created_at": "2025-12-15T16:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T17:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000600596219576561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1561588899499196417",
+          "start": 3,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000600596219576561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000388520511443010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tiandaidaidai: 现充健全幸福逼再跟我卖惨觉得自己命苦默认死全家。我就鸡巴想不通一天有人爱有钱花你惨在哪了？自己没事找事跟对象闹分手来我这哭鼻子说自己一辈子过得好惨好苦。究竟谁理你？对象一天给买三万个快递点四百个外卖浑身上下名牌包名牌衣服还觉得不满足，集美你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2000600596219576561",
+        "created_at": "2025-12-15T16:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000600596219576561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1561588899499196417",
+              "start": 3,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000600596219576561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000388520511443010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tiandaidaidai: 现充健全幸福逼再跟我卖惨觉得自己命苦默认死全家。我就鸡巴想不通一天有人爱有钱花你惨在哪了？自己没事找事跟对象闹分手来我这哭鼻子说自己一辈子过得好惨好苦。究竟谁理你？对象一天给买三万个快递点四百个外卖浑身上下名牌包名牌衣服还觉得不满足，集美你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "2000388520511443010",
+        "created_at": "2025-12-15T02:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000388520511443010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000388520511443010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1913,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "现充健全幸福逼再跟我卖惨觉得自己命苦默认死全家。我就鸡巴想不通一天有人爱有钱花你惨在哪了？自己没事找事跟对象闹分手来我这哭鼻子说自己一辈子过得好惨好苦。究竟谁理你？对象一天给买三万个快递点四百个外卖浑身上下名牌包名牌衣服还觉得不满足，集美你觉得跟我这种人卖惨合适不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出现生了请不要告诉我及任何人关于这个账号中我做的事情..这是我的第二人格，感恩///善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 483,
+          "like_count": 1500,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczArwoW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 77,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 54,
+                "url": "https://t.co/nWrczArwoW"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998719214782406656/IiKB6LUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1983,
+          "like_count": 70358,
+          "listed_count": 8,
+          "media_count": 641,
+          "tweet_count": 10440
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

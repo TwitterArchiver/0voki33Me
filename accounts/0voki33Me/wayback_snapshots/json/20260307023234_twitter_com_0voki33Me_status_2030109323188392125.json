@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2030057283829293236",
+    "created_at": "2026-03-07T02:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030109323188392125"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697036587710971904",
+          "start": 0,
+          "username": "Ouroboros_723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030109323188392125",
+    "in_reply_to_user_id": "1697036587710971904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030057283829293236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ouroboros_723 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030057277475192832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCw2VpGbAAAaA80.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030057277508702208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCw2VpOaUAAJ23h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2030057283829293236",
+        "created_at": "2026-03-07T02:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030109323188392125"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697036587710971904",
+              "start": 0,
+              "username": "Ouroboros_723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030109323188392125",
+        "in_reply_to_user_id": "1697036587710971904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030057283829293236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouroboros_723 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030057277475192832",
+            "3_2030057277508702208"
+          ]
+        },
+        "author_id": "1697036587710971904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030057283829293236",
+        "created_at": "2026-03-06T23:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030057283829293236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzIdYEETHA",
+              "end": 23,
+              "expanded_url": "https://x.com/Ouroboros_723/status/2030057283829293236/photo/1",
+              "media_key": "3_2030057277475192832",
+              "start": 0,
+              "url": "https://t.co/lzIdYEETHA"
+            },
+            {
+              "display_url": "pic.x.com/lzIdYEETHA",
+              "end": 23,
+              "expanded_url": "https://x.com/Ouroboros_723/status/2030057283829293236/photo/1",
+              "media_key": "3_2030057277508702208",
+              "start": 0,
+              "url": "https://t.co/lzIdYEETHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030057283829293236",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lzIdYEETHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 1138,
+          "like_count": 5514,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 4052
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T00:00:43.000Z",
+        "description": "=林情 she/精神病/自伤/od/已成年 直fo=我喜欢你",
+        "id": "1697036587710971904",
+        "name": "林情",
+        "pinned_tweet_id": "1726721552123842970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007729414914670592/GRRcIgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 204,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 213
+        },
+        "username": "Ouroboros_723",
+        "verified": false
+      }
+    ]
+  }
+}

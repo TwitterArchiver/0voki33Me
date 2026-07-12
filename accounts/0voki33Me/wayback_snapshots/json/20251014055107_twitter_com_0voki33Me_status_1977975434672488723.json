@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1977975434672488723",
+    "created_at": "2025-10-14T05:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T06:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977975434672488723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977975434672488723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特么服了上体育课老师让和同学互相压肩，我那小猪手一搭上同学大臂就露出来了全尼玛自残疤痕，她看见了我和她就这样你看我我看你尴尬死了知道不！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1977975434672488723",
+        "created_at": "2025-10-14T05:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977975434672488723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977975434672488723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么服了上体育课老师让和同学互相压肩，我那小猪手一搭上同学大臂就露出来了全尼玛自残疤痕，她看见了我和她就这样你看我我看你尴尬死了知道不！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝----------糊逼一枚妹纸可以找我互fo -------------#edtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "edtwt"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 219,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 159
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

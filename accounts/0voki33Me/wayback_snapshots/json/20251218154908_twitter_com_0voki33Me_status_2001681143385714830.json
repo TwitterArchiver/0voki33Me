@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2001680963039080492",
+    "created_at": "2025-12-18T15:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T16:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001681143385714830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001681143385714830",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001680963039080492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一种旮旯更亩的安心感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 135,
+        "media_key": "3_2001680955443154946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dmOT7akAIO55e.jpg",
+        "width": 135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001680963039080492",
+        "created_at": "2025-12-18T15:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001681143385714830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001681143385714830",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001680963039080492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一种旮旯更亩的安心感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001680955443154946"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001680963039080492",
+        "created_at": "2025-12-18T15:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001680963039080492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Come Softly (For Daniel D.)》，由 Grouper 演唱，收录于《A I A: Alien Observer》专辑中，《Come Softly (For Daniel D.)》下载，《Come Softly (For Daniel D.)》在线试听，更多Come Softly (For Daniel D.)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/Xw0qLpf",
+              "end": 75,
+              "expanded_url": "https://163cn.tv/Xw0qLpf",
+              "images": [
+                {
+                  "height": 1500,
+                  "url": "https://pbs.twimg.com/news_img/2001680989349961729/9v_HD6FI?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001680989349961729/9v_HD6FI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "Come Softly (For Daniel D.) - Grouper - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=2641616&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=3278336140&playerUIModeId=76001&app_version=9.4.25&dlt=0846",
+              "url": "https://t.co/oiEeIJEQor"
+            },
+            {
+              "display_url": "pic.x.com/W74GP3KRit",
+              "end": 99,
+              "expanded_url": "https://x.com/0voki33Me/status/2001680963039080492/photo/1",
+              "media_key": "3_2001680955443154946",
+              "start": 76,
+              "url": "https://t.co/W74GP3KRit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001680963039080492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Grouper的单曲《Come Softly (For Daniel D.)》  (@网易云音乐) https://t.co/oiEeIJEQor https://t.co/W74GP3KRit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 523,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

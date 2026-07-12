@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2009782680163139649",
+    "created_at": "2026-01-10T00:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T01:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009782680163139649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2009708632771047587",
+          "start": 12,
+          "url": "https://t.co/vmiAt1tu8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009782680163139649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009708632771047587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么推特这么好玩儿？ https://t.co/vmiAt1tu8s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2009782680163139649",
+        "created_at": "2026-01-10T00:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T01:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009782680163139649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2009708632771047587",
+              "start": 12,
+              "url": "https://t.co/vmiAt1tu8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009782680163139649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009708632771047587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么推特这么好玩儿？ https://t.co/vmiAt1tu8s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2009708632771047587",
+        "created_at": "2026-01-09T19:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T20:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009708632771047587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kakou0026/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kakou0026/status/2009241549457260686",
+              "start": 12,
+              "url": "https://t.co/7uzEMQq4f1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009708632771047587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009241549457260686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么推特这么好玩儿？ https://t.co/7uzEMQq4f1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 778,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1484
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜more moots!｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信  选拒",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004224773761781761/oqlHflEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 195,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1295
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

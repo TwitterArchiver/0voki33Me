@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017265238866059264"
+      ],
+      "media_source_tweet_id": [
+        "2017265508069073318"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017519956821459149",
+    "created_at": "2026-01-31T08:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017519956821459149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4c29R4VAx",
+          "end": 57,
+          "expanded_url": "https://x.com/igeekbb/status/2017265508069073318/photo/1",
+          "media_key": "3_2017265238866059264",
+          "start": 34,
+          "url": "https://t.co/w4c29R4VAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017519956821459149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017265508069073318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 如有发现孩子手机有这些软件 请立即删除🤣 https://t.co/w4c29R4VAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2017265238866059264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7EC_xa4AAC1OA.jpg",
+        "width": 2640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017265238866059264"
+          ],
+          "media_source_tweet_id": [
+            "2017265508069073318"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017519956821459149",
+        "created_at": "2026-01-31T08:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017519956821459149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4c29R4VAx",
+              "end": 57,
+              "expanded_url": "https://x.com/igeekbb/status/2017265508069073318/photo/1",
+              "media_key": "3_2017265238866059264",
+              "start": 34,
+              "url": "https://t.co/w4c29R4VAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017519956821459149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017265508069073318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 如有发现孩子手机有这些软件 请立即删除🤣 https://t.co/w4c29R4VAx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017265238866059264"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017265508069073318",
+        "created_at": "2026-01-30T15:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017265508069073318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4c29R4VAx",
+              "end": 44,
+              "expanded_url": "https://x.com/igeekbb/status/2017265508069073318/photo/1",
+              "media_key": "3_2017265238866059264",
+              "start": 21,
+              "url": "https://t.co/w4c29R4VAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017265508069073318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 936237,
+          "like_count": 1884,
+          "quote_count": 8,
+          "reply_count": 283,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "如有发现孩子手机有这些软件 请立即删除🤣 https://t.co/w4c29R4VAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 948,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64443,
+          "following_count": 1,
+          "like_count": 10663,
+          "listed_count": 274,
+          "media_count": 6168,
+          "tweet_count": 9441
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

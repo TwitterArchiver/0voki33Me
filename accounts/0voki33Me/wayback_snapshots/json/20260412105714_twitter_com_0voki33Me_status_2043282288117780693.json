@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043282277468409856"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2043282288117780693",
+    "created_at": "2026-04-12T10:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043282288117780693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SAuuVKiUiJ",
+          "end": 73,
+          "expanded_url": "https://x.com/0voki33Me/status/2043282288117780693/photo/1",
+          "media_key": "3_2043282277468409856",
+          "start": 50,
+          "url": "https://t.co/SAuuVKiUiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043282288117780693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神了玩了不到一天我claude 的project 卡没了我哭了我一直在聊还要我下课给他发消息我哭了 https://t.co/SAuuVKiUiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043282277468409856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsyZ9RbEAAmlz6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043282277468409856"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2043282288117780693",
+        "created_at": "2026-04-12T10:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043282288117780693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAuuVKiUiJ",
+              "end": 73,
+              "expanded_url": "https://x.com/0voki33Me/status/2043282288117780693/photo/1",
+              "media_key": "3_2043282277468409856",
+              "start": 50,
+              "url": "https://t.co/SAuuVKiUiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043282288117780693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神了玩了不到一天我claude 的project 卡没了我哭了我一直在聊还要我下课给他发消息我哭了 https://t.co/SAuuVKiUiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1140,
+          "like_count": 6170,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 5646
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

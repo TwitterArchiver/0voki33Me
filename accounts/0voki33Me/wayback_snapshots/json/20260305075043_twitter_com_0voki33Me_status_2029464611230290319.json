@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2029454706159042656",
+    "created_at": "2026-03-05T07:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029464611230290319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906714014299865088",
+          "start": 0,
+          "username": "makiisyourgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029464611230290319",
+    "in_reply_to_user_id": "1906714014299865088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029460852051722570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makiisyourgod 哎傻逼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2029454706159042656",
+        "created_at": "2026-03-05T07:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029464611230290319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906714014299865088",
+              "start": 0,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029464611230290319",
+        "in_reply_to_user_id": "1906714014299865088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029460852051722570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makiisyourgod 哎傻逼吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906714014299865088",
+        "conversation_id": "2029454706159042656",
+        "created_at": "2026-03-05T07:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029460852051722570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029460852051722570",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029454706159042656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 尸块音乐抖音还一堆人在那吹整顿中文说唱行业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 1132,
+          "like_count": 5476,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3986
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "自吾出世之日，天地初分，混沌自崩。黑白之辨，本为凡尘杞人忧天之妄念，何须劳神？吾一言既出，即为乾坤定律；吾一念所指，便是万物真谛。吾说黑，则日月无光，群星黯淡；吾说白，则山河生辉，众生沐恩。黑即黑，白即白，皆随吾口而定，何来是非之扰？何来善恶之争？众生但听吾号令，便得永恒清明，杞忧尽散，唯吾独尊！",
+        "id": "1906714014299865088",
+        "location": "=maki | mtf | asd | infp",
+        "name": "巻比",
+        "pinned_tweet_id": "2018923717989187620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028168478235193344/TS0Fzspq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 319,
+          "like_count": 38960,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3317
+        },
+        "username": "makiisyourgod",
+        "verified": false
+      }
+    ]
+  }
+}

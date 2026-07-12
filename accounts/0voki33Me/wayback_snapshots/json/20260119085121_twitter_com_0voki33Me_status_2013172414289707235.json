@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013122314121134389",
+    "created_at": "2026-01-19T08:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013172414289707235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1162919446488342528",
+          "start": 0,
+          "username": "PPPygmalion"
+        },
+        {
+          "end": 25,
+          "id": "1867755654070349824",
+          "start": 13,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013172414289707235",
+    "in_reply_to_user_id": "1162919446488342528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013122314121134389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PPPygmalion @zezhe463149 蹲蹲抽奖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013122306067906561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AMEkaXwAE8FxA.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013122314121134389",
+        "created_at": "2026-01-19T08:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013172414289707235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1162919446488342528",
+              "start": 0,
+              "username": "PPPygmalion"
+            },
+            {
+              "end": 25,
+              "id": "1867755654070349824",
+              "start": 13,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013172414289707235",
+        "in_reply_to_user_id": "1162919446488342528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013122314121134389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PPPygmalion @zezhe463149 蹲蹲抽奖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013122306067906561"
+          ]
+        },
+        "author_id": "1162919446488342528",
+        "conversation_id": "2013122314121134389",
+        "created_at": "2026-01-19T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013122314121134389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6wzWETbTF",
+              "end": 35,
+              "expanded_url": "https://x.com/PPPygmalion/status/2013122314121134389/photo/1",
+              "media_key": "3_2013122306067906561",
+              "start": 12,
+              "url": "https://t.co/z6wzWETbTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013122314121134389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7920,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 127,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这条评论区再抽十个52 https://t.co/z6wzWETbTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 846,
+          "like_count": 3557,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-18T02:49:48.000Z",
+        "description": "最想要的死法是戴耳机听歌时手机塞进嘴巴里突发爆炸",
+        "id": "1162919446488342528",
+        "name": "皮格马利翁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472955501373980672/t18sP6xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 1421,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 16
+        },
+        "username": "PPPygmalion",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "一心/24y horseman/目中无人症+妄自菲薄病",
+        "id": "1867755654070349824",
+        "location": "停尸房里的冰柜雅间",
+        "name": "Shiny fish fish",
+        "pinned_tweet_id": "2009095448871751852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002938732819660801/0fqZN7ti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 460,
+          "like_count": 19222,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 9730
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

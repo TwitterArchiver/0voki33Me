@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2042131400779034742",
+    "created_at": "2026-04-09T06:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042131992222036116"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042131992222036116",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042131400779034742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯倾诉就算了我他妈说了一堆啥阴啊莫名其妙的，救命呀，啊啊啊，我不想回家了我不想见我妈救命啊好尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2042131400779034742",
+        "created_at": "2026-04-09T06:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042131992222036116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042131992222036116",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042131400779034742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯倾诉就算了我他妈说了一堆啥阴啊莫名其妙的，救命呀，啊啊啊，我不想回家了我不想见我妈救命啊好尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2042131400779034742",
+        "created_at": "2026-04-09T06:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042131400779034742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042131400779034742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈服了呀前几天给我妈发的那堆完全是磕大了在发药疯，好尴尬呀，好尴尬呀我操，救命呀，啊啊啊，啊啊啊，啊啊啊，我好后悔呀，哎呀，我真的好后悔呀我操，啊啊啊啊啊，好尴尬呀，叽里呱啦说啥呢我操呀，啊啊啊啊啊，啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1142,
+          "like_count": 6157,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

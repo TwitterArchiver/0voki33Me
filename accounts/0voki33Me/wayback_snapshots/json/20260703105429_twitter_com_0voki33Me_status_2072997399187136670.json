@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2072997399187136670",
+    "created_at": "2026-07-03T10:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072997399187136670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《幸福の培養》，别名《幸福的培养》，由 kinoue64 演唱，收录于《幸福の培養》专辑中，《幸福の培養》下载，《幸福の培養》在线试听，更多幸福の培養相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bagu2TJZ",
+          "end": 34,
+          "expanded_url": "https://163cn.tv/bagu2TJZ",
+          "start": 11,
+          "status": 200,
+          "title": "幸福の培養（幸福的培养） - kinoue64 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=2715044725&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.37&dlt=0846",
+          "url": "https://t.co/rNPtzMJM2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072997399187136670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这鼓点对我脑子好舒服啊https://t.co/rNPtzMJM2J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2072997399187136670",
+        "created_at": "2026-07-03T10:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072997399187136670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《幸福の培養》，别名《幸福的培养》，由 kinoue64 演唱，收录于《幸福の培養》专辑中，《幸福の培養》下载，《幸福の培養》在线试听，更多幸福の培養相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bagu2TJZ",
+              "end": 34,
+              "expanded_url": "https://163cn.tv/bagu2TJZ",
+              "start": 11,
+              "status": 200,
+              "title": "幸福の培養（幸福的培养） - kinoue64 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=2715044725&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.37&dlt=0846",
+              "url": "https://t.co/rNPtzMJM2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072997399187136670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这鼓点对我脑子好舒服啊https://t.co/rNPtzMJM2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1121,
+          "like_count": 6880,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 7020
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

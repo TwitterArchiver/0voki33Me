@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994889433431093248"
+      ],
+      "media_source_tweet_id": [
+        "1994889440721072190"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2000818632075673923",
+    "created_at": "2025-12-16T06:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T07:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000818632075673923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935738584679825409",
+          "start": 3,
+          "username": "abyzowurawrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPV73J25wv",
+          "end": 41,
+          "expanded_url": "https://x.com/abyzowurawrr/status/1994889440721072190/photo/1",
+          "media_key": "3_1994889433431093248",
+          "start": 18,
+          "url": "https://t.co/nPV73J25wv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000818632075673923",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994889440721072190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abyzowurawrr: https://t.co/nPV73J25wv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000818632075673923].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000818632075673923",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000818632075673923"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1994889433431093248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69FXs3XMAAdt6R.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994889433431093248"
+          ]
+        },
+        "author_id": "1935738584679825409",
+        "conversation_id": "1994889440721072190",
+        "created_at": "2025-11-29T22:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T23:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994889440721072190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPV73J25wv",
+              "end": 23,
+              "expanded_url": "https://x.com/abyzowurawrr/status/1994889440721072190/photo/1",
+              "media_key": "3_1994889433431093248",
+              "start": 0,
+              "url": "https://t.co/nPV73J25wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994889440721072190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 25000,
+          "like_count": 1967,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nPV73J25wv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 492,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T16:37:12.000Z",
+        "description": "Camera roll of snuff n random post ^^ blood acc - @girlslikegunss ͏ ͏͏ ͏ 🎃👻🩸💉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "girlslikegunss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/girlslikesnuff…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/girlslikesnuffmen/",
+                "start": 0,
+                "url": "https://t.co/TWYBQlTrJG"
+              }
+            ]
+          }
+        },
+        "id": "1935738584679825409",
+        "location": "LO/SER",
+        "name": "𝔞𝔱𝔞 abyzowu rawrr",
+        "pinned_tweet_id": "1978158248596320460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991270006034661376/_ehFMif6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6252,
+          "following_count": 128,
+          "like_count": 1509,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/TWYBQlTrJG",
+        "username": "abyzowurawrr",
+        "verified": false
+      }
+    ]
+  }
+}

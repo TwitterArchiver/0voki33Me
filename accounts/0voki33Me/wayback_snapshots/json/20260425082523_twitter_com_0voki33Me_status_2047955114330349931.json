@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2047955114330349931",
+    "created_at": "2026-04-25T08:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047955114330349931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/0voki33me/status/2047733996046692770",
+          "start": 26,
+          "url": "https://t.co/UtKrIU5Cvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047955114330349931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047733996046692770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在药效下都能画成这样，我就是神啊，我就是天才啊， https://t.co/UtKrIU5Cvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047733966258757632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsDMWVa4AAfPWj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2047955114330349931",
+        "created_at": "2026-04-25T08:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047955114330349931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/0voki33me/status/2047733996046692770",
+              "start": 26,
+              "url": "https://t.co/UtKrIU5Cvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047955114330349931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047733996046692770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在药效下都能画成这样，我就是神啊，我就是天才啊， https://t.co/UtKrIU5Cvg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047733966258757632"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2047733996046692770",
+        "created_at": "2026-04-24T17:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047733996046692770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2lkvWkWS3",
+              "end": 40,
+              "expanded_url": "https://x.com/0voki33Me/status/2047733996046692770/photo/1",
+              "media_key": "3_2047733966258757632",
+              "start": 17,
+              "url": "https://t.co/r2lkvWkWS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047733996046692770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还在药效下写作业画画呀我在干啥 https://t.co/r2lkvWkWS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2047714085161361786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1150,
+          "like_count": 6405,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 6161
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

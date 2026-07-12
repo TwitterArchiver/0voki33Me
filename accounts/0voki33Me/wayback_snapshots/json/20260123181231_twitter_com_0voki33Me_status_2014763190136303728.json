@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014763113271246848"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014730437323837592",
+    "created_at": "2026-01-23T18:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T19:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014763190136303728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1788540213360562176",
+          "start": 0,
+          "username": "shirayuki0403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/om26DeUa18",
+          "end": 56,
+          "expanded_url": "https://x.com/0voki33Me/status/2014763190136303728/video/1",
+          "media_key": "13_2014763113271246848",
+          "start": 33,
+          "url": "https://t.co/om26DeUa18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014763190136303728",
+    "in_reply_to_user_id": "1788540213360562176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014730437323837592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirayuki0403 用力往下摁然后快速划过去？我就这样 https://t.co/om26DeUa18"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014763190136303728].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014763190136303728",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014763190136303728"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10361,
+        "height": 1280,
+        "media_key": "13_2014763113271246848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014763113271246848/img/Bk148tgHUqJ5o8Sw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014763113271246848/pl/WRX3bgtsitfljlDE.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014763113271246848/vid/avc1/320x372/e2kf53Ygxr76_Dfm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014763113271246848/vid/avc1/480x558/LR3he-5xLW7morpw.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014763113271246848/vid/avc1/1100x1280/XzaZQvwzcZzb8MYH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014763113271246848/vid/avc1/720x836/IxadFzuthaznAZcI.mp4"
+          }
+        ],
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788540213360562176",
+        "conversation_id": "2014730437323837592",
+        "created_at": "2026-01-23T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014730437323837592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014730437323837592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实想知道你们是怎么一下割到脂肪层的 我要割都是叠割 从来没有一下次就割到过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 890,
+          "like_count": 3845,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2066
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T12:03:19.000Z",
+        "description": "别说不亲我这种坏心眼的话",
+        "id": "1788540213360562176",
+        "location": "🚪88纯绿",
+        "name": "小露乱撞",
+        "pinned_tweet_id": "2013986158561382821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013983246737125376/2AhKbvLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 176,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 500
+        },
+        "username": "shirayuki0403",
+        "verified": false
+      }
+    ]
+  }
+}

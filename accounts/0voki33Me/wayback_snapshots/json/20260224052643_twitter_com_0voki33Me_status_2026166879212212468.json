@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026166728514994176"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2026166879212212468",
+    "created_at": "2026-02-24T05:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T06:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026166879212212468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SP0FUD23cK",
+          "end": 32,
+          "expanded_url": "https://x.com/0voki33Me/status/2026166879212212468/video/1",
+          "media_key": "13_2026166728514994176",
+          "start": 9,
+          "url": "https://t.co/SP0FUD23cK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026166879212212468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好萌呀这个小螃蟹 https://t.co/SP0FUD23cK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10210,
+        "height": 720,
+        "media_key": "13_2026166728514994176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026166728514994176/img/rjaZaclSRAHz0vms.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026166728514994176/vid/avc1/480x270/3_KvdJNmEYv5g1pV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026166728514994176/vid/avc1/640x360/J22PKfP8BiSPh5Dp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026166728514994176/vid/avc1/1280x720/jQjn5e8F2D_Vhp2O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026166728514994176/pl/qDbdStf84e0Vjrs6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026166728514994176"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2026166879212212468",
+        "created_at": "2026-02-24T05:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026166879212212468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SP0FUD23cK",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2026166879212212468/video/1",
+              "media_key": "13_2026166728514994176",
+              "start": 9,
+              "url": "https://t.co/SP0FUD23cK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026166879212212468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好萌呀这个小螃蟹 https://t.co/SP0FUD23cK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1121,
+          "like_count": 5325,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

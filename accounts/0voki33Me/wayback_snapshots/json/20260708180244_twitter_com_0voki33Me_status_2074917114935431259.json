@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2074358973655105895",
+    "created_at": "2026-07-08T18:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074917114935431259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935310472523431941",
+          "start": 0,
+          "username": "ppprxx02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074917114935431259",
+    "in_reply_to_user_id": "1935310472523431941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074916245099688257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppprxx02 谢谢呀☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2074916236857839616",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMuVUvSaEAADO4j.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMuVUvSaEAADO4j.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2074358973655105895",
+        "created_at": "2026-07-08T18:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074917114935431259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935310472523431941",
+              "start": 0,
+              "username": "ppprxx02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074917114935431259",
+        "in_reply_to_user_id": "1935310472523431941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074916245099688257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppprxx02 谢谢呀☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074916236857839616"
+          ]
+        },
+        "author_id": "1935310472523431941",
+        "conversation_id": "2074358973655105895",
+        "created_at": "2026-07-08T17:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074916245099688257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ng9lLnu1bo",
+              "end": 34,
+              "expanded_url": "https://x.com/ppprxx02/status/2074916245099688257/photo/1",
+              "media_key": "16_2074916236857839616",
+              "start": 11,
+              "url": "https://t.co/Ng9lLnu1bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074916245099688257",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074358973655105895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me https://t.co/Ng9lLnu1bo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1138,
+          "like_count": 6940,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 7090
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T12:15:56.000Z",
+        "description": "有個可愛的人在讀我的自介\n吱！土撥鼠說你好ℝ～\n早安午安晚安！\n\n我的興趣是尋找自己的興趣",
+        "id": "1935310472523431941",
+        "location": "參宿三 Delta Orionis",
+        "name": "ppprxx02",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935317539539517440/ieL426bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 887,
+          "like_count": 31277,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "ppprxx02",
+        "verified": false
+      }
+    ]
+  }
+}

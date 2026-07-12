@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2050745043074658815",
+    "created_at": "2026-05-03T01:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T02:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050745043074658815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2050376669760995825",
+          "start": 7,
+          "url": "https://t.co/QFqiwCtpnN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050745043074658815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050376669760995825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "我他妈不行了 https://t.co/QFqiwCtpnN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2050376659757572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRmtWyaIAAtKCo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2050745043074658815",
+        "created_at": "2026-05-03T01:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050745043074658815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2050376669760995825",
+              "start": 7,
+              "url": "https://t.co/QFqiwCtpnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050745043074658815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050376669760995825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我他妈不行了 https://t.co/QFqiwCtpnN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050376659757572096"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2050376669760995825",
+        "created_at": "2026-05-02T00:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T01:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050376669760995825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUia3sIoxr",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2050376669760995825/photo/1",
+              "media_key": "3_2050376659757572096",
+              "start": 0,
+              "url": "https://t.co/jUia3sIoxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050376669760995825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 115268,
+          "like_count": 405,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jUia3sIoxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 1179,
+          "like_count": 6510,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 6345
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36077,
+          "following_count": 376,
+          "like_count": 209,
+          "listed_count": 103,
+          "media_count": 13434,
+          "tweet_count": 13511
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

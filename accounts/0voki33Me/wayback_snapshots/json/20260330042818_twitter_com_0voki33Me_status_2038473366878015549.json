@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2038473366878015549",
+    "created_at": "2026-03-30T04:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038473366878015549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinii165892/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/rinii165892/status/2038300402060325184",
+          "start": 5,
+          "url": "https://t.co/owo1x0KLJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038473366878015549",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038300402060325184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf， https://t.co/owo1x0KLJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2038277426418171904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElqhSNaQAA201W.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2038473366878015549",
+        "created_at": "2026-03-30T04:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038473366878015549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/rinii165892/status/2038300402060325184",
+              "start": 5,
+              "url": "https://t.co/owo1x0KLJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038473366878015549",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038300402060325184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf， https://t.co/owo1x0KLJh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038277426418171904"
+          ]
+        },
+        "author_id": "2032033299980566528",
+        "conversation_id": "2038300402060325184",
+        "created_at": "2026-03-29T17:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038300402060325184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgGdMQMtW2",
+              "end": 64,
+              "expanded_url": "https://x.com/rinii165892/status/2038300402060325184/photo/1",
+              "media_key": "3_2038277426418171904",
+              "start": 41,
+              "url": "https://t.co/CgGdMQMtW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038300402060325184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 12658,
+          "like_count": 199,
+          "quote_count": 39,
+          "reply_count": 135,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【定时】\n真的好喜欢跟大家一起玩呀!感谢大家一直陪我玩捏!下次我们再继续一起吧! https://t.co/CgGdMQMtW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1204,
+          "like_count": 6021,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】大号正常期间锁推\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 302,
+          "like_count": 1682,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

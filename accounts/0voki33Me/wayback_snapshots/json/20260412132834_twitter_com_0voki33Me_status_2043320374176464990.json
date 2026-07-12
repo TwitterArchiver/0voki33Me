@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2043320374176464990",
+    "created_at": "2026-04-12T13:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043320374176464990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034487540527587328",
+          "start": 3,
+          "username": "Lain1984326"
+        },
+        {
+          "end": 72,
+          "id": "1621552410048237569",
+          "start": 61,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/chat/group_j…",
+          "end": 100,
+          "expanded_url": "https://x.com/i/chat/group_join/g2042804311168815367/09Ytw1QJik",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2041869258209259520/DzYxma69?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2041869258209259520/DzYxma69?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 77,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/KR7LDebJiE"
+        },
+        {
+          "display_url": "med.angelkawaii.xyz",
+          "end": 129,
+          "expanded_url": "https://med.angelkawaii.xyz/",
+          "start": 106,
+          "unwound_url": "https://med.angelkawaii.xyz/",
+          "url": "https://t.co/Aa8QlWH1Fi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043320374176464990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043173637881299436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lain1984326: 请使用药物百科GPT，使用药百GPT谢谢喵。有任何药物相关的问题，请尽情发问。\n开发者：@amecandy_x\n内测群：https://t.co/KR7LDebJiE\n网站链接：https://t.co/Aa8QlWH1Fi https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2043173275719876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrPROHawAAeY-O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2043320374176464990",
+        "created_at": "2026-04-12T13:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043320374176464990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034487540527587328",
+              "start": 3,
+              "username": "Lain1984326"
+            },
+            {
+              "end": 72,
+              "id": "1621552410048237569",
+              "start": 61,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 100,
+              "expanded_url": "https://x.com/i/chat/group_join/g2042804311168815367/09Ytw1QJik",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2041869258209259520/DzYxma69?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041869258209259520/DzYxma69?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/KR7LDebJiE"
+            },
+            {
+              "display_url": "med.angelkawaii.xyz",
+              "end": 129,
+              "expanded_url": "https://med.angelkawaii.xyz/",
+              "start": 106,
+              "unwound_url": "https://med.angelkawaii.xyz/",
+              "url": "https://t.co/Aa8QlWH1Fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043320374176464990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043173637881299436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lain1984326: 请使用药物百科GPT，使用药百GPT谢谢喵。有任何药物相关的问题，请尽情发问。\n开发者：@amecandy_x\n内测群：https://t.co/KR7LDebJiE\n网站链接：https://t.co/Aa8QlWH1Fi https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043173275719876608"
+          ]
+        },
+        "author_id": "2034487540527587328",
+        "conversation_id": "2043173637881299436",
+        "created_at": "2026-04-12T03:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043173637881299436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1621552410048237569",
+              "start": 44,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 83,
+              "expanded_url": "https://x.com/i/chat/group_join/g2042804311168815367/09Ytw1QJik",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2041869258209259520/DzYxma69?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041869258209259520/DzYxma69?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/KR7LDebJiE"
+            },
+            {
+              "display_url": "med.angelkawaii.xyz",
+              "end": 112,
+              "expanded_url": "https://med.angelkawaii.xyz/",
+              "start": 89,
+              "unwound_url": "https://med.angelkawaii.xyz/",
+              "url": "https://t.co/Aa8QlWH1Fi"
+            },
+            {
+              "display_url": "pic.x.com/dU4qYnaOyU",
+              "end": 136,
+              "expanded_url": "https://x.com/Lain1984326/status/2043173637881299436/photo/1",
+              "media_key": "3_2043173275719876608",
+              "start": 113,
+              "url": "https://t.co/dU4qYnaOyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043173637881299436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 942,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "请使用药物百科GPT，使用药百GPT谢谢喵。有任何药物相关的问题，请尽情发问。\n开发者：@amecandy_x\n内测群：https://t.co/KR7LDebJiE\n网站链接：https://t.co/Aa8QlWH1Fi https://t.co/dU4qYnaOyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 1141,
+          "like_count": 6173,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 5647
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T04:30:11.000Z",
+        "description": "我只存于他人记忆之中...\n\n民主社会主义 | Meme | 百合 | 战犯 | 极客 | Python学习中 | \nDemocratic Socialism | Meme | Yuri | HOI4 | Geek | Python Learner |",
+        "id": "2034487540527587328",
+        "location": "Tokyo, Japan",
+        "name": "玲音𝕷𝖆𝖎𝖓🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035402849946120192/Fd9v0DxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 198,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 321
+        },
+        "username": "Lain1984326",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 2072,
+          "like_count": 26912,
+          "listed_count": 15,
+          "media_count": 1403,
+          "tweet_count": 9992
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

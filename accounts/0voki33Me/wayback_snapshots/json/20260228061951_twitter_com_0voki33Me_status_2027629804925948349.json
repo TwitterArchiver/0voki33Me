@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027629780573818885"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2027629804925948349",
+    "created_at": "2026-02-28T06:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027629804925948349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/454NJSVx4R",
+          "end": 142,
+          "expanded_url": "https://x.com/0voki33Me/status/2027629804925948349/photo/1",
+          "media_key": "3_2027629780573818885",
+          "start": 119,
+          "url": "https://t.co/454NJSVx4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027629804925948349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈我的外卖一个小时了都没骑手接单冒雨出去吃完午饭回来突然给我送过来发现退款失败了，妈的明天还要上学啊，你马勒戈壁啊，这他妈真是我的眼泪啊我操，好崩溃啊，操你妈，啊啊啊啊，不要让我刷到开学相关了呀，我一直在哭，救命啊，好崩溃我一直在哭 https://t.co/454NJSVx4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027629780573818885",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOWiucbEAUtJRo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027629780573818885"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2027629804925948349",
+        "created_at": "2026-02-28T06:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027629804925948349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/454NJSVx4R",
+              "end": 142,
+              "expanded_url": "https://x.com/0voki33Me/status/2027629804925948349/photo/1",
+              "media_key": "3_2027629780573818885",
+              "start": 119,
+              "url": "https://t.co/454NJSVx4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027629804925948349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈我的外卖一个小时了都没骑手接单冒雨出去吃完午饭回来突然给我送过来发现退款失败了，妈的明天还要上学啊，你马勒戈壁啊，这他妈真是我的眼泪啊我操，好崩溃啊，操你妈，啊啊啊啊，不要让我刷到开学相关了呀，我一直在哭，救命啊，好崩溃我一直在哭 https://t.co/454NJSVx4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1126,
+          "like_count": 5403,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

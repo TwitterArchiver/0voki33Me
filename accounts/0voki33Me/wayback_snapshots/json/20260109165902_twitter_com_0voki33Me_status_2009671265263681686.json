@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009671252135596032"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009671265263681686",
+    "created_at": "2026-01-09T16:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009671265263681686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CEuVDyt4jE",
+          "end": 47,
+          "expanded_url": "https://x.com/0voki33Me/status/2009671265263681686/photo/1",
+          "media_key": "3_2009671252135596032",
+          "start": 24,
+          "url": "https://t.co/CEuVDyt4jE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009671265263681686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原地转圈召唤药效听这首音乐会绕着脑子转，好爽， https://t.co/CEuVDyt4jE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_2009671252135596032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PJWyrbUAApjsX.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009671252135596032"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009671265263681686",
+        "created_at": "2026-01-09T16:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009671265263681686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEuVDyt4jE",
+              "end": 47,
+              "expanded_url": "https://x.com/0voki33Me/status/2009671265263681686/photo/1",
+              "media_key": "3_2009671252135596032",
+              "start": 24,
+              "url": "https://t.co/CEuVDyt4jE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009671265263681686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原地转圈召唤药效听这首音乐会绕着脑子转，好爽， https://t.co/CEuVDyt4jE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 775,
+          "like_count": 3124,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1470
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

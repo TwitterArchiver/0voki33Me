@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2025159307059495053",
+    "created_at": "2026-02-21T12:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025192849814553078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009015557677568003",
+          "start": 0,
+          "username": "ZOMBIEAOAOAAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025192849814553078",
+    "in_reply_to_user_id": "2009015557677568003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025159307059495053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEAOAOAAO 太帅了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2025159297311866880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrPprHagAArx1Y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2025159307059495053",
+        "created_at": "2026-02-21T12:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025192849814553078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009015557677568003",
+              "start": 0,
+              "username": "ZOMBIEAOAOAAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025192849814553078",
+        "in_reply_to_user_id": "2009015557677568003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025159307059495053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEAOAOAAO 太帅了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025159297311866880"
+          ]
+        },
+        "author_id": "2009015557677568003",
+        "conversation_id": "2025159307059495053",
+        "created_at": "2026-02-21T10:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025159307059495053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7FggPVRaC",
+              "end": 27,
+              "expanded_url": "https://x.com/ZOMBIEAOAOAAO/status/2025159307059495053/photo/1",
+              "media_key": "3_2025159297311866880",
+              "start": 4,
+              "url": "https://t.co/a7FggPVRaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025159307059495053",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Wip https://t.co/a7FggPVRaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1107,
+          "like_count": 5211,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3652
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T21:33:46.000Z",
+        "description": "𝕬𝖛𝖊 𝕯𝖔𝖒𝖎𝖓𝖚𝖘 𝕹𝖔𝖝 Sh/odtwt he/him dont follow me",
+        "id": "2009015557677568003",
+        "name": "triceratops电波皇",
+        "pinned_tweet_id": "2009182313880719373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009015850247102464/x1NO32Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 119,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1284
+        },
+        "username": "ZOMBIEAOAOAAO",
+        "verified": false
+      }
+    ]
+  }
+}

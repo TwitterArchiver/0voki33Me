@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2009648578642493656",
+    "created_at": "2026-01-09T15:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T16:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009648578642493656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009648578642493656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009502799730757844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 互fo来来来 lgbt全友好！\n重度抑郁➕双向➕精分\n色胺狂热爱好者 oder！\n看到了就会回fo！\n无情的点赞机器人\n快来关注这个扶梯吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2009648578642493656",
+        "created_at": "2026-01-09T15:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009648578642493656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007068022750814208",
+              "start": 3,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009648578642493656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009502799730757844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futi78999: 互fo来来来 lgbt全友好！\n重度抑郁➕双向➕精分\n色胺狂热爱好者 oder！\n看到了就会回fo！\n无情的点赞机器人\n快来关注这个扶梯吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007068022750814208",
+        "conversation_id": "2009502799730757844",
+        "created_at": "2026-01-09T05:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009502799730757844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009502799730757844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "互fo来来来 lgbt全友好！\n重度抑郁➕双向➕精分\n色胺狂热爱好者 oder！\n看到了就会回fo！\n无情的点赞机器人\n快来关注这个扶梯吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 771,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1448
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在中重度精分发散中 色胺宇宙的精灵 所有展示的药品均为化学研究 欢迎互fo lgbt全友好",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008204620464619520/vqx57Cyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 184,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 120
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

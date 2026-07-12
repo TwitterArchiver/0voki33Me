@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002246179967676427"
+      ],
+      "media_source_tweet_id": [
+        "2002246185994862677"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002689970704884031",
+    "created_at": "2025-12-21T10:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002689970704884031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "434646252",
+          "start": 3,
+          "username": "yuu_11_go_shits"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYZbounHyh",
+          "end": 59,
+          "expanded_url": "https://x.com/yuu_11_go_shits/status/2002246185994862677/photo/1",
+          "media_key": "3_2002246179967676427",
+          "start": 36,
+          "url": "https://t.co/YYZbounHyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002689970704884031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002246185994862677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuu_11_go_shits: お客さんと心中させられがち笑 https://t.co/YYZbounHyh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002246179967676427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8loStXbMAs3lGK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002246179967676427"
+          ],
+          "media_source_tweet_id": [
+            "2002246185994862677"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002689970704884031",
+        "created_at": "2025-12-21T10:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002689970704884031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "434646252",
+              "start": 3,
+              "username": "yuu_11_go_shits"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYZbounHyh",
+              "end": 59,
+              "expanded_url": "https://x.com/yuu_11_go_shits/status/2002246185994862677/photo/1",
+              "media_key": "3_2002246179967676427",
+              "start": 36,
+              "url": "https://t.co/YYZbounHyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002689970704884031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002246185994862677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuu_11_go_shits: お客さんと心中させられがち笑 https://t.co/YYZbounHyh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002246179967676427"
+          ]
+        },
+        "author_id": "434646252",
+        "conversation_id": "2002246185994862677",
+        "created_at": "2025-12-20T05:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002246185994862677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYZbounHyh",
+              "end": 38,
+              "expanded_url": "https://x.com/yuu_11_go_shits/status/2002246185994862677/photo/1",
+              "media_key": "3_2002246179967676427",
+              "start": 15,
+              "url": "https://t.co/YYZbounHyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002246185994862677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 442,
+          "impression_count": 164792,
+          "like_count": 6630,
+          "quote_count": 13,
+          "reply_count": 20,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "お客さんと心中させられがち笑 https://t.co/YYZbounHyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 539,
+          "like_count": 2127,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-12T04:05:15.000Z",
+        "description": "大阪/西心斎橋 タトゥースタジオ11号室 キャンセル待ちは→ @11_go_shits_can im your shaman your tattooer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "11_go_shits_can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/11_go_shits",
+                "end": 23,
+                "expanded_url": "https://instagram.com/11_go_shits",
+                "start": 0,
+                "url": "https://t.co/N3Tm7mAkWS"
+              }
+            ]
+          }
+        },
+        "id": "434646252",
+        "location": "彫りたい人は→LINE:37564666かDMかリプください",
+        "name": "ゆう_11号室/彫師🐶",
+        "pinned_tweet_id": "966887140717051906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428029159624765442/u4kt5bzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16390,
+          "following_count": 7761,
+          "like_count": 250353,
+          "listed_count": 94,
+          "media_count": 8010,
+          "tweet_count": 49745
+        },
+        "url": "https://t.co/N3Tm7mAkWS",
+        "username": "yuu_11_go_shits",
+        "verified": true
+      }
+    ]
+  }
+}

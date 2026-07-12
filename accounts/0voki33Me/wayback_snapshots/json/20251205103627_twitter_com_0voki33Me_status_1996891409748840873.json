@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1996834854919721147",
+    "created_at": "2025-12-05T10:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996891409748840873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167502107429105670",
+          "start": 0,
+          "username": "kotomiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996891409748840873",
+    "in_reply_to_user_id": "1167502107429105670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996834854919721147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomiouo 我也是…🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1996834849110556672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YutzBbAAAeVhC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1996834854919721147",
+        "created_at": "2025-12-05T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996891409748840873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167502107429105670",
+              "start": 0,
+              "username": "kotomiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996891409748840873",
+        "in_reply_to_user_id": "1167502107429105670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996834854919721147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomiouo 我也是…🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996834849110556672"
+          ]
+        },
+        "author_id": "1167502107429105670",
+        "conversation_id": "1996834854919721147",
+        "created_at": "2025-12-05T06:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996834854919721147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGJdY44DNy",
+              "end": 51,
+              "expanded_url": "https://x.com/kotomiouo/status/1996834854919721147/photo/1",
+              "media_key": "3_1996834849110556672",
+              "start": 28,
+              "url": "https://t.co/cGJdY44DNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996834854919721147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手就這樣 看起來像幹工地的 比我80幾歲的阿嬤還粗糙 https://t.co/cGJdY44DNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 260,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 226
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T18:19:39.000Z",
+        "description": "台湾.病み\nJpop🦌🦔🍏.\n音ゲー.東方プロ.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/loveacane1314?…",
+                "end": 23,
+                "expanded_url": "https://x.com/loveacane1314?t=X_dTdJCqcQ1_qmAEe9iJBw&s=09",
+                "start": 0,
+                "url": "https://t.co/FI0p9fkn74"
+              }
+            ]
+          }
+        },
+        "id": "1167502107429105670",
+        "location": "幻想鄉",
+        "name": "ことみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980205504610648064/JhboBi0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 785,
+          "like_count": 15313,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 6423
+        },
+        "url": "https://t.co/FI0p9fkn74",
+        "username": "kotomiouo",
+        "verified": false
+      }
+    ]
+  }
+}

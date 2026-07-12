@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2045203500179783793",
+    "created_at": "2026-04-17T18:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045203500179783793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045203500179783793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我是我，我太废物了，我好羡慕你们会这么多东西呀，我什么都不会，我也好想玩音乐搞艺术写东西或者当个绝命毒师卖药也行吧，我真的是个傻逼呀，我什么都懒得学什么都想做，能不能植入芯片呀，我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2045203500179783793",
+        "created_at": "2026-04-17T18:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045203500179783793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045203500179783793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我是我，我太废物了，我好羡慕你们会这么多东西呀，我什么都不会，我也好想玩音乐搞艺术写东西或者当个绝命毒师卖药也行吧，我真的是个傻逼呀，我什么都懒得学什么都想做，能不能植入芯片呀，我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1142,
+          "like_count": 6217,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 5750
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

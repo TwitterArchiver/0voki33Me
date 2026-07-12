@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2018738247938330832",
+    "created_at": "2026-02-03T17:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018741580379902275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013506248743043072",
+          "start": 0,
+          "username": "PoorLittleMarie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018741580379902275",
+    "in_reply_to_user_id": "2013506248743043072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018738247938330832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoorLittleMarie 听着真的很无助😭抱抱玛丽🫂都过去了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2018738247938330832",
+        "created_at": "2026-02-03T17:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018741580379902275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013506248743043072",
+              "start": 0,
+              "username": "PoorLittleMarie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018741580379902275",
+        "in_reply_to_user_id": "2013506248743043072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018738247938330832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoorLittleMarie 听着真的很无助😭抱抱玛丽🫂都过去了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013506248743043072",
+        "conversation_id": "2018738247938330832",
+        "created_at": "2026-02-03T17:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018738247938330832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018738247938330832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有推文写着\n\n「…梦想是去歌舞伎町街头喝酒乱蹦…」\n\n想起自己当初被丢弃在歌舞伎町一番街，无依无靠的时候，有点害怕又说不出什么话来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1013,
+          "like_count": 4629,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T06:58:02.000Z",
+        "description": "幸福的玛丽塔一世。战士。保护重要的人们。",
+        "id": "2013506248743043072",
+        "name": "玛丽 / Marietta",
+        "pinned_tweet_id": "2017959035954512162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017739110270869504/ilQJ10Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "username": "PoorLittleMarie",
+        "verified": false
+      }
+    ]
+  }
+}

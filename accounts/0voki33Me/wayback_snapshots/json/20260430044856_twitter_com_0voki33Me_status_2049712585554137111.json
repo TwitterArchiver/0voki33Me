@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2049712585554137111",
+    "created_at": "2026-04-30T04:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049712585554137111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feminist38/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/feminist38/status/1982731192354132415",
+          "start": 75,
+          "url": "https://t.co/6SHS02EyI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049712585554137111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982731192354132415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。我上周在小红书刷到嬴我还以为我从小到大月贝凡赢记错了，前天考试写的嬴你们懂吗。我看到这感觉不对劲突然发现我记得没错，好吧我服了可能是我太蠢了， https://t.co/6SHS02EyI3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_1982727196767580160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QP4WnWcAAZn82.png",
+        "width": 703
+      },
+      {
+        "height": 809,
+        "media_key": "3_1982728006167638016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QQnd3XMAAsQsg.png",
+        "width": 610
+      },
+      {
+        "height": 705,
+        "media_key": "3_1982728006377394176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QQnepX0AAT3vy.png",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2049712585554137111",
+        "created_at": "2026-04-30T04:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049712585554137111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feminist38/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/feminist38/status/1982731192354132415",
+              "start": 75,
+              "url": "https://t.co/6SHS02EyI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049712585554137111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982731192354132415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。我上周在小红书刷到嬴我还以为我从小到大月贝凡赢记错了，前天考试写的嬴你们懂吗。我看到这感觉不对劲突然发现我记得没错，好吧我服了可能是我太蠢了， https://t.co/6SHS02EyI3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982727196767580160",
+            "3_1982728006167638016",
+            "3_1982728006377394176"
+          ]
+        },
+        "author_id": "1534168901558353920",
+        "conversation_id": "1982731192354132415",
+        "created_at": "2025-10-27T08:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982731192354132415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRUwqf4akB",
+              "end": 156,
+              "expanded_url": "https://x.com/feminist38/status/1982731192354132415/photo/1",
+              "media_key": "3_1982727196767580160",
+              "start": 133,
+              "url": "https://t.co/VRUwqf4akB"
+            },
+            {
+              "display_url": "pic.x.com/VRUwqf4akB",
+              "end": 156,
+              "expanded_url": "https://x.com/feminist38/status/1982731192354132415/photo/1",
+              "media_key": "3_1982728006167638016",
+              "start": 133,
+              "url": "https://t.co/VRUwqf4akB"
+            },
+            {
+              "display_url": "pic.x.com/VRUwqf4akB",
+              "end": 156,
+              "expanded_url": "https://x.com/feminist38/status/1982731192354132415/photo/1",
+              "media_key": "3_1982728006377394176",
+              "start": 133,
+              "url": "https://t.co/VRUwqf4akB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982731192354132415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 31785,
+          "like_count": 81,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "昨天，武汉全女空间「聚姬地」创办人公开发布暂停营业声明与社会求援信。据介绍，聚姬地主要为女性专属餐酒吧，同时为女性提供应急住宿、物资共享、读书交流等服务。然而，两家门店接连遭遇不明男性暴力骚扰、打砸闯入，最后一家门店因邻居施工塌陷致安全隐患被迫停业，经营屡受重创。 https://t.co/VRUwqf4akB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2047714085161361786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 1178,
+          "like_count": 6463,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 6277
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T13:42:45.000Z",
+        "description": "女权主义资讯分享",
+        "id": "1534168901558353920",
+        "name": "中华坏女人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722495088679682048/u2LS1t2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 58,
+          "like_count": 12,
+          "listed_count": 15,
+          "media_count": 169,
+          "tweet_count": 370
+        },
+        "username": "feminist38",
+        "verified": false
+      }
+    ]
+  }
+}

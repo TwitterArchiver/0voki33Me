@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014921258954338431",
+    "created_at": "2026-01-26T02:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015614196625666460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015614196625666460",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014921258954338431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 难绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51803,
+        "height": 590,
+        "media_key": "7_2014921183997919232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014921183997919232/pu/img/fFJcP-JgFECTp6EY.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014921183997919232/pu/vid/avc1/584x270/LjW9rA4XY8PgENVg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014921183997919232/pu/vid/avc1/780x360/XMSKhhLF15SNF5bI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014921183997919232/pu/vid/avc1/1280x590/hdDPDhIyEcM1Tev4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014921183997919232/pu/pl/W134K_0xalZgnpNQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014921258954338431",
+        "created_at": "2026-01-26T02:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015614196625666460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015614196625666460",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014921258954338431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014921183997919232"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2014921258954338431",
+        "created_at": "2026-01-24T04:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014921258954338431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAoGFx7uK1",
+              "end": 31,
+              "expanded_url": "https://x.com/hg3551019177402/status/2014921258954338431/video/1",
+              "media_key": "7_2014921183997919232",
+              "start": 8,
+              "url": "https://t.co/yAoGFx7uK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014921258954338431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了。。。 https://t.co/yAoGFx7uK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015465556787466383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 914,
+          "like_count": 4011,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "贯穿不是都是，也不是都不是，是一种无差别，一切差异都会在它这里得到溶解。我是橘猫。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2014027088391438626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874387389423617/VNXISMmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 94,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2043
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

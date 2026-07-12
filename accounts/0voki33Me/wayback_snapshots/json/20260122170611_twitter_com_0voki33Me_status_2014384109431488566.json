@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014313392887250972",
+    "created_at": "2026-01-22T17:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014384109431488566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014384109431488566",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014313392887250972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 又土又糖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014313392887250972",
+        "created_at": "2026-01-22T17:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014384109431488566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014384109431488566",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014313392887250972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 又土又糖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000126709375623168",
+        "conversation_id": "2014313392887250972",
+        "created_at": "2026-01-22T12:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014313392887250972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014313392887250972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11715,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以说吗 其实我觉得那个卡皮巴拉水豚很丑…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 879,
+          "like_count": 3780,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp | ❗️会互fo（但是会查成分）想和妹宝互fo （打滚）| 当朋友圈发 碎碎念 | 喜欢我就请我吃小蛋糕 | 原大号指路：@Cooliya_ | 匿名📮 https://t.co/K4cJAy1QYM ┆·✦ʚ♡ɞ✦·┆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "Cooliya_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cooliya96",
+                "end": 123,
+                "expanded_url": "https://ngl.link/cooliya96",
+                "start": 100,
+                "url": "https://t.co/K4cJAy1QYM"
+              }
+            ]
+          }
+        },
+        "id": "2000126709375623168",
+        "name": "十五遥",
+        "pinned_tweet_id": "2012052045885551049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363420365979648/Err54w1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 84,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 387
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

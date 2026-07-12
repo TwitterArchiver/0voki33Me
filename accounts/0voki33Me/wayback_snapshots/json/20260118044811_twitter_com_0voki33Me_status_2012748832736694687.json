@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012366091947782221",
+    "created_at": "2026-01-18T04:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T05:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012748832736694687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012748832736694687",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012366091947782221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 对…这样说仿佛连接着双方的物质而不是爱。包括墙内的一些提倡男性更多付出的说法我也觉得很不对，恋人应该是平等的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2012366084708392960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1cSsUWYAAURtf.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012366091947782221",
+        "created_at": "2026-01-18T04:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012748832736694687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012748832736694687",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012366091947782221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 对…这样说仿佛连接着双方的物质而不是爱。包括墙内的一些提倡男性更多付出的说法我也觉得很不对，恋人应该是平等的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012366084708392960"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "conversation_id": "2012366091947782221",
+        "created_at": "2026-01-17T03:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012366091947782221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajlXROFEpA",
+              "end": 146,
+              "expanded_url": "https://x.com/Re1_y0/status/2012366091947782221/photo/1",
+              "media_key": "3_2012366084708392960",
+              "start": 123,
+              "url": "https://t.co/ajlXROFEpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012366091947782221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我较真但我真的特别讨厌这种说法或者有这种观念的人因为我觉得恋爱中的两个人是平等的关系无论过得好与坏真心爱对方就要共同承担责任啊 什么跟不跟的听着就是完全不尊重对方主体性 而且这么说的人里很少有人真的富有到能让对方会甘心放下尊严做躺平的下位者 https://t.co/ajlXROFEpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 838,
+          "like_count": 3475,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜🚪88/188/288/520 过门解锁聊天和无码doi视频及照片 目前开放线下纯绿 非过门不回私信 有事请三句话内说清楚 ｜DO NOT re-upload or use my photos 盗图全家死｜现接代购普瑞 接伤口定制 ｜女朋友 @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 131,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ｜接普瑞代购30/次",
+        "pinned_tweet_id": "2010596021949345980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 274,
+          "like_count": 1889,
+          "listed_count": 5,
+          "media_count": 790,
+          "tweet_count": 5214
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

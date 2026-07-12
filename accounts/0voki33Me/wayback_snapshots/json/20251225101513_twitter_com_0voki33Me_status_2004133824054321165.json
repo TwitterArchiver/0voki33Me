@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2004094983394259054",
+    "created_at": "2025-12-25T10:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T11:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004133824054321165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708301558516207616",
+          "start": 0,
+          "username": "arou_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004133824054321165",
+    "in_reply_to_user_id": "1708301558516207616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004094983394259054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arou_overdose 好萌的小兔兔呀🐰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2004094962187595776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8_5v_1XcAAGr0A.jpg",
+        "width": 818
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2004094962183372800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8_5v_0XAAAjMVb.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2004094983394259054",
+        "created_at": "2025-12-25T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004133824054321165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708301558516207616",
+              "start": 0,
+              "username": "arou_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004133824054321165",
+        "in_reply_to_user_id": "1708301558516207616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004094983394259054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arou_overdose 好萌的小兔兔呀🐰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004094962187595776",
+            "3_2004094962183372800"
+          ]
+        },
+        "author_id": "1708301558516207616",
+        "conversation_id": "2004094983394259054",
+        "created_at": "2025-12-25T07:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004094983394259054"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "bunny",
+              "probability": 0.4985,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ztYirRCixU",
+              "end": 29,
+              "expanded_url": "https://x.com/arou_overdose/status/2004094983394259054/photo/1",
+              "media_key": "3_2004094962187595776",
+              "start": 6,
+              "url": "https://t.co/ztYirRCixU"
+            },
+            {
+              "display_url": "pic.x.com/ztYirRCixU",
+              "end": 29,
+              "expanded_url": "https://x.com/arou_overdose/status/2004094983394259054/photo/1",
+              "media_key": "3_2004094962183372800",
+              "start": 6,
+              "url": "https://t.co/ztYirRCixU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004094983394259054",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bunny https://t.co/ztYirRCixU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 586,
+          "like_count": 2515,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1053
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "嗶嗶嗶…｜置いていかないで",
+        "id": "1708301558516207616",
+        "location": "存在しません",
+        "name": "吐き気",
+        "pinned_tweet_id": "1991200436980715658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982832575639883776/uwmtgmDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 156,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 691
+        },
+        "username": "arou_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

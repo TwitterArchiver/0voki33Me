@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2029502445601333465",
+    "created_at": "2026-03-05T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029502445601333465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/me6pjht2rf2907…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/me6pjht2rf29076/status/2029477998857207869",
+          "start": 3,
+          "url": "https://t.co/YKY5n9eJ7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029502445601333465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029477998857207869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼 https://t.co/YKY5n9eJ7f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2029502445601333465",
+        "created_at": "2026-03-05T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029502445601333465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/me6pjht2rf2907…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/me6pjht2rf29076/status/2029477998857207869",
+              "start": 3,
+              "url": "https://t.co/YKY5n9eJ7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029502445601333465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029477998857207869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/YKY5n9eJ7f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2029477998857207869",
+        "created_at": "2026-03-05T08:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029477998857207869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "强奸"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029477998857207869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求被强奸教程？\n#强奸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1133,
+          "like_count": 5493,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻\n優點：無\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的，開黃腔的那些，給我滾～～～",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2013151319121416284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002633549674168320/FEfSHM8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 82,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1503
+        },
+        "username": "me6pjHT2Rf29076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2033234900938285056"
+      ],
+      "media_source_tweet_id": [
+        "2033234981649322392"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2033239709951111274",
+    "created_at": "2026-03-15T17:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T18:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033239709951111274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647583469407727616",
+          "start": 3,
+          "username": "Fan_yyin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cPsfszLQDp",
+          "end": 41,
+          "expanded_url": "https://x.com/Fan_yyin/status/2033234981649322392/video/1",
+          "media_key": "7_2033234900938285056",
+          "start": 18,
+          "url": "https://t.co/cPsfszLQDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033239709951111274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033234981649322392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fan_yyin: 四年前 https://t.co/cPsfszLQDp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033239709951111274].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033239709951111274",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033239709951111274"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 91254,
+        "height": 720,
+        "media_key": "7_2033234900938285056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2033234900938285056/pu/img/YsXT-iXU2BbGHyiR.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033234900938285056/pu/vid/avc1/480x270/0-BcKzMcjvYQW1p3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033234900938285056/pu/vid/avc1/640x360/XmR3OnBIH2Hfept5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033234900938285056/pu/vid/avc1/1280x720/Dw2YDuwqJoBof5y0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2033234900938285056/pu/pl/oRc1fuqu8u_NCIL8.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033234900938285056"
+          ]
+        },
+        "author_id": "1647583469407727616",
+        "conversation_id": "2033234981649322392",
+        "created_at": "2026-03-15T17:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033234981649322392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPsfszLQDp",
+              "end": 27,
+              "expanded_url": "https://x.com/Fan_yyin/status/2033234981649322392/video/1",
+              "media_key": "7_2033234900938285056",
+              "start": 4,
+              "url": "https://t.co/cPsfszLQDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033234981649322392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 116,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "四年前 https://t.co/cPsfszLQDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1166,
+          "like_count": 5719,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T12:51:39.000Z",
+        "description": "07/",
+        "id": "1647583469407727616",
+        "name": "Fan",
+        "pinned_tweet_id": "2007584664475832415",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6002,
+          "following_count": 72,
+          "like_count": 16,
+          "listed_count": 9,
+          "media_count": 232,
+          "tweet_count": 315
+        },
+        "username": "Fan_yyin",
+        "verified": false
+      }
+    ]
+  }
+}

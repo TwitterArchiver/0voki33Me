@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2015839205029458362",
+    "created_at": "2026-01-27T04:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016006237297770579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "youyou110804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016006237297770579",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015839205029458362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyou110804 笑死我了这个掉毛也一直追着我骂无人在意谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015839205029458362",
+        "created_at": "2026-01-27T04:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016006237297770579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "youyou110804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016006237297770579",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015839205029458362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyou110804 笑死我了这个掉毛也一直追着我骂无人在意谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918236611684233216",
+        "conversation_id": "2015839205029458362",
+        "created_at": "2026-01-26T17:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015839205029458362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ml20060626/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ml20060626/status/2015736143724335309",
+              "start": 6,
+              "url": "https://t.co/zlYRTSo4lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015839205029458362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 773,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015736143724335309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子你继续 https://t.co/zlYRTSo4lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 926,
+          "like_count": 4151,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "幼幼 | 年上 恋兄｜惨圈 割手 抑焦｜顺女 泛 友跨｜INTP-T｜2011年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhan0804",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhan0804",
+                "start": 0,
+                "url": "https://t.co/m5r02qyK7z"
+              }
+            ]
+          }
+        },
+        "id": "1918236611684233216",
+        "location": "🚪纯绿88 128 288 zfb口令",
+        "name": "幼",
+        "pinned_tweet_id": "2015574484627902840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014800699423399936/AW_EApFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 108,
+          "like_count": 7459,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/m5r02qyK7z",
+        "username": "youyou110804",
+        "verified": false
+      }
+    ]
+  }
+}

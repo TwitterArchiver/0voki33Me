@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2023588352339964257",
+    "created_at": "2026-02-17T08:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023675759962046667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690100855653965824",
+          "start": 0,
+          "username": "iLIc5147"
+        },
+        {
+          "end": 18,
+          "id": "1596427841943793664",
+          "start": 10,
+          "username": "KillYD_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023675759962046667",
+    "in_reply_to_user_id": "1690100855653965824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023661223141839010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iLIc5147 @KillYD_ 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023588352339964257",
+        "created_at": "2026-02-17T08:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023675759962046667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690100855653965824",
+              "start": 0,
+              "username": "iLIc5147"
+            },
+            {
+              "end": 18,
+              "id": "1596427841943793664",
+              "start": 10,
+              "username": "KillYD_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023675759962046667",
+        "in_reply_to_user_id": "1690100855653965824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023661223141839010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iLIc5147 @KillYD_ 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690100855653965824",
+        "conversation_id": "2023588352339964257",
+        "created_at": "2026-02-17T07:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023661223141839010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596427841943793664",
+              "start": 0,
+              "username": "KillYD_"
+            },
+            {
+              "end": 19,
+              "id": "1641968587102621696",
+              "start": 9,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023661223141839010",
+        "in_reply_to_user_id": "1596427841943793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023596718256795809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillYD_ @0voki33Me o的迷药😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 1078,
+          "like_count": 5138,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3569
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "书记您带我走吧，我真喜欢那里，孤独被药效冲淡，在暖洋洋的太阳之下，呼吸连同我的身体一起升向属于您的天空。我甚至再也不会明白，呼吸是什么滋味",
+        "id": "1690100855653965824",
+        "name": "我们再相会",
+        "pinned_tweet_id": "2023261844929130919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022172883041320960/q3q8i7SW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 600,
+          "like_count": 27099,
+          "listed_count": 7,
+          "media_count": 1002,
+          "tweet_count": 15083
+        },
+        "username": "iLIc5147",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "🇨🇳🇺🇸/🚺唯一身份是活着的智人｜关注只是想看你说话｜请找我聊天 会看dm｜不发黄图 不是黄推 ｜川普粉和二极管退散｜俺喜欢颜文字｜祝你愉快！",
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2018918438375448710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 197,
+          "like_count": 2490,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1006
+        },
+        "username": "KillYD_",
+        "verified": false
+      }
+    ]
+  }
+}

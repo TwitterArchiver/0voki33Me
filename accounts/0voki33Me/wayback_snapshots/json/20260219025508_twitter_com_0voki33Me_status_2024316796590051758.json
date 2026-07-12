@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2024316796590051758",
+    "created_at": "2026-02-19T02:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024316796590051758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stonerdad/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/stonerdad/status/2023887478642667968",
+          "start": 7,
+          "url": "https://t.co/srYudso0Ga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024316796590051758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023887478642667968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要这个要这个 https://t.co/srYudso0Ga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2023887463845163009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZK7OPbcAEP4Gb.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2023887463840907264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZK7OOagAA7e20.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2024316796590051758",
+        "created_at": "2026-02-19T02:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024316796590051758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stonerdad/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/stonerdad/status/2023887478642667968",
+              "start": 7,
+              "url": "https://t.co/srYudso0Ga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024316796590051758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023887478642667968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要这个要这个 https://t.co/srYudso0Ga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023887463845163009",
+            "3_2023887463840907264"
+          ]
+        },
+        "author_id": "1427004635097743360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023887478642667968",
+        "created_at": "2026-02-17T22:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T23:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023887478642667968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nc4uvb0MZV",
+              "end": 84,
+              "expanded_url": "https://x.com/StonerDad/status/2023887478642667968/photo/1",
+              "media_key": "3_2023887463845163009",
+              "start": 61,
+              "url": "https://t.co/Nc4uvb0MZV"
+            },
+            {
+              "display_url": "pic.x.com/Nc4uvb0MZV",
+              "end": 84,
+              "expanded_url": "https://x.com/StonerDad/status/2023887478642667968/photo/1",
+              "media_key": "3_2023887463840907264",
+              "start": 61,
+              "url": "https://t.co/Nc4uvb0MZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023887478642667968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1005,
+          "impression_count": 2195670,
+          "like_count": 39279,
+          "quote_count": 205,
+          "reply_count": 164,
+          "retweet_count": 1985
+        },
+        "reply_settings": "everyone",
+        "text": "Year of the horse and my lucky envelope is full of grass 🐴 🌱 https://t.co/Nc4uvb0MZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1084,
+          "like_count": 5158,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3600
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T20:29:57.000Z",
+        "description": "🇨🇦🌲🌬🇨🇦 Happily married husband, father to 2 amazing daughters, dog dad to 3 pups, medical cannabis patient, living my best stoner dad life",
+        "id": "1427004635097743360",
+        "location": "420",
+        "name": "StonerDad 🇨🇦",
+        "pinned_tweet_id": "2023482608882184251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427005813554511872/RgiuUcle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21937,
+          "following_count": 2592,
+          "like_count": 211902,
+          "listed_count": 40,
+          "media_count": 13105,
+          "tweet_count": 120165
+        },
+        "username": "StonerDad",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

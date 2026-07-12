@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2018511034127147411",
+    "created_at": "2026-02-03T03:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018523847088341093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008943608695840768",
+          "start": 0,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018523847088341093",
+    "in_reply_to_user_id": "2008943608695840768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018511034127147411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@electronic_dirt 我就这样一直胡思乱想想死……抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2018511034127147411",
+        "created_at": "2026-02-03T03:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018523847088341093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018523847088341093",
+        "in_reply_to_user_id": "2008943608695840768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018511034127147411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt 我就这样一直胡思乱想想死……抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008943608695840768",
+        "conversation_id": "2018511034127147411",
+        "created_at": "2026-02-03T02:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018511034127147411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018511034127147411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我试着不要再想这些 我的大脑却按着我的头 逼迫我去正视 它拨开我的痛苦 它 我没有选择 我每时每刻都在走马灯 我试着忙起来不要去想 可它充斥了我松懈的每一秒 我甚至无法哭泣 长期的情感压抑和淡漠使我甚至失去哭泣的能力 甚至只有在药物滥用后我才能流出眼泪 我 我已经要不会说话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 996,
+          "like_count": 4538,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "脑残小号 问大号不发 可以找我互fo捏🫡画画｜废话｜od｜自伤｜果 09休学中",
+        "id": "2008943608695840768",
+        "name": "无垢",
+        "pinned_tweet_id": "2017702693368959281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945743743340549/amuQGje8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 88
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

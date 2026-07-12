@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978008109277982720"
+      ],
+      "media_source_tweet_id": [
+        "1978008114080424255"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1978332522963501563",
+    "created_at": "2025-10-15T05:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978332522963501563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1505127151678660609",
+          "start": 3,
+          "username": "Ishiuchiagogo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5wE39MiwNI",
+          "end": 46,
+          "expanded_url": "https://x.com/Ishiuchiagogo/status/1978008114080424255/photo/1",
+          "media_key": "3_1978008109277982720",
+          "start": 23,
+          "url": "https://t.co/5wE39MiwNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978332522963501563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 507
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978008114080424255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ishiuchiagogo: 下描き https://t.co/5wE39MiwNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978008109277982720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3NL5TxbMAAFuPD.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978008109277982720"
+          ],
+          "media_source_tweet_id": [
+            "1978008114080424255"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1978332522963501563",
+        "created_at": "2025-10-15T05:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978332522963501563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1505127151678660609",
+              "start": 3,
+              "username": "Ishiuchiagogo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wE39MiwNI",
+              "end": 46,
+              "expanded_url": "https://x.com/Ishiuchiagogo/status/1978008114080424255/photo/1",
+              "media_key": "3_1978008109277982720",
+              "start": 23,
+              "url": "https://t.co/5wE39MiwNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978332522963501563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978008114080424255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ishiuchiagogo: 下描き https://t.co/5wE39MiwNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978008109277982720"
+          ]
+        },
+        "author_id": "1505127151678660609",
+        "conversation_id": "1978008114080424255",
+        "created_at": "2025-10-14T08:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978008114080424255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wE39MiwNI",
+              "end": 27,
+              "expanded_url": "https://x.com/Ishiuchiagogo/status/1978008114080424255/photo/1",
+              "media_key": "3_1978008109277982720",
+              "start": 4,
+              "url": "https://t.co/5wE39MiwNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978008114080424255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1333,
+          "impression_count": 198783,
+          "like_count": 15109,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "reply_settings": "everyone",
+        "text": "下描き https://t.co/5wE39MiwNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝----------糊逼一枚妹纸可以找我互fo -------------#edtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "edtwt"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 219,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 163
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T10:21:13.000Z",
+        "description": "動画制作・絵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/husmc2wpdhtket…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/husmc2wpdhtkete?t=72mGZ0&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/unW9ceZKv4"
+              }
+            ]
+          }
+        },
+        "id": "1505127151678660609",
+        "location": "東京造形大学",
+        "name": "イシウチ",
+        "pinned_tweet_id": "1958164046378860783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793929293741092864/le06Pyhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8198,
+          "following_count": 23,
+          "like_count": 3723,
+          "listed_count": 42,
+          "media_count": 824,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/unW9ceZKv4",
+        "username": "Ishiuchiagogo",
+        "verified": false
+      }
+    ]
+  }
+}

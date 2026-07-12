@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014700883469336866",
+    "created_at": "2026-01-24T18:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T19:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015131590830305434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1875377342253617152",
+          "start": 0,
+          "username": "11777xX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015131590830305434",
+    "in_reply_to_user_id": "1875377342253617152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015130762350121259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11777xX 我没有批判她，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014700883469336866",
+        "created_at": "2026-01-24T18:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015131590830305434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1875377342253617152",
+              "start": 0,
+              "username": "11777xX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015131590830305434",
+        "in_reply_to_user_id": "1875377342253617152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015130762350121259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11777xX 我没有批判她，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875377342253617152",
+        "conversation_id": "2014700883469336866",
+        "created_at": "2026-01-24T18:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015130762350121259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015130762350121259",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014700883469336866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 自卑的人才不会无缘无故批判别人。。 自己烂就烂老找借口 恶不恶毒 凭这点你就比不上她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 907,
+          "like_count": 3943,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T03:03:03.000Z",
+        "description": "🎧",
+        "id": "1875377342253617152",
+        "name": "小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985059600425504769/5zI3J8C1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "11777xX",
+        "verified": false
+      }
+    ]
+  }
+}

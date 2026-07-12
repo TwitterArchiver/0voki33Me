@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997209031606501376"
+      ],
+      "media_source_tweet_id": [
+        "1997209044617253321"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997223288876191884",
+    "created_at": "2025-12-06T08:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T09:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997223288876191884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748755970636038144",
+          "start": 3,
+          "username": "er_zuo96208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1ETZvI6Z5",
+          "end": 55,
+          "expanded_url": "https://x.com/er_zuo96208/status/1997209044617253321/photo/1",
+          "media_key": "3_1997209031606501376",
+          "start": 32,
+          "url": "https://t.co/C1ETZvI6Z5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997223288876191884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997209044617253321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @er_zuo96208: 用家暴玩梗的人全家就这个下场 https://t.co/C1ETZvI6Z5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_1997209031606501376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eDCFcbgAAwRwO.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997209031606501376"
+          ],
+          "media_source_tweet_id": [
+            "1997209044617253321"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997223288876191884",
+        "created_at": "2025-12-06T08:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T09:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997223288876191884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748755970636038144",
+              "start": 3,
+              "username": "er_zuo96208"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1ETZvI6Z5",
+              "end": 55,
+              "expanded_url": "https://x.com/er_zuo96208/status/1997209044617253321/photo/1",
+              "media_key": "3_1997209031606501376",
+              "start": 32,
+              "url": "https://t.co/C1ETZvI6Z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997223288876191884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997209044617253321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @er_zuo96208: 用家暴玩梗的人全家就这个下场 https://t.co/C1ETZvI6Z5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997209031606501376"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "1997208762290196618",
+        "created_at": "2025-12-06T07:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997209044617253321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1ETZvI6Z5",
+              "end": 38,
+              "expanded_url": "https://x.com/er_zuo96208/status/1997209044617253321/photo/1",
+              "media_key": "3_1997209031606501376",
+              "start": 15,
+              "url": "https://t.co/C1ETZvI6Z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997209044617253321",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997208762290196618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用家暴玩梗的人全家就这个下场 https://t.co/C1ETZvI6Z5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 269,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 251
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图和疤痕的屏蔽我好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪100/188➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993975222563950597/feVDTfjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 297,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

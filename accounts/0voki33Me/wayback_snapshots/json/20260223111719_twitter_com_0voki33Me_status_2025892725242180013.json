@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2025890013553332262",
+    "created_at": "2026-02-23T11:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025892725242180013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990500326999207936",
+          "start": 0,
+          "username": "Sycamore_0224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025892725242180013",
+    "in_reply_to_user_id": "1990500326999207936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025890013553332262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sycamore_0224 阔耐🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025890010705342465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1oOyoasAEN7VH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2025890013553332262",
+        "created_at": "2026-02-23T11:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025892725242180013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990500326999207936",
+              "start": 0,
+              "username": "Sycamore_0224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025892725242180013",
+        "in_reply_to_user_id": "1990500326999207936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025890013553332262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sycamore_0224 阔耐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025890010705342465"
+          ]
+        },
+        "author_id": "1990500326999207936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025890013553332262",
+        "created_at": "2026-02-23T11:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025890013553332262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWXQEd0MRE",
+              "end": 26,
+              "expanded_url": "https://x.com/Sycamore_0224/status/2025890013553332262/photo/1",
+              "media_key": "3_2025890010705342465",
+              "start": 3,
+              "url": "https://t.co/kWXQEd0MRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025890013553332262",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️ https://t.co/kWXQEd0MRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 1122,
+          "like_count": 5309,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3712
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T19:22:11.000Z",
+        "description": "餐券精神病休学妹｜夢女子です｜中文/日本語勉強中、下手です｜同类互fo欢迎💕｜‼️大量负能/过激发言/💊…",
+        "id": "1990500326999207936",
+        "name": "薄荷雨",
+        "pinned_tweet_id": "2018635726955622853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019450491487547397/I3HI2evX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 99,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 106
+        },
+        "username": "Sycamore_0224",
+        "verified": false
+      }
+    ]
+  }
+}

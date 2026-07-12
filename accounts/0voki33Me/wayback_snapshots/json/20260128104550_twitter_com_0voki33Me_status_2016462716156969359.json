@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2016455030921220149",
+    "created_at": "2026-01-28T10:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016462716156969359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016462716156969359",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016455030921220149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 笑死我了卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016455018036199424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ7-aAAAcKO8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78awAAa4-0.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027831297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78aUAEHCRW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027900928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78bYAA248b.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2016455030921220149",
+        "created_at": "2026-01-28T10:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016462716156969359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016462716156969359",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016455030921220149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 笑死我了卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016455018036199424",
+            "3_2016455018027859968",
+            "3_2016455018027831297",
+            "3_2016455018027900928"
+          ]
+        },
+        "author_id": "1763381254035251200",
+        "conversation_id": "2016455030921220149",
+        "created_at": "2026-01-28T10:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016455030921220149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018036199424",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027859968",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027831297",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027900928",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016455030921220149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无毒贩来现身说法 https://t.co/WYbl8p0m1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 930,
+          "like_count": 4238,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2489
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 585,
+          "like_count": 41892,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 3935
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

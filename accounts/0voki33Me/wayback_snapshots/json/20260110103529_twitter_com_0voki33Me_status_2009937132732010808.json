@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009937119503101953"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2009937132732010808",
+    "created_at": "2026-01-10T10:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T11:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009937132732010808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/We8rY44wDT",
+          "end": 31,
+          "expanded_url": "https://x.com/0voki33Me/status/2009937132732010808/photo/1",
+          "media_key": "3_2009937119503101953",
+          "start": 8,
+          "url": "https://t.co/We8rY44wDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009937132732010808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦哦有点恶心心 https://t.co/We8rY44wDT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009937132732010808].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009937132732010808",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009937132732010808"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009937119503101953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-S7KTzasAEyluD.jpg",
+        "width": 1826
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 779,
+          "like_count": 3158,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1500
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

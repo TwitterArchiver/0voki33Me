@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2022957874650181666",
+    "created_at": "2026-02-16T01:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023208407243931690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485158225167413248",
+          "start": 0,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023208407243931690",
+    "in_reply_to_user_id": "1485158225167413248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022957874650181666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chihorishizuku 我不行了我操，摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2022957867847020544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL9dnSacAAO0Qh.jpg",
+        "width": 1205
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022957867859656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL9dnVbQAAA16Z.jpg",
+        "width": 942
+      },
+      {
+        "height": 1729,
+        "media_key": "3_2022957867855388673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL9dnUaIAEOR_Q.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2022957874650181666",
+        "created_at": "2026-02-16T01:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023208407243931690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485158225167413248",
+              "start": 0,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023208407243931690",
+        "in_reply_to_user_id": "1485158225167413248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022957874650181666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chihorishizuku 我不行了我操，摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022957867847020544",
+            "3_2022957867859656704",
+            "3_2022957867855388673"
+          ]
+        },
+        "author_id": "1485158225167413248",
+        "conversation_id": "2022957874650181666",
+        "created_at": "2026-02-15T08:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022957874650181666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7uXaFqAYR",
+              "end": 27,
+              "expanded_url": "https://x.com/chihorishizuku/status/2022957874650181666/photo/1",
+              "media_key": "3_2022957867847020544",
+              "start": 4,
+              "url": "https://t.co/Y7uXaFqAYR"
+            },
+            {
+              "display_url": "pic.x.com/Y7uXaFqAYR",
+              "end": 27,
+              "expanded_url": "https://x.com/chihorishizuku/status/2022957874650181666/photo/1",
+              "media_key": "3_2022957867859656704",
+              "start": 4,
+              "url": "https://t.co/Y7uXaFqAYR"
+            },
+            {
+              "display_url": "pic.x.com/Y7uXaFqAYR",
+              "end": 27,
+              "expanded_url": "https://x.com/chihorishizuku/status/2022957874650181666/photo/1",
+              "media_key": "3_2022957867855388673",
+              "start": 4,
+              "url": "https://t.co/Y7uXaFqAYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022957874650181666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6458,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼。 https://t.co/Y7uXaFqAYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1056,
+          "like_count": 5067,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/4vU1YBRvNm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H0wBxWpB",
+                "start": 82,
+                "url": "https://t.co/4vU1YBRvNm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🎐",
+        "pinned_tweet_id": "2020038370509091038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022843815997116418/ebQkW6uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3918,
+          "following_count": 668,
+          "like_count": 25520,
+          "listed_count": 9,
+          "media_count": 488,
+          "tweet_count": 5044
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": true
+      }
+    ]
+  }
+}

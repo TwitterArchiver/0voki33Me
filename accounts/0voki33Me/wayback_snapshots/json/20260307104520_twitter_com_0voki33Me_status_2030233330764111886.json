@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030231459290877952"
+      ],
+      "media_source_tweet_id": [
+        "2030231468539339169"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030233330764111886",
+    "created_at": "2026-03-07T10:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030233330764111886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1702824726106984449",
+          "start": 3,
+          "username": "rioke84002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTKvC43npT",
+          "end": 39,
+          "expanded_url": "https://x.com/rioke84002/status/2030231468539339169/photo/1",
+          "media_key": "3_2030231459290877952",
+          "start": 16,
+          "url": "https://t.co/lTKvC43npT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030233330764111886",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030231468539339169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rioke84002: https://t.co/lTKvC43npT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030233330764111886].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030233330764111886",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030233330764111886"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030231459290877952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzUwW7bEAAF-19.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030231459290877952"
+          ]
+        },
+        "author_id": "1702824726106984449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030231468539339169",
+        "created_at": "2026-03-07T10:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030231468539339169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTKvC43npT",
+              "end": 23,
+              "expanded_url": "https://x.com/rioke84002/status/2030231468539339169/photo/1",
+              "media_key": "3_2030231459290877952",
+              "start": 0,
+              "url": "https://t.co/lTKvC43npT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030231468539339169",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lTKvC43npT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 1140,
+          "like_count": 5532,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T23:20:36.000Z",
+        "description": "我是黎屿 想发啥发啥 喜欢我可怜我可以给我钱 不要转载我的血图",
+        "id": "1702824726106984449",
+        "name": "漂亮小狗鸡腿bot",
+        "pinned_tweet_id": "1920266827055444227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997278019501854720/GMuSAY7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 157,
+          "like_count": 1676,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 847
+        },
+        "username": "rioke84002",
+        "verified": false
+      }
+    ]
+  }
+}

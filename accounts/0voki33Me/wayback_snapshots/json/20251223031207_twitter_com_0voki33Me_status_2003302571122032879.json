@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2003069428276105216"
+      ],
+      "media_source_tweet_id": [
+        "2003069447712673908"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003302571122032879",
+    "created_at": "2025-12-23T03:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T04:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003302571122032879"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "ローゼンメイデン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1314159943365414913",
+          "start": 3,
+          "username": "rosa____rossa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtTMMM6h0k",
+          "end": 60,
+          "expanded_url": "https://x.com/rosa____rossa/status/2003069447712673908/video/1",
+          "media_key": "7_2003069428276105216",
+          "start": 37,
+          "url": "https://t.co/EtTMMM6h0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003302571122032879",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 327
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003069447712673908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosa____rossa: Shhh 🤫\n\n#ローゼンメイデン https://t.co/EtTMMM6h0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5413,
+        "height": 960,
+        "media_key": "7_2003069428276105216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003069428276105216/pu/img/_UN-NTU1N5wM4xhw.jpg",
+        "public_metrics": {
+          "view_count": 10718
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003069428276105216/pu/vid/avc1/320x426/0R3J_yCvl8ByQxyB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003069428276105216/pu/vid/avc1/480x640/4RQNgV2T7F2gUxRL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003069428276105216/pu/vid/avc1/720x960/mh4lT-GdhfNqnJXk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2003069428276105216/pu/pl/WU8L4u6fsg5-2w7q.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003069428276105216"
+          ],
+          "media_source_tweet_id": [
+            "2003069447712673908"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003302571122032879",
+        "created_at": "2025-12-23T03:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T04:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003302571122032879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "ローゼンメイデン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1314159943365414913",
+              "start": 3,
+              "username": "rosa____rossa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtTMMM6h0k",
+              "end": 60,
+              "expanded_url": "https://x.com/rosa____rossa/status/2003069447712673908/video/1",
+              "media_key": "7_2003069428276105216",
+              "start": 37,
+              "url": "https://t.co/EtTMMM6h0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003302571122032879",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 327
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003069447712673908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosa____rossa: Shhh 🤫\n\n#ローゼンメイデン https://t.co/EtTMMM6h0k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003069428276105216"
+          ]
+        },
+        "author_id": "1314159943365414913",
+        "conversation_id": "2003069447712673908",
+        "created_at": "2025-12-22T11:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003069447712673908"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "ローゼンメイデン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtTMMM6h0k",
+              "end": 41,
+              "expanded_url": "https://x.com/rosa____rossa/status/2003069447712673908/video/1",
+              "media_key": "7_2003069428276105216",
+              "start": 18,
+              "url": "https://t.co/EtTMMM6h0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003069447712673908",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 32759,
+          "like_count": 1817,
+          "quote_count": 20,
+          "reply_count": 6,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "Shhh 🤫\n\n#ローゼンメイデン https://t.co/EtTMMM6h0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 547,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T11:05:36.000Z",
+        "description": "♱ 聖少女領域 ♱",
+        "id": "1314159943365414913",
+        "location": "🌹Miniature Garden🌹",
+        "name": "𝕽𝖔𝖘𝖆 𝕽𝖔𝖘𝖘𝖆",
+        "pinned_tweet_id": "1948342587128971442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844041007324635136/gZpPXJJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 354,
+          "like_count": 12356,
+          "listed_count": 10,
+          "media_count": 225,
+          "tweet_count": 3969
+        },
+        "username": "rosa____rossa",
+        "verified": false
+      }
+    ]
+  }
+}

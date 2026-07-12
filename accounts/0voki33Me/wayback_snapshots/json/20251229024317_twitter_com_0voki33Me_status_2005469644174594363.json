@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2005467364121534656",
+    "created_at": "2025-12-29T02:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T03:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005469644174594363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1373509657868660740",
+          "start": 0,
+          "username": "alldoorsoneroom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005469644174594363",
+    "in_reply_to_user_id": "1373509657868660740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005467364121534656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alldoorsoneroom 你妈死了傻逼你全家人螺旋升天我给你和方时赫屁眼里边塞火箭给你爽飞带你上月球好不好又他妈让我们粉丝内斗你全家都死光了你个贱畜最好只是在炒作最后五个人会一起回归操你妈去死吧臭傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2005467364121534656",
+        "created_at": "2025-12-29T02:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T03:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005469644174594363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1373509657868660740",
+              "start": 0,
+              "username": "alldoorsoneroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005469644174594363",
+        "in_reply_to_user_id": "1373509657868660740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005467364121534656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alldoorsoneroom 你妈死了傻逼你全家人螺旋升天我给你和方时赫屁眼里边塞火箭给你爽飞带你上月球好不好又他妈让我们粉丝内斗你全家都死光了你个贱畜最好只是在炒作最后五个人会一起回归操你妈去死吧臭傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373509657868660740",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2005467364121534656",
+        "created_at": "2025-12-29T02:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T03:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005467364121534656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005467364121534656",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "[NOTICE] 뉴진스 멤버 복귀 관련하여 알려드립니다.\n\n어도어는 전속계약유효확인의 소 판결 확정 이후 민지, 하니, 다니엘 및 세 멤버의 가족분들과 많은 대화를 나눠왔습니다.\n\n하니는 가족분들과 함께 한국을 방문해 어도어와 장시간에 걸쳐 깊이 있는 대화를 나누었습니다. 그 과정에서 지난 일들을 되짚어보고 객관적으로 사안을 바라보는 시간을 가졌습니다. 진솔한 대화 끝에, 하니는 법원의 판결을 존중하여 어도어와 함께 하기로 결정하였습니다.\n\n민지 역시 어도어와 대화를 나누고 있으며, 상호 간의 이해를 넓히기 위한 논의를 지속적으로 이어가고 있습니다.\n\n다니엘의 경우 뉴진스 멤버이자 어도어 소속 아티스트로 함께 하기 어렵다고 판단하여, 당사는 금일 전속계약해지를 통보했습니다. 또한, 이번 분쟁 상황을 초래하고 뉴진스 이탈과 복귀 지연에 중대한 책임이 있는 다니엘 가족 1인과 민희진 전 대표에 대해서는 법적 책임을 물을 예정입니다.\n\n어도어는 대화 과정에서 멤버들이 오랜 기간 지속적으로 왜곡되고 편향된 정보를 들으면서 회사에 대해 많은 오해를 하고 분쟁에까지 이르게 됐음을 알게 됐습니다. 당사와 아티스트는 팬들과 대중의 사랑을 회복하기 위해서는 다소 시간이 걸리더라도 정확한 사실관계를 바탕으로 오해를 완전히 해소하는 과정이 필요하다는 데 뜻을 같이 했습니다. 또한, 분쟁 과정에서 발생한 여러 논란에 대해서도 추후 말씀 드릴 기회를 갖기로 했고 시기와 방식을 논의 중입니다.\n\n어도어는 사안을 원만히 마무리하고 하루 빨리 뉴진스가 팬 여러분 곁으로 돌아갈 수 있도록 최선을 다하겠습니다."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 45870,
+          "like_count": 154,
+          "quote_count": 402,
+          "reply_count": 240,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "[NOTICE] 뉴진스 멤버 복귀 관련하여 알려드립니다.\n\n어도어는 전속계약유효확인의 소 판결 확정 이후 민지, 하니, 다니엘 및 세 멤버의 가족분들과 많은 대화를 나눠왔습니다.\n\n하니는 가족분들과 함께 한국을 방문해 어도어와 장시간에 걸쳐 깊이 있는 대화를 나누었습니다. 그 과정에서 지난 일들을"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 623,
+          "like_count": 2676,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1134
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T05:40:10.000Z",
+        "description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/js1CtxSY38I",
+                "end": 63,
+                "expanded_url": "https://youtu.be/js1CtxSY38I",
+                "start": 40,
+                "url": "https://t.co/UyuE2A6KSA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ador.world",
+                "end": 23,
+                "expanded_url": "http://ador.world",
+                "start": 0,
+                "url": "https://t.co/Y17aJsmF2p"
+              }
+            ]
+          }
+        },
+        "id": "1373509657868660740",
+        "name": "ADOR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933086541154533376/ABsl7zyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160403,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 641,
+          "media_count": 68,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/Y17aJsmF2p",
+        "username": "alldoorsoneroom",
+        "verified": true
+      }
+    ]
+  }
+}

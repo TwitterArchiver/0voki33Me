@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998718204223668224"
+      ],
+      "media_source_tweet_id": [
+        "1998718208778592698"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1998938471839449464",
+    "created_at": "2025-12-11T02:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T03:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998938471839449464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741917359236059136",
+          "start": 3,
+          "username": "9999999999kg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XPfyNMjCu",
+          "end": 45,
+          "expanded_url": "https://x.com/9999999999kg/status/1998718208778592698/photo/1",
+          "media_key": "3_1998718204223668224",
+          "start": 22,
+          "url": "https://t.co/3XPfyNMjCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998938471839449464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998718208778592698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9999999999kg: 絵チャ https://t.co/3XPfyNMjCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1998718204223668224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zfnfjbwAAV26U.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998718204223668224"
+          ],
+          "media_source_tweet_id": [
+            "1998718208778592698"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1998938471839449464",
+        "created_at": "2025-12-11T02:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998938471839449464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741917359236059136",
+              "start": 3,
+              "username": "9999999999kg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XPfyNMjCu",
+              "end": 45,
+              "expanded_url": "https://x.com/9999999999kg/status/1998718208778592698/photo/1",
+              "media_key": "3_1998718204223668224",
+              "start": 22,
+              "url": "https://t.co/3XPfyNMjCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998938471839449464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998718208778592698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9999999999kg: 絵チャ https://t.co/3XPfyNMjCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998718204223668224"
+          ]
+        },
+        "author_id": "1741917359236059136",
+        "conversation_id": "1998718208778592698",
+        "created_at": "2025-12-10T11:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998718208778592698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XPfyNMjCu",
+              "end": 27,
+              "expanded_url": "https://x.com/9999999999kg/status/1998718208778592698/photo/1",
+              "media_key": "3_1998718204223668224",
+              "start": 4,
+              "url": "https://t.co/3XPfyNMjCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998718208778592698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 13024,
+          "like_count": 1349,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "絵チャ https://t.co/3XPfyNMjCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------查成分回fo -------------------------------顺女 什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 410,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 426
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T20:20:43.000Z",
+        "description": "絵⛪️雑多 ⁑ https://t.co/FG9tQac6ft ⁑ https://t.co/eYjlg75oen",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1l5g9f0pb7xaow…",
+                "end": 31,
+                "expanded_url": "https://marshmallow-qa.com/1l5g9f0pb7xaowt?t=AmICgw&utm_medium=url_text&utm_source=promotion",
+                "start": 8,
+                "url": "https://t.co/FG9tQac6ft"
+              },
+              {
+                "display_url": "skeb.jp/@9999999999kg",
+                "end": 57,
+                "expanded_url": "https://skeb.jp/@9999999999kg",
+                "start": 34,
+                "url": "https://t.co/eYjlg75oen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "9999999999kg.straw.page",
+                "end": 23,
+                "expanded_url": "https://9999999999kg.straw.page",
+                "start": 0,
+                "url": "https://t.co/h5Z2PN8MDE"
+              }
+            ]
+          }
+        },
+        "id": "1741917359236059136",
+        "name": "ヌートリア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837466368788385795/iN_uGD7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 375,
+          "like_count": 3945,
+          "listed_count": 8,
+          "media_count": 88,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/h5Z2PN8MDE",
+        "username": "9999999999kg",
+        "verified": false
+      }
+    ]
+  }
+}

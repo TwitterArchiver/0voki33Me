@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969769404058771456"
+      ],
+      "media_source_tweet_id": [
+        "1969769414632542302"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1970180901360542109",
+    "created_at": "2025-09-22T17:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970180901360542109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1449989853286830084",
+          "start": 3,
+          "username": "IsgrH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tkcfuWx9zP",
+          "end": 34,
+          "expanded_url": "https://x.com/IsgrH/status/1969769414632542302/photo/1",
+          "media_key": "3_1969769404058771456",
+          "start": 11,
+          "url": "https://t.co/tkcfuWx9zP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970180901360542109",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969769414632542302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IsgrH: https://t.co/tkcfuWx9zP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_1969769404058771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YG1jJbIAAIy9g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969769404058771456"
+          ],
+          "media_source_tweet_id": [
+            "1969769414632542302"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1970180901360542109",
+        "created_at": "2025-09-22T17:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970180901360542109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1449989853286830084",
+              "start": 3,
+              "username": "IsgrH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkcfuWx9zP",
+              "end": 34,
+              "expanded_url": "https://x.com/IsgrH/status/1969769414632542302/photo/1",
+              "media_key": "3_1969769404058771456",
+              "start": 11,
+              "url": "https://t.co/tkcfuWx9zP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970180901360542109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969769414632542302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IsgrH: https://t.co/tkcfuWx9zP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969769404058771456"
+          ]
+        },
+        "author_id": "1449989853286830084",
+        "conversation_id": "1969769414632542302",
+        "created_at": "2025-09-21T14:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969769414632542302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkcfuWx9zP",
+              "end": 23,
+              "expanded_url": "https://x.com/IsgrH/status/1969769414632542302/photo/1",
+              "media_key": "3_1969769404058771456",
+              "start": 0,
+              "url": "https://t.co/tkcfuWx9zP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969769414632542302",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 42383,
+          "like_count": 4495,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tkcfuWx9zP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 183,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T06:45:06.000Z",
+        "description": "Hikaru Ishiguro",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/i49l0",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/i49l0",
+                "start": 0,
+                "url": "https://t.co/2w6onKj3J5"
+              }
+            ]
+          }
+        },
+        "id": "1449989853286830084",
+        "location": "【無断転載・使用、AI学習、自作発言】を禁じます",
+        "name": "石黒 光",
+        "pinned_tweet_id": "1963928724849787022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919040651779530752/e7bALWO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13688,
+          "following_count": 184,
+          "like_count": 40630,
+          "listed_count": 72,
+          "media_count": 519,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/2w6onKj3J5",
+        "username": "IsgrH",
+        "verified": false
+      }
+    ]
+  }
+}

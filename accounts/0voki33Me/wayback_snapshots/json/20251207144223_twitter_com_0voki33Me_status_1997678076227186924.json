@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997586095027175855",
+    "created_at": "2025-12-07T14:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997678076227186924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408741694267301889",
+          "start": 0,
+          "username": "YUSU_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997678076227186924",
+    "in_reply_to_user_id": "1408741694267301889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997586095027175855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUSU_01 完全洋娃娃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1997586087049588736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7jZ9mbacAAVUUU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997586095027175855",
+        "created_at": "2025-12-07T14:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997678076227186924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408741694267301889",
+              "start": 0,
+              "username": "YUSU_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997678076227186924",
+        "in_reply_to_user_id": "1408741694267301889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997586095027175855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUSU_01 完全洋娃娃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997586087049588736"
+          ]
+        },
+        "author_id": "1408741694267301889",
+        "conversation_id": "1997586095027175855",
+        "created_at": "2025-12-07T08:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T09:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997586095027175855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gcqv1u7dFL",
+              "end": 30,
+              "expanded_url": "https://x.com/YUSU_01/status/1997586095027175855/photo/1",
+              "media_key": "3_1997586087049588736",
+              "start": 7,
+              "url": "https://t.co/Gcqv1u7dFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997586095027175855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很喜歡的一張 https://t.co/Gcqv1u7dFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 302,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 297
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:59:36.000Z",
+        "description": "不賣任何藥物和違禁品｜守护@OmaRisa504504｜ @AKIAKI_019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "OmaRisa504504"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "AKIAKI_019"
+              }
+            ]
+          }
+        },
+        "id": "1408741694267301889",
+        "name": "YUSU",
+        "pinned_tweet_id": "1936082618610860113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960722604660285444/Z7DIEJWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7090,
+          "following_count": 37,
+          "like_count": 10558,
+          "listed_count": 3,
+          "media_count": 1291,
+          "tweet_count": 15470
+        },
+        "username": "YUSU_01",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997678291227213976",
+    "created_at": "2025-12-08T05:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T06:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997895528160588153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957806270662209537",
+          "start": 0,
+          "username": "aaaaahaohao0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997895528160588153",
+    "in_reply_to_user_id": "1957806270662209537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997678291227213976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaahaohao0528 这个牛奶好好喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997678280988819456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ktz_naAAAaIrg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997678291227213976",
+        "created_at": "2025-12-08T05:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997895528160588153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957806270662209537",
+              "start": 0,
+              "username": "aaaaahaohao0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997895528160588153",
+        "in_reply_to_user_id": "1957806270662209537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997678291227213976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaahaohao0528 这个牛奶好好喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997678280988819456"
+          ]
+        },
+        "author_id": "1957806270662209537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1997678291227213976",
+        "created_at": "2025-12-07T14:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997678291227213976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8YgKj3NPG",
+              "end": 25,
+              "expanded_url": "https://x.com/aaaaahaohao0528/status/1997678291227213976/photo/1",
+              "media_key": "3_1997678280988819456",
+              "start": 2,
+              "url": "https://t.co/i8YgKj3NPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997678291227213976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😇 https://t.co/i8YgKj3NPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 318,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 309
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:06:27.000Z",
+        "description": "我是小若若(ˊo̴̶̷̤ ̫ o̴̶̷̤ˋ)／善良邪恶人格乱切／女宝全肯定／双／工作号不聊骚／完全碎碎念／fo你就是喜欢你／欢迎找我玩 ⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1957806270662209537",
+        "location": "上善若水",
+        "name": "绑带结",
+        "pinned_tweet_id": "1994834516385697926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957806457354874880/bnxH3mj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 118,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 1995
+        },
+        "username": "aaaaahaohao0528",
+        "verified": false
+      }
+    ]
+  }
+}

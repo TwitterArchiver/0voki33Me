@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968881239227858944"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1968881256076058801",
+    "created_at": "2025-09-19T03:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T04:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968881256076058801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JrR6Nnst3B",
+          "end": 32,
+          "expanded_url": "https://x.com/0voki33Me/status/1968881256076058801/photo/1",
+          "media_key": "3_1968881239227858944",
+          "start": 9,
+          "url": "https://t.co/JrR6Nnst3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968881256076058801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肌肉劳损这块吧。 https://t.co/JrR6Nnst3B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968881239227858944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LfDjUbgAA41XV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968881239227858944"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1968881256076058801",
+        "created_at": "2025-09-19T03:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T04:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968881256076058801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrR6Nnst3B",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/1968881256076058801/photo/1",
+              "media_key": "3_1968881239227858944",
+              "start": 9,
+              "url": "https://t.co/JrR6Nnst3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968881256076058801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉劳损这块吧。 https://t.co/JrR6Nnst3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "d1E;3",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 164,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2065640383183564813",
+    "created_at": "2026-06-13T09:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065732833134747938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831775593421266944",
+          "start": 0,
+          "username": "kekeianil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065732833134747938",
+    "in_reply_to_user_id": "1831775593421266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065640383183564813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekeianil p个处方拼多多买就行💪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2065640383183564813",
+        "created_at": "2026-06-13T09:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065732833134747938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831775593421266944",
+              "start": 0,
+              "username": "kekeianil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065732833134747938",
+        "in_reply_to_user_id": "1831775593421266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065640383183564813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekeianil p个处方拼多多买就行💪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831775593421266944",
+        "conversation_id": "2065640383183564813",
+        "created_at": "2026-06-13T03:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065640383183564813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065640383183564813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开个安非他酮怎么这么困难 第一次时间太赶 要单独去药房开没买上 这次去处方单不知道掉哪去了也没买上 好在给我开了sns还有阿普"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1170,
+          "like_count": 6759,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 6831
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T19:25:23.000Z",
+        "description": "暂无",
+        "id": "1831775593421266944",
+        "name": "keke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038900634532061184/HJ68gbvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 160,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 112
+        },
+        "username": "kekeianil",
+        "verified": false
+      }
+    ]
+  }
+}

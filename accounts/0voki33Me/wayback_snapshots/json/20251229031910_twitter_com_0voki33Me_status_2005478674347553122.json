@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2004915879491059731",
+    "created_at": "2025-12-29T03:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T04:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005478674347553122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005478674347553122",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004915879491059731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Numiouo 这群人就是一群被老钟夸大宣传洗脑并且没有半点同理心不会换位思考的傻逼，我们活着就不错了窝在角落里偷偷磕药割手惹谁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2004915879491059731",
+        "created_at": "2025-12-29T03:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T04:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005478674347553122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005478674347553122",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004915879491059731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Numiouo 这群人就是一群被老钟夸大宣传洗脑并且没有半点同理心不会换位思考的傻逼，我们活着就不错了窝在角落里偷偷磕药割手惹谁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2004915879491059731",
+        "created_at": "2025-12-27T14:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004915879491059731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004915879491059731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4471,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "对我们来说，活着就是牛逼活着就是奇迹，还他爹管我吸不吸毒违不违法，我管这个？我能管自己多活的每一天我都想点鞭炮庆祝赞美，没时间心情管那么多别的\n\n爱管别人吸毒（特指并未因吸大危害社会的）的人都他爹闲的，命太长了觉得活着没什么难度所以有闲情天天管人割手管人嗑药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 625,
+          "like_count": 2694,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1135
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关宝宝们(っ˘зʕ•̫͡•ʔ纯血神经精神病-同类回fo-点赞评论bot-讨厌私信请勿扰♡喜欢sex & drug♡不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1441,
+          "like_count": 4707,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 4398
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

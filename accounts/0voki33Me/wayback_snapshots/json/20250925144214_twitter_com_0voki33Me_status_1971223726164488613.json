@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1971223726164488613",
+    "created_at": "2025-09-25T14:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T15:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971223726164488613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939352450714202112",
+          "start": 3,
+          "username": "inwhtk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971223726164488613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970638350970392614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inwhtk_: 人生就是自残自慰嗑药啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1971223726164488613",
+        "created_at": "2025-09-25T14:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971223726164488613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939352450714202112",
+              "start": 3,
+              "username": "inwhtk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971223726164488613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970638350970392614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inwhtk_: 人生就是自残自慰嗑药啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939352450714202112",
+        "conversation_id": "1970638350970392614",
+        "created_at": "2025-09-23T23:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T00:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970638350970392614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970638350970392614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 23255,
+          "like_count": 419,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "人生就是自残自慰嗑药啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 195,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "讨厌我的就去死 我叫小缘 內有血图慎关 给我发鸡死全家",
+        "id": "1939352450714202112",
+        "name": "404notfound",
+        "pinned_tweet_id": "1967291026311405767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969723147177091072/Kw_m92xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 192,
+          "like_count": 4580,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 3741
+        },
+        "username": "inwhtk_",
+        "verified": false
+      }
+    ]
+  }
+}

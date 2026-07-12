@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2007959548003516623",
+    "created_at": "2026-01-05T07:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008083942575153259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008083942575153259",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007959548003516623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 震撼美丽……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2007959536976736256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G920j2zbMAAmljI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007959536985153536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G920j21boAAbbF3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007959536997687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G920j24a4AAzAbH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007959536993505280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G920j23bEAAk9J4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2007959548003516623",
+        "created_at": "2026-01-05T07:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008083942575153259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008083942575153259",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007959548003516623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 震撼美丽……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007959536976736256",
+            "3_2007959536985153536",
+            "3_2007959536997687296",
+            "3_2007959536993505280"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007959548003516623",
+        "created_at": "2026-01-04T23:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T00:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007959548003516623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o88bw1pS1L",
+              "end": 25,
+              "expanded_url": "https://x.com/AMadelaina/status/2007959548003516623/photo/1",
+              "media_key": "3_2007959536976736256",
+              "start": 2,
+              "url": "https://t.co/o88bw1pS1L"
+            },
+            {
+              "display_url": "pic.x.com/o88bw1pS1L",
+              "end": 25,
+              "expanded_url": "https://x.com/AMadelaina/status/2007959548003516623/photo/1",
+              "media_key": "3_2007959536985153536",
+              "start": 2,
+              "url": "https://t.co/o88bw1pS1L"
+            },
+            {
+              "display_url": "pic.x.com/o88bw1pS1L",
+              "end": 25,
+              "expanded_url": "https://x.com/AMadelaina/status/2007959548003516623/photo/1",
+              "media_key": "3_2007959536997687296",
+              "start": 2,
+              "url": "https://t.co/o88bw1pS1L"
+            },
+            {
+              "display_url": "pic.x.com/o88bw1pS1L",
+              "end": 25,
+              "expanded_url": "https://x.com/AMadelaina/status/2007959548003516623/photo/1",
+              "media_key": "3_2007959536993505280",
+              "start": 2,
+              "url": "https://t.co/o88bw1pS1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007959548003516623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 234,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "切 https://t.co/o88bw1pS1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 720,
+          "like_count": 2955,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1310
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2001675365220258045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004282193246625792/zuCMvmhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 198,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 127
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

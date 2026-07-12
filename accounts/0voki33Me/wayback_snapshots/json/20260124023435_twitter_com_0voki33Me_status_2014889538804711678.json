@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014870326455501297",
+    "created_at": "2026-01-24T02:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014889538804711678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014889538804711678",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014870326455501297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 太强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2014870270260150272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZB1edaAAA83Hw.png",
+        "width": 846
+      },
+      {
+        "height": 545,
+        "media_key": "3_2014870303827243008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZB3bgbMAAEvHv.jpg",
+        "width": 2427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014870326455501297",
+        "created_at": "2026-01-24T02:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014889538804711678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014889538804711678",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014870326455501297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 太强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014870270260150272",
+            "3_2014870303827243008"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2014870326455501297",
+        "created_at": "2026-01-24T01:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T02:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014870326455501297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "display_url": "huggingface.co/raincandy-u/Ra…",
+              "end": 23,
+              "expanded_url": "https://huggingface.co/raincandy-u/Rain-100M",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2014870342603624448/jDp-LDsy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014870342603624448/jDp-LDsy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "raincandy-u/Rain-100M · Hugging Face",
+              "unwound_url": "https://huggingface.co/raincandy-u/Rain-100M",
+              "url": "https://t.co/ycOWHuDRTp"
+            },
+            {
+              "display_url": "pic.x.com/NBRMwKjFv2",
+              "end": 54,
+              "expanded_url": "https://x.com/amecandy_x/status/2014870326455501297/photo/1",
+              "media_key": "3_2014870270260150272",
+              "start": 31,
+              "url": "https://t.co/NBRMwKjFv2"
+            },
+            {
+              "display_url": "pic.x.com/NBRMwKjFv2",
+              "end": 54,
+              "expanded_url": "https://x.com/amecandy_x/status/2014870326455501297/photo/1",
+              "media_key": "3_2014870303827243008",
+              "start": 31,
+              "url": "https://t.co/NBRMwKjFv2"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2014617622810440158",
+              "start": 55,
+              "url": "https://t.co/6YS0PQsrFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014870326455501297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014617622810440158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ycOWHuDRTp\n出炉！好耶！ https://t.co/NBRMwKjFv2 https://t.co/6YS0PQsrFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 898,
+          "like_count": 3886,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack💻/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2012540204280905884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5141,
+          "following_count": 1765,
+          "like_count": 23514,
+          "listed_count": 15,
+          "media_count": 1004,
+          "tweet_count": 8092
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

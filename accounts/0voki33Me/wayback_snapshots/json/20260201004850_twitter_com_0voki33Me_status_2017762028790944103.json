@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2017737160577978759",
+    "created_at": "2026-02-01T00:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T01:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017762028790944103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888259669338320896",
+          "start": 0,
+          "username": "wizgjaj197722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017762028790944103",
+    "in_reply_to_user_id": "1888259669338320896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017737160577978759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizgjaj197722 阔耐🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017737151480569856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABxP7QboAADerg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017737151493115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABxP7TbEAAVghj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017737151488921600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABxP7SbEAAYHbu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017737151484747776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HABxP7RbYAAEZlc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2017737160577978759",
+        "created_at": "2026-02-01T00:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T01:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017762028790944103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888259669338320896",
+              "start": 0,
+              "username": "wizgjaj197722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017762028790944103",
+        "in_reply_to_user_id": "1888259669338320896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017737160577978759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizgjaj197722 阔耐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017737151480569856",
+            "3_2017737151493115904",
+            "3_2017737151488921600",
+            "3_2017737151484747776"
+          ]
+        },
+        "author_id": "1888259669338320896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017737160577978759",
+        "created_at": "2026-01-31T23:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T00:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017737160577978759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZedxybXDh",
+              "end": 23,
+              "expanded_url": "https://x.com/wizgjaj197722/status/2017737160577978759/photo/1",
+              "media_key": "3_2017737151480569856",
+              "start": 0,
+              "url": "https://t.co/xZedxybXDh"
+            },
+            {
+              "display_url": "pic.x.com/xZedxybXDh",
+              "end": 23,
+              "expanded_url": "https://x.com/wizgjaj197722/status/2017737160577978759/photo/1",
+              "media_key": "3_2017737151493115904",
+              "start": 0,
+              "url": "https://t.co/xZedxybXDh"
+            },
+            {
+              "display_url": "pic.x.com/xZedxybXDh",
+              "end": 23,
+              "expanded_url": "https://x.com/wizgjaj197722/status/2017737160577978759/photo/1",
+              "media_key": "3_2017737151488921600",
+              "start": 0,
+              "url": "https://t.co/xZedxybXDh"
+            },
+            {
+              "display_url": "pic.x.com/xZedxybXDh",
+              "end": 23,
+              "expanded_url": "https://x.com/wizgjaj197722/status/2017737160577978759/photo/1",
+              "media_key": "3_2017737151484747776",
+              "start": 0,
+              "url": "https://t.co/xZedxybXDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017737160577978759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xZedxybXDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 957,
+          "like_count": 4411,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T16:13:08.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/404__page_notf…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/404__page_notfound?igsh=MTNkcDBtOTMzdGZxcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BGSBCk5MT2"
+              }
+            ]
+          }
+        },
+        "id": "1888259669338320896",
+        "name": "？？？",
+        "pinned_tweet_id": "1965101658003968236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982523780904763392/_lwUgD9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 118,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/BGSBCk5MT2",
+        "username": "wizgjaj197722",
+        "verified": false
+      }
+    ]
+  }
+}

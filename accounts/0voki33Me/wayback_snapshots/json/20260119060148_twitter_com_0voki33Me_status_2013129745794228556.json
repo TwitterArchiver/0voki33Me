@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013129745794228556",
+    "created_at": "2026-01-19T06:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T07:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013129745794228556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fan_yyin/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/fan_yyin/status/1981990583272132999",
+          "start": 21,
+          "url": "https://t.co/L9VRnCBKSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013129745794228556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981990583272132999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为啥这个割开是长这样的😮感觉很方便愈合欸 https://t.co/L9VRnCBKSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51029,
+        "height": 1280,
+        "media_key": "7_1981990428040671232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981990428040671232/pu/img/o8aWmnUJcA692kr7.jpg",
+        "public_metrics": {
+          "view_count": 6863
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981990428040671232/pu/vid/avc1/320x568/NA4Xlw2kuOULFoRV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981990428040671232/pu/vid/avc1/480x852/u7v71rNJ--o-49jM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981990428040671232/pu/vid/avc1/720x1280/otos9w6txmHgfcZZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981990428040671232/pu/pl/-s1UbjqPUYpCPR8I.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013129745794228556",
+        "created_at": "2026-01-19T06:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013129745794228556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fan_yyin/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/fan_yyin/status/1981990583272132999",
+              "start": 21,
+              "url": "https://t.co/L9VRnCBKSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013129745794228556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981990583272132999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为啥这个割开是长这样的😮感觉很方便愈合欸 https://t.co/L9VRnCBKSZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981990428040671232"
+          ]
+        },
+        "author_id": "1647583469407727616",
+        "conversation_id": "1981990583272132999",
+        "created_at": "2025-10-25T07:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981990583272132999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKM9nZTwVX",
+              "end": 27,
+              "expanded_url": "https://x.com/Fan_yyin/status/1981990583272132999/video/1",
+              "media_key": "7_1981990428040671232",
+              "start": 4,
+              "url": "https://t.co/DKM9nZTwVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981990583272132999",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 26097,
+          "like_count": 1367,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "#自残 https://t.co/DKM9nZTwVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 844,
+          "like_count": 3552,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1787
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T12:51:39.000Z",
+        "description": "07/",
+        "id": "1647583469407727616",
+        "name": "Fan",
+        "pinned_tweet_id": "2007584664475832415",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 52,
+          "like_count": 11,
+          "listed_count": 6,
+          "media_count": 202,
+          "tweet_count": 274
+        },
+        "username": "Fan_yyin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2032613215465787582",
+    "created_at": "2026-03-14T00:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T01:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032613215465787582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maybeurshy/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/maybeurshy/status/2032328223569428793",
+          "start": 17,
+          "url": "https://t.co/2lNK3Jg71N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032613215465787582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032328223569428793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刷到帖子就以为是基督教那个主… https://t.co/2lNK3Jg71N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2032328217881952257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRHvxXbQAEid6D.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2032613215465787582",
+        "created_at": "2026-03-14T00:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T01:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032613215465787582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maybeurshy/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/maybeurshy/status/2032328223569428793",
+              "start": 17,
+              "url": "https://t.co/2lNK3Jg71N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032613215465787582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032328223569428793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刷到帖子就以为是基督教那个主… https://t.co/2lNK3Jg71N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032328217881952257"
+          ]
+        },
+        "author_id": "1782751587821363200",
+        "conversation_id": "2032328223569428793",
+        "created_at": "2026-03-13T05:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032328223569428793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifAOyjtBVa",
+              "end": 35,
+              "expanded_url": "https://x.com/MaybEuRshY/status/2032328223569428793/photo/1",
+              "media_key": "3_2032328217881952257",
+              "start": 12,
+              "url": "https://t.co/ifAOyjtBVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032328223569428793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 294158,
+          "like_count": 3700,
+          "quote_count": 36,
+          "reply_count": 149,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的好难受我要笑吐了 https://t.co/ifAOyjtBVa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 1152,
+          "like_count": 5646,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 4226
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:41:22.000Z",
+        "description": "我绝不是你幻想中的电波系女主角。",
+        "id": "1782751587821363200",
+        "name": "怜心",
+        "pinned_tweet_id": "2012750154777137472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028810735451824128/XirbTrbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 27,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 467
+        },
+        "username": "MaybEuRshY",
+        "verified": false
+      }
+    ]
+  }
+}

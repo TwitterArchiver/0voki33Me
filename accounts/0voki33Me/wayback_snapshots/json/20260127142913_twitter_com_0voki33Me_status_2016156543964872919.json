@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2016113698763346066",
+    "created_at": "2026-01-27T14:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016156543964872919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016156543964872919",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016113698763346066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 V港逼欧k，今晚他必遭罪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2016113634078822400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qsqxoXEAAONy0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2016113698763346066",
+        "created_at": "2026-01-27T14:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016156543964872919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016156543964872919",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016113698763346066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 V港逼欧k，今晚他必遭罪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016113634078822400"
+          ]
+        },
+        "author_id": "1812304729432838144",
+        "conversation_id": "2016113698763346066",
+        "created_at": "2026-01-27T11:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016113698763346066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0sMWPGWOk",
+              "end": 31,
+              "expanded_url": "https://x.com/huimu420/status/2016113698763346066/photo/1",
+              "media_key": "3_2016113634078822400",
+              "start": 8,
+              "url": "https://t.co/V0sMWPGWOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016113698763346066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吉他张路边一条 https://t.co/V0sMWPGWOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 927,
+          "like_count": 4201,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜日常碎碎念｜自伤嗑💊｜友跨顺女｜泛性恋  偏好流动｜不建政｜休学｜xp是正太萝莉和神职人员｜fo你是暗恋｜唯一恋人是酷拉皮卡💞｜\n\n情绪不稳定但是私下很友好 我是个很虚伪的人  找我玩大欢迎 我道德感低…｜不聊黄  骂我的全家鼠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNm1eQ"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱👉🏻",
+        "name": "回木",
+        "pinned_tweet_id": "2004905422227173846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 572,
+          "like_count": 19635,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 4398
+        },
+        "url": "https://t.co/o2XkPNm1eQ",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2016178813521297891",
+    "created_at": "2026-01-28T05:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016380915002523812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841399715759312896",
+          "start": 0,
+          "username": "1everykittyfck_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016380915002523812",
+    "in_reply_to_user_id": "1841399715759312896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016372606073766018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1everykittyfck_ 我以前用吉他张的囤了好多现在貌似用不了了等我吃完了我也要想办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2016178813521297891",
+        "created_at": "2026-01-28T05:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016380915002523812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841399715759312896",
+              "start": 0,
+              "username": "1everykittyfck_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016380915002523812",
+        "in_reply_to_user_id": "1841399715759312896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016372606073766018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1everykittyfck_ 我以前用吉他张的囤了好多现在貌似用不了了等我吃完了我也要想办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841399715759312896",
+        "conversation_id": "2016178813521297891",
+        "created_at": "2026-01-28T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016372606073766018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016372606073766018",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016178813521297891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 你pr咋买的呀我也想opr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 929,
+          "like_count": 4218,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T08:48:11.000Z",
+        "description": "BI🚪99/138/280/2156",
+        "id": "1841399715759312896",
+        "location": "dm^",
+        "name": "ペット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012535100400177152/z-gfM82q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 473,
+          "like_count": 8451,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2348
+        },
+        "username": "1everykittyfck_",
+        "verified": false
+      }
+    ]
+  }
+}

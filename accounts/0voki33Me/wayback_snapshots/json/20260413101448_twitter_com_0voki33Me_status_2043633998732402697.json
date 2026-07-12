@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2043633998732402697",
+    "created_at": "2026-04-13T10:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043633998732402697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716689663443005440",
+          "start": 3,
+          "username": "DongS49455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043633998732402697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043583712953082003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DongS49455: 我打算到100fo抽一下\n一等奖：五盒红普（折现70）x1人\n二等奖：52🧧x1人\n三等奖：两盒红普（折现28） x1人\n四等奖：一盒红普（折现15.2）x1人\n我实在是没啥好抽的啦，求你们转转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2043633998732402697",
+        "created_at": "2026-04-13T10:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043633998732402697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716689663443005440",
+              "start": 3,
+              "username": "DongS49455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043633998732402697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043583712953082003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DongS49455: 我打算到100fo抽一下\n一等奖：五盒红普（折现70）x1人\n二等奖：52🧧x1人\n三等奖：两盒红普（折现28） x1人\n四等奖：一盒红普（折现15.2）x1人\n我实在是没啥好抽的啦，求你们转转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716689663443005440",
+        "conversation_id": "2043583712953082003",
+        "created_at": "2026-04-13T06:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043583712953082003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043583712953082003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1787,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我打算到100fo抽一下\n一等奖：五盒红普（折现70）x1人\n二等奖：52🧧x1人\n三等奖：两盒红普（折现28） x1人\n四等奖：一盒红普（折现15.2）x1人\n我实在是没啥好抽的啦，求你们转转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1137,
+          "like_count": 6174,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 5656
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T05:34:54.000Z",
+        "description": "我活不长了",
+        "id": "1716689663443005440",
+        "name": "冬樹age",
+        "pinned_tweet_id": "2043583712953082003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037235493235286017/y6T_YAue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 126,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "username": "DongS49455",
+        "verified": false
+      }
+    ]
+  }
+}

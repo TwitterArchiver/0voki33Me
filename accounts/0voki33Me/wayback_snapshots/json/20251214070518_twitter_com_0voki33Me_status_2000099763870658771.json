@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000073842111533056"
+      ],
+      "media_source_tweet_id": [
+        "2000073851938685040"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2000099763870658771",
+    "created_at": "2025-12-14T07:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T08:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000099763870658771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423202120430350339",
+          "start": 3,
+          "username": "sakanada_816"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hkVYvY6WFS",
+          "end": 53,
+          "expanded_url": "https://x.com/sakanada_816/status/2000073851938685040/photo/1",
+          "media_key": "3_2000073842111533056",
+          "start": 30,
+          "url": "https://t.co/hkVYvY6WFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000099763870658771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000073851938685040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakanada_816: この屈辱二度と忘れない https://t.co/hkVYvY6WFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000073842111533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GwkAOb0AAvs4Y.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000073842111533056"
+          ],
+          "media_source_tweet_id": [
+            "2000073851938685040"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2000099763870658771",
+        "created_at": "2025-12-14T07:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T08:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000099763870658771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423202120430350339",
+              "start": 3,
+              "username": "sakanada_816"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkVYvY6WFS",
+              "end": 53,
+              "expanded_url": "https://x.com/sakanada_816/status/2000073851938685040/photo/1",
+              "media_key": "3_2000073842111533056",
+              "start": 30,
+              "url": "https://t.co/hkVYvY6WFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000099763870658771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000073851938685040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakanada_816: この屈辱二度と忘れない https://t.co/hkVYvY6WFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000073842111533056"
+          ]
+        },
+        "author_id": "1423202120430350339",
+        "conversation_id": "2000073851938685040",
+        "created_at": "2025-12-14T05:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000073851938685040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkVYvY6WFS",
+              "end": 35,
+              "expanded_url": "https://x.com/sakanada_816/status/2000073851938685040/photo/1",
+              "media_key": "3_2000073842111533056",
+              "start": 12,
+              "url": "https://t.co/hkVYvY6WFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000073851938685040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6563,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "この屈辱二度と忘れない https://t.co/hkVYvY6WFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出现生了请不要告诉我及任何人关于这个账号中我做的事情..这是我的第二人格，感恩///善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 480,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T08:40:21.000Z",
+        "description": "",
+        "id": "1423202120430350339",
+        "name": "かんな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852686381027663872/A11Zgexm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6558,
+          "following_count": 235,
+          "like_count": 4848,
+          "listed_count": 26,
+          "media_count": 156,
+          "tweet_count": 449
+        },
+        "username": "sakanada_816",
+        "verified": false
+      }
+    ]
+  }
+}

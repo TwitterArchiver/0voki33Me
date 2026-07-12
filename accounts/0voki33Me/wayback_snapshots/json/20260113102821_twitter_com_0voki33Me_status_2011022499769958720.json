@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2011022499769958720",
+    "created_at": "2026-01-13T10:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T11:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011022499769958720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/astralbaes/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/astralbaes/status/2010768397466812807",
+          "start": 10,
+          "url": "https://t.co/64kpOpfejp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011022499769958720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010768397466812807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我脑袋里每天就这样 https://t.co/64kpOpfejp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2010768393142415361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-evMzbWMAEiMNi.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2011022499769958720",
+        "created_at": "2026-01-13T10:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011022499769958720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astralbaes/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/astralbaes/status/2010768397466812807",
+              "start": 10,
+              "url": "https://t.co/64kpOpfejp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011022499769958720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010768397466812807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我脑袋里每天就这样 https://t.co/64kpOpfejp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010768393142415361"
+          ]
+        },
+        "author_id": "1492309312345153542",
+        "conversation_id": "2010768397466812807",
+        "created_at": "2026-01-12T17:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010768397466812807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jocXgxAw1X",
+              "end": 23,
+              "expanded_url": "https://x.com/astralbaes/status/2010768397466812807/photo/1",
+              "media_key": "3_2010768393142415361",
+              "start": 0,
+              "url": "https://t.co/jocXgxAw1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010768397466812807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1529,
+          "impression_count": 478370,
+          "like_count": 48428,
+          "quote_count": 166,
+          "reply_count": 48,
+          "retweet_count": 15777
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jocXgxAw1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 796,
+          "like_count": 3267,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1562
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T01:27:28.000Z",
+        "description": "222 ༻✧",
+        "id": "1492309312345153542",
+        "location": "she/her",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631832561797218304/x0BfxNvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259917,
+          "following_count": 14819,
+          "like_count": 10551,
+          "listed_count": 566,
+          "media_count": 5298,
+          "tweet_count": 9986
+        },
+        "username": "astralbaes",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014727589693423849",
+    "created_at": "2026-01-23T17:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014757653499805757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933596840907194368",
+          "start": 0,
+          "username": "Skyrshzone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014757653499805757",
+    "in_reply_to_user_id": "1933596840907194368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014727589693423849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skyrshzone 好阔耐呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014727570302873600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XADPsWsAAIEa4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014727589693423849",
+        "created_at": "2026-01-23T17:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014757653499805757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933596840907194368",
+              "start": 0,
+              "username": "Skyrshzone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014757653499805757",
+        "in_reply_to_user_id": "1933596840907194368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014727589693423849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyrshzone 好阔耐呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014727570302873600"
+          ]
+        },
+        "author_id": "1933596840907194368",
+        "conversation_id": "2014727589693423849",
+        "created_at": "2026-01-23T15:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014727589693423849"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "不敬"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "性轉換"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Plg3GgRzg",
+              "end": 58,
+              "expanded_url": "https://x.com/Skyrshzone/status/2014727589693423849/photo/1",
+              "media_key": "3_2014727570302873600",
+              "start": 35,
+              "url": "https://t.co/2Plg3GgRzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014727589693423849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了明治天皇的性转换\n服装细节画的好难受可能画错了\n#不敬 #性轉換 https://t.co/2Plg3GgRzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 888,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T18:46:41.000Z",
+        "description": "洒上空枝见血痕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyrshzone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/skyrshzone",
+                "start": 0,
+                "url": "https://t.co/HD89N6wsf8"
+              }
+            ]
+          }
+        },
+        "id": "1933596840907194368",
+        "location": "he/they",
+        "name": "冷川緒",
+        "pinned_tweet_id": "1988688915491111349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286882656739328/Exu94cdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 140,
+          "like_count": 45194,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/HD89N6wsf8",
+        "username": "Skyrshzone",
+        "verified": false
+      }
+    ]
+  }
+}

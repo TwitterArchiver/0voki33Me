@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2008905638680875276",
+    "created_at": "2026-01-10T02:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T03:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009811346729431377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463718627287318528",
+          "start": 0,
+          "username": "chanyeo19151906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009811346729431377",
+    "in_reply_to_user_id": "1463718627287318528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008905638680875276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanyeo19151906 瓷爹已严肃跳钢管舞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008905627096276992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ERBjJbYAAhRV2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2008905638680875276",
+        "created_at": "2026-01-10T02:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009811346729431377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463718627287318528",
+              "start": 0,
+              "username": "chanyeo19151906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009811346729431377",
+        "in_reply_to_user_id": "1463718627287318528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008905638680875276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanyeo19151906 瓷爹已严肃跳钢管舞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008905627096276992"
+          ]
+        },
+        "author_id": "1463718627287318528",
+        "conversation_id": "2008905638680875276",
+        "created_at": "2026-01-07T14:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008905638680875276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0itRzdanBj",
+              "end": 29,
+              "expanded_url": "https://x.com/chanyeo19151906/status/2008905638680875276/photo/1",
+              "media_key": "3_2008905627096276992",
+              "start": 6,
+              "url": "https://t.co/0itRzdanBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008905638680875276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求萌点解析 https://t.co/0itRzdanBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 778,
+          "like_count": 3140,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1489
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:58:24.000Z",
+        "description": "🚪88",
+        "id": "1463718627287318528",
+        "name": "鸣asuka.(接推广)",
+        "pinned_tweet_id": "1582858834569490432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597513750055047169/mG4qlnA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 39,
+          "like_count": 1141,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 1326
+        },
+        "username": "chanyeo19151906",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1994812057200594962",
+    "created_at": "2025-11-29T16:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994812057200594962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1409773996401332247",
+          "start": 3,
+          "username": "suzukasuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994812057200594962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 398
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994452004169814075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @suzukasuraimu: 你们这些搞政治的老登有矛盾能不能自己去八角笼解决，不要老是互相出傻逼政策影响普通人的日常生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1994812057200594962",
+        "created_at": "2025-11-29T16:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994812057200594962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1409773996401332247",
+              "start": 3,
+              "username": "suzukasuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994812057200594962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 398
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994452004169814075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @suzukasuraimu: 你们这些搞政治的老登有矛盾能不能自己去八角笼解决，不要老是互相出傻逼政策影响普通人的日常生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409773996401332247",
+        "conversation_id": "1994452004169814075",
+        "created_at": "2025-11-28T17:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994452004169814075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994452004169814075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 321810,
+          "like_count": 4070,
+          "quote_count": 43,
+          "reply_count": 126,
+          "retweet_count": 398
+        },
+        "reply_settings": "following",
+        "text": "你们这些搞政治的老登有矛盾能不能自己去八角笼解决，不要老是互相出傻逼政策影响普通人的日常生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 246,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 186
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T07:21:39.000Z",
+        "description": "20↑（🗿）／雑多 /AI🚫/📩：wsuraimu9@gmail.com (近期事务繁忙暂不接稿）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78842626",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78842626",
+                "start": 0,
+                "url": "https://t.co/NuyVJAqWsM"
+              }
+            ]
+          }
+        },
+        "id": "1409773996401332247",
+        "location": "京都",
+        "name": "suzukasuraimu👽",
+        "pinned_tweet_id": "1978434844871786503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780864198211436544/rNNO4PQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112295,
+          "following_count": 4006,
+          "like_count": 100802,
+          "listed_count": 738,
+          "media_count": 560,
+          "tweet_count": 9113
+        },
+        "url": "https://t.co/NuyVJAqWsM",
+        "username": "suzukasuraimu",
+        "verified": false
+      }
+    ]
+  }
+}

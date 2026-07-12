@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024387741921005571"
+      ],
+      "media_source_tweet_id": [
+        "2024393518115078487"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2024520335450845564",
+    "created_at": "2026-02-19T16:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024520335450845564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796955557183795200",
+          "start": 3,
+          "username": "All_AI_ll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KVS88k8SR9",
+          "end": 38,
+          "expanded_url": "https://x.com/All_AI_ll/status/2024393518115078487/photo/1",
+          "media_key": "3_2024387741921005571",
+          "start": 15,
+          "url": "https://t.co/KVS88k8SR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024520335450845564",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024393518115078487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @All_AI_ll: https://t.co/KVS88k8SR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ai",
+        "height": 928,
+        "media_key": "3_2024387741921005571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgR7PTbUAMxejK.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024387741921005571"
+          ],
+          "media_source_tweet_id": [
+            "2024393518115078487"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2024520335450845564",
+        "created_at": "2026-02-19T16:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024520335450845564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796955557183795200",
+              "start": 3,
+              "username": "All_AI_ll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVS88k8SR9",
+              "end": 38,
+              "expanded_url": "https://x.com/All_AI_ll/status/2024393518115078487/photo/1",
+              "media_key": "3_2024387741921005571",
+              "start": 15,
+              "url": "https://t.co/KVS88k8SR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520335450845564",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024393518115078487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @All_AI_ll: https://t.co/KVS88k8SR9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024387741921005571"
+          ]
+        },
+        "author_id": "1796955557183795200",
+        "conversation_id": "2024393518115078487",
+        "created_at": "2026-02-19T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024393518115078487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVS88k8SR9",
+              "end": 23,
+              "expanded_url": "https://x.com/All_AI_ll/status/2024393518115078487/photo/1",
+              "media_key": "3_2024387741921005571",
+              "start": 0,
+              "url": "https://t.co/KVS88k8SR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024393518115078487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 9115,
+          "like_count": 1010,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KVS88k8SR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024507363542421608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1091,
+          "like_count": 5173,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3614
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:23:04.000Z",
+        "description": "https://t.co/DC0vQgD55t   @All_Al_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "All_Al_1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fellowship.xyz/artist/all-ai-…",
+                "end": 23,
+                "expanded_url": "https://fellowship.xyz/artist/all-ai-ii",
+                "start": 0,
+                "url": "https://t.co/DC0vQgD55t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/All_Al_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/All_Al_",
+                "start": 0,
+                "url": "https://t.co/KHbL9Uj7jf"
+              }
+            ]
+          }
+        },
+        "id": "1796955557183795200",
+        "name": "All-AI-Ⅱ🌩️",
+        "pinned_tweet_id": "2019699108068655299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907842433959997440/TKfbPNIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4387,
+          "following_count": 632,
+          "like_count": 15280,
+          "listed_count": 32,
+          "media_count": 720,
+          "tweet_count": 2635
+        },
+        "url": "https://t.co/KHbL9Uj7jf",
+        "username": "All_AI_ll",
+        "verified": false
+      }
+    ]
+  }
+}

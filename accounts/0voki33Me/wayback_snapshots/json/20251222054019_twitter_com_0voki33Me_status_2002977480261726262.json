@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002974463386845482",
+    "created_at": "2025-12-22T05:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T06:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002977480261726262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "451578976",
+          "start": 0,
+          "username": "tylertheuzivert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002977480261726262",
+    "in_reply_to_user_id": "451578976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002974463386845482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tylertheuzivert 好萌呀～像古早樱花妹lo娘🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2002974453433503744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8v-pzcWEAAeCnK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002974463386845482",
+        "created_at": "2025-12-22T05:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002977480261726262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "451578976",
+              "start": 0,
+              "username": "tylertheuzivert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002977480261726262",
+        "in_reply_to_user_id": "451578976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002974463386845482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tylertheuzivert 好萌呀～像古早樱花妹lo娘🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002974453433503744"
+          ]
+        },
+        "author_id": "451578976",
+        "conversation_id": "2002974463386845482",
+        "created_at": "2025-12-22T05:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002974463386845482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzYXSCrqfM",
+              "end": 26,
+              "expanded_url": "https://x.com/tylertheuzivert/status/2002974463386845482/photo/1",
+              "media_key": "3_2002974453433503744",
+              "start": 3,
+              "url": "https://t.co/MzYXSCrqfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002974463386845482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好傻 https://t.co/MzYXSCrqfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 544,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T18:16:39.000Z",
+        "description": "一个ADHDer……..大部分促智药都有，目前正常发货 私信回复不及时可联系Tg @tylertheuzivert TG药物频道https://t.co/z3VdoIPVmT 投诉快递一律不退不发货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "tylertheuzivert"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 87,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 64,
+                "url": "https://t.co/z3VdoIPVmT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 23,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 0,
+                "url": "https://t.co/z3VdoIPVmT"
+              }
+            ]
+          }
+        },
+        "id": "451578976",
+        "name": "Tyler促智/苯基吡拉西坦/Noopept/专注达",
+        "pinned_tweet_id": "2002736617103253770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977015448563785728/M-BtDaob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 87,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/z3VdoIPVmT",
+        "username": "tylertheuzivert",
+        "verified": true
+      }
+    ]
+  }
+}

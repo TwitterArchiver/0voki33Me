@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997187934273826816"
+      ],
+      "media_source_tweet_id": [
+        "1997187941337084144"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997849614268121251",
+    "created_at": "2025-12-08T02:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T03:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997849614268121251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991773526022569984",
+          "start": 3,
+          "username": "ayami___000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GlLyy5eBdj",
+          "end": 46,
+          "expanded_url": "https://x.com/ayami___000/status/1997187941337084144/photo/1",
+          "media_key": "3_1997187934273826816",
+          "start": 23,
+          "url": "https://t.co/GlLyy5eBdj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997849614268121251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997187941337084144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayami___000: Heart https://t.co/GlLyy5eBdj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997187934273826816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dv2DwWcAA9ySn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997187934273826816"
+          ],
+          "media_source_tweet_id": [
+            "1997187941337084144"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997849614268121251",
+        "created_at": "2025-12-08T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997849614268121251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991773526022569984",
+              "start": 3,
+              "username": "ayami___000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlLyy5eBdj",
+              "end": 46,
+              "expanded_url": "https://x.com/ayami___000/status/1997187941337084144/photo/1",
+              "media_key": "3_1997187934273826816",
+              "start": 23,
+              "url": "https://t.co/GlLyy5eBdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997849614268121251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997187941337084144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayami___000: Heart https://t.co/GlLyy5eBdj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997187934273826816"
+          ]
+        },
+        "author_id": "1991773526022569984",
+        "conversation_id": "1997187941337084144",
+        "created_at": "2025-12-06T06:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997187941337084144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlLyy5eBdj",
+              "end": 29,
+              "expanded_url": "https://x.com/ayami___000/status/1997187941337084144/photo/1",
+              "media_key": "3_1997187934273826816",
+              "start": 6,
+              "url": "https://t.co/GlLyy5eBdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997187941337084144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 10301,
+          "like_count": 2029,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "Heart https://t.co/GlLyy5eBdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 313,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 302
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T07:40:03.000Z",
+        "description": "Ayami | 🇯🇵+🇨🇦 | 19 | BPD+ASPD+AN",
+        "id": "1991773526022569984",
+        "name": "斐海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991774485431873539/4bayiWyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 41,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "username": "ayami___000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997757356042793098",
+    "created_at": "2025-12-08T05:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T06:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997902193857646718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695484339243618304",
+          "start": 0,
+          "username": "k_wdbqrwmcsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997902193857646718",
+    "in_reply_to_user_id": "1695484339243618304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997757356042793098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k_wdbqrwmcsi 看到有钱人我抑郁症就犯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997757356042793098",
+        "created_at": "2025-12-08T05:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997902193857646718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695484339243618304",
+              "start": 0,
+              "username": "k_wdbqrwmcsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997902193857646718",
+        "in_reply_to_user_id": "1695484339243618304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997757356042793098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k_wdbqrwmcsi 看到有钱人我抑郁症就犯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695484339243618304",
+        "conversation_id": "1997757356042793098",
+        "created_at": "2025-12-07T19:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T20:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997757356042793098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997757356042793098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有钱人我抑郁症就犯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 325,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 317
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T17:12:30.000Z",
+        "description": "提問箱https://t.co/mHRm2QZhZF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/YKLYXP",
+                "end": 26,
+                "expanded_url": "https://qntwx.cn/YKLYXP",
+                "start": 3,
+                "url": "https://t.co/mHRm2QZhZF"
+              }
+            ]
+          }
+        },
+        "id": "1695484339243618304",
+        "location": "🚪52好友位",
+        "name": "ha2e1_",
+        "pinned_tweet_id": "1992241990755660207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997259932237008896/fgG_SUK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 155,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 254
+        },
+        "username": "k_wdbqrwmcsi",
+        "verified": false
+      }
+    ]
+  }
+}

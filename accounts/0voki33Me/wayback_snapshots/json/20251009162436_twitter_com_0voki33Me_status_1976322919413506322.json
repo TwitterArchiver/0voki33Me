@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976322909854715904"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1976322919413506322",
+    "created_at": "2025-10-09T16:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T17:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976322919413506322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6VaG7R10UZ",
+          "end": 43,
+          "expanded_url": "https://x.com/0voki33Me/status/1976322919413506322/photo/1",
+          "media_key": "3_1976322909854715904",
+          "start": 20,
+          "url": "https://t.co/6VaG7R10UZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976322919413506322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢安非他酮好饿但是我一点也不想吃东西 https://t.co/6VaG7R10UZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976322909854715904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21PNytbUAAfg6a.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976322909854715904"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1976322919413506322",
+        "created_at": "2025-10-09T16:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976322919413506322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VaG7R10UZ",
+              "end": 43,
+              "expanded_url": "https://x.com/0voki33Me/status/1976322919413506322/photo/1",
+              "media_key": "3_1976322909854715904",
+              "start": 20,
+              "url": "https://t.co/6VaG7R10UZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976322919413506322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢安非他酮好饿但是我一点也不想吃东西 https://t.co/6VaG7R10UZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫----------- ♡⃝OD  ♡⃝自伤♡⃝ED-jc♡⃝",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 208,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 137
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

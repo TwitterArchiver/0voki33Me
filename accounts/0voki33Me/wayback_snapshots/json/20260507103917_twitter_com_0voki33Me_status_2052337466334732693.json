@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2052337466334732693",
+    "created_at": "2026-05-07T10:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052337466334732693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052289831586443357",
+          "start": 15,
+          "url": "https://t.co/C3JCpemCMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052337466334732693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052289831586443357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做这个的人真是全家人死光了啊 https://t.co/C3JCpemCMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1970,
+        "media_key": "3_2052168962591318016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrEzHJWYAAbsg2.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2052337466334732693",
+        "created_at": "2026-05-07T10:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052337466334732693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052289831586443357",
+              "start": 15,
+              "url": "https://t.co/C3JCpemCMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052337466334732693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052289831586443357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做这个的人真是全家人死光了啊 https://t.co/C3JCpemCMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052168962591318016"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2052289831586443357",
+        "created_at": "2026-05-07T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052289831586443357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zn9cuPpkoK",
+              "end": 61,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2052289831586443357/photo/1",
+              "media_key": "3_2052168962591318016",
+              "start": 38,
+              "url": "https://t.co/zn9cuPpkoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052289831586443357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 31578,
+          "like_count": 235,
+          "quote_count": 12,
+          "reply_count": 98,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "5月5日，一网友拍下山东潍坊植物园的立牌\n《提高人口出生率从停止流产开始》 https://t.co/zn9cuPpkoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1181,
+          "like_count": 6607,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 6472
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216604,
+          "following_count": 1041,
+          "like_count": 9472,
+          "listed_count": 8716,
+          "media_count": 46356,
+          "tweet_count": 53453
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

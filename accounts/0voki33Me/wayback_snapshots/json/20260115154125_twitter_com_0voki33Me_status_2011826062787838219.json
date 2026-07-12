@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2011826062787838219",
+    "created_at": "2026-01-15T15:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T16:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011826062787838219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/boillnes/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/boillnes/status/1979700927197311035",
+          "start": 13,
+          "url": "https://t.co/ROdKHpqECp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011826062787838219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979700927197311035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操这样割看的我手好痛… https://t.co/ROdKHpqECp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25913,
+        "height": 1270,
+        "media_key": "7_1979700888127094784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979700888127094784/pu/img/_etqmG7plSyq0hnL.jpg",
+        "public_metrics": {
+          "view_count": 14323
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979700888127094784/pu/vid/avc1/320x564/C2CJoglmSMqDlpbO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979700888127094784/pu/vid/avc1/480x846/xIU-rJwEpVqHo9fM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979700888127094784/pu/vid/avc1/720x1270/8-CA0VhX2T_6bIeB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979700888127094784/pu/pl/ARl8-KsEA_FFKaZd.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2011826062787838219",
+        "created_at": "2026-01-15T15:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011826062787838219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boillnes/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/boillnes/status/1979700927197311035",
+              "start": 13,
+              "url": "https://t.co/ROdKHpqECp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011826062787838219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979700927197311035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操这样割看的我手好痛… https://t.co/ROdKHpqECp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979700888127094784"
+          ]
+        },
+        "author_id": "1753556247058472962",
+        "conversation_id": "1979700927197311035",
+        "created_at": "2025-10-19T00:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T01:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979700927197311035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IHOFAxvao",
+              "end": 30,
+              "expanded_url": "https://x.com/boillnes/status/1979700927197311035/video/1",
+              "media_key": "7_1979700888127094784",
+              "start": 7,
+              "url": "https://t.co/0IHOFAxvao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979700927197311035",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 734,
+          "impression_count": 35942,
+          "like_count": 2358,
+          "quote_count": 15,
+          "reply_count": 39,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/0IHOFAxvao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 807,
+          "like_count": 3349,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1642
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T23:10:35.000Z",
+        "description": "nom nom \n\n     🔪🔪          none of my post are mine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindme.com",
+                "end": 23,
+                "expanded_url": "http://mindme.com",
+                "start": 0,
+                "url": "https://t.co/4ZMkyirqF2"
+              }
+            ]
+          }
+        },
+        "id": "1753556247058472962",
+        "location": "mlm",
+        "name": "iboi",
+        "pinned_tweet_id": "1979771507804197189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996668197546639360/XPOulWW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5623,
+          "following_count": 73,
+          "like_count": 4363,
+          "listed_count": 9,
+          "media_count": 253,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/4ZMkyirqF2",
+        "username": "boillnes",
+        "verified": false
+      }
+    ]
+  }
+}

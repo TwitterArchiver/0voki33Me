@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999624087623090181"
+      ],
+      "media_source_tweet_id": [
+        "1999624195257565686"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1999958794017948063",
+    "created_at": "2025-12-13T21:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T22:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999958794017948063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1397576363205439489",
+          "start": 3,
+          "username": "jakejfried"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/idKN7ro80g",
+          "end": 39,
+          "expanded_url": "https://x.com/jakejfried/status/1999624195257565686/video/1",
+          "media_key": "13_1999624087623090181",
+          "start": 16,
+          "url": "https://t.co/idKN7ro80g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999958794017948063",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999624195257565686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jakejfried: https://t.co/idKN7ro80g"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 1080,
+        "media_key": "13_1999624087623090181",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999624087623090181/img/X68cNPWE5Bu--iPr.jpg",
+        "public_metrics": {
+          "view_count": 3452
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999624087623090181/vid/avc1/720x720/oT7AHtVJj-GqlzAV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999624087623090181/pl/8CBFkN6ll9HrkC4r.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999624087623090181/vid/avc1/540x540/okWFeZ1VVlFDT1BT.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999624087623090181/vid/avc1/320x320/ZwiNG2B4fFMdWvsT.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999624087623090181/vid/avc1/1080x1080/zW_gYya8RjH1XwnW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999624087623090181"
+          ],
+          "media_source_tweet_id": [
+            "1999624195257565686"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1999958794017948063",
+        "created_at": "2025-12-13T21:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T22:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999958794017948063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1397576363205439489",
+              "start": 3,
+              "username": "jakejfried"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/idKN7ro80g",
+              "end": 39,
+              "expanded_url": "https://x.com/jakejfried/status/1999624195257565686/video/1",
+              "media_key": "13_1999624087623090181",
+              "start": 16,
+              "url": "https://t.co/idKN7ro80g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999958794017948063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999624195257565686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jakejfried: https://t.co/idKN7ro80g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999624087623090181"
+          ]
+        },
+        "author_id": "1397576363205439489",
+        "conversation_id": "1999624195257565686",
+        "created_at": "2025-12-12T23:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999624195257565686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idKN7ro80g",
+              "end": 23,
+              "expanded_url": "https://x.com/jakejfried/status/1999624195257565686/video/1",
+              "media_key": "13_1999624087623090181",
+              "start": 0,
+              "url": "https://t.co/idKN7ro80g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999624195257565686",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 9813,
+          "like_count": 864,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/idKN7ro80g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出现生了请不要告诉我及任何人关于这个账号中我做的事情..这是我的第二人格，感恩///善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 476,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-26T15:32:42.000Z",
+        "description": "Artist 👁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shor.by/jakefried",
+                "end": 23,
+                "expanded_url": "https://shor.by/jakefried",
+                "start": 0,
+                "url": "https://t.co/NJZaOzJsAf"
+              }
+            ]
+          }
+        },
+        "id": "1397576363205439489",
+        "name": "Jake Fried",
+        "pinned_tweet_id": "1677757460809957376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587218663551148032/LV2IAUBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67805,
+          "following_count": 1871,
+          "like_count": 220441,
+          "listed_count": 790,
+          "media_count": 4267,
+          "tweet_count": 50046
+        },
+        "url": "https://t.co/NJZaOzJsAf",
+        "username": "jakejfried",
+        "verified": true
+      }
+    ]
+  }
+}

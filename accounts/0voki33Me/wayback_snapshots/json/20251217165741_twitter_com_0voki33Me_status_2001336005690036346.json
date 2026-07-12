@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2001336005690036346",
+    "created_at": "2025-12-17T16:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001336005690036346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vxzwr/status/2…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/vxzwr/status/2001073192232767794",
+          "start": 8,
+          "url": "https://t.co/e2iozB2ccf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001336005690036346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001073192232767794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我学数学就这样 https://t.co/e2iozB2ccf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2001073184322334725",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8U9dYEXsAU6MLC.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2001336005690036346",
+        "created_at": "2025-12-17T16:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001336005690036346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vxzwr/status/2…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/vxzwr/status/2001073192232767794",
+              "start": 8,
+              "url": "https://t.co/e2iozB2ccf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001336005690036346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001073192232767794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我学数学就这样 https://t.co/e2iozB2ccf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001073184322334725"
+          ]
+        },
+        "author_id": "1071809441274781698",
+        "conversation_id": "2001073192232767794",
+        "created_at": "2025-12-16T23:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T00:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001073192232767794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcvOZI85g0",
+              "end": 23,
+              "expanded_url": "https://x.com/vxzwr/status/2001073192232767794/photo/1",
+              "media_key": "3_2001073184322334725",
+              "start": 0,
+              "url": "https://t.co/IcvOZI85g0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001073192232767794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 895,
+          "impression_count": 790892,
+          "like_count": 17013,
+          "quote_count": 151,
+          "reply_count": 67,
+          "retweet_count": 2746
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IcvOZI85g0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 512,
+          "like_count": 1821,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T16:50:58.000Z",
+        "description": "",
+        "id": "1071809441274781698",
+        "name": "مرام",
+        "pinned_tweet_id": "1254893507241742338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720535339616342016/ijza_r7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33511,
+          "following_count": 544,
+          "like_count": 17910,
+          "listed_count": 22,
+          "media_count": 4592,
+          "tweet_count": 142572
+        },
+        "username": "vxzwr",
+        "verified": false
+      }
+    ]
+  }
+}

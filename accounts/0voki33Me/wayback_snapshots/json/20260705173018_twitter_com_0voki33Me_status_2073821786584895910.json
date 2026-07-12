@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2073821772064157740",
+    "created_at": "2026-07-05T17:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821786584895910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073821786584895910",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073821778837995569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道为什么，是又被的催债的拦下了，是有客人，还是只是不想回家？我记得太多个一家六口挤在狭窄卧室只吹一个风扇的闷热夏天。那些连开一会灯都要计算电费的日子我不想再重温了，可时至今日我爸还在赌博，家境的变化让他又忘了来时路。我多么希望你能像别的赌徒一样去自杀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2073821772064157740",
+        "created_at": "2026-07-05T17:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821786584895910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073821786584895910",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073821778837995569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道为什么，是又被的催债的拦下了，是有客人，还是只是不想回家？我记得太多个一家六口挤在狭窄卧室只吹一个风扇的闷热夏天。那些连开一会灯都要计算电费的日子我不想再重温了，可时至今日我爸还在赌博，家境的变化让他又忘了来时路。我多么希望你能像别的赌徒一样去自杀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2073821772064157740",
+        "created_at": "2026-07-05T17:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821778837995569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073821778837995569",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073821772064157740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要不要他都会打。妈妈来拦，他连妈妈一起打，邻居举报扰民，他拿出来菜刀砍家门。我见过他们在债主上门时跪在地上求他们宽限几天，在某个半夜突然收拾东西飞到别的地方去，在奶奶熟睡的时候偷走她的钱，很多很多，多到我记不清了。妈妈工作很努力，总是大半夜才回来，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1128,
+          "like_count": 6900,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 7054
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

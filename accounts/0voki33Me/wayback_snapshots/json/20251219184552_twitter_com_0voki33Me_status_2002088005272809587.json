@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001675356433182720",
+        "3_2001675356424773632",
+        "3_2001675356441579521",
+        "3_2001675356429074432"
+      ],
+      "media_source_tweet_id": [
+        "2001675365220258045",
+        "2001675365220258045",
+        "2001675365220258045",
+        "2001675365220258045"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002088005272809587",
+    "created_at": "2025-12-19T18:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T19:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002088005272809587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982429504225349632",
+          "start": 3,
+          "username": "AMadelaina"
+        },
+        {
+          "end": 37,
+          "id": "1998921643704696833",
+          "start": 23,
+          "username": "Ina_puppywwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vYg8dhikOO",
+          "end": 80,
+          "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+          "media_key": "3_2001675356433182720",
+          "start": 57,
+          "url": "https://t.co/vYg8dhikOO"
+        },
+        {
+          "display_url": "pic.x.com/vYg8dhikOO",
+          "end": 80,
+          "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+          "media_key": "3_2001675356424773632",
+          "start": 57,
+          "url": "https://t.co/vYg8dhikOO"
+        },
+        {
+          "display_url": "pic.x.com/vYg8dhikOO",
+          "end": 80,
+          "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+          "media_key": "3_2001675356441579521",
+          "start": 57,
+          "url": "https://t.co/vYg8dhikOO"
+        },
+        {
+          "display_url": "pic.x.com/vYg8dhikOO",
+          "end": 80,
+          "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+          "media_key": "3_2001675356429074432",
+          "start": 57,
+          "url": "https://t.co/vYg8dhikOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002088005272809587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001675365220258045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMadelaina: 我是椒椒，前世@Ina_puppywwww，被马斯克制裁冻结，现在求找回互关…… https://t.co/vYg8dhikOO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002088005272809587].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002088005272809587",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002088005272809587"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [Ina_puppywwww].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ina_puppywwww",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Ina_puppywwww"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001675356433182720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIZ_acAAWHpu.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001675356424773632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIZ9aIAAJ_m1.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001675356441579521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIaBakAEK_-2.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001675356429074432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIZ-bwAAFobN.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001675356433182720",
+            "3_2001675356424773632",
+            "3_2001675356441579521",
+            "3_2001675356429074432"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2001675365220258045",
+        "created_at": "2025-12-18T15:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001675365220258045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1998921643704696833",
+              "start": 7,
+              "username": "Ina_puppywwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356433182720",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            },
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356424773632",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            },
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356441579521",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            },
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356429074432",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001675365220258045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3080,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我是椒椒，前世@Ina_puppywwww，被马斯克制裁冻结，现在求找回互关…… https://t.co/vYg8dhikOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 534,
+          "like_count": 2050,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2001675365220258045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001801988561080321/KVTm5ajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 80,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 20
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

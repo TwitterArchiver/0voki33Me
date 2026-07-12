@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1998570410049495217",
+    "created_at": "2025-12-10T05:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T06:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998621563806204124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708301558516207616",
+          "start": 0,
+          "username": "arou_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998621563806204124",
+    "in_reply_to_user_id": "1708301558516207616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998570410049495217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arou_overdose 抱抱🫂🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1998570410049495217",
+        "created_at": "2025-12-10T05:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998621563806204124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708301558516207616",
+              "start": 0,
+              "username": "arou_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998621563806204124",
+        "in_reply_to_user_id": "1708301558516207616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998570410049495217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arou_overdose 抱抱🫂🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708301558516207616",
+        "conversation_id": "1998570410049495217",
+        "created_at": "2025-12-10T01:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998570410049495217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998570410049495217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才跟我爸吵架喊的我肺好疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------查成分回fo -------------------------------顺女 什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 390,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 397
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "🐈‍⬛電波｜污秽不堪的你最可愛了",
+        "id": "1708301558516207616",
+        "location": "存在しません",
+        "name": "吐き気",
+        "pinned_tweet_id": "1991200436980715658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982832575639883776/uwmtgmDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 145,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 665
+        },
+        "username": "arou_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

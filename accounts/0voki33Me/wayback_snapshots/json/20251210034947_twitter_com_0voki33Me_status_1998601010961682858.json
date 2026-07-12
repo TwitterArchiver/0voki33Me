@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998566401725079552"
+      ],
+      "media_source_tweet_id": [
+        "1998566404296159286"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1998601010961682858",
+    "created_at": "2025-12-10T03:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T04:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998601010961682858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3032650980",
+          "start": 3,
+          "username": "kanafuro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzKcHsQaa8",
+          "end": 37,
+          "expanded_url": "https://x.com/kanafuro/status/1998566404296159286/photo/1",
+          "media_key": "3_1998566401725079552",
+          "start": 14,
+          "url": "https://t.co/kzKcHsQaa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998601010961682858",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998566404296159286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanafuro: https://t.co/kzKcHsQaa8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1998566401725079552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xVjbLaoAAe5L8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998566401725079552"
+          ],
+          "media_source_tweet_id": [
+            "1998566404296159286"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998601010961682858",
+        "created_at": "2025-12-10T03:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998601010961682858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3032650980",
+              "start": 3,
+              "username": "kanafuro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzKcHsQaa8",
+              "end": 37,
+              "expanded_url": "https://x.com/kanafuro/status/1998566404296159286/photo/1",
+              "media_key": "3_1998566401725079552",
+              "start": 14,
+              "url": "https://t.co/kzKcHsQaa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998601010961682858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998566404296159286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanafuro: https://t.co/kzKcHsQaa8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998566401725079552"
+          ]
+        },
+        "author_id": "3032650980",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998566404296159286",
+        "created_at": "2025-12-10T01:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998566404296159286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzKcHsQaa8",
+              "end": 23,
+              "expanded_url": "https://x.com/kanafuro/status/1998566404296159286/photo/1",
+              "media_key": "3_1998566401725079552",
+              "start": 0,
+              "url": "https://t.co/kzKcHsQaa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998566404296159286",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2733,
+          "like_count": 234,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kzKcHsQaa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------查成分回fo -------------------------------顺女 什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 384,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 388
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T11:38:28.000Z",
+        "description": "漫画「売春島１９８１」（実話ナックルズ）「Suburban Hell 郊外地獄」(リイド社)「水乞い」(少年画報社)　\n挿絵「脱法」(実話ナックルズ)「なにか、いる」(大洋図書)　 等",
+        "id": "3032650980",
+        "name": "金風呂タロウ",
+        "pinned_tweet_id": "1993940833700335740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641098149321404417/ULget4Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8337,
+          "following_count": 751,
+          "like_count": 5187,
+          "listed_count": 51,
+          "media_count": 595,
+          "tweet_count": 4313
+        },
+        "username": "kanafuro",
+        "verified": false
+      }
+    ]
+  }
+}

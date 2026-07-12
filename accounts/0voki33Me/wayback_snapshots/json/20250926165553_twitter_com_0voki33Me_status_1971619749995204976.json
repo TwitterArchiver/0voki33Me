@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1941808126258487594",
+    "created_at": "2025-09-26T16:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971619749995204976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660510716934361088",
+          "start": 0,
+          "username": "S_Studio42"
+        },
+        {
+          "end": 23,
+          "id": "1842423358216142849",
+          "start": 12,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971619749995204976",
+    "in_reply_to_user_id": "1660510716934361088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941808126258487594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Studio42 @keeganlike 仙品…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1941808126258487594",
+        "created_at": "2025-09-26T16:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971619749995204976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            },
+            {
+              "end": 23,
+              "id": "1842423358216142849",
+              "start": 12,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971619749995204976",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941808126258487594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 @keeganlike 仙品…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "1941808126258487594",
+        "created_at": "2025-07-06T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941808126258487594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941808126258487594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1879,
+          "impression_count": 1204649,
+          "like_count": 8545,
+          "quote_count": 46,
+          "reply_count": 220,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "半夜一点。你躺在床上，没开灯，手机亮着。\n视频里的女生喘得很小声，你也是。\n\n你盯着屏幕，手指夹在腿间，喉咙有点紧。对面房门有了响动，你本能地熄了屏，才觉得自己有些好笑——都已经毕业，还像在家里似的。\n又安静了，你知道他回屋了。回头看看——门是关的，锁也扣了。你垫着内裤，轻轻夹住了枕头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 200,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 102
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1954839686326935914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69363,
+          "following_count": 101,
+          "like_count": 10311,
+          "listed_count": 106,
+          "media_count": 16,
+          "tweet_count": 2010
+        },
+        "username": "S_Studio42",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧istp 泛 经常发疯 所发自拍均加美颜现实丑逼一个",
+        "id": "1842423358216142849",
+        "location": "纯绿门288/520",
+        "name": "泡泡",
+        "pinned_tweet_id": "1953846546656546913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939713975027163136/nI9UOskh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24417,
+          "following_count": 265,
+          "like_count": 10165,
+          "listed_count": 20,
+          "media_count": 441,
+          "tweet_count": 7216
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014741025479393537",
+    "created_at": "2026-01-23T18:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T19:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014764270224064573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007386129331556352",
+          "start": 0,
+          "username": "tuki_7447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014764270224064573",
+    "in_reply_to_user_id": "2007386129331556352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014741025479393537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuki_7447 好阔爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014741007703871488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XMRZ6aEAAEznq.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014741025479393537",
+        "created_at": "2026-01-23T18:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T19:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014764270224064573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007386129331556352",
+              "start": 0,
+              "username": "tuki_7447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014764270224064573",
+        "in_reply_to_user_id": "2007386129331556352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014741025479393537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuki_7447 好阔爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014741007703871488"
+          ]
+        },
+        "author_id": "2007386129331556352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014741025479393537",
+        "created_at": "2026-01-23T16:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014741025479393537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3RvpXJh9e",
+              "end": 30,
+              "expanded_url": "https://x.com/tuki_7447/status/2014741025479393537/photo/1",
+              "media_key": "3_2014741007703871488",
+              "start": 7,
+              "url": "https://t.co/J3RvpXJh9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014741025479393537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是本宝宝 https://t.co/J3RvpXJh9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 890,
+          "like_count": 3846,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T09:38:52.000Z",
+        "description": "我只想要永远的幸福 || 问坐标10r 语音验证免费 视频验证 15r || 欢迎小女孩互关互转",
+        "id": "2007386129331556352",
+        "location": "🚪88/188/288/388/520/1314…",
+        "name": "tuki",
+        "pinned_tweet_id": "2012209508882514141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011462966156328960/QexVSjFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 24,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 162
+        },
+        "username": "tuki_7447",
+        "verified": false
+      }
+    ]
+  }
+}

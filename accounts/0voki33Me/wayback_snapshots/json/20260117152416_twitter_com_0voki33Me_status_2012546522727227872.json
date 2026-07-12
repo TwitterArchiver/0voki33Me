@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012546522727227872",
+    "created_at": "2026-01-17T15:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012546522727227872"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012546522727227872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天我的左手臂被暴击了2778次闺蜜一直以为我戒掉自残了冲过来挽住我手臂。表面上我只是笑的怪怪的抽开手，内心里的我已经按住手臂倒地不起了痛死了。今天周末在外面人好多被陌生人也撞到好多次我想死我要痛死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012546522727227872",
+        "created_at": "2026-01-17T15:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012546522727227872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012546522727227872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我的左手臂被暴击了2778次闺蜜一直以为我戒掉自残了冲过来挽住我手臂。表面上我只是笑的怪怪的抽开手，内心里的我已经按住手臂倒地不起了痛死了。今天周末在外面人好多被陌生人也撞到好多次我想死我要痛死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 828,
+          "like_count": 3432,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

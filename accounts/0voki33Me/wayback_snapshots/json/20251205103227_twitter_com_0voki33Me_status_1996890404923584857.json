@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996397688946896896"
+      ],
+      "media_source_tweet_id": [
+        "1996397733633216996"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1996890404923584857",
+    "created_at": "2025-12-05T10:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996890404923584857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897633322391478272",
+          "start": 3,
+          "username": "skitzocat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ISgfy9Qnqi",
+          "end": 93,
+          "expanded_url": "https://x.com/skitzocat/status/1996397733633216996/video/1",
+          "media_key": "7_1996397688946896896",
+          "start": 70,
+          "url": "https://t.co/ISgfy9Qnqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996890404923584857",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6558
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996397733633216996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skitzocat: i think ill die still trying to figure out how to live https://t.co/ISgfy9Qnqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24196,
+        "height": 520,
+        "media_key": "7_1996397688946896896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996397688946896896/pu/img/Yl_KD3nJ9jlvfbdx.jpg",
+        "public_metrics": {
+          "view_count": 112765
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996397688946896896/pu/vid/avc1/372x270/OnuvDP3jungmd3WQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996397688946896896/pu/vid/avc1/498x360/RmZhBxvQKn1KJ25g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996397688946896896/pu/vid/avc1/720x520/Hri5TeeTmTyLsBgJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996397688946896896/pu/pl/D3I9d4RvvnrjvB2e.m3u8?v=27f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996397688946896896"
+          ],
+          "media_source_tweet_id": [
+            "1996397733633216996"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1996890404923584857",
+        "created_at": "2025-12-05T10:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996890404923584857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897633322391478272",
+              "start": 3,
+              "username": "skitzocat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISgfy9Qnqi",
+              "end": 93,
+              "expanded_url": "https://x.com/skitzocat/status/1996397733633216996/video/1",
+              "media_key": "7_1996397688946896896",
+              "start": 70,
+              "url": "https://t.co/ISgfy9Qnqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996890404923584857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6558
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996397733633216996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skitzocat: i think ill die still trying to figure out how to live https://t.co/ISgfy9Qnqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996397688946896896"
+          ]
+        },
+        "author_id": "1897633322391478272",
+        "conversation_id": "1996397733633216996",
+        "created_at": "2025-12-04T01:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996397733633216996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISgfy9Qnqi",
+              "end": 78,
+              "expanded_url": "https://x.com/skitzocat/status/1996397733633216996/video/1",
+              "media_key": "7_1996397688946896896",
+              "start": 55,
+              "url": "https://t.co/ISgfy9Qnqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996397733633216996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2408,
+          "impression_count": 217396,
+          "like_count": 27930,
+          "quote_count": 83,
+          "reply_count": 35,
+          "retweet_count": 6558
+        },
+        "reply_settings": "everyone",
+        "text": "i think ill die still trying to figure out how to live https://t.co/ISgfy9Qnqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 259,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 225
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T13:00:45.000Z",
+        "description": "shitposting | schizoposting | real",
+        "id": "1897633322391478272",
+        "location": "#shedtwt #AuDHD #him",
+        "name": "m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996392231054307329/kY6R0tyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4698,
+          "following_count": 1358,
+          "like_count": 23206,
+          "listed_count": 12,
+          "media_count": 145,
+          "tweet_count": 2069
+        },
+        "username": "skitzocat",
+        "verified": true
+      }
+    ]
+  }
+}

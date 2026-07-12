@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002116850784817152"
+      ],
+      "media_source_tweet_id": [
+        "2002116997799424314"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2002144852923080922",
+    "created_at": "2025-12-19T22:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T23:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002144852923080922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1854915067994841088",
+          "start": 3,
+          "username": "siquanjiale8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wN6L8w1sqX",
+          "end": 44,
+          "expanded_url": "https://x.com/siquanjiale8964/status/2002116997799424314/video/1",
+          "media_key": "13_2002116850784817152",
+          "start": 21,
+          "url": "https://t.co/wN6L8w1sqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002144852923080922",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002116997799424314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siquanjiale8964: https://t.co/wN6L8w1sqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11034,
+        "height": 720,
+        "media_key": "13_2002116850784817152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002116850784817152/img/OwY8RbOX8-vbLhdR.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002116850784817152/vid/avc1/480x270/cS8NTTFNO0gGYt0F.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002116850784817152/vid/avc1/640x360/Nth2BI_-_B06cs87.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002116850784817152/vid/avc1/1280x720/9UwC8KZBxi8xTV5t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002116850784817152/pl/2GiBqayo3AO3kZje.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002116850784817152"
+          ],
+          "media_source_tweet_id": [
+            "2002116997799424314"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002144852923080922",
+        "created_at": "2025-12-19T22:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T23:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002144852923080922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1854915067994841088",
+              "start": 3,
+              "username": "siquanjiale8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN6L8w1sqX",
+              "end": 44,
+              "expanded_url": "https://x.com/siquanjiale8964/status/2002116997799424314/video/1",
+              "media_key": "13_2002116850784817152",
+              "start": 21,
+              "url": "https://t.co/wN6L8w1sqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002144852923080922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002116997799424314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siquanjiale8964: https://t.co/wN6L8w1sqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002116850784817152"
+          ]
+        },
+        "author_id": "1854915067994841088",
+        "conversation_id": "2002116997799424314",
+        "created_at": "2025-12-19T20:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002116997799424314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wN6L8w1sqX",
+              "end": 23,
+              "expanded_url": "https://x.com/siquanjiale8964/status/2002116997799424314/video/1",
+              "media_key": "13_2002116850784817152",
+              "start": 0,
+              "url": "https://t.co/wN6L8w1sqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002116997799424314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wN6L8w1sqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 536,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "id": "1854915067994841088",
+        "location": "不闲聊 好友位52 聊天门520 没有线下不要问了",
+        "name": "泣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 161,
+          "like_count": 1283,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 2691
+        },
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

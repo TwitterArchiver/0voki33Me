@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2014721475769729461",
+    "created_at": "2026-01-23T15:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014727360789283053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1788540213360562176",
+          "start": 0,
+          "username": "shirayuki0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014727360789283053",
+    "in_reply_to_user_id": "1788540213360562176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014721475769729461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirayuki0403 歌手2026笑懵逼了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2014721475769729461",
+        "created_at": "2026-01-23T15:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014727360789283053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1788540213360562176",
+              "start": 0,
+              "username": "shirayuki0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014727360789283053",
+        "in_reply_to_user_id": "1788540213360562176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014721475769729461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirayuki0403 歌手2026笑懵逼了我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788540213360562176",
+        "conversation_id": "2014721475769729461",
+        "created_at": "2026-01-23T15:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014721475769729461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014721475769729461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要歌手了 我去参加歌手2026"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 885,
+          "like_count": 3816,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T12:03:19.000Z",
+        "description": "别说不亲我这种坏心眼的话",
+        "id": "1788540213360562176",
+        "location": "🚪88纯绿",
+        "name": "小露乱撞",
+        "pinned_tweet_id": "2013986158561382821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013983246737125376/2AhKbvLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 175,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 495
+        },
+        "username": "shirayuki0403",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1976847934626185364",
+    "created_at": "2025-10-12T01:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T02:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977185665248116821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977185665248116821",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976847934626185364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 这是猪吗……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35874,
+        "height": 1280,
+        "media_key": "13_1976847880645484544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976847880645484544/img/vqOOB1saG8yp6NyY.jpg",
+        "public_metrics": {
+          "view_count": 29055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976847880645484544/vid/avc1/320x568/laomLpb7VcdpI5yw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976847880645484544/vid/avc1/480x852/yMzRkfLbOTt1enE2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976847880645484544/vid/avc1/720x1280/Em-9a6izkFnlVRLY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976847880645484544/pl/rKj-fyO3g79BF9PI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1976847934626185364",
+        "created_at": "2025-10-12T01:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T02:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977185665248116821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977185665248116821",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976847934626185364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 这是猪吗……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976847880645484544"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1976847934626185364",
+        "created_at": "2025-10-11T03:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976847934626185364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKquf8IFUQ",
+              "end": 28,
+              "expanded_url": "https://x.com/lover_ning/status/1976847934626185364/video/1",
+              "media_key": "13_1976847880645484544",
+              "start": 5,
+              "url": "https://t.co/wKquf8IFUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976847934626185364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 54984,
+          "like_count": 140,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷… https://t.co/wKquf8IFUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝----------糊逼一枚可以找我互fo ------------------#edtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "edtwt"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 217,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 147
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238071,
+          "following_count": 106,
+          "like_count": 33346,
+          "listed_count": 446,
+          "media_count": 3225,
+          "tweet_count": 28181
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

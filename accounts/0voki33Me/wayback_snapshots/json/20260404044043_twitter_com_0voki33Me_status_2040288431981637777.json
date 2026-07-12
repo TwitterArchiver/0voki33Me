@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2040156410873565445",
+    "created_at": "2026-04-04T04:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040288431981637777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1658602352704643072",
+          "start": 0,
+          "username": "vertigovinylga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040288431981637777",
+    "in_reply_to_user_id": "1658602352704643072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040156410873565445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vertigovinylga 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040156405605511169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAXcRJasAEazbM.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040156405697806337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAXcRfbAAE6m5S.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2040156410873565445",
+        "created_at": "2026-04-04T04:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040288431981637777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658602352704643072",
+              "start": 0,
+              "username": "vertigovinylga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040288431981637777",
+        "in_reply_to_user_id": "1658602352704643072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040156410873565445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vertigovinylga 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040156405605511169",
+            "3_2040156405697806337"
+          ]
+        },
+        "author_id": "1658602352704643072",
+        "conversation_id": "2040156410873565445",
+        "created_at": "2026-04-03T19:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040156410873565445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZHEuz09sn",
+              "end": 304,
+              "expanded_url": "https://x.com/vertigovinylga/status/2040156410873565445/photo/1",
+              "media_key": "3_2040156405605511169",
+              "start": 281,
+              "url": "https://t.co/NZHEuz09sn"
+            },
+            {
+              "display_url": "pic.x.com/NZHEuz09sn",
+              "end": 304,
+              "expanded_url": "https://x.com/vertigovinylga/status/2040156410873565445/photo/1",
+              "media_key": "3_2040156405697806337",
+              "start": 281,
+              "url": "https://t.co/NZHEuz09sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040156410873565445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "vertigovinyl.com/vve/p/frost-ch…",
+                "end": 316,
+                "expanded_url": "https://vertigovinyl.com/vve/p/frost-children",
+                "start": 293,
+                "url": "https://t.co/LzmZ3tg7a5"
+              }
+            ]
+          },
+          "text": "VV x Frost Children\n\nREPOST + FOLLOW TO ENTER GIVEAWAY FOR FREE COPY\n\nVV Exclusive: “SISTER” by Frost Children\n\nPressed on milky clear and violet color-in-color with black and orchid splatter, this release is limited to 500 hand-numbered copies. Once it’s sold out, it will not be repressed.\n\nhttps://t.co/LzmZ3tg7a5"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 22901,
+          "like_count": 829,
+          "quote_count": 27,
+          "reply_count": 64,
+          "retweet_count": 524
+        },
+        "reply_settings": "everyone",
+        "text": "VV x Frost Children\n\nREPOST + FOLLOW TO ENTER GIVEAWAY FOR FREE COPY\n\nVV Exclusive: “SISTER” by Frost Children\n\nPressed on milky clear and violet color-in-color with black and orchid splatter, this release is limited to 500 hand-numbered copies. Once it’s sold out, it will not be https://t.co/NZHEuz09sn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1146,
+          "like_count": 6094,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 5254
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T22:36:38.000Z",
+        "description": "The Record Store",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vertigovinyl.com",
+                "end": 23,
+                "expanded_url": "http://www.vertigovinyl.com",
+                "start": 0,
+                "url": "https://t.co/PkVXsdvMhp"
+              }
+            ]
+          }
+        },
+        "id": "1658602352704643072",
+        "location": "Vertigo Vinyl",
+        "name": "Vertigo Vinyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658602655915163649/ejQWQ_tU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17065,
+          "following_count": 33,
+          "like_count": 338,
+          "listed_count": 6,
+          "media_count": 429,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/PkVXsdvMhp",
+        "username": "vertigovinylga",
+        "verified": true
+      }
+    ]
+  }
+}

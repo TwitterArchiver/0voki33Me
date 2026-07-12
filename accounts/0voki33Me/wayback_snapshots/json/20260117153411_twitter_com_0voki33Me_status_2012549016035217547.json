@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012549003364139008",
+        "3_2012549002265260032",
+        "3_2012549002177204224"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012549016035217547",
+    "created_at": "2026-01-17T15:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012549016035217547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/0voki33me",
+          "end": 23,
+          "expanded_url": "https://ngl.link/0voki33me",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2012193650202316800/uDL5I0UB?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2012193650202316800/uDL5I0UB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "@0voki33me: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/0voki33me",
+          "url": "https://t.co/cHdcY0vnuU"
+        },
+        {
+          "display_url": "pic.x.com/FKB6oiGIj1",
+          "end": 47,
+          "expanded_url": "https://x.com/0voki33Me/status/2012549016035217547/photo/1",
+          "media_key": "3_2012549003364139008",
+          "start": 24,
+          "url": "https://t.co/FKB6oiGIj1"
+        },
+        {
+          "display_url": "pic.x.com/FKB6oiGIj1",
+          "end": 47,
+          "expanded_url": "https://x.com/0voki33Me/status/2012549016035217547/photo/1",
+          "media_key": "3_2012549002265260032",
+          "start": 24,
+          "url": "https://t.co/FKB6oiGIj1"
+        },
+        {
+          "display_url": "pic.x.com/FKB6oiGIj1",
+          "end": 47,
+          "expanded_url": "https://x.com/0voki33Me/status/2012549016035217547/photo/1",
+          "media_key": "3_2012549002177204224",
+          "start": 24,
+          "url": "https://t.co/FKB6oiGIj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012549016035217547",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cHdcY0vnuU https://t.co/FKB6oiGIj1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012549003364139008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4Cp9aWAAALtk7.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012549002265260032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4Cp5UWcAAQmNX.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012549002177204224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4Cp4_W0AAbBhv.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012549003364139008",
+            "3_2012549002265260032",
+            "3_2012549002177204224"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012549016035217547",
+        "created_at": "2026-01-17T15:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012549016035217547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/0voki33me",
+              "end": 23,
+              "expanded_url": "https://ngl.link/0voki33me",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2012193650202316800/uDL5I0UB?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012193650202316800/uDL5I0UB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@0voki33me: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/0voki33me",
+              "url": "https://t.co/cHdcY0vnuU"
+            },
+            {
+              "display_url": "pic.x.com/FKB6oiGIj1",
+              "end": 47,
+              "expanded_url": "https://x.com/0voki33Me/status/2012549016035217547/photo/1",
+              "media_key": "3_2012549003364139008",
+              "start": 24,
+              "url": "https://t.co/FKB6oiGIj1"
+            },
+            {
+              "display_url": "pic.x.com/FKB6oiGIj1",
+              "end": 47,
+              "expanded_url": "https://x.com/0voki33Me/status/2012549016035217547/photo/1",
+              "media_key": "3_2012549002265260032",
+              "start": 24,
+              "url": "https://t.co/FKB6oiGIj1"
+            },
+            {
+              "display_url": "pic.x.com/FKB6oiGIj1",
+              "end": 47,
+              "expanded_url": "https://x.com/0voki33Me/status/2012549016035217547/photo/1",
+              "media_key": "3_2012549002177204224",
+              "start": 24,
+              "url": "https://t.co/FKB6oiGIj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012549016035217547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cHdcY0vnuU https://t.co/FKB6oiGIj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 828,
+          "like_count": 3436,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2047689311009550459",
+    "created_at": "2026-04-24T14:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047691987013476666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "nox8964"
+        },
+        {
+          "end": 22,
+          "id": "1802704441961017344",
+          "start": 9,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047691987013476666",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047689311009550459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nox8964 @misumikaede3 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2047689311009550459",
+        "created_at": "2026-04-24T14:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047691987013476666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "nox8964"
+            },
+            {
+              "end": 22,
+              "id": "1802704441961017344",
+              "start": 9,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691987013476666",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047689311009550459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nox8964 @misumikaede3 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2047689311009550459",
+        "created_at": "2026-04-24T14:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047689311009550459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2047681173665742868",
+              "start": 53,
+              "url": "https://t.co/NOm4h1LGTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047689311009550459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047681173665742868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃哈，我之前把两瓶子上标签都撕下来了，扎了好几针很疼我就以为是氯化钾，睡了一觉而已，抱歉各位让你们担心了 https://t.co/NOm4h1LGTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1148,
+          "like_count": 6386,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 6095
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "Ost von Berlin｜enby｜Social liberalism｜德语🇩🇪学习中｜Liberté, égalité, fraternité🇫🇷｜逃避现实通道：@saki8964\n叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚNachtɞ✟₊🌹🇩🇪🇪🇺#bot",
+        "pinned_tweet_id": "2046288778395021677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046665293007585280/RDbDyEiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 622,
+          "like_count": 9186,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "nox8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（大嘘）！enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#尾宿八",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1052,
+          "like_count": 30013,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 9059
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

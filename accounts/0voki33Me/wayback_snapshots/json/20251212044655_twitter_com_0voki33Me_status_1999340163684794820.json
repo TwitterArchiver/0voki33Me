@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998881010805587969"
+      ],
+      "media_source_tweet_id": [
+        "1999064116229804155"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1999340163684794820",
+    "created_at": "2025-12-12T04:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999340163684794820"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Mandatory Shot",
+          "probability": 0.8797,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Ivan Floro",
+          "probability": 0.9512,
+          "start": 35,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4166425527",
+          "start": 3,
+          "username": "solisolsoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0O6g9esIFV",
+          "end": 69,
+          "expanded_url": "https://x.com/solisolsoli/status/1999064116229804155/photo/1",
+          "media_key": "3_1998881010805587969",
+          "start": 46,
+          "url": "https://t.co/0O6g9esIFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999340163684794820",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999064116229804155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solisolsoli: Mandatory Shot by Ivan Floro https://t.co/0O6g9esIFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_1998881010805587969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G71zsFVXQAExvgp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998881010805587969"
+          ],
+          "media_source_tweet_id": [
+            "1999064116229804155"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1999340163684794820",
+        "created_at": "2025-12-12T04:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999340163684794820"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Mandatory Shot",
+              "probability": 0.8797,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Ivan Floro",
+              "probability": 0.9512,
+              "start": 35,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4166425527",
+              "start": 3,
+              "username": "solisolsoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0O6g9esIFV",
+              "end": 69,
+              "expanded_url": "https://x.com/solisolsoli/status/1999064116229804155/photo/1",
+              "media_key": "3_1998881010805587969",
+              "start": 46,
+              "url": "https://t.co/0O6g9esIFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999340163684794820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999064116229804155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solisolsoli: Mandatory Shot by Ivan Floro https://t.co/0O6g9esIFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998881010805587969"
+          ]
+        },
+        "author_id": "4166425527",
+        "conversation_id": "1999064116229804155",
+        "created_at": "2025-12-11T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999064116229804155"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Mandatory Shot",
+              "probability": 0.7257,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Ivan Floro",
+              "probability": 0.9445,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0O6g9esIFV",
+              "end": 52,
+              "expanded_url": "https://x.com/solisolsoli/status/1999064116229804155/photo/1",
+              "media_key": "3_1998881010805587969",
+              "start": 29,
+              "url": "https://t.co/0O6g9esIFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999064116229804155",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 71710,
+          "like_count": 5455,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "Mandatory Shot by Ivan Floro https://t.co/0O6g9esIFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出我现生了请不要告诉我也不要告诉任何人关于这个账号中我做的事情..这是我的第二人格谢谢，感恩",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 451,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 488
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCEOUD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCEOUD"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186189,
+          "following_count": 473,
+          "like_count": 13147,
+          "listed_count": 4110,
+          "media_count": 11620,
+          "tweet_count": 12996
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

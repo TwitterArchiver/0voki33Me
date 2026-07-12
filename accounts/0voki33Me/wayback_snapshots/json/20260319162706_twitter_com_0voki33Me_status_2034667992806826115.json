@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034667961840234496"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2034667992806826115",
+    "created_at": "2026-03-19T16:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034667992806826115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/adrfNEA1ZI",
+          "end": 53,
+          "expanded_url": "https://x.com/0voki33Me/status/2034667992806826115/photo/1",
+          "media_key": "3_2034667961840234496",
+          "start": 30,
+          "url": "https://t.co/adrfNEA1ZI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034667992806826115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "进食一些神秘的策划药，爸妈还醒着，呃，anyway 先吃吧 https://t.co/adrfNEA1ZI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034667992806826115].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034667992806826115",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034667992806826115"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034667961840234496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyXuy1a8AAQZ47.jpg",
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1176,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 4578
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997196366934953984"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1997196378632786389",
+    "created_at": "2025-12-06T06:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997196378632786389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXRCYDXpRd",
+          "end": 52,
+          "expanded_url": "https://x.com/0voki33Me/status/1997196378632786389/photo/1",
+          "media_key": "3_1997196366934953984",
+          "start": 29,
+          "url": "https://t.co/TXRCYDXpRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997196378632786389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然看不了演唱会了，但是白得1298元，这算厄运还是好运 https://t.co/TXRCYDXpRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997196366934953984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7d3g53b0AAVw0H.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997196366934953984"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1997196378632786389",
+        "created_at": "2025-12-06T06:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997196378632786389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXRCYDXpRd",
+              "end": 52,
+              "expanded_url": "https://x.com/0voki33Me/status/1997196378632786389/photo/1",
+              "media_key": "3_1997196366934953984",
+              "start": 29,
+              "url": "https://t.co/TXRCYDXpRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997196378632786389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然看不了演唱会了，但是白得1298元，这算厄运还是好运 https://t.co/TXRCYDXpRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女  什么都发 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 269,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 250
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

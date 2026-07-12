@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2058720951794360729",
+    "created_at": "2026-05-25T05:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058776276496990628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        },
+        {
+          "end": 23,
+          "id": "2013082274561220608",
+          "start": 13,
+          "username": "Lain75442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058776276496990628",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058720951794360729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly @Lain75442 我扛不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058720942650744832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJILyi5a4AAWTyF.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2058720951794360729",
+        "created_at": "2026-05-25T05:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058776276496990628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            },
+            {
+              "end": 23,
+              "id": "2013082274561220608",
+              "start": 13,
+              "username": "Lain75442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058776276496990628",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058720951794360729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly @Lain75442 我扛不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058720942650744832"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2058720951794360729",
+        "created_at": "2026-05-25T01:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058720951794360729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whi1zOuDUZ",
+              "end": 29,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+              "media_key": "3_2058720942650744832",
+              "start": 6,
+              "url": "https://t.co/whi1zOuDUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058720951794360729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 146100,
+          "like_count": 1479,
+          "quote_count": 17,
+          "reply_count": 98,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我炸了 https://t.co/whi1zOuDUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/khOzoFT1yx"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 1143,
+          "like_count": 6567,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 6506
+        },
+        "url": "https://t.co/khOzoFT1yx",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 523,
+          "like_count": 7615,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 4312
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T02:53:19.000Z",
+        "description": "飞蛾总是飞向有光的地方。大一某211哲学本科在读，梦想是成为哲学家。🌈｜168｜51。🈲NSFW、🈲政治。友好讨论，欢迎交流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asutaka.ink",
+                "end": 23,
+                "expanded_url": "https://www.asutaka.ink",
+                "start": 0,
+                "url": "https://t.co/lLTJa5d9Zv"
+              }
+            ]
+          }
+        },
+        "id": "2013082274561220608",
+        "location": "Anhui",
+        "name": "Lain_玲音",
+        "pinned_tweet_id": "2019402530883797134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013621867152560129/GYatXa4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1003,
+          "like_count": 2850,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/lLTJa5d9Zv",
+        "username": "Lain75442",
+        "verified": false
+      }
+    ]
+  }
+}

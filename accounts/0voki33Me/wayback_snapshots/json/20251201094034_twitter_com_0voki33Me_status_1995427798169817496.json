@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1995178069041229996",
+    "created_at": "2025-12-01T09:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T10:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995427798169817496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994689378783039488",
+          "start": 0,
+          "username": "nemulasete"
+        },
+        {
+          "end": 23,
+          "id": "1850957992776347648",
+          "start": 12,
+          "username": "xiaoduubb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995427798169817496",
+    "in_reply_to_user_id": "1994689378783039488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995419260357878005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemulasete @xiaoduubb_ 求……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1995178069041229996",
+        "created_at": "2025-12-01T09:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995427798169817496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994689378783039488",
+              "start": 0,
+              "username": "nemulasete"
+            },
+            {
+              "end": 23,
+              "id": "1850957992776347648",
+              "start": 12,
+              "username": "xiaoduubb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995427798169817496",
+        "in_reply_to_user_id": "1994689378783039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995419260357878005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemulasete @xiaoduubb_ 求……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994689378783039488",
+        "conversation_id": "1995178069041229996",
+        "created_at": "2025-12-01T09:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995419260357878005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850957992776347648",
+              "start": 0,
+              "username": "xiaoduubb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995419260357878005",
+        "in_reply_to_user_id": "1850957992776347648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995178069041229996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduubb_ 其实12r/年，每个月100G，比我一天饭钱还便宜）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 249,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 205
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T08:46:43.000Z",
+        "description": "病気垢注意⚠️ | ODリスカ なし | 喘息 うつ 不安障害 CPTSD | 水色医療系が好き | 上手くなりたい 特別になりたい | 皆さんも自分のことをもっと大事にね🥺",
+        "id": "1994689378783039488",
+        "name": "マイスリー",
+        "pinned_tweet_id": "1994977035782095352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994689949095092224/UrQU4ymq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "nemulasete",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T17:49:26.000Z",
+        "description": "滚滚滚",
+        "id": "1850957992776347648",
+        "location": "🚪188",
+        "name": "緣",
+        "pinned_tweet_id": "1993413596924264621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952159712272859136/Y5C28I8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 117,
+          "like_count": 13308,
+          "listed_count": 7,
+          "media_count": 256,
+          "tweet_count": 2830
+        },
+        "username": "xiaoduubb_",
+        "verified": false
+      }
+    ]
+  }
+}

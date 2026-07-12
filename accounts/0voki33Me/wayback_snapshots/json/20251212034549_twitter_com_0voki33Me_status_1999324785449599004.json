@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999075858527797248",
+        "3_1999075858523557888"
+      ],
+      "media_source_tweet_id": [
+        "1999075866111021199",
+        "1999075866111021199"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "1999324785449599004",
+    "created_at": "2025-12-12T03:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T04:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999324785449599004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683848549560377344",
+          "start": 3,
+          "username": "yasha7_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfxUf45yBP",
+          "end": 59,
+          "expanded_url": "https://x.com/yasha7_7/status/1999075866111021199/photo/1",
+          "media_key": "3_1999075858527797248",
+          "start": 36,
+          "url": "https://t.co/lfxUf45yBP"
+        },
+        {
+          "display_url": "pic.x.com/lfxUf45yBP",
+          "end": 59,
+          "expanded_url": "https://x.com/yasha7_7/status/1999075866111021199/photo/1",
+          "media_key": "3_1999075858523557888",
+          "start": 36,
+          "url": "https://t.co/lfxUf45yBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999324785449599004",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999075866111021199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yasha7_7: 이번 네일 진짜 마음에 들어용 🎀 .. https://t.co/lfxUf45yBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999075858527797248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74k5tqbwAApqBE.jpg",
+        "width": 1644
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999075858523557888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74k5tpbEAAA3ph.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999075858527797248",
+            "3_1999075858523557888"
+          ],
+          "media_source_tweet_id": [
+            "1999075866111021199",
+            "1999075866111021199"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "1999324785449599004",
+        "created_at": "2025-12-12T03:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999324785449599004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683848549560377344",
+              "start": 3,
+              "username": "yasha7_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfxUf45yBP",
+              "end": 59,
+              "expanded_url": "https://x.com/yasha7_7/status/1999075866111021199/photo/1",
+              "media_key": "3_1999075858527797248",
+              "start": 36,
+              "url": "https://t.co/lfxUf45yBP"
+            },
+            {
+              "display_url": "pic.x.com/lfxUf45yBP",
+              "end": 59,
+              "expanded_url": "https://x.com/yasha7_7/status/1999075866111021199/photo/1",
+              "media_key": "3_1999075858523557888",
+              "start": 36,
+              "url": "https://t.co/lfxUf45yBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999324785449599004",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999075866111021199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yasha7_7: 이번 네일 진짜 마음에 들어용 🎀 .. https://t.co/lfxUf45yBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999075858527797248",
+            "3_1999075858523557888"
+          ]
+        },
+        "author_id": "1683848549560377344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "1999075866111021199",
+        "created_at": "2025-12-11T11:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999075866111021199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfxUf45yBP",
+              "end": 45,
+              "expanded_url": "https://x.com/yasha7_7/status/1999075866111021199/photo/1",
+              "media_key": "3_1999075858527797248",
+              "start": 22,
+              "url": "https://t.co/lfxUf45yBP"
+            },
+            {
+              "display_url": "pic.x.com/lfxUf45yBP",
+              "end": 45,
+              "expanded_url": "https://x.com/yasha7_7/status/1999075866111021199/photo/1",
+              "media_key": "3_1999075858523557888",
+              "start": 22,
+              "url": "https://t.co/lfxUf45yBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999075866111021199",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 31489,
+          "like_count": 1007,
+          "quote_count": 55,
+          "reply_count": 3,
+          "retweet_count": 142
+        },
+        "reply_settings": "following",
+        "text": "이번 네일 진짜 마음에 들어용 🎀 .. https://t.co/lfxUf45yBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事/////认出我现生了请不要告诉我也不要告诉任何人关于这个账号中我做的事情..这是我的第二人格谢谢，感恩",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997581025162207232/QHUo0McK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 444,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 484
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T14:36:04.000Z",
+        "description": "@himorhym",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "himorhym"
+              }
+            ]
+          }
+        },
+        "id": "1683848549560377344",
+        "name": "사마루",
+        "pinned_tweet_id": "1989650710406074791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962131192519823360/60VI8Wwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4604,
+          "following_count": 79,
+          "like_count": 14348,
+          "listed_count": 15,
+          "media_count": 98,
+          "tweet_count": 609
+        },
+        "username": "yasha7_7",
+        "verified": false
+      }
+    ]
+  }
+}

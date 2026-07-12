@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2055310434123784686",
+    "created_at": "2026-06-03T15:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062190565324636241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607954692910518272",
+          "start": 0,
+          "username": "twink1e_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062190565324636241",
+    "in_reply_to_user_id": "1607954692910518272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055310434123784686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twink1e_03 19 5 20🐱🪷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2055310417505705984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXt72qWYAA4q7c.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2055310434123784686",
+        "created_at": "2026-06-03T15:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062190565324636241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607954692910518272",
+              "start": 0,
+              "username": "twink1e_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062190565324636241",
+        "in_reply_to_user_id": "1607954692910518272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055310434123784686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twink1e_03 19 5 20🐱🪷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055310417505705984"
+          ]
+        },
+        "author_id": "1607954692910518272",
+        "conversation_id": "2055310434123784686",
+        "created_at": "2026-05-15T15:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055310434123784686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbQix6Tn1L",
+              "end": 29,
+              "expanded_url": "https://x.com/twink1e_03/status/2055310434123784686/photo/1",
+              "media_key": "3_2055310417505705984",
+              "start": 6,
+              "url": "https://t.co/JbQix6Tn1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055310434123784686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1030,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想了解我 https://t.co/JbQix6Tn1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1163,
+          "like_count": 6654,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 6657
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T04:21:05.000Z",
+        "description": "如何凝视缘份看我们的每种眼神",
+        "id": "1607954692910518272",
+        "name": "蘑古力",
+        "pinned_tweet_id": "2058835231738839501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061390764580737024/QX1IVzWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 510,
+          "like_count": 9534,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1947
+        },
+        "username": "twink1e_03",
+        "verified": false
+      }
+    ]
+  }
+}

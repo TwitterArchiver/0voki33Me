@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012838086279921665",
+        "3_2012838087668158466",
+        "3_2012838086279905280"
+      ],
+      "media_source_tweet_id": [
+        "2012838124418957633",
+        "2012838124418957633",
+        "2012838124418957633"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2012955905881518512",
+    "created_at": "2026-01-18T18:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012955905881518512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1487334698422394882",
+          "start": 3,
+          "username": "ShukoMeiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oGpjf8buJw",
+          "end": 58,
+          "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+          "media_key": "3_2012838086279921665",
+          "start": 35,
+          "url": "https://t.co/oGpjf8buJw"
+        },
+        {
+          "display_url": "pic.x.com/oGpjf8buJw",
+          "end": 58,
+          "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+          "media_key": "3_2012838087668158466",
+          "start": 35,
+          "url": "https://t.co/oGpjf8buJw"
+        },
+        {
+          "display_url": "pic.x.com/oGpjf8buJw",
+          "end": 58,
+          "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+          "media_key": "3_2012838086279905280",
+          "start": 35,
+          "url": "https://t.co/oGpjf8buJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012955905881518512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012838124418957633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShukoMeiko: bispue doll\n《粉色闺房》 https://t.co/oGpjf8buJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2012838086279921665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8JkzMXgAEC4OC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012838087668158466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Jk4XWUAIZIXh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012838086279905280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8JkzMXQAA2Yxb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012838086279921665",
+            "3_2012838087668158466",
+            "3_2012838086279905280"
+          ],
+          "media_source_tweet_id": [
+            "2012838124418957633",
+            "2012838124418957633",
+            "2012838124418957633"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2012955905881518512",
+        "created_at": "2026-01-18T18:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012955905881518512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1487334698422394882",
+              "start": 3,
+              "username": "ShukoMeiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGpjf8buJw",
+              "end": 58,
+              "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+              "media_key": "3_2012838086279921665",
+              "start": 35,
+              "url": "https://t.co/oGpjf8buJw"
+            },
+            {
+              "display_url": "pic.x.com/oGpjf8buJw",
+              "end": 58,
+              "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+              "media_key": "3_2012838087668158466",
+              "start": 35,
+              "url": "https://t.co/oGpjf8buJw"
+            },
+            {
+              "display_url": "pic.x.com/oGpjf8buJw",
+              "end": 58,
+              "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+              "media_key": "3_2012838086279905280",
+              "start": 35,
+              "url": "https://t.co/oGpjf8buJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012955905881518512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012838124418957633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShukoMeiko: bispue doll\n《粉色闺房》 https://t.co/oGpjf8buJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012838086279921665",
+            "3_2012838087668158466",
+            "3_2012838086279905280"
+          ]
+        },
+        "author_id": "1487334698422394882",
+        "conversation_id": "2012838124418957633",
+        "created_at": "2026-01-18T10:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012838124418957633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGpjf8buJw",
+              "end": 42,
+              "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+              "media_key": "3_2012838086279921665",
+              "start": 19,
+              "url": "https://t.co/oGpjf8buJw"
+            },
+            {
+              "display_url": "pic.x.com/oGpjf8buJw",
+              "end": 42,
+              "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+              "media_key": "3_2012838087668158466",
+              "start": 19,
+              "url": "https://t.co/oGpjf8buJw"
+            },
+            {
+              "display_url": "pic.x.com/oGpjf8buJw",
+              "end": 42,
+              "expanded_url": "https://x.com/ShukoMeiko/status/2012838124418957633/photo/1",
+              "media_key": "3_2012838086279905280",
+              "start": 19,
+              "url": "https://t.co/oGpjf8buJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012838124418957633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 4976,
+          "like_count": 432,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "bispue doll\n《粉色闺房》 https://t.co/oGpjf8buJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 847,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T08:00:11.000Z",
+        "description": "鐘江銘浩 Shuko Meiko 👁️艺术人形作者👁️ 🪞创作人形展主办🪞 作品收藏请关注相关展览",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/AvkSb8xBjPU",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/AvkSb8xBjPU",
+                "start": 0,
+                "url": "https://t.co/nWbcRmaLu7"
+              }
+            ]
+          }
+        },
+        "id": "1487334698422394882",
+        "location": "台北市, 台灣",
+        "name": "鐘江銘浩",
+        "pinned_tweet_id": "2009480033849758203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009475568425951232/MBASRKrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 91,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/nWbcRmaLu7",
+        "username": "ShukoMeiko",
+        "verified": false
+      }
+    ]
+  }
+}

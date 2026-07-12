@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2017655456047702412",
+    "created_at": "2026-01-31T17:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017655456047702412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2017559688053678467",
+          "start": 13,
+          "url": "https://t.co/zBFHi3PHw8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017655456047702412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017559688053678467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今天在北京路玩了一天呃 https://t.co/zBFHi3PHw8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17166,
+        "height": 1280,
+        "media_key": "13_2017559085512589312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017559085512589312/img/_F76iVT5KxFbpfvx.jpg",
+        "public_metrics": {
+          "view_count": 287405
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017559085512589312/vid/avc1/320x568/T9EwDj_p_drs_QWe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017559085512589312/vid/avc1/480x852/P76Fw8TeHxnktwI1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017559085512589312/vid/avc1/720x1280/5xQHTl9xUG7-0HOJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017559085512589312/pl/PbOmLv4V8ZndcEfR.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2017655456047702412",
+        "created_at": "2026-01-31T17:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017655456047702412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2017559688053678467",
+              "start": 13,
+              "url": "https://t.co/zBFHi3PHw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017655456047702412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017559688053678467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天在北京路玩了一天呃 https://t.co/zBFHi3PHw8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017559085512589312"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2017559688053678467",
+        "created_at": "2026-01-31T11:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017559688053678467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5APIrO8V0B",
+              "end": 71,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017559688053678467/video/1",
+              "media_key": "13_2017559085512589312",
+              "start": 48,
+              "url": "https://t.co/5APIrO8V0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017559688053678467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 473691,
+          "like_count": 3117,
+          "quote_count": 23,
+          "reply_count": 163,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "广东广州，北京路商圈。\n一俄罗斯网友拍到 一男子高喊“穷人的命不是命是不是，共产党我操你妈！” https://t.co/5APIrO8V0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 955,
+          "like_count": 4383,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191284,
+          "following_count": 1011,
+          "like_count": 8881,
+          "listed_count": 8525,
+          "media_count": 40901,
+          "tweet_count": 47878
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

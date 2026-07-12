@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1993720613341643205",
+    "created_at": "2025-11-27T15:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994062622342205725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1954500072517103617",
+          "start": 0,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994062622342205725",
+    "in_reply_to_user_id": "1954500072517103617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993720613341643205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtxx333 我的妈呀说的啥呀这是……这是哪位啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1993720593137688576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6seUPdaYAA85ld.jpg",
+        "width": 375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1993720613341643205",
+        "created_at": "2025-11-27T15:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994062622342205725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954500072517103617",
+              "start": 0,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062622342205725",
+        "in_reply_to_user_id": "1954500072517103617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993720613341643205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtxx333 我的妈呀说的啥呀这是……这是哪位啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993720593137688576"
+          ]
+        },
+        "author_id": "1954500072517103617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993720613341643205",
+        "created_at": "2025-11-26T16:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993720613341643205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxbZ5eI9Gi",
+              "end": 114,
+              "expanded_url": "https://x.com/dtxx333/status/1993720613341643205/photo/1",
+              "media_key": "3_1993720593137688576",
+              "start": 91,
+              "url": "https://t.co/kxbZ5eI9Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993720613341643205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 112107,
+          "like_count": 364,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "因为我之前爱看某吸气女（已脱粉）所以我看小澈也比较多，他们pk 做节目效果说话很尖锐我理解，但他说辱女词我真受不了，所以我一直对他无感。他还有个小号叫什么“被弄坏”嗯嗯挺恶俗的吧。 https://t.co/kxbZ5eI9Gi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝ED-jc♡⃝绘画♡⃝---------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 238,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 184
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "纯🟢｜高三走读只有晚上上推｜只接转帖｜不出原味不约不线下不给肌肉评价｜私信只回口令 喜欢我就过🚪",
+        "id": "1954500072517103617",
+        "location": "绿🚪",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1991482470961934705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954607190750396416/OthEAx5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 288,
+          "like_count": 3688,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 1574
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

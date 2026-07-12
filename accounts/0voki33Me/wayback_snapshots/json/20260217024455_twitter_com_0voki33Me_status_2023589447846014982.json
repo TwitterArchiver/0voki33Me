@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023370105468731395"
+      ],
+      "media_source_tweet_id": [
+        "2023370120425529493"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2023589447846014982",
+    "created_at": "2026-02-17T02:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T03:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023589447846014982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770837614964211712",
+          "start": 3,
+          "username": "azull_estragon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqkHx6U8jb",
+          "end": 45,
+          "expanded_url": "https://x.com/azull_estragon/status/2023370120425529493/photo/1",
+          "media_key": "3_2023370105468731395",
+          "start": 22,
+          "url": "https://t.co/yqkHx6U8jb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023589447846014982",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023370120425529493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @azull_estragon: 🪰 https://t.co/yqkHx6U8jb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023370105468731395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR0ZAGbwAMf6KJ.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023370105468731395"
+          ],
+          "media_source_tweet_id": [
+            "2023370120425529493"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023589447846014982",
+        "created_at": "2026-02-17T02:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023589447846014982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1770837614964211712",
+              "start": 3,
+              "username": "azull_estragon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqkHx6U8jb",
+              "end": 45,
+              "expanded_url": "https://x.com/azull_estragon/status/2023370120425529493/photo/1",
+              "media_key": "3_2023370105468731395",
+              "start": 22,
+              "url": "https://t.co/yqkHx6U8jb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023589447846014982",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023370120425529493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @azull_estragon: 🪰 https://t.co/yqkHx6U8jb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023370105468731395"
+          ]
+        },
+        "author_id": "1770837614964211712",
+        "conversation_id": "2023370120425529493",
+        "created_at": "2026-02-16T12:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023370120425529493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqkHx6U8jb",
+              "end": 25,
+              "expanded_url": "https://x.com/azull_estragon/status/2023370120425529493/photo/1",
+              "media_key": "3_2023370105468731395",
+              "start": 2,
+              "url": "https://t.co/yqkHx6U8jb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023370120425529493",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 13459,
+          "like_count": 1776,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "reply_settings": "following",
+        "text": "🪰 https://t.co/yqkHx6U8jb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 1077,
+          "like_count": 5136,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3559
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T15:39:33.000Z",
+        "description": "",
+        "id": "1770837614964211712",
+        "location": "home",
+        "name": "azull",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880627965018697729/Y8H3Vv0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7558,
+          "following_count": 474,
+          "like_count": 2703,
+          "listed_count": 37,
+          "media_count": 161,
+          "tweet_count": 386
+        },
+        "username": "azull_estragon",
+        "verified": false
+      }
+    ]
+  }
+}

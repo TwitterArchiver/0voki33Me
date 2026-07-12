@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2005943794265395355",
+    "created_at": "2025-12-30T10:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005943794265395355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005943794265395355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些年我家里的情况逐渐好起来了我也逃离我的初中了，虽然很多东西我完全无法翻篇但是老实说我的痛慢慢的不再那么痛了。我看到一些互关们现在所在经历的我好心疼你们，真的。大家都要好起来好不好。😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2005943794265395355",
+        "created_at": "2025-12-30T10:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005943794265395355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005943794265395355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些年我家里的情况逐渐好起来了我也逃离我的初中了，虽然很多东西我完全无法翻篇但是老实说我的痛慢慢的不再那么痛了。我看到一些互关们现在所在经历的我好心疼你们，真的。大家都要好起来好不好。😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 642,
+          "like_count": 2757,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1175
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

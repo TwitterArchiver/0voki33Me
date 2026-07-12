@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2011344636414214394",
+    "created_at": "2026-01-14T09:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011367164763390305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854822884876689408",
+          "start": 0,
+          "username": "AdelineMor8046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011367164763390305",
+    "in_reply_to_user_id": "1854822884876689408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011344636414214394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdelineMor8046 哦哦好滴有种朴实的老农民听不懂普通话已读乱回的萌感，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011344629027713024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-m7SJYWMAAtvrr.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2011344636414214394",
+        "created_at": "2026-01-14T09:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011367164763390305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854822884876689408",
+              "start": 0,
+              "username": "AdelineMor8046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011367164763390305",
+        "in_reply_to_user_id": "1854822884876689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011344636414214394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdelineMor8046 哦哦好滴有种朴实的老农民听不懂普通话已读乱回的萌感，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011344629027713024"
+          ]
+        },
+        "author_id": "1854822884876689408",
+        "conversation_id": "2011344636414214394",
+        "created_at": "2026-01-14T07:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011344636414214394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0Jx0V2M7Y",
+              "end": 26,
+              "expanded_url": "https://x.com/AdelineMor8046/status/2011344636414214394/photo/1",
+              "media_key": "3_2011344629027713024",
+              "start": 3,
+              "url": "https://t.co/x0Jx0V2M7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011344636414214394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3910,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到 https://t.co/x0Jx0V2M7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "CHOOSE LIFE",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 799,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1605
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T09:47:04.000Z",
+        "description": "かおる\n此号大量负能 业务✉️\n09/自伤/负能\n188🚪开线下",
+        "id": "1854822884876689408",
+        "location": "天國",
+        "name": "Kaoru",
+        "pinned_tweet_id": "1996386550066921756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008001480293482496/FBV-A-KC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 79,
+          "like_count": 1998,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 280
+        },
+        "username": "AdelineMor8046",
+        "verified": false
+      }
+    ]
+  }
+}

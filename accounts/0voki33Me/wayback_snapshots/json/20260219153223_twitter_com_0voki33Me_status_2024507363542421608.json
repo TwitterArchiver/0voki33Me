@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024507303807143936",
+        "3_2024507303341543429",
+        "3_2024507303794528256",
+        "13_2024507303370903553"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024507363542421608",
+    "created_at": "2026-02-19T15:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024507363542421608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbzpUShCpg",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2024507363542421608/video/1",
+          "media_key": "3_2024507303807143936",
+          "start": 12,
+          "url": "https://t.co/fbzpUShCpg"
+        },
+        {
+          "display_url": "pic.x.com/fbzpUShCpg",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2024507363542421608/video/1",
+          "media_key": "3_2024507303341543429",
+          "start": 12,
+          "url": "https://t.co/fbzpUShCpg"
+        },
+        {
+          "display_url": "pic.x.com/fbzpUShCpg",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2024507363542421608/video/1",
+          "media_key": "3_2024507303794528256",
+          "start": 12,
+          "url": "https://t.co/fbzpUShCpg"
+        },
+        {
+          "display_url": "pic.x.com/fbzpUShCpg",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2024507363542421608/video/1",
+          "media_key": "13_2024507303370903553",
+          "start": 12,
+          "url": "https://t.co/fbzpUShCpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024507363542421608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介｜磕药自残画画音乐 https://t.co/fbzpUShCpg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024507363542421608].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024507363542421608",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024507363542421608"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2024507303807143936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh-qqCb0AAsHUV.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2024507303341543429",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh-qoTbUAU96yA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2024507303794528256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh-qp_bUAAWNbP.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 10516,
+        "height": 960,
+        "media_key": "13_2024507303370903553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024507303370903553/img/c5Zz2l7BQazOGCy-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024507303370903553/vid/avc1/320x426/BHB9Ewxj3CcS6RpZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024507303370903553/vid/avc1/480x640/aZepYperOUwWoE-C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024507303370903553/vid/avc1/720x960/wUgOS2M7pr-2jlJX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024507303370903553/pl/pqIvYyQOenmo82cZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024506901053177977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1090,
+          "like_count": 5169,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3610
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

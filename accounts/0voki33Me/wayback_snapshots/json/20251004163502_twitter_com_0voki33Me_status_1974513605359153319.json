@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1974122455305498631"
+      ],
+      "media_source_tweet_id": [
+        "1974122541016101182"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "1974513605359153319",
+    "created_at": "2025-10-04T16:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974513605359153319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574018856640618497",
+          "start": 3,
+          "username": "HIKARI_LKC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5prqe96Sjn",
+          "end": 39,
+          "expanded_url": "https://x.com/HIKARI_LKC/status/1974122541016101182/video/1",
+          "media_key": "13_1974122455305498631",
+          "start": 16,
+          "url": "https://t.co/5prqe96Sjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974513605359153319",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1038
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974122541016101182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HIKARI_LKC: https://t.co/5prqe96Sjn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29405,
+        "height": 1280,
+        "media_key": "13_1974122455305498631",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974122455305498631/img/O58hHz3dQZCyGkYV.jpg",
+        "public_metrics": {
+          "view_count": 64413
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974122455305498631/vid/avc1/320x568/xeANjrnzcFz1M7x2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974122455305498631/vid/avc1/480x852/2EFLDHURlb8PR4kp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974122455305498631/vid/avc1/720x1280/cF2b4enNJZTYwufg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974122455305498631/pl/RAJ13xObzgqYFn-N.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974122455305498631"
+          ],
+          "media_source_tweet_id": [
+            "1974122541016101182"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "1974513605359153319",
+        "created_at": "2025-10-04T16:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974513605359153319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574018856640618497",
+              "start": 3,
+              "username": "HIKARI_LKC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5prqe96Sjn",
+              "end": 39,
+              "expanded_url": "https://x.com/HIKARI_LKC/status/1974122541016101182/video/1",
+              "media_key": "13_1974122455305498631",
+              "start": 16,
+              "url": "https://t.co/5prqe96Sjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974513605359153319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1038
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974122541016101182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HIKARI_LKC: https://t.co/5prqe96Sjn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974122455305498631"
+          ]
+        },
+        "author_id": "1574018856640618497",
+        "conversation_id": "1974122541016101182",
+        "created_at": "2025-10-03T14:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974122541016101182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5prqe96Sjn",
+              "end": 23,
+              "expanded_url": "https://x.com/HIKARI_LKC/status/1974122541016101182/video/1",
+              "media_key": "13_1974122455305498631",
+              "start": 0,
+              "url": "https://t.co/5prqe96Sjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974122541016101182",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1093,
+          "impression_count": 131451,
+          "like_count": 9809,
+          "quote_count": 80,
+          "reply_count": 54,
+          "retweet_count": 1038
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5prqe96Sjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 204,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 113
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T12:52:12.000Z",
+        "description": "raison d'être  @KARI_DFV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "KARI_DFV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kari4everrr.straw.page",
+                "end": 23,
+                "expanded_url": "https://kari4everrr.straw.page",
+                "start": 0,
+                "url": "https://t.co/0aTGi1FzgS"
+              }
+            ]
+          }
+        },
+        "id": "1574018856640618497",
+        "name": "HIKARI",
+        "pinned_tweet_id": "1904549536854610203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791045595496583168/yGj3HCbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9562,
+          "following_count": 173,
+          "like_count": 4437,
+          "listed_count": 10,
+          "media_count": 4048,
+          "tweet_count": 6038
+        },
+        "url": "https://t.co/0aTGi1FzgS",
+        "username": "HIKARI_LKC",
+        "verified": false
+      }
+    ]
+  }
+}

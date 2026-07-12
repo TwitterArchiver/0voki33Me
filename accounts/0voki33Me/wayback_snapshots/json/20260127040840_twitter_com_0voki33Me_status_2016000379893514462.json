@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2016000379893514462",
+    "created_at": "2026-01-27T04:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016000379893514462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Fr5vrfw1",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/Fr5vrfw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016000379893514462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015800491364803008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 昨天想着到5210fo之后把置顶重写一下结果今天已经超过好多了……\n所以新置顶来啦\n\n转发+关注我+点赞此推文\n抽4个20.26和4杯蜜雪冰城\n2.6开奖\n🥰\n\nps欢迎来我的群里玩哦\n喜欢我请给我打钱 https://t.co/Fr5vrfw1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2015800480442851328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mP21bboAA74uW.jpg",
+        "width": 1378
+      },
+      {
+        "height": 2359,
+        "media_key": "3_2015800481302351872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mP24oWkAAmbtL.jpg",
+        "width": 1327
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2015800481373712384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mP245XcAAVeWk.jpg",
+        "width": 1323
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2016000379893514462",
+        "created_at": "2026-01-27T04:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016000379893514462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Fr5vrfw1",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/Fr5vrfw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016000379893514462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015800491364803008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 昨天想着到5210fo之后把置顶重写一下结果今天已经超过好多了……\n所以新置顶来啦\n\n转发+关注我+点赞此推文\n抽4个20.26和4杯蜜雪冰城\n2.6开奖\n🥰\n\nps欢迎来我的群里玩哦\n喜欢我请给我打钱 https://t.co/Fr5vrfw1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015800480442851328",
+            "3_2015800481302351872",
+            "3_2015800481373712384"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2015800491364803008",
+        "created_at": "2026-01-26T14:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015800491364803008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fr5vrfw1hz",
+              "end": 125,
+              "expanded_url": "https://x.com/amecandy_x/status/2015800491364803008/photo/1",
+              "media_key": "3_2015800480442851328",
+              "start": 102,
+              "url": "https://t.co/Fr5vrfw1hz"
+            },
+            {
+              "display_url": "pic.x.com/Fr5vrfw1hz",
+              "end": 125,
+              "expanded_url": "https://x.com/amecandy_x/status/2015800491364803008/photo/1",
+              "media_key": "3_2015800481302351872",
+              "start": 102,
+              "url": "https://t.co/Fr5vrfw1hz"
+            },
+            {
+              "display_url": "pic.x.com/Fr5vrfw1hz",
+              "end": 125,
+              "expanded_url": "https://x.com/amecandy_x/status/2015800491364803008/photo/1",
+              "media_key": "3_2015800481373712384",
+              "start": 102,
+              "url": "https://t.co/Fr5vrfw1hz"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2015800491364803008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2443,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "昨天想着到5210fo之后把置顶重写一下结果今天已经超过好多了……\n所以新置顶来啦\n\n转发+关注我+点赞此推文\n抽4个20.26和4杯蜜雪冰城\n2.6开奖\n🥰\n\nps欢迎来我的群里玩哦\n喜欢我请给我打钱 https://t.co/Fr5vrfw1hz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 923,
+          "like_count": 4148,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/She·Her/HRT 2022.7🍥/Fullstack💻/LLM/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2015800491364803008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 1782,
+          "like_count": 23654,
+          "listed_count": 15,
+          "media_count": 1021,
+          "tweet_count": 8173
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

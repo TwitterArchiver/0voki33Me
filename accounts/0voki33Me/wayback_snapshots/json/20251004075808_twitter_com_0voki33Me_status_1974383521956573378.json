@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1974383521956573378",
+    "created_at": "2025-10-04T07:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T08:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974383521956573378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974383521956573378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我买了安非他酮和氟西汀，希望能有效果我不想再吃东西了我恨自己天天吃这么多管也管不住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1974383521956573378",
+        "created_at": "2025-10-04T07:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974383521956573378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974383521956573378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买了安非他酮和氟西汀，希望能有效果我不想再吃东西了我恨自己天天吃这么多管也管不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*只是垃圾桶 *认出我现生pls🤫",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1967831065743200596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 204,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

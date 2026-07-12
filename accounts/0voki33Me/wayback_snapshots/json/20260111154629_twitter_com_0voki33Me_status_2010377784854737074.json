@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2010306215759560711",
+    "created_at": "2026-01-11T15:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010377784854737074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010377784854737074",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010306215759560711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 也太阔耐……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16600,
+        "height": 1280,
+        "media_key": "13_2010306065884381184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010306065884381184/img/MaghrYAJHjYMDP5J.jpg",
+        "public_metrics": {
+          "view_count": 201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010306065884381184/vid/avc1/320x568/60NyXOFHIkL0hkEC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010306065884381184/vid/avc1/480x852/sNvYO8JvNQAy29IG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010306065884381184/vid/avc1/720x1280/T1RxrAnzIxVGOjMU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010306065884381184/pl/thuQY1-XmiYR_w2r.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2010306215759560711",
+        "created_at": "2026-01-11T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010377784854737074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010377784854737074",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010306215759560711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 也太阔耐……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010306065884381184"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "2010306215759560711",
+        "created_at": "2026-01-11T11:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010306215759560711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxxqLwuKnO",
+              "end": 33,
+              "expanded_url": "https://x.com/Dumpling666666/status/2010306215759560711/video/1",
+              "media_key": "13_2010306065884381184",
+              "start": 10,
+              "url": "https://t.co/jxxqLwuKnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010306215759560711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 832,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Gloomy暴击我 https://t.co/jxxqLwuKnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 782,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1516
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "1987071077143707776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332819744530432/rDIIZXv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 106,
+          "like_count": 1636,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 592
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

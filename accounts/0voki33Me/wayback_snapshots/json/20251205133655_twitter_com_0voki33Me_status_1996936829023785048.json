@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996699684358742016"
+      ],
+      "media_source_tweet_id": [
+        "1996699705183506569"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996936829023785048",
+    "created_at": "2025-12-05T13:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996936829023785048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986507432529698819",
+          "start": 3,
+          "username": "aeolaatalante"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4AqBA0FHj",
+          "end": 42,
+          "expanded_url": "https://x.com/aeolaatalante/status/1996699705183506569/video/1",
+          "media_key": "13_1996699684358742016",
+          "start": 19,
+          "url": "https://t.co/j4AqBA0FHj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996936829023785048",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4477
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996699705183506569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aeolaatalante: https://t.co/j4AqBA0FHj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8000,
+        "height": 360,
+        "media_key": "13_1996699684358742016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996699684358742016/img/BlJmEJ2t3clpA1rh.jpg",
+        "public_metrics": {
+          "view_count": 107021
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996699684358742016/vid/avc1/480x270/plD4F8nFqGfNMlDS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996699684358742016/vid/avc1/640x360/bS2MCEYbb5DEmhg7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996699684358742016/pl/8xJv1HCLCiQ4GffA.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996699684358742016"
+          ],
+          "media_source_tweet_id": [
+            "1996699705183506569"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996936829023785048",
+        "created_at": "2025-12-05T13:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996936829023785048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986507432529698819",
+              "start": 3,
+              "username": "aeolaatalante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4AqBA0FHj",
+              "end": 42,
+              "expanded_url": "https://x.com/aeolaatalante/status/1996699705183506569/video/1",
+              "media_key": "13_1996699684358742016",
+              "start": 19,
+              "url": "https://t.co/j4AqBA0FHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996936829023785048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4477
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996699705183506569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aeolaatalante: https://t.co/j4AqBA0FHj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996699684358742016"
+          ]
+        },
+        "author_id": "1986507432529698819",
+        "conversation_id": "1996699705183506569",
+        "created_at": "2025-12-04T21:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T22:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996699705183506569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4AqBA0FHj",
+              "end": 23,
+              "expanded_url": "https://x.com/aeolaatalante/status/1996699705183506569/video/1",
+              "media_key": "13_1996699684358742016",
+              "start": 0,
+              "url": "https://t.co/j4AqBA0FHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996699705183506569",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2904,
+          "impression_count": 353552,
+          "like_count": 23748,
+          "quote_count": 40,
+          "reply_count": 14,
+          "retweet_count": 4477
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j4AqBA0FHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------顺女 接受一切 立场是关我屁事",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 261,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 232
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T18:54:29.000Z",
+        "description": "",
+        "id": "1986507432529698819",
+        "name": "𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994813948361674752/hFg2WTml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 41,
+          "like_count": 1047,
+          "listed_count": 8,
+          "media_count": 55,
+          "tweet_count": 199
+        },
+        "username": "aeolaatalante",
+        "verified": false
+      }
+    ]
+  }
+}

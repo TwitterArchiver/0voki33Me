@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2025874081149853702",
+    "created_at": "2026-02-23T10:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025874081149853702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinasgoooner/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/rinasgoooner/status/2025590177784049928",
+          "start": 10,
+          "url": "https://t.co/v44EZf4GR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025874081149853702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025590177784049928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好想这五个女孩儿 https://t.co/v44EZf4GR4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95463,
+        "height": 458,
+        "media_key": "7_1955824823940108288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955824823940108288/pu/img/TFvv-Y02OOIN7iew.jpg",
+        "public_metrics": {
+          "view_count": 7521
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955824823940108288/pu/vid/avc1/394x270/P2CQcGC3pUIMqzWB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955824823940108288/pu/vid/avc1/670x458/IWQzUFx8m8dJP2Dr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955824823940108288/pu/pl/0yZAwF97m2jskKRj.m3u8?tag=12"
+          }
+        ],
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2025874081149853702",
+        "created_at": "2026-02-23T10:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025874081149853702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinasgoooner/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/rinasgoooner/status/2025590177784049928",
+              "start": 10,
+              "url": "https://t.co/v44EZf4GR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874081149853702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025590177784049928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想这五个女孩儿 https://t.co/v44EZf4GR4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955824823940108288"
+          ],
+          "media_source_tweet_id": [
+            "1955824980576321836"
+          ]
+        },
+        "author_id": "1978750635718705152",
+        "conversation_id": "2025590177784049928",
+        "created_at": "2026-02-22T15:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025590177784049928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "imisshyein"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAH6R6ssFm",
+              "end": 36,
+              "expanded_url": "https://x.com/w2eflows/status/1955824980576321836/video/1",
+              "media_key": "7_1955824823940108288",
+              "start": 13,
+              "url": "https://t.co/MAH6R6ssFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025590177784049928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 14677,
+          "like_count": 1671,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "#imisshyein  https://t.co/MAH6R6ssFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Taiyuan, Shanxi Sheng, China",
+              "geo": {
+                "coordinates": [
+                  112.56028,
+                  37.86944
+                ],
+                "type": "Point"
+              },
+              "locality": "Taiyuan",
+              "region": "Shanxi Sheng"
+            }
+          ]
+        },
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 1121,
+          "like_count": 5293,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3708
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T09:12:20.000Z",
+        "description": "pham hanni is prettier, younger, and more talented @kimswive 👩‍❤️‍💋‍👩👭💘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "kimswive"
+              }
+            ]
+          }
+        },
+        "id": "1978750635718705152",
+        "name": "liyah ☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007339196986359808/TitVwFyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 1139,
+          "like_count": 7846,
+          "listed_count": 4,
+          "media_count": 1784,
+          "tweet_count": 5685
+        },
+        "username": "rinasgoooner",
+        "verified": false
+      }
+    ]
+  }
+}

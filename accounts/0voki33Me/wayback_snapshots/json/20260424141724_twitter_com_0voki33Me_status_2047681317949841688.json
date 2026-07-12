@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2047681317949841688",
+    "created_at": "2026-04-24T14:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047681317949841688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niger_original…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/niger_original/status/2047425573119795602",
+          "start": 5,
+          "url": "https://t.co/ZfjRPyoJvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047681317949841688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047425573119795602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/ZfjRPyoJvr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2047681317949841688",
+        "created_at": "2026-04-24T14:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047681317949841688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niger_original…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/niger_original/status/2047425573119795602",
+              "start": 5,
+              "url": "https://t.co/ZfjRPyoJvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047681317949841688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047425573119795602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/ZfjRPyoJvr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944155767650889730",
+        "conversation_id": "2046932400878530650",
+        "created_at": "2026-04-23T21:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047425573119795602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735197570958491648",
+              "start": 0,
+              "username": "YifanZhang27927"
+            },
+            {
+              "end": 26,
+              "id": "1447499448649601025",
+              "start": 17,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047425573119795602",
+        "in_reply_to_user_id": "1735197570958491648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9545,
+          "like_count": 223,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046987668836503779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YifanZhang27927 @LVTGW666 姓名 张一凡\n性别 男 民族 汉\n出生 2009年05月05日\n住址 陕西省汉中市南郑区汉山镇石门村二组3083号\n公民身份号码 610721200905050012\n张一凡你住村里真的能找到上海的女朋友吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1148,
+          "like_count": 6384,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 6088
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T22:03:57.000Z",
+        "description": "",
+        "id": "1944155767650889730",
+        "location": "Pulai, Johor",
+        "name": "loyia",
+        "pinned_tweet_id": "1979270706690167282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999639906356961280/0x-cJLCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "niger_original",
+        "verified": false
+      }
+    ]
+  }
+}

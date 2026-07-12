@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899040960774111233"
+      ],
+      "media_source_tweet_id": [
+        "1899040970316144967"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2046939629128229010",
+    "created_at": "2026-04-22T13:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046939629128229010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s0Nr8DxFZW",
+          "end": 36,
+          "expanded_url": "https://x.com/CJing3_/status/1899040970316144967/photo/1",
+          "media_key": "3_1899040960774111233",
+          "start": 13,
+          "url": "https://t.co/s0Nr8DxFZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046939629128229010",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899040970316144967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @CJing3_: https://t.co/s0Nr8DxFZW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046939629128229010].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046939629128229010",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046939629128229010"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1899040960774111233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glq_sTjbgAE2T46.jpg",
+        "width": 2004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899040960774111233"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "1899040970316144967",
+        "created_at": "2025-03-10T10:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899040970316144967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0Nr8DxFZW",
+              "end": 23,
+              "expanded_url": "https://x.com/CJing3_/status/1899040970316144967/photo/1",
+              "media_key": "3_1899040960774111233",
+              "start": 0,
+              "url": "https://t.co/s0Nr8DxFZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899040970316144967",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 72305,
+          "like_count": 3821,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/s0Nr8DxFZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1150,
+          "like_count": 6359,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 6037
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@Cjing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Cjing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫 orca",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10537,
+          "following_count": 205,
+          "like_count": 10369,
+          "listed_count": 19,
+          "media_count": 125,
+          "tweet_count": 386
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

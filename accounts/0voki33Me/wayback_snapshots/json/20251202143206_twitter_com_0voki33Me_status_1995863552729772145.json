@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "1995492620135694730",
+    "created_at": "2025-12-02T14:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995863552729772145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        },
+        {
+          "end": 23,
+          "id": "1847712034361659392",
+          "start": 12,
+          "username": "yumeng0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995863552729772145",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995492620135694730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax @yumeng0721 吸了啥感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "1995492620135694730",
+        "created_at": "2025-12-02T14:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995863552729772145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 23,
+              "id": "1847712034361659392",
+              "start": 12,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995863552729772145",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995492620135694730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @yumeng0721 吸了啥感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "1995492620135694730",
+        "created_at": "2025-12-01T13:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995492620135694730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995492620135694730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 551,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "安非他酮简易鼻腔给药教程：\n1.先用水冲一下，推荐用直饮机，普通自来水可能有风险\n2.用手或纸巾揉搓涂层，很快会化掉\n3.捣成粉末，越细越好，推荐用不锈钢捣蒜器\n4.可以直接鼻吸，有类似缓释作用，也可以+生理盐水制成鼻腔喷雾/滴液，如果不稀释药峰会更高但对鼻腔更刺激伤害更大，稀释后相应会更缓和"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "*js垃圾桶 *认出现生pls🤫--------------- ♡⃝OD♡⃝自伤♡⃝绘画♡⃝-------------------会查成分互fo ----------------------------",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RuN4wAY",
+        "pinned_tweet_id": "1994811255383892075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967823284721913856/vnce8CPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 255,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 212
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Quantum Space Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 124,
+          "like_count": 1026,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 711
+        },
+        "username": "seroglumax",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/8eHnljmbAD\n个人频道https://t.co/mGkj2AAFom",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/8eHnljmbAD"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/mGkj2AAFom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/g7QcxnnBGT"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "Meng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 801,
+          "like_count": 21832,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/g7QcxnnBGT",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

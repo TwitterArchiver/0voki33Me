@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2013845575087653328",
+    "created_at": "2026-01-22T04:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014195085945245754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916434358917033984",
+          "start": 0,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014195085945245754",
+    "in_reply_to_user_id": "1916434358917033984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013845575087653328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackTrapTrip 快进到中国大麻合法化✊✊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013845572298362880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Kd4NFWUAAEqK4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013845572201988096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Kd4MuXwAA4Nya.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2013845575087653328",
+        "created_at": "2026-01-22T04:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014195085945245754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014195085945245754",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013845575087653328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 快进到中国大麻合法化✊✊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013845572298362880",
+            "3_2013845572201988096"
+          ]
+        },
+        "author_id": "1916434358917033984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013845575087653328",
+        "created_at": "2026-01-21T05:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013845575087653328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGUAubY1Qw",
+              "end": 29,
+              "expanded_url": "https://x.com/BlackTrapTrip/status/2013845575087653328/photo/1",
+              "media_key": "3_2013845572298362880",
+              "start": 6,
+              "url": "https://t.co/xGUAubY1Qw"
+            },
+            {
+              "display_url": "pic.x.com/xGUAubY1Qw",
+              "end": 29,
+              "expanded_url": "https://x.com/BlackTrapTrip/status/2013845575087653328/photo/1",
+              "media_key": "3_2013845572201988096",
+              "start": 6,
+              "url": "https://t.co/xGUAubY1Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013845575087653328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音疯了吧 https://t.co/xGUAubY1Qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "itllpass",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2009637382249922685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 870,
+          "like_count": 3730,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜互fo欢迎｜看黄男拉黑｜支持大麻合法化｜uncensored #shtwt #odtwt #drugtwt #obslovetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "shtwt"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "odtwt"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "obslovetwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/7wroYHK00I"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱／🐦‍⬛",
+        "pinned_tweet_id": "2005225702904549786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984880790535061504/JtQebCAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 121,
+          "like_count": 879,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/7wroYHK00I",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}
