@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2077392052107833835",
+    "created_at": "2026-07-15T13:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077392052107833835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "v.douyin.com/moTMyJJcTC4/",
+          "end": 47,
+          "expanded_url": "https://v.douyin.com/moTMyJJcTC4/",
+          "start": 24,
+          "unwound_url": "https://www.iesdouyin.com/share/slides/7662699094678977179/?from_ssr=1&video_share_track_ver=&did=MS4wLjABAAAAmwu7SHNnuEOKklLHuOfv1jEvxTQrzvuQmjj4wUSe5aO2p5_XXPre1ayVr9hZWtu_&mid=7603978228734118698&ts=1784123789&share_track_info=%7B%22link_description_type%22:%22%22%7D&region=CN&share_sign=wWHIHP3z8G0vAv62cIwyey8VZPv9n9DHOKxufQ1ONpM-&tt_from=share_to&with_sec_did=1&from_aid=1128&titleType=title&utm_source=share_to&utm_medium=ios&activity_info=%7B%22social_share_time%22:%221784123817%22,%22social_author_id%22:%22104519411395%22,%22social_share_id%22:%22104519411395_1784123817%22,%22social_share_user_id%22:%22104519411395%22%7D&timestamp=1784123817&contains_video_type_clip=1&is_slides=1&share_version=370400&ug_share_id=9966aa18c6209_1784123819956&u_code=17g0lg4dd&iid=MS4wLjABAAAASxTfq18ZnCUqWiXKoly5jdWjyoZFClHiNorJgfK0EdVgqcQDdY9VAW1b6eAlypOw&utm_campaign=client_share&app=aweme&schema_type=37",
+          "url": "https://t.co/gkojMLnuyC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077392052107833835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "8.41 # 日常 # plog # fyp  https://t.co/gkojMLnuyC 复制此链接，打开抖音搜索，直接观看视频！ :6pm W@Z.MJ 12/02 eba:/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077392052107833835",
+        "created_at": "2026-07-15T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077392052107833835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/moTMyJJcTC4/",
+              "end": 47,
+              "expanded_url": "https://v.douyin.com/moTMyJJcTC4/",
+              "start": 24,
+              "unwound_url": "https://www.iesdouyin.com/share/slides/7662699094678977179/?from_ssr=1&video_share_track_ver=&did=MS4wLjABAAAAmwu7SHNnuEOKklLHuOfv1jEvxTQrzvuQmjj4wUSe5aO2p5_XXPre1ayVr9hZWtu_&mid=7603978228734118698&ts=1784123789&share_track_info=%7B%22link_description_type%22:%22%22%7D&region=CN&share_sign=wWHIHP3z8G0vAv62cIwyey8VZPv9n9DHOKxufQ1ONpM-&tt_from=share_to&with_sec_did=1&from_aid=1128&titleType=title&utm_source=share_to&utm_medium=ios&activity_info=%7B%22social_share_time%22:%221784123817%22,%22social_author_id%22:%22104519411395%22,%22social_share_id%22:%22104519411395_1784123817%22,%22social_share_user_id%22:%22104519411395%22%7D&timestamp=1784123817&contains_video_type_clip=1&is_slides=1&share_version=370400&ug_share_id=9966aa18c6209_1784123819956&u_code=17g0lg4dd&iid=MS4wLjABAAAASxTfq18ZnCUqWiXKoly5jdWjyoZFClHiNorJgfK0EdVgqcQDdY9VAW1b6eAlypOw&utm_campaign=client_share&app=aweme&schema_type=37",
+              "url": "https://t.co/gkojMLnuyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077392052107833835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8.41 # 日常 # plog # fyp  https://t.co/gkojMLnuyC 复制此链接，打开抖音搜索，直接观看视频！ :6pm W@Z.MJ 12/02 eba:/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 1145,
+          "like_count": 6998,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 7215
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

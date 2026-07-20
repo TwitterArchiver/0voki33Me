@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076324124285456385"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076324133114396796",
+    "created_at": "2026-07-12T15:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076324133114396796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1hiC1bPk2",
+          "end": 52,
+          "expanded_url": "https://x.com/0voki33Me/status/2076324133114396796/photo/1",
+          "media_key": "3_2076324124285456385",
+          "start": 29,
+          "url": "https://t.co/U1hiC1bPk2"
+        },
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/0voki33me/status/2076318920336904669",
+          "start": 53,
+          "url": "https://t.co/CUhiJ2ggeX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076324133114396796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076318920336904669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抖阴我不知道您是怎么了这咋了吗！我的消肿计划被打破了😤😤 https://t.co/U1hiC1bPk2 https://t.co/CUhiJ2ggeX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2076324124285456385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCVykqb0AEBSj5.jpg",
+        "width": 417
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076318905732370432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCRC0CbEAAh10v.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076324124285456385"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076324133114396796",
+        "created_at": "2026-07-12T15:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076324133114396796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1hiC1bPk2",
+              "end": 52,
+              "expanded_url": "https://x.com/0voki33Me/status/2076324133114396796/photo/1",
+              "media_key": "3_2076324124285456385",
+              "start": 29,
+              "url": "https://t.co/U1hiC1bPk2"
+            },
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/0voki33me/status/2076318920336904669",
+              "start": 53,
+              "url": "https://t.co/CUhiJ2ggeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076324133114396796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076318920336904669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抖阴我不知道您是怎么了这咋了吗！我的消肿计划被打破了😤😤 https://t.co/U1hiC1bPk2 https://t.co/CUhiJ2ggeX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076318905732370432"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2076318920336904669",
+        "created_at": "2026-07-12T14:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076318920336904669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHFS9fuiUg",
+              "end": 33,
+              "expanded_url": "https://x.com/0voki33Me/status/2076318920336904669/photo/1",
+              "media_key": "3_2076318905732370432",
+              "start": 10,
+              "url": "https://t.co/dHFS9fuiUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076318920336904669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "制作一些消肿短视频 https://t.co/dHFS9fuiUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1140,
+          "like_count": 6974,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 7166
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

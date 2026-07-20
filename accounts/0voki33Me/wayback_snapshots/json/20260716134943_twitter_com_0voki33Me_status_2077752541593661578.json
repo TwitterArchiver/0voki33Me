@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2077752541593661578",
+    "created_at": "2026-07-16T13:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077752541593661578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《扉をあけて》，别名《敞开心扉》，由 ANZA 演唱，收录于《扉をあけて》专辑中，《扉をあけて》下载，《扉をあけて》在线试听，更多扉をあけて相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/ba931npG",
+          "end": 26,
+          "expanded_url": "https://163cn.tv/ba931npG",
+          "start": 3,
+          "status": 200,
+          "title": "扉をあけて（敞开心扉） - ANZA - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=555959&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.45&dlt=0846",
+          "url": "https://t.co/IPhO144e8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077752541593661578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "童年，https://t.co/IPhO144e8j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077752541593661578",
+        "created_at": "2026-07-16T13:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077752541593661578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《扉をあけて》，别名《敞开心扉》，由 ANZA 演唱，收录于《扉をあけて》专辑中，《扉をあけて》下载，《扉をあけて》在线试听，更多扉をあけて相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ba931npG",
+              "end": 26,
+              "expanded_url": "https://163cn.tv/ba931npG",
+              "start": 3,
+              "status": 200,
+              "title": "扉をあけて（敞开心扉） - ANZA - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=555959&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/IPhO144e8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077752541593661578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "童年，https://t.co/IPhO144e8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1145,
+          "like_count": 7028,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 7254
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

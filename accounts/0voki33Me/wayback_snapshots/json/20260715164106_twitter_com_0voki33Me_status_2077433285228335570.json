@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2077432836660117556",
+    "created_at": "2026-07-15T16:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077433285228335570"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077433285228335570",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077432836660117556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是挺好听的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077432836660117556",
+        "created_at": "2026-07-15T16:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077433285228335570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077433285228335570",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077432836660117556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是挺好听的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077432836660117556",
+        "created_at": "2026-07-15T16:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077432836660117556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《International 2》，由 Ground-Zero 演唱，收录于《Null & Void》专辑中，《International 2》下载，《International 2》在线试听，更多International 2相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ba5XGPVE",
+              "end": 25,
+              "expanded_url": "https://163cn.tv/ba5XGPVE",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/2077432878225657858/bGsRxNSK?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077432878225657858/bGsRxNSK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 2,
+              "status": 200,
+              "title": "International 2 - Ground-Zero - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=&id=2024889160&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=oCJSwtZUBljV0qI5hJCxeA==&playerUIModeId=1185001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/BFHVEiqYHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077432836660117556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛掰https://t.co/BFHVEiqYHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1145,
+          "like_count": 7002,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 7222
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

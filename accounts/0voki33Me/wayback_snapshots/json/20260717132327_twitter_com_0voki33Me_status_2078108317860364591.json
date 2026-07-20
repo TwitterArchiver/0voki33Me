@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078108310939836416"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2077753405511221367",
+    "created_at": "2026-07-17T13:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078108317860364591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766467973555052544",
+          "start": 0,
+          "username": "Iristy_oxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QIJSy85yQH",
+          "end": 35,
+          "expanded_url": "https://x.com/0voki33Me/status/2078108317860364591/photo/1",
+          "media_key": "3_2078108310939836416",
+          "start": 12,
+          "url": "https://t.co/QIJSy85yQH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078108317860364591",
+    "in_reply_to_user_id": "1766467973555052544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078052849846751535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iristy_oxo https://t.co/QIJSy85yQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2078108310939836416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbsf55bIAAFns2.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078108310939836416"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077753405511221367",
+        "created_at": "2026-07-17T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078108317860364591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766467973555052544",
+              "start": 0,
+              "username": "Iristy_oxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIJSy85yQH",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2078108317860364591/photo/1",
+              "media_key": "3_2078108310939836416",
+              "start": 12,
+              "url": "https://t.co/QIJSy85yQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078108317860364591",
+        "in_reply_to_user_id": "1766467973555052544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078052849846751535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iristy_oxo https://t.co/QIJSy85yQH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766467973555052544",
+        "conversation_id": "2077753405511221367",
+        "created_at": "2026-07-17T09:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078052849846751535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078052849846751535",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4532,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077753405511221367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 都觉得这个文案不对了那死的为啥不能是爹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1150,
+          "like_count": 7046,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 7276
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。\n面刺寡人者处极刑。\nOne who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065121502710886400/41s-OcCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 189,
+          "like_count": 20062,
+          "listed_count": 5,
+          "media_count": 1008,
+          "tweet_count": 4826
+        },
+        "url": "",
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

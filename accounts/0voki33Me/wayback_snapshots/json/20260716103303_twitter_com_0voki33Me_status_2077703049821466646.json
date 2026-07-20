@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2077670216285508051",
+    "created_at": "2026-07-16T10:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077703049821466646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        },
+        {
+          "end": 27,
+          "id": "1937073350750466048",
+          "start": 13,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077703049821466646",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077670216285508051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 @karo269640607 神他妈解离剂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077670206651142145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVeC4PakAEAOGw.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077670206651142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVeC4PakAAti03.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077670216285508051",
+        "created_at": "2026-07-16T10:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077703049821466646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            },
+            {
+              "end": 27,
+              "id": "1937073350750466048",
+              "start": 13,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077703049821466646",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077670216285508051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 @karo269640607 神他妈解离剂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077670206651142145",
+            "3_2077670206651142144"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2077670216285508051",
+        "created_at": "2026-07-16T08:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077670216285508051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMZqtGhsH1",
+              "end": 30,
+              "expanded_url": "https://x.com/neko0202002/status/2077670216285508051/photo/1",
+              "media_key": "3_2077670206651142145",
+              "start": 7,
+              "url": "https://t.co/GMZqtGhsH1"
+            },
+            {
+              "display_url": "pic.x.com/GMZqtGhsH1",
+              "end": 30,
+              "expanded_url": "https://x.com/neko0202002/status/2077670216285508051/photo/1",
+              "media_key": "3_2077670206651142144",
+              "start": 7,
+              "url": "https://t.co/GMZqtGhsH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077670216285508051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“pr解离” https://t.co/GMZqtGhsH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1145,
+          "like_count": 7014,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 7241
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 653,
+          "like_count": 2417,
+          "listed_count": 2,
+          "media_count": 2358,
+          "tweet_count": 6235
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女 言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 737,
+          "like_count": 39760,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 8061
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

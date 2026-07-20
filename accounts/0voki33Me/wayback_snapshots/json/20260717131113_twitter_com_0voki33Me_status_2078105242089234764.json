@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2077753405511221367",
+    "created_at": "2026-07-17T13:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078105242089234764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3248810198",
+          "start": 0,
+          "username": "SeviYZ98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078105242089234764",
+    "in_reply_to_user_id": "3248810198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078087199434977659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeviYZ98 就算这只是文案也很意味不明，因为代替来月经是不可能的事，这只是表面功夫的话，给人的感觉更像敷衍了事，来月经需要的根本不需要这样轻飘飘的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2077753405511221367",
+        "created_at": "2026-07-17T13:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078105242089234764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3248810198",
+              "start": 0,
+              "username": "SeviYZ98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078105242089234764",
+        "in_reply_to_user_id": "3248810198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078087199434977659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeviYZ98 就算这只是文案也很意味不明，因为代替来月经是不可能的事，这只是表面功夫的话，给人的感觉更像敷衍了事，来月经需要的根本不需要这样轻飘飘的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3248810198",
+        "conversation_id": "2077753405511221367",
+        "created_at": "2026-07-17T11:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078087199434977659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078087199434977659",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1140,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077753405511221367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 有点没看懂骂的原因，代替来月经不是想帮女性分担的意思吗？还是有什么别的含义？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1150,
+          "like_count": 7046,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 7275
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-18T14:49:06.000Z",
+        "description": "没有什么能够阻挡",
+        "id": "3248810198",
+        "location": "Hong Kong",
+        "name": "seviyz",
+        "pinned_tweet_id": "2048385742817382769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064888310412111872/ebpzUM7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 2126,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "SeviYZ98",
+        "verified": false
+      }
+    ]
+  }
+}

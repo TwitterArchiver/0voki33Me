@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2077428727303344354",
+    "created_at": "2026-07-16T00:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077558052304379930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746526091131719680",
+          "start": 0,
+          "username": "sidienz_67llt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077558052304379930",
+    "in_reply_to_user_id": "1746526091131719680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077497348868190599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sidienz_67llt 啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2077428727303344354",
+        "created_at": "2026-07-16T00:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077558052304379930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746526091131719680",
+              "start": 0,
+              "username": "sidienz_67llt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077558052304379930",
+        "in_reply_to_user_id": "1746526091131719680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077497348868190599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sidienz_67llt 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746526091131719680",
+        "conversation_id": "2077428727303344354",
+        "created_at": "2026-07-15T20:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077497348868190599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077497348868190599",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428727303344354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 这个麻子好好笑，还有评论区咋突然冒出来那么多人坤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1144,
+          "like_count": 7005,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 7221
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T13:34:31.000Z",
+        "description": "=小Z\n20↑\n自残分享",
+        "id": "1746526091131719680",
+        "name": "如果這一切能夠回到原點",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058435631735570432/_PJcZMtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 535,
+          "like_count": 16925,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 739
+        },
+        "url": "",
+        "username": "sidienz_67llt",
+        "verified": false
+      }
+    ]
+  }
+}

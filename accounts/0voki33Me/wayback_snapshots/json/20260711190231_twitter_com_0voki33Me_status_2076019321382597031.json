@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2076019321382597031",
+    "created_at": "2026-07-11T19:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076019321382597031"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076019321382597031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我初中的时候有一个女生因为长得很漂亮特别受欢迎，其实他人也还可以，但我不是很喜欢她。\n以前她因为一些矛盾利用人缘拉拢同学孤立了另一个女生，天天在朋友圈互撕。结果我刚刚刷朋友圈他俩跑出去一起玩了我的发？\n他之前也做出过两次类似行为，都是约讨厌的人出来玩。现在直接把他的“仇人”约出来了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2076019321382597031",
+        "created_at": "2026-07-11T19:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076019321382597031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076019321382597031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我初中的时候有一个女生因为长得很漂亮特别受欢迎，其实他人也还可以，但我不是很喜欢她。\n以前她因为一些矛盾利用人缘拉拢同学孤立了另一个女生，天天在朋友圈互撕。结果我刚刚刷朋友圈他俩跑出去一起玩了我的发？\n他之前也做出过两次类似行为，都是约讨厌的人出来玩。现在直接把他的“仇人”约出来了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1140,
+          "like_count": 6968,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 7161
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}
