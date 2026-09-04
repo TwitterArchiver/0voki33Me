@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2081255574063513894",
+    "created_at": "2026-07-26T06:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081261701488668954"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081261701488668954",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081255574063513894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实第一张针管我是随便画的哦哦谁他妈垂直注射不要骂我👽👽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081255565108682752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIa6NUboAAwzE9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081255564978618368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIa6M1bAAA2733.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081255564987043840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIa6M3bkAAWGDe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081255564974424064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIa6M0bAAAZt9n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2081255574063513894",
+        "created_at": "2026-07-26T06:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081261701488668954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081261701488668954",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081255574063513894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实第一张针管我是随便画的哦哦谁他妈垂直注射不要骂我👽👽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081255565108682752",
+            "3_2081255564978618368",
+            "3_2081255564987043840",
+            "3_2081255564974424064"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2081255574063513894",
+        "created_at": "2026-07-26T05:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081255574063513894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X06RUrdRF6",
+              "end": 23,
+              "expanded_url": "https://x.com/0voki33Me/status/2081255574063513894/photo/1",
+              "media_key": "3_2081255565108682752",
+              "start": 0,
+              "url": "https://t.co/X06RUrdRF6"
+            },
+            {
+              "display_url": "pic.x.com/X06RUrdRF6",
+              "end": 23,
+              "expanded_url": "https://x.com/0voki33Me/status/2081255574063513894/photo/1",
+              "media_key": "3_2081255564978618368",
+              "start": 0,
+              "url": "https://t.co/X06RUrdRF6"
+            },
+            {
+              "display_url": "pic.x.com/X06RUrdRF6",
+              "end": 23,
+              "expanded_url": "https://x.com/0voki33Me/status/2081255574063513894/photo/1",
+              "media_key": "3_2081255564987043840",
+              "start": 0,
+              "url": "https://t.co/X06RUrdRF6"
+            },
+            {
+              "display_url": "pic.x.com/X06RUrdRF6",
+              "end": 23,
+              "expanded_url": "https://x.com/0voki33Me/status/2081255574063513894/photo/1",
+              "media_key": "3_2081255564974424064",
+              "start": 0,
+              "url": "https://t.co/X06RUrdRF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081255574063513894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X06RUrdRF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1147,
+          "like_count": 7087,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 7390
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079027974377287680"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079027981188780323",
+    "created_at": "2026-07-20T02:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079027981188780323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CoxYXEqqk8",
+          "end": 38,
+          "expanded_url": "https://x.com/0voki33Me/status/2079027981188780323/photo/1",
+          "media_key": "3_2079027974377287680",
+          "start": 15,
+          "url": "https://t.co/CoxYXEqqk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079027981188780323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被你最恨的厂子哥虐爆爽不爽🙄 https://t.co/CoxYXEqqk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2079027974377287680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNow7XLbsAAY_sA.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079027974377287680"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079027981188780323",
+        "created_at": "2026-07-20T02:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079027981188780323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoxYXEqqk8",
+              "end": 38,
+              "expanded_url": "https://x.com/0voki33Me/status/2079027981188780323/photo/1",
+              "media_key": "3_2079027974377287680",
+              "start": 15,
+              "url": "https://t.co/CoxYXEqqk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079027981188780323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被你最恨的厂子哥虐爆爽不爽🙄 https://t.co/CoxYXEqqk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1155,
+          "like_count": 7083,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 7302
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

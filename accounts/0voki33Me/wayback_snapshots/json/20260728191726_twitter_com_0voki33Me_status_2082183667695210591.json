@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081838875408769024"
+      ],
+      "media_source_tweet_id": [
+        "2081838892823568407"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082183667695210591",
+    "created_at": "2026-07-28T19:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082183667695210591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2080630903512907776",
+          "start": 3,
+          "username": "lunettha_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tgd2QW9tTP",
+          "end": 38,
+          "expanded_url": "https://x.com/lunettha_/status/2081838892823568407/video/1",
+          "media_key": "13_2081838875408769024",
+          "start": 15,
+          "url": "https://t.co/Tgd2QW9tTP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082183667695210591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 852
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081838892823568407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lunettha_: https://t.co/Tgd2QW9tTP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8000,
+        "height": 360,
+        "media_key": "13_2081838875408769024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081838875408769024/img/ydhzVgiB5RWlJG1J.jpg",
+        "public_metrics": {
+          "view_count": 17205
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081838875408769024/vid/avc1/480x270/6Dj3QLsIvizyU91L.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081838875408769024/vid/avc1/640x360/lShQCo95p9Ios-Sh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081838875408769024/pl/wh3jDsYxBG_beEfn.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081838875408769024"
+          ]
+        },
+        "author_id": "2080630903512907776",
+        "conversation_id": "2081838892823568407",
+        "created_at": "2026-07-27T20:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081838892823568407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tgd2QW9tTP",
+              "end": 23,
+              "expanded_url": "https://x.com/lunettha_/status/2081838892823568407/video/1",
+              "media_key": "13_2081838875408769024",
+              "start": 0,
+              "url": "https://t.co/Tgd2QW9tTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081838892823568407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 536,
+          "impression_count": 51707,
+          "like_count": 4948,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 852
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tgd2QW9tTP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081838875408769024"
+          ],
+          "media_source_tweet_id": [
+            "2081838892823568407"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082183667695210591",
+        "created_at": "2026-07-28T19:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082183667695210591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2080630903512907776",
+              "start": 3,
+              "username": "lunettha_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tgd2QW9tTP",
+              "end": 38,
+              "expanded_url": "https://x.com/lunettha_/status/2081838892823568407/video/1",
+              "media_key": "13_2081838875408769024",
+              "start": 15,
+              "url": "https://t.co/Tgd2QW9tTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082183667695210591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081838892823568407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lunettha_: https://t.co/Tgd2QW9tTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/Dhfap4dheT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 68,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 45,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 1143,
+          "like_count": 7150,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 7460
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T12:29:21.000Z",
+        "description": "",
+        "id": "2080630903512907776",
+        "name": "𝐿𝑢𝑛𝑒𝑡ℎ𝑎 𓏲ּ𝄢",
+        "pinned_tweet_id": "2081300479850451125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080632902983794688/aT4mJ9rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 676,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "lunettha_",
+        "verified": false
+      }
+    ]
+  }
+}

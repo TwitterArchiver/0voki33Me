@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2081996165072216358",
+    "created_at": "2026-07-28T06:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081996165072216358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lolshedwlol/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/lolshedwlol/status/2081814539427782695",
+          "start": 8,
+          "url": "https://t.co/mMsUR2ACbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081996165072216358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081814539427782695",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直想做的事 https://t.co/mMsUR2ACbt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6840,
+        "height": 720,
+        "media_key": "13_2081814518900862976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081814518900862976/img/NCbRDQ-nSYLY8mxP.jpg",
+        "public_metrics": {
+          "view_count": 149212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/vid/avc1/428x270/iWWk5OqCxJJe1R0B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/vid/avc1/572x360/wgUwHUvv2lM9u9Ai.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/vid/avc1/1146x720/gU5I85p-bdlTsjWp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/pl/rg6dBL7BnYnBU0MR.m3u8"
+          }
+        ],
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2081996165072216358",
+        "created_at": "2026-07-28T06:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081996165072216358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lolshedwlol/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lolshedwlol/status/2081814539427782695",
+              "start": 8,
+              "url": "https://t.co/mMsUR2ACbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081996165072216358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081814539427782695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直想做的事 https://t.co/mMsUR2ACbt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081814518900862976"
+          ]
+        },
+        "author_id": "2074934018760392704",
+        "conversation_id": "2081814539427782695",
+        "created_at": "2026-07-27T18:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081814539427782695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "sfx"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "sh"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "ed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjUjPw3hwc",
+              "end": 84,
+              "expanded_url": "https://x.com/LolshedwLol/status/2081814539427782695/video/1",
+              "media_key": "13_2081814518900862976",
+              "start": 61,
+              "url": "https://t.co/vjUjPw3hwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081814539427782695",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3533,
+          "impression_count": 233514,
+          "like_count": 12216,
+          "quote_count": 138,
+          "reply_count": 269,
+          "retweet_count": 1704
+        },
+        "reply_settings": "everyone",
+        "text": "What \n!ALL FAKE, SFX, FAKE BLOOD AND MAKE UP⚠️!\n#sfx #sh #ed https://t.co/vjUjPw3hwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/Dhfap4dheT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 68,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 45,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1146,
+          "like_count": 7129,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 7429
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T19:10:35.000Z",
+        "description": "lol.\nSecundary account",
+        "id": "2074934018760392704",
+        "name": "lol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081769571652907008/hxY9rv7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 6,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "LolshedwLol",
+        "verified": false
+      }
+    ]
+  }
+}

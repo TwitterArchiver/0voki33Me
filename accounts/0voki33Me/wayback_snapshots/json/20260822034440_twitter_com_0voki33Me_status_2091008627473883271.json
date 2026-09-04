@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2090857597947826528",
+    "created_at": "2026-08-22T03:44:40.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091008627473883271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091008627473883271",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090857597947826528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild 哎哟我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2090857293550432256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ3oXIbsAAd0NW.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2090857597947826528",
+        "created_at": "2026-08-22T03:44:40.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091008627473883271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091008627473883271",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090857597947826528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 哎哟我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090857293550432256"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "conversation_id": "2090857597947826528",
+        "created_at": "2026-08-21T17:44:32.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090857597947826528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8AcalFQAX",
+              "end": 41,
+              "expanded_url": "https://x.com/yoyobewild/status/2090857597947826528/photo/1",
+              "media_key": "3_2090857293550432256",
+              "start": 18,
+              "url": "https://t.co/c8AcalFQAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090857597947826528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090857293550432256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 45145,
+          "like_count": 815,
+          "quote_count": 9,
+          "reply_count": 67,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我绷了一天的笑点看到这段话全毁了。 https://t.co/c8AcalFQAX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/khOzoFStIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 63,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 40,
+                "url": "https://t.co/khOzoFStIZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2091008627473883271",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1110,
+          "like_count": 7190,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 7595
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090995037899526325",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581478431274983424/1777271267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5187,
+          "following_count": 186,
+          "like_count": 41636,
+          "listed_count": 16,
+          "media_count": 413,
+          "tweet_count": 8633
+        },
+        "url": "",
+        "username": "yoyobewild",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

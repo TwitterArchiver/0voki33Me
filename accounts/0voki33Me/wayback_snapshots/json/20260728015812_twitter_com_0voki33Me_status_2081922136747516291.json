@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081922128698601472"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2081922136747516291",
+    "created_at": "2026-07-28T01:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081922136747516291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FWKUGy25rW",
+          "end": 36,
+          "expanded_url": "https://x.com/0voki33Me/status/2081922136747516291/photo/1",
+          "media_key": "3_2081922128698601472",
+          "start": 13,
+          "url": "https://t.co/FWKUGy25rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081922136747516291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烫画机好好用好好玩好好玩 https://t.co/FWKUGy25rW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081922128698601472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR5JUMa8AAmCUS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081922128698601472"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2081922136747516291",
+        "created_at": "2026-07-28T01:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081922136747516291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWKUGy25rW",
+              "end": 36,
+              "expanded_url": "https://x.com/0voki33Me/status/2081922136747516291/photo/1",
+              "media_key": "3_2081922128698601472",
+              "start": 13,
+              "url": "https://t.co/FWKUGy25rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081922136747516291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烫画机好好用好好玩好好玩 https://t.co/FWKUGy25rW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1145,
+          "like_count": 7116,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 7413
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

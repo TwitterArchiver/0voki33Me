@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091523220050759680"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2091523236043624949",
+    "created_at": "2026-08-23T13:49:32.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091523236043624949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wpAOgjUKrL",
+          "end": 51,
+          "expanded_url": "https://x.com/0voki33Me/status/2091523236043624949/photo/1",
+          "media_key": "3_2091523220050759680",
+          "start": 28,
+          "url": "https://t.co/wpAOgjUKrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091523236043624949",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091523220050759680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们能看见这篇推文吗，为什么一个鸟我的人都没有好诡异😢 https://t.co/wpAOgjUKrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091523220050759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaVSYqbUAAUIx3.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091523220050759680"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2091523236043624949",
+        "created_at": "2026-08-23T13:49:32.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091523236043624949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpAOgjUKrL",
+              "end": 51,
+              "expanded_url": "https://x.com/0voki33Me/status/2091523236043624949/photo/1",
+              "media_key": "3_2091523220050759680",
+              "start": 28,
+              "url": "https://t.co/wpAOgjUKrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091523236043624949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091523220050759680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能看见这篇推文吗，为什么一个鸟我的人都没有好诡异😢 https://t.co/wpAOgjUKrL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/khOzoFStIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 63,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 40,
+                "url": "https://t.co/khOzoFStIZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2091523236043624949",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1110,
+          "like_count": 7203,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 7610
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2082408141958877575",
+    "created_at": "2026-07-29T10:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082408141958877575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943773697086558209",
+          "start": 3,
+          "username": "sukikage_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082408141958877575",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082184718154342717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukikage_: feel like i’m just dragging my corpse around"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2082408141958877575",
+        "created_at": "2026-07-29T10:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082408141958877575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943773697086558209",
+              "start": 3,
+              "username": "sukikage_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408141958877575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082184718154342717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukikage_: feel like i’m just dragging my corpse around"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943773697086558209",
+        "conversation_id": "2082184718154342717",
+        "created_at": "2026-07-28T19:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082184718154342717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082184718154342717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 839,
+          "impression_count": 273043,
+          "like_count": 19640,
+          "quote_count": 79,
+          "reply_count": 36,
+          "retweet_count": 4634
+        },
+        "reply_settings": "everyone",
+        "text": "feel like i’m just dragging my corpse around"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/Dhfap4dheT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 68,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 45,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1146,
+          "like_count": 7163,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 7486
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T20:46:17.000Z",
+        "description": "",
+        "id": "1943773697086558209",
+        "name": "kage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070028468121714688/O4Qf_0BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 38,
+          "like_count": 3642,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "sukikage_",
+        "verified": false
+      }
+    ]
+  }
+}

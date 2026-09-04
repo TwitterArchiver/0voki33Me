@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1960958780935446528",
+          "name": "ILLIT"
+        }
+      }
+    ],
+    "conversation_id": "2078861840835084565",
+    "created_at": "2026-07-20T00:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079000688353575355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066131380334137344",
+          "start": 0,
+          "username": "rowzayizrowzee"
+        },
+        {
+          "end": 30,
+          "id": "1132185530198835200",
+          "start": 16,
+          "username": "kchartsmaster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079000688353575355",
+    "in_reply_to_user_id": "2066131380334137344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078867443611828442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rowzayizrowzee @kchartsmaster 你这个傻逼，没有bunnies 会说404抄袭了eta ，你的大脑被你内吸收了吗说这种蠢话，你要么是illit粉丝要么是个唐氏综合征患者只会阿巴阿巴滑稽还不自知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960958780935446528",
+              "name": "ILLIT"
+            }
+          }
+        ],
+        "conversation_id": "2078861840835084565",
+        "created_at": "2026-07-20T00:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079000688353575355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066131380334137344",
+              "start": 0,
+              "username": "rowzayizrowzee"
+            },
+            {
+              "end": 30,
+              "id": "1132185530198835200",
+              "start": 16,
+              "username": "kchartsmaster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079000688353575355",
+        "in_reply_to_user_id": "2066131380334137344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078867443611828442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rowzayizrowzee @kchartsmaster 你这个傻逼，没有bunnies 会说404抄袭了eta ，你的大脑被你内吸收了吗说这种蠢话，你要么是illit粉丝要么是个唐氏综合征患者只会阿巴阿巴滑稽还不自知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066131380334137344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1965334890880069632",
+              "name": "KIIIKIII"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1965334890880069632",
+              "name": "KIIIKIII"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1965334890880069632",
+              "name": "KIIIKIII"
+            }
+          }
+        ],
+        "conversation_id": "2078861840835084565",
+        "created_at": "2026-07-19T15:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078867443611828442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1132185530198835200",
+              "start": 0,
+              "username": "kchartsmaster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078867443611828442",
+        "in_reply_to_user_id": "1132185530198835200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 30948,
+          "like_count": 192,
+          "quote_count": 13,
+          "reply_count": 50,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078861840835084565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kchartsmaster It's legal for kiiikiii to copy Newjeans thing. Because they fit the concept ❤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1155,
+          "like_count": 7076,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 7299
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T12:12:47.000Z",
+        "description": "𝔇𝔬𝔫'𝔱 𝔟𝔢 𝔪𝔞𝔡, 𝔦𝔣 𝔦𝔪𝔪𝔞 𝔟𝔢 𝔰𝔬𝔩𝔬 𝔰𝔱𝔞𝔫, 𝔟𝔲𝔱 ℑ 𝔰𝔱𝔦𝔩𝔩 𝔩𝔬𝔳𝔢 𝔰𝔬𝔪𝔢 𝔬𝔯𝔤𝔞𝔫𝔦𝔠 𝔤𝔯𝔬𝔲𝔭𝔰 ❤",
+        "id": "2066131380334137344",
+        "location": "Loveland, OH",
+        "name": "𝓢𝓼𝓮 𝓡𝓪",
+        "pinned_tweet_id": "2075824150305026497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069845678227148800/ts3TSbXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 8,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "rowzayizrowzee",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-25T07:24:00.000Z",
+        "description": "Your #1 source for korean charts updates, award shows & infos. | Turn notifications on 🔔",
+        "id": "1132185530198835200",
+        "location": "DM for inquires",
+        "name": "Kpop Charts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284991246356946951/FbR600WF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2981173,
+          "following_count": 93,
+          "like_count": 71,
+          "listed_count": 1837,
+          "media_count": 22168,
+          "tweet_count": 54953
+        },
+        "url": "",
+        "username": "kchartsmaster",
+        "verified": true
+      }
+    ]
+  }
+}

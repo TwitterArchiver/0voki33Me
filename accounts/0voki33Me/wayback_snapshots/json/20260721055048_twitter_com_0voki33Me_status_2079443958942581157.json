@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2079443958942581157",
+    "created_at": "2026-07-21T05:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079443958942581157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079443958942581157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "我想走读他妈的真的是因为我太他妈讨厌那个贱畜了，你他妈说我是为了和男的鬼混，你去死吧，我无数次因为那个贱货在你们面前情绪崩溃了居然还是这样想我我他妈从来就没有谈过任何对象我都不知道这些鬼东西你到底是怎么意淫出来的，难道我这样都是演的吗，去死吧恶心死了你们这些贱货都恶心死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2079443958942581157",
+        "created_at": "2026-07-21T05:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079443958942581157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079443958942581157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我想走读他妈的真的是因为我太他妈讨厌那个贱畜了，你他妈说我是为了和男的鬼混，你去死吧，我无数次因为那个贱货在你们面前情绪崩溃了居然还是这样想我我他妈从来就没有谈过任何对象我都不知道这些鬼东西你到底是怎么意淫出来的，难道我这样都是演的吗，去死吧恶心死了你们这些贱货都恶心死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2076033218747539845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1152,
+          "like_count": 7087,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 7314
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

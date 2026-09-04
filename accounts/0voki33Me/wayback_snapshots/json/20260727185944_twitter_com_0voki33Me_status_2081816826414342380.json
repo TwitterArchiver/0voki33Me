@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2081811403078533342",
+    "created_at": "2026-07-27T18:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081816826414342380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "youhappynohappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081816826414342380",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081811403078533342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youhappynohappy 我刚开始吃也这样😢过段时间就没事了，吃点铝碳酸镁或者硬撑吧，记得多喝水，抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081811403078533342].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081811403078533342",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081811403078533342"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2081811403078533342",
+        "created_at": "2026-07-27T18:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081816826414342380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "youhappynohappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081816826414342380",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081811403078533342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youhappynohappy 我刚开始吃也这样😢过段时间就没事了，吃点铝碳酸镁或者硬撑吧，记得多喝水，抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1146,
+          "like_count": 7115,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 7412
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "Gå icke ut i gräset med bara fötter;\nmin trädgård är full av skärvor.",
+        "id": "1531874456997863424",
+        "location": "山姆后院",
+        "name": "不开心就不开心呗",
+        "pinned_tweet_id": "2066539043698192678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045177151373377536/WYIiopRu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 184,
+          "like_count": 15175,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "youhappynohappy",
+        "verified": false
+      }
+    ]
+  }
+}

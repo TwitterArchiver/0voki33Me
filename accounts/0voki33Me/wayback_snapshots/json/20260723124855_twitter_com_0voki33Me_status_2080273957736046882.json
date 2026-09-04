@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2080266315663601786",
+    "created_at": "2026-07-23T12:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080273957736046882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080273957736046882",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080266315663601786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 太艺术了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080266275205287936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9PWEAAv7XN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080266275201187840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9OXgAA5ZZQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080266275205316608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9PWgAA_4AC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080266275209551872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9QXIAAdojj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2080266315663601786",
+        "created_at": "2026-07-23T12:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080273957736046882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080273957736046882",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080266315663601786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 太艺术了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080266275205287936",
+            "3_2080266275201187840",
+            "3_2080266275205316608",
+            "3_2080266275209551872"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "2080266315663601786",
+        "created_at": "2026-07-23T12:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080266315663601786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275205287936",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            },
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275201187840",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            },
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275205316608",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            },
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275209551872",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080266315663601786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不过我要先发点照片。我将多多使用面部油彩，好东西呀 https://t.co/qJxZvHzhfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 1153,
+          "like_count": 7062,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 7341
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "一个幸福的旋转的白痴神棍",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "2071318336601030813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 163,
+          "like_count": 3407,
+          "listed_count": 3,
+          "media_count": 748,
+          "tweet_count": 4523
+        },
+        "url": "",
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}
