@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100246005673492480"
+      ],
+      "media_source_tweet_id": [
+        "2100246030428377233"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2100522710162178348",
+    "created_at": "2026-09-17T09:50:14.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100522710162178348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038522500452122624",
+          "start": 3,
+          "username": "Goumier45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A4JeHn1JeP",
+          "end": 57,
+          "expanded_url": "https://x.com/Goumier45/status/2100246030428377233/video/1",
+          "media_key": "13_2100246005673492480",
+          "start": 34,
+          "url": "https://t.co/A4JeHn1JeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100522710162178348",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2100246005673492480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100246030428377233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goumier45: 王鹤妹看到我龙哥这大鼓包不得羡慕死。 https://t.co/A4JeHn1JeP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5233,
+        "height": 864,
+        "media_key": "13_2100246005673492480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100246005673492480/img/6CFiijSLvmDJVQ6h.jpg",
+        "public_metrics": {
+          "view_count": 75273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100246005673492480/vid/avc1/320x384/if6TU7JLDwZVVn0k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100246005673492480/vid/avc1/480x576/ivQdCymM0USlabiH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100246005673492480/vid/avc1/720x864/4z0lKfDfMAKMimFI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100246005673492480/pl/zeUoePSDNQUFeXPR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100246005673492480"
+          ],
+          "media_source_tweet_id": [
+            "2100246030428377233"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2100522710162178348",
+        "created_at": "2026-09-17T09:50:14.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100522710162178348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038522500452122624",
+              "start": 3,
+              "username": "Goumier45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4JeHn1JeP",
+              "end": 57,
+              "expanded_url": "https://x.com/Goumier45/status/2100246030428377233/video/1",
+              "media_key": "13_2100246005673492480",
+              "start": 34,
+              "url": "https://t.co/A4JeHn1JeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522710162178348",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100246005673492480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100246030428377233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goumier45: 王鹤妹看到我龙哥这大鼓包不得羡慕死。 https://t.co/A4JeHn1JeP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100246005673492480"
+          ]
+        },
+        "author_id": "2038522500452122624",
+        "conversation_id": "2100246030428377233",
+        "created_at": "2026-09-16T15:30:48.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100246030428377233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4JeHn1JeP",
+              "end": 42,
+              "expanded_url": "https://x.com/Goumier45/status/2100246030428377233/video/1",
+              "media_key": "13_2100246005673492480",
+              "start": 19,
+              "url": "https://t.co/A4JeHn1JeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100246030428377233",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100246005673492480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 134993,
+          "like_count": 935,
+          "quote_count": 27,
+          "reply_count": 303,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "王鹤妹看到我龙哥这大鼓包不得羡慕死。 https://t.co/A4JeHn1JeP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2100522710162178348",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1093,
+          "like_count": 7246,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 7683
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T07:44:34.000Z",
+        "description": "三桥渡全肯定\n19｜分享听乙女抓日常｜此账号什么都发话很多｜只回关同坑欢迎互关｜纯代入党｜翻译器使用者｜无声关注抱歉",
+        "id": "2038522500452122624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100512835122159961",
+        "name": "杏",
+        "pinned_tweet_id": "2097962653025194364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038522500452122624/1787662551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100052367685324800/LtI9lkU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 102,
+          "like_count": 1811,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2027
+        },
+        "url": "",
+        "username": "Goumier45",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

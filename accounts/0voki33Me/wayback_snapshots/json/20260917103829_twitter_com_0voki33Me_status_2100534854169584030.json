@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2100189987438571782",
+    "created_at": "2026-09-17T10:38:29.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100534854169584030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100534854169584030",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100189987438571782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 可爱的要命呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100189975237337088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVfp7rboAA-oGD.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2100189987438571782",
+        "created_at": "2026-09-17T10:38:29.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100534854169584030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100534854169584030",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100189987438571782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 可爱的要命呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100189975237337088"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "2100189987438571782",
+        "created_at": "2026-09-16T11:48:07.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100189987438571782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W81yfBujej",
+              "end": 36,
+              "expanded_url": "https://x.com/Dumpling666666/status/2100189987438571782/photo/1",
+              "media_key": "3_2100189975237337088",
+              "start": 13,
+              "url": "https://t.co/W81yfBujej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100189987438571782",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2100189975237337088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 988,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ϟ(๑⚈ ․̫ ⚈๑)⋆ https://t.co/W81yfBujej"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2100534854169584030",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1093,
+          "like_count": 7251,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 7685
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100189987438571782",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "2011424955637043279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979293441294213120/1760735609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332819744530432/rDIIZXv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4098,
+          "following_count": 175,
+          "like_count": 2280,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 866
+        },
+        "url": "",
+        "username": "Dumpling666666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

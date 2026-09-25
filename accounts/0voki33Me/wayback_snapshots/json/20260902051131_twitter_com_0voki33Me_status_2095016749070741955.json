@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2095016749070741955",
+    "created_at": "2026-09-02T05:11:31.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095016749070741955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721626478956142592",
+          "start": 3,
+          "username": "iinsetos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095016749070741955",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094584224527348142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iinsetos: oq fazer quando se esta triste não podendo gastar dinheiro nem mexer no cabelo nem se corta nem se mata nem usa droga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2095016749070741955",
+        "created_at": "2026-09-02T05:11:31.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095016749070741955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721626478956142592",
+              "start": 3,
+              "username": "iinsetos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095016749070741955",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094584224527348142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iinsetos: oq fazer quando se esta triste não podendo gastar dinheiro nem mexer no cabelo nem se corta nem se mata nem usa droga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721626478956142592",
+        "conversation_id": "2094584224527348142",
+        "created_at": "2026-09-01T00:32:49.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094584224527348142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094584224527348142",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 239257,
+          "like_count": 31072,
+          "quote_count": 307,
+          "reply_count": 157,
+          "retweet_count": 7849
+        },
+        "reply_settings": "everyone",
+        "text": "oq fazer quando se esta triste não podendo gastar dinheiro nem mexer no cabelo nem se corta nem se mata nem usa droga"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2095016749070741955",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1098,
+          "like_count": 7215,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 7627
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-06T20:32:16.000Z",
+        "description": "nao tenho nada de interessante",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_unhumann",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_unhumann",
+                "start": 0,
+                "url": "https://t.co/RyHCiyC05T"
+              }
+            ]
+          }
+        },
+        "id": "1721626478956142592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094980195962732744",
+        "name": "besouro mulher",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721626478956142592/1748945678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929844165539479553/tTVeRaa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 360,
+          "like_count": 69408,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 8922
+        },
+        "url": "https://t.co/RyHCiyC05T",
+        "username": "iinsetos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

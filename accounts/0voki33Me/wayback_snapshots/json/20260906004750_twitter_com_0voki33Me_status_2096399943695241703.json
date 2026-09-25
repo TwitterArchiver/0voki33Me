@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2096399943695241703",
+    "created_at": "2026-09-06T00:47:50.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096399943695241703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018742198356131840",
+          "start": 3,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096399943695241703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096293413284901336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilidihv: 择偶标准新加一条：没用过网纱特效的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2096399943695241703",
+        "created_at": "2026-09-06T00:47:50.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096399943695241703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018742198356131840",
+              "start": 3,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096399943695241703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096293413284901336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilidihv: 择偶标准新加一条：没用过网纱特效的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2096293413284901336",
+        "created_at": "2026-09-05T17:44:31.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096293413284901336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096293413284901336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1381,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "择偶标准新加一条：没用过网纱特效的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2096399943695241703",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1100,
+          "like_count": 7219,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 7637
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "地下世界的王",
+        "id": "2018742198356131840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096319972272111638",
+        "name": "宁性恋",
+        "pinned_tweet_id": "2094868885690331531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018742198356131840/1783882215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096273064115699712/Sjg-uV6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 39,
+          "like_count": 4103,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 7154
+        },
+        "url": "",
+        "username": "lilidihv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
