@@ -1,7 +1,7 @@
 {
   "name": "4w4y",
   "username": "@0voki33Me",
-  "bio": "本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://ngl.link/0voki33me",
+  "bio": "只回fo感兴趣的｜备用机@0voki33Me2",
   "location": "im 静 J!!N6",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,18 +10,9 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 36,
-        "start": 25,
+        "end": 23,
+        "start": 12,
         "username": "0voki33Me2"
-      }
-    ],
-    "urls": [
-      {
-        "display_url": "ngl.link/0voki33me",
-        "end": 63,
-        "expanded_url": "https://ngl.link/0voki33me",
-        "start": 40,
-        "url": "https://t.co/khOzoFStIZ"
       }
     ]
   },
