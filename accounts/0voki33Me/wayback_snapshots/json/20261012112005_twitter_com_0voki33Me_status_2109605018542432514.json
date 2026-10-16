@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2109605018542432514",
+    "created_at": "2026-10-12T11:20:05.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T12:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109605018542432514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083858416402079745",
+          "start": 3,
+          "username": "EvansRichter"
+        },
+        {
+          "end": 29,
+          "id": "2047631836864483328",
+          "start": 18,
+          "username": "TwT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109605018542432514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109592479574143083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EvansRichter: @TwT_1Apple 被生物爹妈强制关进精卫了，如果有能帮到的可以试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2109605018542432514",
+        "created_at": "2026-10-12T11:20:05.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T12:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109605018542432514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083858416402079745",
+              "start": 3,
+              "username": "EvansRichter"
+            },
+            {
+              "end": 29,
+              "id": "2047631836864483328",
+              "start": 18,
+              "username": "TwT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109605018542432514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109592479574143083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EvansRichter: @TwT_1Apple 被生物爹妈强制关进精卫了，如果有能帮到的可以试一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083858416402079745",
+        "conversation_id": "2109592479574143083",
+        "created_at": "2026-10-12T10:30:16.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T11:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109592479574143083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TwT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TwT_1Apple/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/TwT_1Apple/status/2109561711691010401",
+              "start": 38,
+              "url": "https://t.co/NqtCnawQxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109592479574143083",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109561711691010401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwT_1Apple 被生物爹妈强制关进精卫了，如果有能帮到的可以试一下 https://t.co/NqtCnawQxO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2109605018542432514",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 1132,
+          "like_count": 7550,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 7654
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "男 19岁\n自由意识共产主义\n马克思主义\nLGBTQ+全友好\n🇵🇸🕊️\nENFP\n欢迎互fo，互fo欢迎扩列",
+        "id": "2083858416402079745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109604558502859086",
+        "name": "穿靴子的猫",
+        "pinned_tweet_id": "2101715146641211874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083858416402079745/1785666289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098376155514724352/Dmxindkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 978,
+          "like_count": 14980,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3670
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.01｜08双相重焦OD｜我老婆@For_cat1102\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "For_cat1102"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple95448",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apple95448",
+                "start": 0,
+                "url": "https://t.co/ParTMpe6eS"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "is_identity_verified": false,
+        "location": "我的心为恐惧和欲望而跳动",
+        "most_recent_tweet_id": "2109586499113300106",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2074059674660266388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047631836864483328/1781007727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 80,
+          "like_count": 789,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/ParTMpe6eS",
+        "username": "TwT_1Apple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

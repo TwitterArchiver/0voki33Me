@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2107882790146675041",
+    "created_at": "2026-10-08T01:57:31.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T02:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108013892828102969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082437931290267648",
+          "start": 0,
+          "username": "Kinzyful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108013892828102969",
+    "in_reply_to_user_id": "2082437931290267648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107976869773770876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinzyful 谢谢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2107882790146675041",
+        "created_at": "2026-10-08T01:57:31.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T02:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108013892828102969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082437931290267648",
+              "start": 0,
+              "username": "Kinzyful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108013892828102969",
+        "in_reply_to_user_id": "2082437931290267648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107976869773770876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinzyful 谢谢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082437931290267648",
+        "conversation_id": "2107882790146675041",
+        "created_at": "2026-10-07T23:30:24.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T00:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107976869773770876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107976869773770876",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107882790146675041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 我会…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2108013892828102969",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1132,
+          "like_count": 7489,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 7613
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:09:04.000Z",
+        "description": "三的十次方分之一概率的相信和爱\n重抑重焦|asd|cptsd|aspd|ed|shed|od|",
+        "id": "2082437931290267648",
+        "is_identity_verified": false,
+        "location": "此处",
+        "most_recent_tweet_id": "2108009916543959156",
+        "name": "mistletoe",
+        "pinned_tweet_id": "2106049099774808174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082437931290267648/1789759124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097645023793926144/vA6HGbc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 147,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 637
+        },
+        "url": "",
+        "username": "Kinzyful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

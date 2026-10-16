@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2108519635746501035",
+    "created_at": "2026-10-09T11:27:11.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108519641069093181"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108519641069093181",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108519635746501035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明父母工作也很辛苦，我为什么要作妖，妈妈一直在找我哭，我好恨自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2108519635746501035",
+        "created_at": "2026-10-09T11:27:11.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108519641069093181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108519641069093181",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108519635746501035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明父母工作也很辛苦，我为什么要作妖，妈妈一直在找我哭，我好恨自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2108519635746501035",
+        "created_at": "2026-10-09T11:27:10.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108519635746501035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108519635746501035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底想回到什么时候，什么时候又是幸福的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2108519641069093181",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 1133,
+          "like_count": 7527,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 7642
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

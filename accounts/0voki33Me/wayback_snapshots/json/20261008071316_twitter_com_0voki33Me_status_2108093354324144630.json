@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2108093354324144630",
+    "created_at": "2026-10-08T07:13:16.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T08:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108093354324144630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071862228136173568",
+          "start": 3,
+          "username": "ctxha666"
+        },
+        {
+          "end": 24,
+          "id": "1641968587102621696",
+          "start": 14,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108093354324144630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108091359735505055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ctxha666: @0voki33Me 一家子都爱自残不赖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2108093354324144630",
+        "created_at": "2026-10-08T07:13:16.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108093354324144630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071862228136173568",
+              "start": 3,
+              "username": "ctxha666"
+            },
+            {
+              "end": 24,
+              "id": "1641968587102621696",
+              "start": 14,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108093354324144630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108091359735505055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ctxha666: @0voki33Me 一家子都爱自残不赖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071862228136173568",
+        "conversation_id": "2107880936000082357",
+        "created_at": "2026-10-08T07:05:21.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108091359735505055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108091359735505055",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107880936000082357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 一家子都爱自残不赖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2108093354324144630",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 1134,
+          "like_count": 7502,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 7624
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T07:44:21.000Z",
+        "description": "",
+        "id": "2071862228136173568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108092793193435313",
+        "name": "宝皮",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071862596077027328/ZtTub9PA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 66,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "ctxha666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

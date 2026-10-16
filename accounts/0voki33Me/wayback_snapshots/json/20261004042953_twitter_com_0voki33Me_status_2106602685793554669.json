@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2106413928096120947",
+    "created_at": "2026-10-04T04:29:53.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106602685793554669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1217855766167556096",
+          "start": 0,
+          "username": "SummerTwT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106602685793554669",
+    "in_reply_to_user_id": "1217855766167556096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106590588552519881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SummerTwT9 圣遗物"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2106590588552519881].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2106590588552519881",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2106590588552519881"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2106413928096120947",
+        "created_at": "2026-10-04T04:29:53.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106602685793554669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1217855766167556096",
+              "start": 0,
+              "username": "SummerTwT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106602685793554669",
+        "in_reply_to_user_id": "1217855766167556096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106590588552519881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummerTwT9 圣遗物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2106602685793554669",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1124,
+          "like_count": 7407,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 7558
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-16T17:07:03.000Z",
+        "description": "于风雨之中绽放的蓝蔷薇\n無休止直至死去\n因为你太柔软@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1217855766167556096",
+        "is_identity_verified": false,
+        "location": "地靈殿",
+        "most_recent_tweet_id": "2101445868193026116",
+        "name": "村雨",
+        "pinned_tweet_id": "2043958461323698567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1217855766167556096/1776821850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099125169323446272/eOB5UaMM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 134,
+          "like_count": 264,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "SummerTwT9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

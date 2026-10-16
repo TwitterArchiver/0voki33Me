@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2107695228174086191",
+    "created_at": "2026-10-07T09:56:09.000Z",
+    "display_text_range": [
+      16,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T10:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107771955957158379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891848716023422976",
+          "start": 0,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107771955957158379",
+    "in_reply_to_user_id": "1891848716023422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107768225677373446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AORINGO_nemuru 我也觉得。。因为我吞了很多种其中有可待因的药物😵‍💫"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107768225677373446].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107768225677373446",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107768225677373446"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2107695228174086191",
+        "created_at": "2026-10-07T09:56:09.000Z",
+        "display_text_range": [
+          16,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107771955957158379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891848716023422976",
+              "start": 0,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107771955957158379",
+        "in_reply_to_user_id": "1891848716023422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107768225677373446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AORINGO_nemuru 我也觉得。。因为我吞了很多种其中有可待因的药物😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2107771955957158379",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1132,
+          "like_count": 7469,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 7584
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "欲望,暴力,自由",
+        "id": "1891848716023422976",
+        "is_identity_verified": false,
+        "location": "🚪50/88",
+        "most_recent_tweet_id": "2107150358523089406",
+        "name": "青林檎",
+        "pinned_tweet_id": "2001999995273376236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891848716023422976/1745429351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 248,
+          "like_count": 16546,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "AORINGO_nemuru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2104223600815509565",
+    "created_at": "2026-09-27T14:56:18.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104223611846590937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104223611846590937",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104223605878133133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "好讨厌她看到她的每一秒我都想杀了自己看到她我就不知道我到底为什么要活着我真的好恨他，但是我不知道究竟为什么我这么讨厌她看到她我想杀死的是我自己看到她我就好想自杀我好讨厌她能不能让我离开他能不能滚开啊我真的好崩溃我他妈的我一直在偷偷的哭我真的不想再看见他一秒了好恶心贱人去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2104223600815509565",
+        "created_at": "2026-09-27T14:56:18.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104223611846590937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104223611846590937",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104223605878133133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "好讨厌她看到她的每一秒我都想杀了自己看到她我就不知道我到底为什么要活着我真的好恨他，但是我不知道究竟为什么我这么讨厌她看到她我想杀死的是我自己看到她我就好想自杀我好讨厌她能不能让我离开他能不能滚开啊我真的好崩溃我他妈的我一直在偷偷的哭我真的不想再看见他一秒了好恶心贱人去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2104223600815509565",
+        "created_at": "2026-09-27T14:56:16.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104223605878133133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104223605878133133",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104223600815509565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "也是另一种痛苦我好恨他我不知道为什么我求你了离开我的生活吧我爸妈本来说好让我走读都要办手续了临时又改口我现在每天都要遇见她和她待在一起我真的好痛苦我真的好讨厌她我好他妈好他妈的恨他我真的受不了了我受不了了我又要被她逼疯了能不能让我逃走为什么你们根本就没办法理解我有多讨厌她我真的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2104223611846590937",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1110,
+          "like_count": 7372,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 7536
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

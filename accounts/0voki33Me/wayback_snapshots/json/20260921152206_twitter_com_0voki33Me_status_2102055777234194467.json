@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2102055777234194467",
+    "created_at": "2026-09-21T15:22:06.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102055777234194467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661470603814092800",
+          "start": 3,
+          "username": "twinkytuff"
+        },
+        {
+          "end": 31,
+          "id": "2040267988004126720",
+          "start": 16,
+          "username": "cupids_archive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102055777234194467",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101876555639132495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twinkytuff: @cupids_archive masturbating while depressed feels like necrophilia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2102055777234194467",
+        "created_at": "2026-09-21T15:22:06.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102055777234194467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661470603814092800",
+              "start": 3,
+              "username": "twinkytuff"
+            },
+            {
+              "end": 31,
+              "id": "2040267988004126720",
+              "start": 16,
+              "username": "cupids_archive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102055777234194467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101876555639132495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twinkytuff: @cupids_archive masturbating while depressed feels like necrophilia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661470603814092800",
+        "conversation_id": "2101740586533294543",
+        "created_at": "2026-09-21T03:29:56.000Z",
+        "display_text_range": [
+          16,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101876555639132495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040267988004126720",
+              "start": 0,
+              "username": "cupids_archive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101876555639132495",
+        "in_reply_to_user_id": "2040267988004126720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17727,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101740586533294543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupids_archive masturbating while depressed feels like necrophilia"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2102055777234194467",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1110,
+          "like_count": 7291,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 7496
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-24T20:34:07.000Z",
+        "description": "ig: twinkytuff",
+        "id": "1661470603814092800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102036852907581457",
+        "name": "twinkytuff",
+        "pinned_tweet_id": "2056866801951133785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661470603814092800/1779154091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101363591869841408/E5lPJ5uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 40,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "twinkytuff",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T03:19:39.000Z",
+        "description": "let's get high off cd dust and listen to radio static",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cupids-archive.straw.page",
+                "end": 23,
+                "expanded_url": "https://cupids-archive.straw.page",
+                "start": 0,
+                "url": "https://t.co/i1ix9fmJ1r"
+              }
+            ]
+          }
+        },
+        "id": "2040267988004126720",
+        "is_identity_verified": false,
+        "location": "Windows 98",
+        "most_recent_tweet_id": "2101998413424300060",
+        "name": "Kris Valentine",
+        "pinned_tweet_id": "2073243175783637437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040267988004126720/1777248575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048555185535070208/LK_4eDTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 292,
+          "like_count": 3586,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/i1ix9fmJ1r",
+        "username": "cupids_archive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

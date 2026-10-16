@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106339008942948352"
+      ],
+      "media_source_tweet_id": [
+        "2106339031944437891"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2108413264279588900",
+    "created_at": "2026-10-09T04:24:29.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T05:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108413264279588900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "992854334",
+          "start": 3,
+          "username": "Okay_Bye___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXrzSI0oNT",
+          "end": 77,
+          "expanded_url": "https://x.com/vilanelle_/status/2106339031944437891/video/1",
+          "media_key": "13_2106339008942948352",
+          "start": 54,
+          "url": "https://t.co/CXrzSI0oNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108413264279588900",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2106339008942948352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15868
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108133661296255342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Okay_Bye___: Me 10mins after body shaming myself  https://t.co/CXrzSI0oNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15018,
+        "height": 720,
+        "media_key": "13_2106339008942948352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106339008942948352/img/39cbCD8MXf3d41mv.jpg",
+        "public_metrics": {
+          "view_count": 1003726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106339008942948352/vid/avc1/480x270/aTWDRTjyHbQ_RMGk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106339008942948352/vid/avc1/640x360/HRPVOtT50Gn8nxbm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106339008942948352/vid/avc1/1280x720/tgPK0mNwR9ydK5ze.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106339008942948352/pl/WewXO2jbH_c76XWO.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106339008942948352"
+          ],
+          "media_source_tweet_id": [
+            "2106339031944437891"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2108413264279588900",
+        "created_at": "2026-10-09T04:24:29.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108413264279588900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "992854334",
+              "start": 3,
+              "username": "Okay_Bye___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXrzSI0oNT",
+              "end": 77,
+              "expanded_url": "https://x.com/vilanelle_/status/2106339031944437891/video/1",
+              "media_key": "13_2106339008942948352",
+              "start": 54,
+              "url": "https://t.co/CXrzSI0oNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108413264279588900",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106339008942948352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15868
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108133661296255342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Okay_Bye___: Me 10mins after body shaming myself  https://t.co/CXrzSI0oNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106339008942948352"
+          ],
+          "media_source_tweet_id": [
+            "2106339031944437891"
+          ]
+        },
+        "author_id": "992854334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2108133661296255342",
+        "created_at": "2026-10-08T09:53:26.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108133661296255342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXrzSI0oNT",
+              "end": 60,
+              "expanded_url": "https://x.com/vilanelle_/status/2106339031944437891/video/1",
+              "media_key": "13_2106339008942948352",
+              "start": 37,
+              "url": "https://t.co/CXrzSI0oNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108133661296255342",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106339008942948352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2007,
+          "impression_count": 1009353,
+          "like_count": 74108,
+          "quote_count": 460,
+          "reply_count": 79,
+          "retweet_count": 15868
+        },
+        "reply_settings": "everyone",
+        "text": "Me 10mins after body shaming myself  https://t.co/CXrzSI0oNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106339008942948352"
+          ]
+        },
+        "author_id": "1674908060018434056",
+        "conversation_id": "2106339031944437891",
+        "created_at": "2026-10-03T11:02:13.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106339031944437891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UipyDQNiy",
+              "end": 98,
+              "expanded_url": "https://x.com/vilanelle_/status/2106339031944437891/video/1",
+              "media_key": "13_2106339008942948352",
+              "start": 75,
+              "url": "https://t.co/2UipyDQNiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106339031944437891",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2106339008942948352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1229,
+          "impression_count": 2190711,
+          "like_count": 35940,
+          "quote_count": 177,
+          "reply_count": 58,
+          "retweet_count": 2601
+        },
+        "reply_settings": "everyone",
+        "text": "regl döneminde gözüme her şey 0 kalori gözüktüğü için bizim iştah açıklığı https://t.co/2UipyDQNiy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2108413264279588900",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1134,
+          "like_count": 7528,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 7640
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-06T11:07:35.000Z",
+        "description": "a life unendurable but it was endured. 🪬⋆˚₊ 𖤓☽˚.⋆🪬",
+        "id": "992854334",
+        "is_identity_verified": false,
+        "location": "🌍",
+        "most_recent_tweet_id": "2108165484160192903",
+        "name": "cнєєкυ⋆｡🪐˚ ⋆",
+        "pinned_tweet_id": "2077119999123300497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/992854334/1758710965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101797365246242816/0ym2dYno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23141,
+          "following_count": 350,
+          "like_count": 165014,
+          "listed_count": 59,
+          "media_count": 20493,
+          "tweet_count": 194428
+        },
+        "url": "",
+        "username": "Okay_Bye___",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

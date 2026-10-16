@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103774375581491200"
+      ],
+      "media_source_tweet_id": [
+        "2103774381717745894"
+      ]
+    },
+    "author_id": "1641968587102621696",
+    "conversation_id": "2103861020708237331",
+    "created_at": "2026-09-26T14:55:29.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103861020708237331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490215325786578947",
+          "start": 3,
+          "username": "Roshi_2828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p14q0P1Bmo",
+          "end": 39,
+          "expanded_url": "https://x.com/Roshi_2828/status/2103774381717745894/photo/1",
+          "media_key": "3_2103774375581491200",
+          "start": 16,
+          "url": "https://t.co/p14q0P1Bmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103861020708237331",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2103774375581491200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103774381717745894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Roshi_2828: https://t.co/p14q0P1Bmo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3949,
+        "media_key": "3_2103774375581491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIbpfgaoAA2zRF.jpg",
+        "width": 2886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103774375581491200"
+          ],
+          "media_source_tweet_id": [
+            "2103774381717745894"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2103861020708237331",
+        "created_at": "2026-09-26T14:55:29.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103861020708237331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490215325786578947",
+              "start": 3,
+              "username": "Roshi_2828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p14q0P1Bmo",
+              "end": 39,
+              "expanded_url": "https://x.com/Roshi_2828/status/2103774381717745894/photo/1",
+              "media_key": "3_2103774375581491200",
+              "start": 16,
+              "url": "https://t.co/p14q0P1Bmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103861020708237331",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103774375581491200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103774381717745894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Roshi_2828: https://t.co/p14q0P1Bmo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103774375581491200"
+          ]
+        },
+        "author_id": "1490215325786578947",
+        "conversation_id": "2103774381717745894",
+        "created_at": "2026-09-26T09:11:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103774381717745894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p14q0P1Bmo",
+              "end": 23,
+              "expanded_url": "https://x.com/Roshi_2828/status/2103774381717745894/photo/1",
+              "media_key": "3_2103774375581491200",
+              "start": 0,
+              "url": "https://t.co/p14q0P1Bmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103774381717745894",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103774375581491200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 3981,
+          "like_count": 501,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p14q0P1Bmo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2103861020708237331",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1111,
+          "like_count": 7351,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 7527
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-06T06:46:52.000Z",
+        "description": "絵を描いています！\nBOOTH▶https://t.co/swayAoK3ub\nskeb▶︎https://t.co/CBnXTwVE3q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "roshiworks.booth.pm",
+                "end": 39,
+                "expanded_url": "https://roshiworks.booth.pm/",
+                "start": 16,
+                "url": "https://t.co/swayAoK3ub"
+              },
+              {
+                "display_url": "skeb.jp/@Roshi_2828",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@Roshi_2828",
+                "start": 46,
+                "url": "https://t.co/CBnXTwVE3q"
+              }
+            ]
+          }
+        },
+        "id": "1490215325786578947",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103792554269696153",
+        "name": "宗像サジ",
+        "pinned_tweet_id": "2049066307786875038",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490215325786578947/1766881512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884270688506372097/F8ppYR9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 875,
+          "like_count": 56619,
+          "listed_count": 31,
+          "media_count": 217,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "Roshi_2828",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

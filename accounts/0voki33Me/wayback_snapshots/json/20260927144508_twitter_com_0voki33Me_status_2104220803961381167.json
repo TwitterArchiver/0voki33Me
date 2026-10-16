@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2104220803961381167",
+    "created_at": "2026-09-27T14:45:08.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104220803961381167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2091219590038843392",
+          "start": 3,
+          "username": "saturnine357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104220803961381167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103821960409190441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saturnine357: 我真觉得除了约炮和约素觉以外人类还应该发明出一个约抱，哪怕只是约在下班后的公园长椅上彼此靠一会儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2104220803961381167",
+        "created_at": "2026-09-27T14:45:08.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104220803961381167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2091219590038843392",
+              "start": 3,
+              "username": "saturnine357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104220803961381167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103821960409190441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saturnine357: 我真觉得除了约炮和约素觉以外人类还应该发明出一个约抱，哪怕只是约在下班后的公园长椅上彼此靠一会儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091219590038843392",
+        "conversation_id": "2103821960409190441",
+        "created_at": "2026-09-26T12:20:17.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103821960409190441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103821960409190441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 180359,
+          "like_count": 3576,
+          "quote_count": 46,
+          "reply_count": 373,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得除了约炮和约素觉以外人类还应该发明出一个约抱，哪怕只是约在下班后的公园长椅上彼此靠一会儿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2104220803961381167",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1110,
+          "like_count": 7371,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 7533
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T17:45:10.000Z",
+        "description": "文字自留地 梦到什么说什么 📭https://t.co/qi8xbvFhI3\n无🚪 不加其他联系方式  私信总被吞随缘回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sture13431",
+                "end": 38,
+                "expanded_url": "https://ngl.link/sture13431",
+                "start": 15,
+                "url": "https://t.co/qi8xbvFhI3"
+              }
+            ]
+          }
+        },
+        "id": "2091219590038843392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104199613196709926",
+        "name": "Cynin因因",
+        "pinned_tweet_id": "2099812599970029838",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097721409149792256/_AKceo2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 24,
+          "like_count": 1385,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "saturnine357",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

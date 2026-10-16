@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2106410913607926246",
+    "created_at": "2026-10-03T15:47:51.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106410913607926246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2106247877374689689",
+          "start": 8,
+          "url": "https://t.co/N8Ouhrq56G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106410913607926246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106247877374689689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈要笑死了 https://t.co/N8Ouhrq56G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2105997411571105792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToBfN6WgAA7hy6.jpg",
+        "width": 538
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2105997411583660032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToBfN9WEAAggQH.jpg",
+        "width": 765
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2105997411566944256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToBfN5XAAAknU_.jpg",
+        "width": 1200
+      },
+      {
+        "duration_ms": 7128,
+        "height": 406,
+        "media_key": "13_2105997411608862720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105997411608862720/img/uUn9LXpFBSTYMNZw.jpg",
+        "public_metrics": {
+          "view_count": 32991
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105997411608862720/vid/avc1/478x270/m4n2lcyumeQ2zcK7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105997411608862720/vid/avc1/720x406/VFRGdrpRRykPov_c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105997411608862720/pl/oY-TDYTPMTyolR3H.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2106410913607926246",
+        "created_at": "2026-10-03T15:47:51.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106410913607926246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2106247877374689689",
+              "start": 8,
+              "url": "https://t.co/N8Ouhrq56G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106410913607926246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106247877374689689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈要笑死了 https://t.co/N8Ouhrq56G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105997411571105792",
+            "3_2105997411583660032",
+            "3_2105997411566944256",
+            "13_2105997411608862720"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2106247877374689689",
+        "created_at": "2026-10-03T05:00:00.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106247877374689689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRnYMmoqkc",
+              "end": 155,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2106247877374689689/video/1",
+              "media_key": "3_2105997411571105792",
+              "start": 132,
+              "url": "https://t.co/VRnYMmoqkc"
+            },
+            {
+              "display_url": "pic.x.com/VRnYMmoqkc",
+              "end": 155,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2106247877374689689/video/1",
+              "media_key": "3_2105997411583660032",
+              "start": 132,
+              "url": "https://t.co/VRnYMmoqkc"
+            },
+            {
+              "display_url": "pic.x.com/VRnYMmoqkc",
+              "end": 155,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2106247877374689689/video/1",
+              "media_key": "3_2105997411566944256",
+              "start": 132,
+              "url": "https://t.co/VRnYMmoqkc"
+            },
+            {
+              "display_url": "pic.x.com/VRnYMmoqkc",
+              "end": 155,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2106247877374689689/video/1",
+              "media_key": "13_2105997411608862720",
+              "start": 132,
+              "url": "https://t.co/VRnYMmoqkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106247877374689689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105997411571105792"
+          },
+          {
+            "media_key": "3_2105997411583660032"
+          },
+          {
+            "media_key": "3_2105997411566944256"
+          },
+          {
+            "media_key": "13_2105997411608862720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“根正苗红”变“影射8964”\n\n10月1日国庆节期间，“TF家族”练习生杨博文发布夜骑北京天安门的视频，被粉丝称赞“根正苗红”“正能量”。 粉丝会员专区账号“木易北北”转发杨博文的夜骑视频，但不久即被删除，粉丝感到疑惑不解。有网友在评论区回复：“他骑自行车。”\n\n有网友猜想，是因为“骑自行车去天安门”这一场景，会让人联想到曾出现在1989年六四学潮期间的一段著名影像：一名青年骑自行车前往天安门广场。面对记者询问为何前往，他回答：“It’s my duty”（这是我的责任）。\n\n有网友评论：想象一下你是爱国青年杨博文，国庆假期打算彰显一下爱国情怀，顺带给粉丝营业。于是你抱着颗粉红的心去了天安门夜骑，结果这条“高会”不知道什么原因被删了，你百思不得其解，多方打听下你了解到了8964。\n\n* “高会”粉丝指艺人官方粉丝俱乐部或相关平台中付费等级较高、具有特殊权限的会员。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 261441,
+          "like_count": 1379,
+          "quote_count": 28,
+          "reply_count": 116,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "“根正苗红”变“影射8964”\n\n10月1日国庆节期间，“TF家族”练习生杨博文发布夜骑北京天安门的视频，被粉丝称赞“根正苗红”“正能量”。 粉丝会员专区账号“木易北北”转发杨博文的夜骑视频，但不久即被删除，粉丝感到疑惑不解。有网友在评论区回复：“他骑自行车。” https://t.co/VRnYMmoqkc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2106410913607926246",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1114,
+          "like_count": 7380,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 7546
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2106406419696324656",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268754,
+          "following_count": 1084,
+          "like_count": 10559,
+          "listed_count": 8911,
+          "media_count": 54616,
+          "tweet_count": 61973
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

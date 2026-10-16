@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2107700000742608951",
+    "created_at": "2026-10-07T09:57:55.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T10:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107772402142986304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1076746882494263297",
+          "start": 0,
+          "username": "jiejinghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107772402142986304",
+    "in_reply_to_user_id": "1076746882494263297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107700000742608951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejinghua 说出来自己笑没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2107700000742608951",
+        "created_at": "2026-10-07T09:57:55.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107772402142986304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1076746882494263297",
+              "start": 0,
+              "username": "jiejinghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107772402142986304",
+        "in_reply_to_user_id": "1076746882494263297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107700000742608951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejinghua 说出来自己笑没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2107700000742608951",
+        "created_at": "2026-10-07T05:10:14.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:09:54.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107699920874693029",
+          "2107699965632168109",
+          "2107700000742608951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107700000742608951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1711,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有没有发现\n\nOD的一般都是 药理学博士、熟读CYP450、半夜三点还在算半衰期的民间科研人员\n劝别O的一般都是 连说明书都没看完、满口多喝热水早点睡的健全人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "可以叫我静",
+        "most_recent_tweet_id": "2107772402142986304",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1132,
+          "like_count": 7471,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 7586
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "欢迎互fo，小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。端到端加密。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107762325768089603",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2104556680969384065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 252,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

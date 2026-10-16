@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1641968587102621696",
+    "conversation_id": "2106306439715463422",
+    "created_at": "2026-10-03T15:37:37.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106408338825322889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672906205826543617",
+          "start": 0,
+          "username": "baixing0712"
+        },
+        {
+          "end": 28,
+          "id": "2059149411007991808",
+          "start": 13,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106408338825322889",
+    "in_reply_to_user_id": "1672906205826543617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106397811554287845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baixing0712 @wndsfefoumxlw6 这条有参考文献的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2106306439715463422",
+        "created_at": "2026-10-03T15:37:37.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106408338825322889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672906205826543617",
+              "start": 0,
+              "username": "baixing0712"
+            },
+            {
+              "end": 28,
+              "id": "2059149411007991808",
+              "start": 13,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106408338825322889",
+        "in_reply_to_user_id": "1672906205826543617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106397811554287845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baixing0712 @wndsfefoumxlw6 这条有参考文献的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672906205826543617",
+        "conversation_id": "2106306439715463422",
+        "created_at": "2026-10-03T14:55:47.000Z",
+        "display_text_range": [
+          16,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106397811554287845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106397811554287845",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106306439715463422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 谁是为了钓鱼。。我只是来发泄我自己的情绪顺带看其他人在痛苦的时候怎么办而已。。神人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2106408338825322889",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1114,
+          "like_count": 7367,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 7544
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T09:55:03.000Z",
+        "description": "",
+        "id": "1672906205826543617",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106398670476460145",
+        "name": "我与你在同一片青空之下了吗",
+        "pinned_tweet_id": "2089645915758108848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672906205826543617/1766690967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106116794956320768/gvZzJlLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "baixing0712",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/寻找人生的意义中……\nrc：@FffffNnnnnYyyyy\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "FffffNnnnnYyyyy"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 62,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106407235811426641",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 345,
+          "like_count": 8967,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 4200
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
